@@ -5,10 +5,13 @@ Other times, it seems you write and write, and the only thing that increases is 
 
 _Skilled reflection_ is an attempt to concentrate this process, and increase the benefit in your life.
 
+Maybe the most important place to start is with the big picture.
+
 ## you in 250
 
 If you were suddenly comatose, what is it you would need your closest people to know? 
-[read more...](self250.md)
+
+[[read more...]]()
 
 ## skilled reflection club
 
