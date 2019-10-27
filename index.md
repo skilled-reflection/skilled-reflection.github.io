@@ -8,7 +8,7 @@ _Skilled reflection_ is an attempt to concentrate this process, and increase the
 ## you in 250
 
 If you were suddenly comatose, what is it you would need your closest people to know? 
-[[read more...]](self250)
+[read more...](self250.md)
 
 ## skilled reflection club
 
