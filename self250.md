@@ -1,12 +1,10 @@
 # document 1: you in 250
 ## is your life guided by you?
-If you were suddenly comatose, what is it you would need your closest people to know? 
+Are you aware of who you are? What you stand for? If you were suddenly comatose, what is it you would need your closest people to know? 
 
-In your most intimate relationship, how clear is the line between you and other? How good are you at seeing this line, and relying on it in a way that benefits the relationship, rather than bruise it with defensive words?
+In your most intimate relationship, how clear is the line between you--your intrinsic values-- and the other person? When life puts you and this person in conflict, are you able to find this line, and use it to help, rather than hurt the relationship?
 
-Are you really that confident that every choice you make is the precise balance of effort and acceptance, tuned to what you, yourself define as important, real, and possible? 
-
-Whether you are or aren't, it'd be good to try to prove it.
+Whether your self is absolutely clear or not, it'd be good to take stock.
 
 You need 20 minutes, and 250 words. Attempt to write down what you think is your essential self. That means whatever it needs to mean for you. It's not a philosophy prompt. It's a literal, concrete question-mark in front of your conscious self. Who are you? What do you do? Where do you come from? What matters?
 
