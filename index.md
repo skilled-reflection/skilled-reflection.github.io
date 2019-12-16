@@ -8,12 +8,12 @@ _Skilled reflection_ is an attempt to concentrate the benefit of reflecting on y
 ## you in 250
 Need an example? Maybe the most important place to start is with the big picture. If you were suddenly comatose, what is it you would need your closest people to know? 
 
-[[how to do your first skilled reflection]](self250.md)
+[how to do your first skilled reflection](self250.md)
 
 
 ## skilled reflection club
 
-Skilled Reflection is a brand new [[Official Student Organization]](https://win.wisc.edu/organization/skilledreflection)
+Skilled Reflection is a brand new [Official Student Organization](https://win.wisc.edu/organization/skilledreflection)
 at the University of Wisconsin-Madison.
 
 Stay tuned for updates and information sessions by reaching out to
