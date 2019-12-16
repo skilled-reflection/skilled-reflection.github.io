@@ -11,7 +11,7 @@ Maybe the most important place to start is with the big picture.
 
 If you were suddenly comatose, what is it you would need your closest people to know? 
 
-[[read more...]]()
+[[read more...]](self250.md)
 
 ## skilled reflection club
 
