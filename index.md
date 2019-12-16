@@ -3,24 +3,23 @@ You've had some feelings you kept to yourself. Maybe wrote them down, and someti
 
 Other times, it seems you write and write, and the only thing that increases is disappointment and resentment.
 
-_Skilled reflection_ is an attempt to concentrate this process, and increase the benefit in your life.
-
-Maybe the most important place to start is with the big picture.
+_Skilled reflection_ is an attempt to concentrate the benefit of reflecting on your life.
 
 ## you in 250
+Need an example? Maybe the most important place to start is with the big picture. If you were suddenly comatose, what is it you would need your closest people to know? 
 
-If you were suddenly comatose, what is it you would need your closest people to know? 
+[[how to do your first skilled reflection]](self250.md)
 
-[[read more...]](self250.md)
 
 ## skilled reflection club
 
-Skilled Reflection is a brand new Official Student Organization
+Skilled Reflection is a brand new [[Official Student Organization]](https://win.wisc.edu/organization/skilledreflection)
 at the University of Wisconsin-Madison.
 
 Stay tuned for updates and information sessions by reaching out to
 skilledreflection at gmail dot com
 with "Keep me posted" in the subject line.
+
 
 ### Brogden B18, Fri Oct 25, 3-4 PM
 *First session!*
