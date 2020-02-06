@@ -16,7 +16,8 @@ Need an example? Maybe the most important place to start is with the big picture
 Skilled Reflection is a brand new [Official Student Organization](https://win.wisc.edu/organization/skilledreflection)
 at the University of Wisconsin-Madison.
 
-Stay tuned for updates and information sessions by reaching out to
+Check us out at the [**Student Organization Fair**](https://cfli.wisc.edu/attending-the-student-organization-fair/) 5 PM Feb 11th at the Kohl Center!
+
 skilledreflection at gmail dot com
 with "Keep me posted" in the subject line.
 
