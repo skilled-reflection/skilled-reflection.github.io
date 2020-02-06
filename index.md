@@ -13,14 +13,14 @@ Need an example? Maybe the most important place to start is with the big picture
 
 ## about 
 
-[Skilled Reflection](https://win.wisc.edu/organization/skilledreflection) is a Student Organization at the University of Wisconsin-Madison.
+[Skilled Reflection](https://win.wisc.edu/organization/skilledreflection) is a Student Organization at the University of Wisconsin-Madison. Check us out at the [**Student Organization Fair**](https://cfli.wisc.edu/attending-the-student-organization-fair/) 5 PM Feb 11th at the Kohl Center!
 
-Check us out at the [**Student Organization Fair**](https://cfli.wisc.edu/attending-the-student-organization-fair/) 5 PM Feb 11th at the Kohl Center!
-
-skilledreflection at gmail dot com
-with "Keep me posted" in the subject line.
-
+Contact: 
+skilledreflection at gmail dot com  
 Instagram: [@skilledreflection](https://www.instagram.com/skilledreflection/)
+
+### Spring 2020 sessions
+We're tentatively meeting 4-5 PM Tuesdays, location TBD. Follow or message us to stay updated.
 
 ### Brogden B18, Fri Oct 25 2019, 3-4 PM
 *First session!*
