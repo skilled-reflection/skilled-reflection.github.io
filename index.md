@@ -11,18 +11,18 @@ Need an example? Maybe the most important place to start is with the big picture
 [how to do your first skilled reflection](self250.md)
 
 
-## skilled reflection club
+## about 
 
-Skilled Reflection is a brand new [Official Student Organization](https://win.wisc.edu/organization/skilledreflection)
-at the University of Wisconsin-Madison.
+[Skilled Reflection](https://win.wisc.edu/organization/skilledreflection) is a Student Organization at the University of Wisconsin-Madison.
 
 Check us out at the [**Student Organization Fair**](https://cfli.wisc.edu/attending-the-student-organization-fair/) 5 PM Feb 11th at the Kohl Center!
 
 skilledreflection at gmail dot com
 with "Keep me posted" in the subject line.
 
+Instagram: [@skilledreflection](https://www.instagram.com/skilledreflection/)
 
-### Brogden B18, Fri Oct 25, 3-4 PM
+### Brogden B18, Fri Oct 25 2019, 3-4 PM
 *First session!*
 
 Halloween is a socially accepted time to alter some of your identity and behavior. But outside of the freaky fun, I often catch myself playing dress-up and acting out of my own 'norms'. Sometimes I'm like, "Aw hey, that's not me." Or, "Aw shucks, why can't I be like that some more?" But if I don't stop for some 'aw hey...' time, I find myself stressed out and my shirt on backwards. ("Aw hey, Mark, TMI.") Before you put on costumes for play this Halloween, join us tomorrow for some Skilled Reflection with a little who-n-how-am-i-these-days. 
