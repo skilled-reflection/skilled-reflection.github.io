@@ -6,7 +6,7 @@ We meet up to once a week to write privately for about an hour. We provide promp
 
 ## Spring 2020 sessions
 
-First session is 4-5 PM on Tuesday February 18th at Memorial library, room M179. Send us a message if Tuesdays don't work.
+First session is **4-5 PM on Tuesday February 18th** at **Memorial library, room M179**. Send us a message if Tuesdays don't work.
 
 *Note: Our by-laws describe a membership process that is currently not required to attend. We're in the process of re-evaluating it.*
 
