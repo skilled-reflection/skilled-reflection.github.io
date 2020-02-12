@@ -6,14 +6,15 @@ We meet up to once a week to write privately for about an hour. We provide promp
 
 ## Spring 2020 sessions
 
-First session is **4-5 PM on Tuesday February 18th** at **Memorial library, room M179**. Send us a message if Tuesdays don't work.
+First session:
+
+**4-5 PM on Tuesday February 18th**   
+at **Memorial library, room M179**.
+
 
 Is there a time of the week that works better for you? Fill out [this survey](https://www.when2meet.com/?8746417-KjJ6N) (name optional) with your preference! 
 
-We also may experiment with posting prompts for you to complete on your own time.
-
-*Note: Our by-laws describe a membership process that is currently not required to attend. We're in the process of re-evaluating it.*
-
+*Note: Our by-laws describe a new-join process, but it isn't required to attend.*
 
 ## [you in 250](self250.md)
 What are the 250 words that provide the best description of you? 
