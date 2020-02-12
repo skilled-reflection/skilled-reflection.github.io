@@ -17,7 +17,7 @@ What are the 250 words that provide the best description of you?
 [how to do your first skilled reflection](self250.md)
 
 
-## about 
+## Contact 
 
 [Skilled Reflection](https://win.wisc.edu/organization/skilledreflection) is a Student Organization at the University of Wisconsin-Madison.
 
