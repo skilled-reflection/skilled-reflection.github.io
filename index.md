@@ -11,7 +11,7 @@ First session is **4-5 PM on Tuesday February 18th** at **Memorial library, room
 *Note: Our by-laws describe a membership process that is currently not required to attend. We're in the process of re-evaluating it.*
 
 
-## you in 250 
+## [you in 250](self250.md)
 What are the 250 words that provide the best description of you? 
 
 [how to do your first skilled reflection](self250.md)
