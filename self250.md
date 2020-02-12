@@ -12,8 +12,9 @@ You need 20 minutes, and 250 words.
 
 Whether your self is absolutely clear or not, now is a great time to take stock.
 
-1. Open any text editor, and check the clock.   
-2. Have at it. Write 250 words in only 20 minutes. Fill that 250, and edit it if you have time. But the writing stops when 20 minutes of your life has passed.  
+1. Open any text editor, and watch the clock: 20 minutes.   
+2. Have at it. Write 250 words, and if there's time, edit them. 
+3. Stop when 20 minutes of your life has passed. You've got other important things to do besides think.
 3. Save that document. It's your life, however rough, or biased by what you just ate or thought you were going to do on the internet.  
 
 ## welcome to your life
