@@ -1,31 +1,27 @@
 ## skilled reflection 
-You've had some feelings you kept to yourself. Maybe wrote them down, and sometimes they changed how you viewed yourself or what you did next. That's the power of reflection.
+You care about some things more than others. You do some things more than others. 
+_Skilled reflection_ is an attempt to clarify how your actions and values relate to each other, and find clear next-steps toward who you imagine yourself being.
 
-Other times, it seems you write and write, and the only thing that increases is disappointment and resentment.
+We meet up to once a week to write privately for about an hour. We provide prompts and guidance for your reflection, to develop the goal mentioned above.
 
-_Skilled reflection_ is an attempt to concentrate the benefit of reflecting on your life.
+## Spring 2020 sessions
 
-## you in 250
-Need an example? Maybe the most important place to start is with the big picture. If you were suddenly comatose, what is it you would need your closest people to know? 
+First session is 4-5 PM on Tuesday February 18th at Memorial library, room M179. Send us a message if Tuesdays don't work.
+
+*Note: Our by-laws describe a membership process that is currently not required to attend. We're in the process of re-evaluating it.*
+
+
+## you in 250 
+What are the 250 words that provide the best description of you? 
 
 [how to do your first skilled reflection](self250.md)
 
 
 ## about 
 
-[Skilled Reflection](https://win.wisc.edu/organization/skilledreflection) is a Student Organization at the University of Wisconsin-Madison. Check us out at the [**Student Organization Fair**](https://cfli.wisc.edu/attending-the-student-organization-fair/) 5 PM Feb 11th at the Kohl Center!
+[Skilled Reflection](https://win.wisc.edu/organization/skilledreflection) is a Student Organization at the University of Wisconsin-Madison.
 
 Contact: 
 skilledreflection at gmail dot com  
 Instagram: [@skilledreflection](https://www.instagram.com/skilledreflection/)
-
-### Spring 2020 sessions
-We're tentatively meeting 4-5 PM Tuesdays, location TBD. Follow or message us to stay updated.
-
-### Brogden B18, Fri Oct 25 2019, 3-4 PM
-*First session!*
-
-Halloween is a socially accepted time to alter some of your identity and behavior. But outside of the freaky fun, I often catch myself playing dress-up and acting out of my own 'norms'. Sometimes I'm like, "Aw hey, that's not me." Or, "Aw shucks, why can't I be like that some more?" But if I don't stop for some 'aw hey...' time, I find myself stressed out and my shirt on backwards. ("Aw hey, Mark, TMI.") Before you put on costumes for play this Halloween, join us tomorrow for some Skilled Reflection with a little who-n-how-am-i-these-days. 
-
-But even if you can't make it, be easy on all those altered-egos this Halloween. Not everything fits how we imagine it does.
 
