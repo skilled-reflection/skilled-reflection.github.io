@@ -1,8 +1,14 @@
-## skilled reflection 
-You care about some things more than others. You do some things more than others. 
+## skilled reflection  
+[Skilled Reflection](https://win.wisc.edu/organization/skilledreflection) is a Student Organization at the University of Wisconsin-Madison.
+
+You care about some things more than others, and do some things more than others. 
 _Skilled reflection_ is an attempt to clarify how your actions and values relate to each other, and make clear next-steps toward who you imagine yourself being.
 
-We meet up to once a week to write privately for about an hour. Prompts and guidance for your reflection are provided.
+How does this happen? 
+
+We meet up to once a week to write privately for about an hour. Each session focuses on specific themes related to identity, goals, and being a student, with prompts for you to reflect and write on. More than anything, the time and writing are commitments to better navigate our complex lives. 
+
+Read more in [this recent article](https://psych.wisc.edu/news/when-personal-experience-meets-psychology-michael-koranda/).
 
 ## Spring 2020 sessions
 
@@ -26,8 +32,6 @@ What are the 250 words that provide the best description of you?
 
 
 ## Contact 
-
-[Skilled Reflection](https://win.wisc.edu/organization/skilledreflection) is a Student Organization at the University of Wisconsin-Madison.
 
 Contact: 
 skilledreflection at gmail dot com  
