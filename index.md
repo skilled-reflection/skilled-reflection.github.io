@@ -8,6 +8,9 @@ We meet up to once a week to write privately for about an hour. Prompts and guid
 
 First session:
 
+"Reclaiming time: My personal goals  
+versus the University’s expectations"
+
 **4-5 PM on Tuesday February 18th**   
 at **Memorial library, room M179**.
 
