@@ -1,6 +1,13 @@
 
-## Membership is not required  
+## Membership  
 
+Membership is mostly a symbolic act, but there are a few reasons you might want to join officially.
+
+1. Be more involved
+2. Play a role in deciding future session themes
+3. Participate in special events/workshops
+
+### Non-Members  
 You are more than welcome to come to any Skilled Reflection session 
 without ever becoming a member,
 so long as you adhere to the guidelines of the session and respect others in attendence 
