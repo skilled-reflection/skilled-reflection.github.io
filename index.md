@@ -7,20 +7,8 @@ _Skilled reflection_ is an attempt to clarify how your actions and values relate
 
 More than anything, the time and writing are commitments to better navigate our complex lives. To learn more, read about the orginization's start and mission in the [Psychology Department Bulletin](https://psych.wisc.edu/news/when-personal-experience-meets-psychology-michael-koranda/).
 
-## Spring 2020 sessions
+## [Spring 2020 sessions](club_meetings.md)
 
-First session:
-
-"Reclaiming time: My personal goals  
-versus the University’s expectations"
-
-**4-5 PM on Tuesday February 18th**   
-at **Memorial library, room M179**.
-
-
-Is there a time of the week that works better for you? Fill out [this survey](https://www.when2meet.com/?8746417-KjJ6N) (name optional) with your preference! 
-
-*Note: We have a [new-join process](membership.md), but it isn't required to attend.*
 
 ## [you in 250](self250.md)
 What are the 250 words that provide the best description of you? 
