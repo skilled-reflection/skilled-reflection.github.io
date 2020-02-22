@@ -1,11 +1,20 @@
 ## skilled reflection  
 
-You care about some things more than others, and do some things more than others. 
-_Skilled reflection_ is an attempt to clarify how your actions and values relate to each other, and make clear next-steps toward who you imagine yourself being.
+How would your life look
+if you put it on paper?
 
-[Skilled Reflection](https://win.wisc.edu/organization/skilledreflection) is a Student Organization at the University of Wisconsin-Madison that meets once a week to write privately for about an hour. Each session focuses on specific themes related to identity, goals, and being a student, with prompts for you to reflect and write on. 
+How do you  
+- get what you need and want?
+- clarify and direct your life?
 
-More than anything, the time and writing are commitments to better navigate our complex lives. To learn more, read about the orginization's start and mission in the [Psychology Department Bulletin](https://psych.wisc.edu/news/when-personal-experience-meets-psychology-michael-koranda/).
+With better words.
+
+The *right* words will change  
+  - your actions and 
+  - your life.
+
+It's time to live a better life.  
+It starts with your words.
 
 ## [Spring 2020 sessions](club_meetings.md)
 
