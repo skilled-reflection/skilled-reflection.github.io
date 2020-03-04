@@ -21,9 +21,6 @@ Friday (3/6), 1:30 – 2:30 pm College Library, rm 2258
 "Reclaiming time: My personal goals  
 versus the University’s expectations"
 
-**4-5 PM on Tuesday February 18th**   
-at **Memorial library, room M179**.
-
 # Missed a session?
 Email us about a session you'd like to do on your own, and we can send you an adapted template for reflection! Let us know how it goes.
 
