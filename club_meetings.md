@@ -8,6 +8,14 @@ Is there a time of the week that works better for you? Fill out [this survey](ht
 
 *Note: We have a [new-join process](membership.md), but it isn't required to attend.*
 
+## This week (3/4)
+Before you “endure” a torturous midterms, and compensate with an exquisite break, take a hot minute (hour) to gaze at the nature of the roller coaster you’re on with some skilled reflection. If nothing else, you’ll be better prepared for the ups and downs. 
+
+"Midterm spring break: Spring break midterm"
+
+Tuesday (tomorrow) 4 – 5 pm Steenbock library, rm 102
+Friday, 1:30 – 2:30 pm College Library, rm 2258
+
 ## Last Themed Session
 
 "Reclaiming time: My personal goals  
@@ -16,6 +24,7 @@ versus the University’s expectations"
 **4-5 PM on Tuesday February 18th**   
 at **Memorial library, room M179**.
 
-## Next Themed Session
-TBD
+# Missed a session?
+Email us about a session you'd like to do on your own, and we can send you an adapted template for reflection! Let us know how it goes.
+
 
