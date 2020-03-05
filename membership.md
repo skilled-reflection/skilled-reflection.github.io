@@ -46,3 +46,11 @@ and provide group input on at least 50% of group decisions (by email).
 Members may re-activate their membership by revising their AMS with reflection on the following prompt:
 What is the specific value that makes you want to renew your membership, and 
 the specific value that led you to take a break?
+
+<form action="https://app.99inbound.com/api/e/4kUnyJQ0" method="POST" target="_blank">
+  <h2>Send us a note</h2>
+  <input type="email" name="email" placeholder="enter your email" required>
+  <input type="text" name="name" placeholder="enter your name" required>
+  <textarea name="message" cols="60" rows="10"></textarea>
+  <button>Submit</button>
+</form>
