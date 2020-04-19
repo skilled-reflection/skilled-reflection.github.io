@@ -13,6 +13,9 @@ Read more in the [About](about.md) page.
 
 ## [Spring 2020 sessions](club_meetings.md)
 
+Skilled Reflection is now holding meetings on Zoom. 
+To request prior session writing prompts, or to join the Zoom sessions, 
+please don't hesitate to message us (see email below)!
 
 ## [you in 250](self250.md)  
 What 250 words describe you? 
