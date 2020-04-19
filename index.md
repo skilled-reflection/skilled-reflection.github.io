@@ -1,7 +1,5 @@
 ## skilled reflection  
 
-<div id="type_text", style="white-space: pre-line"></div>
-
 With better words.
 
 The *right* words will change  
