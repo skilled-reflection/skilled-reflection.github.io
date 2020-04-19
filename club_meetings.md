@@ -6,7 +6,6 @@ please don't hesitate to message us (see email below)!
 
 Meetings are currently once a week.
 - *Mondays 6 - 7 PM CST*
-- *Fridays 1:30-2:30 PM*
 
 Is there a time of the week that works better for you? Let us know you'd like to join but cannot make the scheduled sessions.
 
@@ -17,11 +16,11 @@ Is there a time of the week that works better for you? Let us know you'd like to
 How to cope the pandemic with leadership and guidance tailored to your specific needs.
 Zoom session
 
-## "Midterm spring break: Spring break midterm" (3/4)  
+## Midterm spring break: Spring break midterm (3/4)  
 Before you “endure” a torturous midterms, and compensate with an exquisite break, take a hot minute (hour) to gaze at the nature of the roller coaster you’re on with some skilled reflection. If nothing else, you’ll be better prepared for the ups and downs. 
 
-Tuesday (3/3) 4 – 5 pm Steenbock library, rm 102
-Friday (3/6), 1:30 – 2:30 pm College Library, rm 2258
+Tuesday (3/3) 4 – 5 pm Steenbock library, rm 102  
+Friday (3/6), 1:30 – 2:30 pm College Library, rm 2258  
 
 ## Reclaiming Time from School (2/17)  
 
