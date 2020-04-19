@@ -9,11 +9,13 @@ The *right* words will change
 It's time to live a better life.  
 It starts with your words.
 
+Read more in the [About](about.md) page.
+
 ## [Spring 2020 sessions](club_meetings.md)
 
 
-## [you in 250](self250.md)
-What are the 250 words that provide the best description of you? 
+## [you in 250](self250.md)  
+What 250 words describe you? 
 
 [how to do your first skilled reflection](self250.md)
 
