@@ -1,7 +1,7 @@
 
 
 Skilled Reflection is now holding meetings on Zoom. 
-To request prior session writing prompts, or to join the Zoom sessions, 
+To join the zoom sessions or request prior session writing prompts, 
 please don't hesitate to message us (see email below)!
 
 Meetings are currently once a week.
