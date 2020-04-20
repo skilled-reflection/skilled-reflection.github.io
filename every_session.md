@@ -4,7 +4,7 @@ Whether it's your first session or not, here is what you can expect when you sho
 ## Opening
 We'll probably wait five minutes for people to show up.
 
-The organizer will go over **room guidelines**.
+The organizer will go over **room guidelines**:
 
 Everyone  
 - has the right to privacy, which includes *not* responding if they choose.
