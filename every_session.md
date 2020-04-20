@@ -88,5 +88,5 @@ Hopefully, you have written some reminders and instructions, that will make tomo
 Save and revisit them. The exercise is designed so that you could repeat the entire process on the same document. 
 
 ## my first virtual exercise  
-If you can't wait for a session, feel free to email us for a conversation, or jump over to [250 words](250words.md) to try one at home.
+If you can't wait for a session, feel free to email us for a conversation, or jump over to ["Self 250"](self250.md) to try one at home.
 
