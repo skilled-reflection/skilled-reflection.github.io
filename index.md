@@ -13,7 +13,7 @@ The *right* words will
 3. Learn more about [Skilled Reflection](about.md).  
 
 ## Now what?  
-Skilled Reflection is now holding meetings on Zoom. 
+Skilled Reflection is now holding meetings on Zoom.  
 4. Find out about upcoming [Spring 2020 sessions](club_meetings.md).
 
 5. You can't wait any longer, so 
