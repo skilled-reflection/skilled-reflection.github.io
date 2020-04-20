@@ -13,12 +13,8 @@ The *right* words will
 3. Learn more about [Skilled Reflection](about.md).  
 
 ## Now what?  
-Skilled Reflection is now holding meetings on Zoom.  
-4. Find out about upcoming [Spring 2020 sessions](club_meetings.md).
 
+4. Find out about upcoming [Spring 2020 sessions](club_meetings.md).
 5. You can't wait any longer, so 
   a. go ahead and follow us on Instagram [@skilledreflection](https://www.instagram.com/skilledreflection/), or  
   b. email us at skilledreflection at gmail dot com  
-
-To join us on zoom or request prior session writing prompts,  
-please don't hesitate to message us!
