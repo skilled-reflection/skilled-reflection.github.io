@@ -9,7 +9,7 @@ The *right* words will
 ## Okay, I'm curious.
 
 1. Here's what happens at [every session](every_session.md).  
-2. Try to [describe yourself in 250 words](self250.md).  
+2. Try to [describe yourself](self250.md) in 250 words.  
 3. Learn more about [Skilled Reflection](about.md).  
 
 ## Now what?  
