@@ -14,7 +14,7 @@ The *right* words will
 
 ## Now what?  
 
-4. Find out about upcoming [Spring 2020 sessions](club_meetings.md).
+4. Find out about upcoming [Fall 2020 sessions](club_meetings.md).
 5. You can't wait any longer, so 
   a. go ahead and follow us on Instagram [@skilledreflection](https://www.instagram.com/skilledreflection/), or  
   b. email us at skilledreflection at gmail dot com  
