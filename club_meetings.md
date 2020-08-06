@@ -4,12 +4,15 @@ Skilled Reflection is now holding meetings on Zoom.
 To join the zoom sessions or request prior session writing prompts, 
 please don't hesitate to message us (see email below)!
 
-Meetings are currently once a week.
+Tentatively we will have meetings this fall at the following time:  
+
 - *Mondays 6 - 7 PM CST*
 
 Is there a time of the week that works better for you? Let us know you'd like to join but cannot make the scheduled sessions.
 
-*Note: We have a [new-join process](membership.md), but it isn't required to attend.*
+*Note: We technically have a [new-join process](membership.md), but it isn't required to attend.*
+
+# Previous Sessions
 
 ## Making a Leader Inside (4/20)  
 
