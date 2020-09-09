@@ -10,7 +10,7 @@ Tentatively we will have meetings this fall at the following time:
 
 Is there a time of the week that works better for you? Let us know you'd like to join but cannot make the scheduled sessions.
 
-*Note: We technically have a [new-join process](membership.md), but it isn't required to attend.*
+*Note: Our [new-join process](membership.md) is helpful, but isn't required to attend.*
 
 # Previous Sessions
 
