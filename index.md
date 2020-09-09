@@ -1,5 +1,5 @@
 **We're participating in the virtual student org fair, today only (Sept. 09, 2020 5 PM - 8 PM CST).
-[Join here](https://www.google.com/url?q=https://us04web.zoom.us/j/78140851089?pwd%3DRnQ0NDMvdUI2RlRoK2dSeXUvc1gyQT09&sa=D&source=calendar&usd=2&usg=AOvVaw16feoAe5vo_d91UpVaYhCJ) Email mjkoranda@wisc.edu if you're having trouble.**
+[Join here](https://www.google.com/url?q=https://us04web.zoom.us/j/78140851089?pwd%3DRnQ0NDMvdUI2RlRoK2dSeXUvc1gyQT09&sa=D&source=calendar&usd=2&usg=AOvVaw16feoAe5vo_d91UpVaYhCJ). Email mjkoranda@wisc.edu if you're having trouble.**
 
 ## How do you start living a better life? 
 
