@@ -2,7 +2,7 @@
 
 Skilled Reflection is now holding meetings on Zoom. 
 To join the zoom sessions or request prior session writing prompts, 
-please don't hesitate to message us (see email below)!
+please don't hesitate to message us!
 
 Tentatively we will have meetings this fall at the following time:  
 
