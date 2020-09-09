@@ -12,23 +12,29 @@ Is there a time of the week that works better for you? Let us know you'd like to
 
 *Note: Our [new-join process](membership.md) is helpful, but isn't required to attend.*
 
-# Previous Sessions
+# Upcoming Sessions  
 
-## Making a Leader Inside (4/20)  
+## The Leader Within  
 
-How to cope the pandemic with leadership and guidance tailored to your specific needs.
-Zoom session
+**Sept. 14th, 2020 at 6 PM**  
 
-## Midterm spring break: Spring break midterm (3/4)  
-Before you “endure” a torturous midterms, and compensate with an exquisite break, take a hot minute (hour) to gaze at the nature of the roller coaster you’re on with some skilled reflection. If nothing else, you’ll be better prepared for the ups and downs. 
+If you're going to be stuck at home with yourself, why not make that inner voice into something you enjoy hearing? 
+Navigate the pandemic with a strong inner voice that you'll want to listen to.
 
-Tuesday (3/3) 4 – 5 pm Steenbock library, rm 102  
-Friday (3/6), 1:30 – 2:30 pm College Library, rm 2258  
 
-## Reclaiming Time from School (2/17)  
+## Reclaiming Time from School  
+*Session last hosted on 2/17/20*  
 
 "Reclaiming time: My personal goals  
 versus the University’s expectations"
+
+
+## The break in Midterms and the Midterms in your Break  
+*Session last hosted on 3/4/20*
+
+Before you “endure” a torturous midterms and compensate with an exquisite break, take a hot minute (hour) to gaze at the nature of the roller coaster you’re on. 
+If nothing else, you’ll be better prepared for the ups and downs. 
+
 
 # Missed a session?
 Email us about a session you'd like to do on your own, and we can send you an adapted template for reflection! Let us know how it goes.
