@@ -12,11 +12,12 @@ Is there a time of the week that works better for you? Let us know you'd like to
 
 *Note: Our [new-join process](membership.md) is helpful, but isn't required to attend.*
 
-# Upcoming Sessions  
+# Upcoming_Sessions  
 
 ## The Leader Within  
 
 **Sept. 14th, 2020 at 6 PM**  
+(5:45PM for new joins / guests)
 
 If you're going to be stuck at home with yourself, why not make that inner voice into something you enjoy hearing? 
 Navigate the pandemic with a strong inner voice that you'll want to listen to.
