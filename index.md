@@ -1,5 +1,4 @@
-**We're participating in the virtual student org fair, today only (Sept. 09, 2020 5 PM - 8 PM CST).
-[Join here](https://uwmadison.zoom.us/j/99262786723?pwd=NUIvTEQ1TVl0d2pOMDgrNFNENW9qUT09). Email mjkoranda@wisc.edu if you're having trouble.**
+**First session is this Monday, September 14th. [MORE INFO](club_meetings.md#next-session)**
 
 ## How do you start living a better life? 
 
