@@ -1,4 +1,4 @@
-**First session is this Monday, September 14th. [MORE INFO](club_meetings.md#upcoming-sessions)**
+**Next session is this Monday, September 28th. [MORE INFO](club_meetings.md#upcoming-sessions)**
 
 ## How do you start living a better life? 
 
