@@ -1,12 +1,8 @@
-**Next session is this Monday, September 28th. [MORE INFO](club_meetings.md#upcoming-sessions)**
+**Next session is this Monday, October 12. [MORE INFO](club_meetings.md#upcoming-sessions)**
 
-## How do you start living a better life? 
+## B.Y.O. Conflict
 
-With better words.
-
-The *right* words will  
-  - guide your actions and 
-  - change your life.
+This week is your chance to apply Skilled Reflection to exactly where it's needed in your life. Pick a difficult goal, topic, person, value, etc. that is taking up a lot of your mental energy / your TIME, and we'll provide an open-ended framework to aid your investigation of it. Not sure what to focus on? All the more reason to join us!
   
 ## Okay, I'm curious.
 
