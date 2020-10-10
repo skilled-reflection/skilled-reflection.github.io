@@ -14,11 +14,15 @@ Is there a time of the week that works better for you? Let us know you'd like to
 
 # Upcoming_Sessions  
 
-## Reclaiming Time from School  
-**September 28th, 6 PM**
+## B.Y.O. Conflict
+*Monday Oct 12th, 2020*
+
+This week is your chance to apply Skilled Reflection to exactly where it's needed in your life. Pick a difficult goal, topic, person, value, etc. that is taking up a lot of your mental energy / your TIME, and we'll provide an open-ended framework to aid your investigation of it. Not sure what to focus on? All the more reason to join us!
+
 email skilledreflection (AT) gmail.com for a zoom invite.
 
-*Session last hosted on 2/17/20*  
+## Reclaiming Time from School  
+*Session last hosted on 9/28/20*
 
 You're attending University for a personal, specific reason, but the University asks the same of you as everyone else (in your major).
 What can you do about that?
