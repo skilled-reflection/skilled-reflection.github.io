@@ -1,8 +1,15 @@
-**Next session is this Monday, October 12. [MORE INFO](club_meetings.md#upcoming-sessions)**
+## About Skilled Reflection
 
-## B.Y.O. Conflict
+You care about some things more than others, and do some things more than others.
 
-This week is your chance to apply Skilled Reflection to exactly where it's needed in your life. Pick a difficult goal, topic, person, value, etc. that is taking up a lot of your mental energy / your TIME, and we'll provide an open-ended framework to aid your investigation of it. Not sure what to focus on? All the more reason to join us!
+Skilled reflection is an attempt to clarify how your actions and values relate to each other, and make clear next-steps toward who you imagine yourself being.
+
+Skilled Reflection is a Student Organization at the University of Wisconsin-Madison that meets once a week to write privately for about an hour.
+
+Each session focuses on specific themes related to identity, goals, and being a student, with prompts for you to reflect and write on.
+
+More than anything, the time and writing are commitments to better navigate our complex lives. To learn more, read about the orginization's start and mission in the [Psychology Department Bulletin](https://psych.wisc.edu/news/when-personal-experience-meets-psychology-michael-koranda/).
+
   
 ## Okay, I'm curious.
 
