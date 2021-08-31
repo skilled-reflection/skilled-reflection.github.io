@@ -7,27 +7,6 @@ output:
 version: 2.0.5
 ---  
   
-## Book to-dos
-### from-WORDS  
-Add tags as a prefix to the dash 
-to make the nature of the LINK  explicit.  
-Prefixes are not exhaustive or mutually exclusive  
-  
-1.  `e` example, data-point, untested data  
-2.  `x` Cross-references, xref  
-3.  `d` Data or evidence, summary  
-4.  `i` synonym  
-5.  `n` next task  
-6.  `v` version / revise  
-7.  `w` write (verb)  
-8.  `f` define; function  
-9.  `a` assumption or attribute  
-         x-[link-f]  
-         x-(pri-lesson-chess life 2021-03-07.txt)
-         
-4-push PRI
-Two people with identical PRIs see the world identically. 
-]
 ## FRONT MATTER  
 
 ### Tagline  
