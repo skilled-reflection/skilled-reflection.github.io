@@ -1,31 +1,3 @@
----  
-title: "0. Preface"
-output:
-  word_document:
-    reference_docx: template.docx
-  pdf_document: default
-version: 2.0.5
----  
-  
-## FRONT MATTER  
-
-### Tagline  
-Change your thoughts. Change your life.  
-
-### Key words  
-intellectual coaching, 
-mind-training, 
-defining goals, 
-accountability, 
-expanding the boundaries of the mind, 
-personal development, 
-redirecting your life, 
-tapping into your capabilities, 
-identifying and challenging limiting patterns of thought, accomplish goals, 
-unlock abilities, 
-tap into your potential, 
-motivation  
-  
 ## Preface  
   
 Dear Friend,  
