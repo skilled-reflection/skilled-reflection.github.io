@@ -7,27 +7,13 @@ output:
 version: 2.0.5
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
 ## Introduction
 The incrimental science
 we are familiar with
 identifies a gap in knowledge, 
 and proposes to fill it.
 
-This book names a set of 
-hard problems of reality.
-it may feel very intractable
-to attempt to address in one volume.
-
-Instead, to get anything from this book
-you'll have to take hold of the thesis
-at once.
-
-Fortunately, the thesis,
-literally,
+This book 
 begins with YOUR understanding;
 of yourself and your actions, first,
 then of your immediate environment,
@@ -90,8 +76,9 @@ Both before and after their discovery,
 they were everywhere.
 We are used to them.
 
-There is no universal or ground truth for:
-#### Experience, Value  
+There is no universal or ground truth for:  
+
+#### Experience, Value   
 What is the material (money) value of
 - happiness?
 - food?
@@ -101,7 +88,7 @@ How much does it depend on
 - how much sleep you've gotten the last week?
 - your marital status?
 
-#### rational action
+#### rational action  
 Economists flipped shit at irrational behavior.
 Given options A or B, what to do?
 
@@ -124,7 +111,9 @@ Couple the above data with experiences and values, and we can interpret results 
 See "to Education" in Chapter 1.
 
 #### Words  
-These give us great traction on one of the foundational problems in philosophy: the meaning of words.
+These give us great traction on 
+one of the foundational problems in philosophy: 
+the meaning of words.
 
 The vast complexity and nuance of words,
 its core intractability
@@ -137,12 +126,11 @@ This means removing politeness and authorship
 from meaning making, using, and sharing.
 Especially for the nature of science.
 
-### Answers
-One of the worst fallacies,
-nearly every branch of applied and theoretical
-social science is guilty of,
-is the posing of solutions which
-hinge on "X peoples changing their behavior".
+### Answers  
+One of the most common pitfalls
+to perspectives and solutions 
+is to propose that
+people change their behavior.
 
 "If only so-and-so
 would quit smoking,"
