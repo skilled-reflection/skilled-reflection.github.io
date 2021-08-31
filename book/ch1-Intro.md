@@ -1,14 +1,6 @@
----
-title: "1. Intro"
-output:
-  word_document:
-    reference_docx: template.docx
-  pdf_document: default
-version: 2.0.5
----
 
 ## Introduction
-The incrimental science
+The incremental science
 we are familiar with
 identifies a gap in knowledge, 
 and proposes to fill it.
