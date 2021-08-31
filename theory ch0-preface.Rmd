@@ -9,41 +9,6 @@ version: 2.0.5
   
 ## Book to-dos
 ### from-WORDS  
-These ideas are carrots
-for the futre or another section  
-
-1-
-a theoretical optimum lies bx
-gains in word revision
-and time lost for action.
-
-2-
-Style without content
-NORMS WORDS
-have no reliable meaning;
-Any validation or assurance is brittle. 
-- Not "If I'm nice will you trust me?"  
-
-3-NOTES  
-When one part of a statement 
-applies to more than one other part
-nest the latter
-
-1. a syntactic tree, where  
-2. [newline] is the right path in a fork,  
-3. first indent (" -") is the left path in a fork,  
-   - trailing "-" denotes all subsequent lines 
-     in section are equal childs.   
-4. subsequent newline indents or in-line "--" are siblings  
-5. left to right are siblings  
-6. double linebreak ends the local tree.  
-  
-when word order is a left-to-right walk of 
-a right-branching syntactic tree, 
-sentence can be written in lines of random lengths, and 
-read equally as unambiguously. 
-
-  
 Add tags as a prefix to the dash 
 to make the nature of the LINK  explicit.  
 Prefixes are not exhaustive or mutually exclusive  
@@ -68,46 +33,6 @@ Two people with identical PRIs see the world identically.
 ### Tagline  
 Change your thoughts. Change your life.  
 
-### Abstract  
-  
-An animal 
-experiences (feels) the world, and
-takes ACTIONS on it.
-
-Humans
-imagine (BET) 
-changes to actions (PLAN) that 
-improve experiences (GOAL).
-
-Which PLANS lead to successful GOALS?
-How, if at all, are BETS relevant?
-Or differences in individuals, and context?
-
-Answering these questions
-also addresses the following:
-How rational are human actions?
-How strong are habit vs will?
-How relevant are human network effects?
-How real or imaginary are GOALS?
-
-This book presents a model framework
-meant to robustly codify
-experience, action, and bets,
-for the purpose of investigating
-what it is people feel, do, and think;
-with the ultimate goal of 
-optimizing GOALS.
-
-Intermediary goals include
-- a model for all self-help
-- a universal data structure for all psychological experiences
-- a grounded and practical universal semantics
-- a universal, quantifiable framework for hypothesis testing (and generating)
-- a framework for refining thought and language,
-  - (resilient to centrist biases)
-  i-a smarter and more cooperative species
-
-
 ### Key words  
 intellectual coaching, 
 mind-training, 
@@ -129,7 +54,8 @@ Dear Friend,
 you are going to die some day.
 This book is for you if  
 there is something in the meantime
-worth maximizing.
+worth maximizing.  
+
 ### lesson-preface
 lesson 1
 how to read this book
@@ -157,9 +83,15 @@ The primary voice (COMM-STYLE) in this book is me as a 2 for assuming you're a 2
 
 A good consequence is this saves on many words of "justifying" why I'm telling you X or Y. I'm telling you because it is good, and you want to know what is good, and will minimally consider applying it to find out if it is good for you, and I would be ever so gracious if you shared with me what you determined after trying it.
 
-The bad consequence is that it could seem a mystery if / why something is suggested. Why did I ask you to write down the time?
-Because all of your life, the good and the bad, are most simply knowable, understandable, manipulable, in terms of time. The more you know how your life, your meaning, etc., relate to time, the more you understand your life, and have a chance to do something about it.
-In this case, you now have a rough estimate of when you started reading this book.
+The bad consequence is that it could seem a mystery if / why something is suggested. 
+Why did I ask you to write down the time?
+Because all of your life, the good and the bad, 
+are most simply knowable, understandable, manipulable, in terms of time. 
+The more you know how your life, your meaning, etc., 
+relate to time, the more you understand your life, 
+and have a chance to do something about it.
+In this case, you now have 
+a rough estimate of when you started reading this book.
 It is a bookmark in your life. A moment.
 It tells you nothing on its own,
 but as things happen at later times,
