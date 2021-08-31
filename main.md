@@ -15,14 +15,15 @@ unlock abilities,
 tap into your potential, 
 motivation_
 
-## toc  
+## Table of Contents  
 
-[Preface]
-[Introduction]
-**The Garden:** 
-  [Preface]
-  [Self]
-  [Pri]
-  [Ppl]
-  [Bet]
+1. [Preface](ch0-preface.md)
+2. [Introduction](ch1-Intro.md)
+3. [Reader](ch2-Reader.md)
+**The Garden:**  
+3. [Preface](ch3-.md)
+4. [Self]
+5. [Pri]
+6. [Ppl]
+7. [Bet]
   
