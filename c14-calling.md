@@ -90,9 +90,8 @@ these are my passwords.
 
 
 ## v-10001  
-x-death_cab_for_cutie-binary_sea
-
-2021-08-13-2145 v10001 init
+`x-death_cab_for_cutie-binary_sea`  
+`2021-08-13-2145 v10001 init`  
 
 it appears that
 over 10k years ago,
@@ -135,6 +134,6 @@ in complex representation
 that dimly illuminates
 the world it attempts to project.
 
-Sincerely,
-- the Answerword
+Sincerely,  
+the Answerword
   
