@@ -1,15 +1,3 @@
----
-title: "14. Epilogue"
-output:
-  pdf_document: default
-  word_document:
-    reference_docx: template.docx
-version: 2.0.5
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
 
 ## to Students  
 
@@ -23,8 +11,8 @@ if you overcome your doubts,
 and see reality plainly,  
 you will want peace.  
     
-but we all have doubts, so   
-you want some form of   
+but we all have doubts, so  
+you want some form of  
 dignity and affirmation.  
     
 tell me your calling, student,  
