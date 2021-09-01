@@ -1,24 +1,6 @@
----
-title: "12. Words"
-output:
-  word_document:
-    reference_docx: template.docx
-  pdf_document: default
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
-2350 words
-
-## to do
-re-structure around
-NOTES-as-REVISION
 
 
-
-## Intro  
+## Intro   
 
 This aim of this section
 is to transform your existing
@@ -576,6 +558,25 @@ RISKs
 2.FALSE NEG: failure to save and find good DOCs.
 
 
+## Plans
+
+### SELF-W
+speak the truth or shut up.  
+Use them for decisions, not emotions.   
+Use to facilitate your life PLAN and 
+stop talking for other reasons.  "
+
+### PPL-W
+Do not use a word that is more of a Lie
+
+assert boundaries against 
+exaggerated words or
+unreliable time (scheduling)
+
+
+### NOTES
+Add structural consistency to make LINKS more explicit.
+edit/apply these techniques as a form of active READING.
   
 ## L6: 0 or 1
 As a human you are endowed with words.

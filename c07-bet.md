@@ -1,15 +1,3 @@
----
-title: "7. The Garden: Bet"
-output:
-  word_document:
-    reference_docx: template.docx
-  pdf_document: default
-version: 2.0.5
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
 
 ## T1: Bet  
   
@@ -205,7 +193,24 @@ your plan is
 - distrust in your past. 
 
 
-  
+## Plans
+### BETS
+(BET) Name:  
+    -   a step in your PLAN,  
+    -   a **deadline** to achieve it, and  
+    -   the C.H.U.D. for that duration.
+
+Attempt to succeed, and document your efforts.
+
+When the deadline arrives, take stock.  
+    -   Revise your PLAN and CHUD based on your effort.   
+    -   Start another BET or GOAL.
+
+### UNK
+Explore and learn where the line of control is,  
+Expand control productively, and  
+Let go of unhelpful attempts to control.  
+
 ## L9: Doubt   
   
 Imagine receiving the perfect email   

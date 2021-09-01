@@ -1,18 +1,5 @@
----
-title: "4. The Garden: Self"
-output:
-  pdf_document: default
-  word_document:
-    reference_docx: template.docx
-version: 2.0.5
----
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
-
-## The Garden: Self
+## The Garden: Self 
 
 Imagine your life is a garden. 
 Every one of your life ambitions, GOALS,  
@@ -96,7 +83,7 @@ are grounded in their most basic
 sense: time and attention.  
 
 
-## IDEAS and PLANS
+## Ideas
 ### GOAL
 A GOAL  
 - names a problem,   
@@ -174,6 +161,38 @@ VALUES are a good basis for GOALS.
 When they are immediately available,
 they are called CAKE. 
 
+## Plans  
+
+### FORCES
+name CHUD; better to know them
+Study how forces work against you.
+ALIGN GOALS with FORCES
+
+
+### PLANS
+Do not write PLANs you won't follow.
+To assess PLANs (e-in this book) see READING
+clarify planning and improve your expectations
+
+Keep a clean HOME, and LIB
+
+### SELF	
+Identify and revise VALUES that are 
+sufficient but not necessary for SELF. 
+
+study time to learn reality, SELF, and the LINK between the two.
+Ask/reflect/study: Does the benefit of a GOAL outweigh the cost of time? 
+Ask what it would take to change (if possible), and whether change is worth it.  
+Separate what you need from what you want.   
+- master the SELF (survive well).
+
+Build routines for  
+- health and fitness,  
+- physical safety (shelter),   
+- a sound mind,   
+- healthy relationships.  
+
+Satisfy HOME, and SELF GOALs 
   
 ## Lesson: Self250  
   

@@ -1,17 +1,5 @@
----
-title: "6. The Garden: People"
-output:
-  pdf_document: default
-  word_document:
-    reference_docx: template.docx
-version: 2.0.5
----
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
-## The Garden: PPL
+## The Garden: PPL 
 
 *PPL*    
 Think of the seeds of people 
@@ -52,7 +40,7 @@ is normal (NORMS).
 NORMS may or may not always 
 be the most reliable way for you.  
 
-## PPL
+## Ideas
 
 ### FORCE  
 
@@ -102,6 +90,15 @@ coordinate many GOALS for SAVINGS.
 Adjust direction of your goal 
 to be more similar to another force,
 usually one acting against your goal.
+
+## Plans  
+Pick WORK and RLTPs that maximize your other PRIs including possibly one that maximizes time and money to apply to other PRIs. 
+
+i-Pick friends the same way.  
+Consider your actions and choices about people carefully.  
+Maximally ALIGN with NORMS with least compromise to PRIs.  
+align (get along with) people.
+
 
 ## L7: Goals vs PPL   
   

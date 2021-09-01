@@ -1,18 +1,3 @@
----
-title: "9. IBC Education"
-output:
-  pdf_document: default
-  word_document:
-    reference_docx: template.docx
-version: 2.0.5
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
-# Part Two: The IBC
-532w
 
 ## to Education  
 No one chose to be born.

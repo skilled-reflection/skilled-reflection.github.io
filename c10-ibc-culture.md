@@ -1,24 +1,15 @@
----
-title: "10. IBC Culture"
-output:
-  word_document:
-    reference_docx: template.docx
-  pdf_document: default
-version: 2.0.5
----
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-1400w
+## Intro
 
 
-## Roles 
+## Roles  
 
 
 A role is a set of attitudes and actions.  
   
-(See READER, Ch X)
+### READER
+[See READER](c02-reader.md)
+
 ### WRITE  
 
 BET on WORDs.
@@ -143,96 +134,6 @@ akin to evaluating twitter users by their retweets.
 
 
 
-## Plans
-imported
-
-### BETS and CHUD
-(BET) Name:  
-    -   a step in your PLAN,  
-    -   a **deadline** to achieve it, and  
-    -   the C.H.U.D. for that duration.
-
-Attempt to succeed, and document your efforts.
-
-When the deadline arrives, take stock.  
-    -   Revise your PLAN and CHUD based on your effort.   
-    -   Start another BET or GOAL.
-
-### FORCES
-name CHUD; better to know them
-Study how forces work against you.
-ALIGN GOALS with FORCES
-
-### UNK
-Explore and learn where the line of control is,  
-Expand control productively, and  
-Let go of unhelpful attempts to control.  
-
-### PLANS
-Do not write PLANs you won't follow.
-To assess PLANs (e-in this book) see READING
-clarify planning and improve your expectations
-
-Keep a clean HOME, and LIB
-
-### PRI	
-group GOALs by shared actions, places, or times.  
-Make/group/keep, 
-order, reduce in the order presented in Figure 4.
-"A place for everything, everything in its place"
-
-ALIGN SELF and VALUE
-Adopt all your goals to REALITY ("above", e-you will die). 
-Think about the sum of your GOALS, 
-
-### TIME
-Do not ignore time
-Estimate durations accurately
-for GOAL accomplishment
-
-### SELF	
-Identify and revise VALUES that are 
-sufficient but not necessary for SELF. 
-
-study time to learn reality, SELF, and the LINK between the two.
-Ask/reflect/study: Does the benefit of a GOAL outweigh the cost of time? 
-Ask what it would take to change (if possible), and whether change is worth it.  
-Separate what you need from what you want.   
-- master the SELF (survive well).
-
-Build routines for  
-- health and fitness,  
-- physical safety (shelter),   
-- a sound mind,   
-- healthy relationships.  
-
-Satisfy HOME, and SELF GOALs 
-
-### SELF-W
-speak the truth or shut up.  
-Use them for decisions, not emotions.   
-Use to facilitate your life PLAN and 
-stop talking for other reasons.  "
-
-### PPL
-Pick WORK and RLTPs that maximize your other PRIs including possibly one that maximizes time and money to apply to other PRIs. 
-
-i-Pick friends the same way.  
-Consider your actions and choices about people carefully.  
-Maximally ALIGN with NORMS with least compromise to PRIs.  
-align (get along with) people.
-
-### PPL-W
-Do not use a word that is more of a Lie
-
-assert boundaries against 
-exaggerated words or
-unreliable time (scheduling)
-
-
-### NOTES
-Add structural consistency to make LINKS more explicit.
-edit/apply these techniques as a form of active READING.
 
 ### Agreement
 On acceptance you will attend 
@@ -282,30 +183,31 @@ what you think your life is.
 
 ## manifesto
 
-pull ibc-doc1-student rules
+If you an informed STUDENT,
+then you will arrive at the following
+principles of knowledge, language, and action.
 
 ### better language / world
 
-distrust words and ego
-- taking nothing personally
-- define everything empirically
+Distrust words and ego.  
+- Take nothing personally
+- Define everything empirically
   - comparison group/quantity (has unique outcome)
-- remove / ignore style
-- speak for reasons only
-- idea > authorship (anonymity)
-- read to rate to believe
-- write to bet
+- Remove / ignore style
+- Speak for reasons only
+- Idea > authorship (anonymity)
+- Read to refine beliefs and doubts.
+- Write to bet.
 
 #### speak 
-speak / write
-initiate / respond
+Speak, write, initiate or respond only
 
-limited in duration / words
-- set by intended outcome
+in limited duration and words
+dictated by intended outcome.
 
-not at all
-- when actions are known, needed
-- when listening is needed
+Do not at all
+when actions or listening 
+are needed.
 
 #### listen
 listen / read
