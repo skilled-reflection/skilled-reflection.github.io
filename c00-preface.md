@@ -2,8 +2,8 @@
   
 Dear Friend,  
 
-you are going to die some day.
-This book is for you if  
+You are going to die some day.
+This book is for you if 
 there is something in the meantime
 worth maximizing.  
 
@@ -11,28 +11,32 @@ worth maximizing.
 
 The purpose of this book is for you to engage your life.
 
-1-get a pencil and note the date and time, here: YYYY-MMDD-HHMM \_\_\_\_\_\_-\_\_\_\_\_\_-\_\_\_\_\_\_.
+1-get a pencil and note the date and time, here: \_\_\_\_\_\_-\_\_\_\_\_\_-\_\_\_\_\_\_ `YYYY-MMDD-HHMM`.
 
-2-in the box to the right, if you   \_\_\_\_
-- did 1, put "2".
-- didn't do 1 and felt, "will do, but first let me read on.", put "1".
-- didn't do 1 and felt, "that's dumb, strike 1 for this book," put "0".
-
-
-
-If you wrote 2, you hold curiosity enough to try new things,
+2-in this box, \_\_\_\_  
+if you:  
+- did 1, write "2". you either are curious enough to try new things,
 or lie about it.
-If you qualified as a 1, you imagine you have the curiosity, and
-you will be right once you write down the time,
+- didn't do 1 and felt, "will do, but first let me read on.", write "1". you imagine you have the curiosity, and
+you will be right once you write down the time, 
 and you are a liar until this happens or you admit you qualify as a 0.
-If 0 best represents your feeling, you could probably stop reading now, or admit you're a 1.
+- didn't do 1 and felt, "that's dumb, strike 1 for this book," write "0". you could probably stop reading now, or admit you're a "1".
 
-You can engage every word you read in this book with 0, 1, or 2.
-The best thing you can do for me is share your numbers, whatever they are, including at what point your 0's felt like enough. 
+You can engage every word you read in this book with 0, 1, or 2.  
+The only reason to read anything is for its potential impact on your life.
+Therefore, I write with the intention to make such decisions and impact easier.
+That is, where possible, the language is direct, perscriptive and strong.
 
 The primary voice (COMM-STYLE) in this book is me as a 2 for assuming you're a 2. Further, I'm a 2 because what I write is testable, I've tried it, and I think it is better than alternative ways of dealing with the subject. This is radical "benefit of the doubt" regarding text (WORDS). 
 
 A good consequence is this saves on many words of "justifying" why I'm telling you X or Y. I'm telling you because it is good, and you want to know what is good, and will minimally consider applying it to find out if it is good for you, and I would be ever so gracious if you shared with me what you determined after trying it.
+
+It is not that I do away with nuance, but 
+that I hope you spend more time thinking about your OWN nuance,
+than worrying about mine.
+I posit an idea in "loud" terms,
+and you identify the appropriate volume for your own truth.
+More on this can be found in [words].
 
 The bad consequence is that it could seem a mystery if / why something is suggested. 
 Why did I ask you to write down the time?
@@ -48,8 +52,6 @@ It tells you nothing on its own,
 but as things happen at later times,
 it gives you a comparison point.
 When you finish the book, when you started acting differently, when you started feeling better, etc.
-
-The numbering system is explained more in "Reader." (ROLE-READER)
 
 
 ### logistics
