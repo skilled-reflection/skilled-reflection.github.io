@@ -233,6 +233,11 @@ classifies EXAMPLES as
 A or B.
 These are alternatives.
 
+All IDEAS and LINKS are WORDS.
+All EXAMPLES are reality.
+Collections of EXAMPLES are DATA
+(to be handled, later).
+
 ### NOTES  
 improving WORDS
 to improve actions
@@ -300,7 +305,7 @@ with generalizations.
 Thus, WORDS are more precise
 when hypothesizing (categories).
 
-x-PRI
+`x-PRI`
 Two people with identical PRIs see the world identically.  
 To improve COMM, study the difference
 between CONTENT and STYLE.
@@ -357,7 +362,7 @@ BRAND is
 STYLE that intentionally simplifies or obscures relevant  
 LINKs to an IDEA. 
 
-## SR (w DOC)
+## SR
 
 The value of words (meaning)
 depends on TIME.
@@ -560,13 +565,13 @@ RISKs
 
 ## Plans
 
-### SELF-W
+### SELF
 speak the truth or shut up.  
 Use them for decisions, not emotions.   
 Use to facilitate your life PLAN and 
 stop talking for other reasons.  "
 
-### PPL-W
+### PPL
 Do not use a word that is more of a Lie
 
 assert boundaries against 
@@ -574,10 +579,12 @@ exaggerated words or
 unreliable time (scheduling)
 
 
-### NOTES
+### NOTES  
 Add structural consistency to make LINKS more explicit.
 edit/apply these techniques as a form of active READING.
-  
+
+`insert pushed word-notes from issue, here`  
+
 ## L6: 0 or 1
 As a human you are endowed with words.
 Too much, so.
