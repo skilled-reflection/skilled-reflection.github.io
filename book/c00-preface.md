@@ -1,4 +1,4 @@
-## Preface  
+# Preface  
   
 Dear Friend,  
 
@@ -7,18 +7,16 @@ This book is for you if
 there is something in the meantime
 worth maximizing.  
 
-### lesson-preface
-lesson 1
-how to read this book
+## how to read this book
 
 The purpose of this book is for you to engage your life.
 
 1-get a pencil and note the time in box A.
 
 2-in box B, if you 
-- did, put "2".
-- didn't and felt, "will do, but first let me read on.", put "1".
-- didn't and felt, "that's dumb, strike 1 for this book," put "0".
+- did 1, put "2".
+- didn't do 1 and felt, "will do, but first let me read on.", put "1".
+- didn't do 1 and felt, "that's dumb, strike 1 for this book," put "0".
 
 If you wrote 2, you hold curiosity enough to try new things,
 or lie about it.
@@ -133,8 +131,7 @@ to inspire me to write a second edition,
 quickly, more brief and clear.
 
 ### Figure 1  
-  
-Figure 1. 
+[](fig1.jpg)  
 The relationship between core IDEAS of this book. 
 These will appear throughout in capital letters, and 
 are thoroughly explored in Part Two. 
