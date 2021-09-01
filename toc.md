@@ -2,25 +2,12 @@
 
 ### Change your thoughts. Change your life.  
 
-_intellectual coaching, 
-mind-training, 
-defining goals, 
-accountability, 
-expanding the boundaries of the mind, 
-personal development, 
-redirecting your life, 
-tapping into your capabilities, 
-identifying and challenging limiting patterns of thought, accomplish goals, 
-unlock abilities, 
-tap into your potential, 
-motivation_
-
 ## Table of Contents  
 
 1. [Preface](c00-preface.md)
 2. [Introduction](c01-Intro.md)
 3. [Reader](c02-Reader.md)  
-**The Garden:**  
+**The Garden**  
 3. [Preface](c03-Gdn-prfc.md)
 4. [Self](c04-Gdn-Self.md)
 5. [Pri](c05-gdn-pri.md)
