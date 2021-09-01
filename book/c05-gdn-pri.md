@@ -1,15 +1,3 @@
----
-title: "5. The Garden: Pri"
-output:
-  pdf_document: default
-  word_document:
-    reference_docx: template.docx
-version: 2.0.5
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
 
 ## The Garden: Pri  
 ### LIFE, LOVE and DEATH  
@@ -81,7 +69,7 @@ and always occasionally
 in very inopportune times and ways.
 
 
-## 04 Pri 177  
+## Ideas
   
 All GOALs rely on a single, finite  
 source of attention, and existence:  
@@ -129,7 +117,23 @@ FORCES, FORGETTING,
 PRI, and LIB.
 
 
-  
+## Plans
+### PRI	
+group GOALs by shared actions, places, or times.  
+Make/group/keep, 
+order, reduce in the order presented in Figure 4.
+"A place for everything, everything in its place"
+
+ALIGN SELF and VALUE
+Adopt all your goals to REALITY ("above", e-you will die). 
+Think about the sum of your GOALS, 
+
+### TIME
+Do not ignore time
+Estimate durations accurately
+for GOAL accomplishment
+
+
 ## L4: Time  
 These are two exercises that
 can be used to plan your day.
