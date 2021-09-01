@@ -11,12 +11,14 @@ worth maximizing.
 
 The purpose of this book is for you to engage your life.
 
-1-get a pencil and note the time in box A.
+1-get a pencil and note the time, here: \_\_\_\_.
 
-2-in box B, if you 
+2-in the box below, if you 
 - did 1, put "2".
 - didn't do 1 and felt, "will do, but first let me read on.", put "1".
 - didn't do 1 and felt, "that's dumb, strike 1 for this book," put "0".
+
+\_\_\_\_
 
 If you wrote 2, you hold curiosity enough to try new things,
 or lie about it.
