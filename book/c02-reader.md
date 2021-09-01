@@ -1,18 +1,4 @@
----
-title: "2. Reader"
-output:
-  word_document:
-    reference_docx: template.docx
-  pdf_document: default
-version: 2.0.5
----
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
-wc 324
-- 2021-08-12
 
 (How would your life look 
 if you put it on paper?)
@@ -34,18 +20,22 @@ It starts with your words.
 2.Are you capable of moving toward it?  
 3.Are you ready?  
 
-## L5: Self  
+## Lesson: Self  
 
-## Focus
-your identity
-is a star (point),
-seen from the eyes of reality,
-feet of progress underneath you.
+### Focus
+A perfect human is one
+who sees their destination
+as clear as the sun on the horizon,
+able-bodied to get there.
 
-Habit of strength needed
-to take the right steps,
-keen eyes to optimize course
-focused mind to steady the foot.
+This framework considers
+two interrelated ideals:
+a FIT self with WIT.
+
+Your intention is to be FIT for 
+the actions your body and the world requires,
+and WIT to decide what's required,
+and making a HABIT of acting accordingly.
 
 ### Attention  
 Everything is meant plainly.   
@@ -88,6 +78,12 @@ Skilled Reflection
 will help you improve.
 
 ## READER
+As an action,
+READING can feel 
+boring or difficult.
+As you read this book,
+you are listening to me.
+You chose to be here.
 
 listening to another person.   
 
