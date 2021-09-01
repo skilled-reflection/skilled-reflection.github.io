@@ -76,8 +76,33 @@ re-do your shitty lecture,
 until your student has earned 
 both your time.
 
+## questions  
+it's been asked,
+"What is the diff
+between loving,
+and being in love?"
+what evidence would
+support an answer beyond
+the feeling
+associated with
+the idea of a difference?
+
+What's the diff
+between loving and
+being in love with yourself?
+or with god?
+
+## answers  
+you wanted to make sure 
+my passwords were 
+easy to find if i died. 
+they will be in here. 
+these are my passwords. 
+
+
 
 ## v-10001  
+x-death_cab_for_cutie-binary_sea
 
 2021-08-13-2145 v10001 init
 
