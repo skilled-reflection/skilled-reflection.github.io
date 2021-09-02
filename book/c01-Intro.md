@@ -5,8 +5,7 @@ we are familiar with
 identifies a gap in knowledge, 
 and proposes to fill it.
 
-This book 
-begins with YOUR understanding;
+We began with YOUR understanding;
 of yourself and your actions, first,
 then of your immediate environment,
 and then with extreme caution,
@@ -22,7 +21,8 @@ but they will always connect to fundamental experiences.
 In this way it is possible to collect and summarize
 an empirical description of reality,
 and all its possibilities from birth to death.
-This is the ground truth for the social sciences.
+This is the ground truth for the intellectual boot camp (IBC),
+and ideally, the rest of social sciences.
 
 The core assumption is that
 any improved empirical description in this way
@@ -36,7 +36,7 @@ we don't already have it,
 because of a number of methodological challenges.
 To illustrate these issues, 
 consider just a single, knowable event
-that a single person experiences.
+that a person experiences.
 what that person
 - understands about themselves,
 - and their experience,
@@ -55,22 +55,21 @@ for understanding and solving
 the problems in your life,
 framed purely by your own terms.
 
-Before I elaborate on that objective,
-I'll briefly name all the problems identified by
-people who spend a lifetime
-as a student ("academics"),
-have identified.
 
 ### Problems
-The set of problems here,
-I like to think of akin to GERMS.
-Both before and after their discovery,
-they were everywhere.
-We are used to them.
+
+Before I elaborate on that objective,
+let's review some fundamental problems 
+in social science research.
 
 There is no universal or ground truth for:  
 
 #### Experience, Value   
+(Read as: 
+_There is no universal or ground truth for Experience, or Value._) 
+
+It is difficult to give a rigorous, and unchanging answer to these questions.
+
 What is the material (money) value of
 - happiness?
 - food?
@@ -81,29 +80,35 @@ How much does it depend on
 - your marital status?
 
 #### rational action  
-Economists flipped shit at irrational behavior.
 Given options A or B, what to do?
+It turns out the answer is not always, "the better choice."
+What _is_ the better choice?
+What is the _popular_ choice?
 
-At the limits, I'll argue this sort of question is
-the building block of what we aim for with
-- education, intelligence, skills.
+These questions are 
+the building blocks of what we aim for with
+ education, intelligence, skills.
 
 Whereas economists and behavioral research
 have put humans in research labs 
 to see which they choose,
-I argue the answer is 
+I argue the necessary and more valid approach is 
 to remind humans of making better choices 
 out in their lives,
 ask them to keep track of the ones they did,
-why, and what happened.
+why, and what happened 
+(with as little time in the lab as possible).
 
-I call this the "bet" framework. Its standardization lends for quantifying and summarizing many decisions.
+That is precisely what the BET framework
+attempts to accomplish. 
+Its standardization lends for quantifying and summarizing many decisions.
 
 Couple the above data with experiences and values, and we can interpret results for future problem-solvers, or, "educate our youth".
 See "to Education" in Chapter 1.
 
 #### Words  
-These give us great traction on 
+
+Building on the last approach, we have great traction on 
 one of the foundational problems in philosophy: 
 the meaning of words.
 
@@ -117,6 +122,11 @@ communication, they could be.
 This means removing politeness and authorship
 from meaning making, using, and sharing.
 Especially for the nature of science.
+It gives meaning a chance to stand clearly.
+If the meaning-makers obey the BET framework,
+and work toward GOALS with PRI, SELF, and PPL in mind,
+then we have a clear benchmark
+against which to evaluate decisions, goals, and beliefs.
 
 ### Answers  
 One of the most common pitfalls
@@ -189,4 +199,50 @@ live your better life.
 
 For any of the academic types,
 see me afterward.
+
+
+## The Garden
+
+The chapters on the Garden describe the key IDEAS of this book: the existential experience of being human--from the biological of eating and sleeping to thinking and meaning-making. The purpose is to illustrate the interdependence of mind and body (Garden-1), death and meaning (Garden-2), self and others (Garden-3).
+
+"The Garden" is a description to be experienced. The purpose is for you to make
+a Garden with the specifics of 
+your own life, identity, and ambitions.
+As a metaphor, the Garden helps foreground the things we often lose sight of when conceptualizing: life is brief and we are mortal.
+
+Your ability to imagine your garden shows how the mental world can be strategic and powerful in bringing clarity to your reality. 
+However, your mind can also be idealistic in ways that set you up for failure and suffering. 
+
+
+### IDEAS and Plans  
+The second part of each chapter
+returns to reality.
+"IDEAS and Plans" gives
+clear, literal and concrete language 
+to the key IDEAs and consequences (LINKs)
+in "The Garden".
+
+Definitions for IDEAS (ALL CAPS) are always 
+describing some sense(s) of 
+what you already know by the same name,
+but LIMIT which relevant senses.
+For example "WORK" is about careers,
+but not 'yard work'.
+
+Generally, this is to give
+IDEAS measurable, consequential meaning.
+See the chapters on WORDS 
+for more.
+
+You can read more about this in "PLANS"
+
+A special case of plans is a LESSON.
+The LESSONS are much like "The Garden",
+meant to activate 
+relevant parts of your reality or beliefs,
+in a way that applies
+the IDEAS introduced.
+They are exercises that
+take between 10 and 60 minutes to complete.
+You can read more about them in "SR".
 

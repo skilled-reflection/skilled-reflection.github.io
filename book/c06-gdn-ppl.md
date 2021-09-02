@@ -92,6 +92,12 @@ to be more similar to another force,
 usually one acting against your goal.
 
 ## Plans  
+### FORCES
+name CHUD; better to know them
+Study how forces work against you.
+ALIGN GOALS with FORCES
+
+### PPL
 Pick WORK and RLTPs that maximize your other PRIs including possibly one that maximizes time and money to apply to other PRIs. 
 
 i-Pick friends the same way.  
@@ -100,7 +106,7 @@ Maximally ALIGN with NORMS with least compromise to PRIs.
 align (get along with) people.
 
 
-## L7: Goals vs PPL   
+## Lesson: Goals vs PPL   
   
 "Student vs. School"  
 **Task 1. 3m, 40w.**  

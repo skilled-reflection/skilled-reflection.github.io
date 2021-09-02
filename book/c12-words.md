@@ -162,6 +162,8 @@ The issue is that descriptions
 can be more and less right,
 more and less helpful.
 
+[](figs/words.png)
+
 ### as-hypothetical  
 All decision are bets, 
 and saying or not saying
