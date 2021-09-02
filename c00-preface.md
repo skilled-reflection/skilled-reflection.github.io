@@ -134,7 +134,7 @@ especially Nick and Bill,
 to inspire me to write a second edition,
 quickly, more brief and clear.
 
-![](figs/fig1.png)  
+![](figs/bet.png)  
 ### Figure 1  
 The relationship between core IDEAS of this book. 
 These will appear throughout in capital letters, and 
