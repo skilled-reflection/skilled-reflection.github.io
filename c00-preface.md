@@ -137,10 +137,8 @@ quickly, more brief and clear.
 ![](figs/bet.png)  
 ### Figure 1  
 The relationship between core IDEAS of this book. 
-These will appear throughout in capital letters, and 
-are thoroughly explored in Part Two. 
-The first word in each row refers to a  
-Chapter (except LIB, a section of COMM).  
+These will appear throughout in capital letters. 
+The first word in each row refers to a Chapter.  
   
 
 
