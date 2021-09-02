@@ -4,7 +4,7 @@
 You can take control of your life, or   
 you can let the world bet for you.    
   
-Human, you can't help but think
+You can't help but think
 how to make your life better. 
 You can leave it to chance or 
 commit yourself to finding out
@@ -113,7 +113,7 @@ until the following call
 for an instructor is met.
 
 
-
+## Ideas
 ## BET
 Betting is confronting   
 costs, habits, unknowns and doubts

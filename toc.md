@@ -1,15 +1,22 @@
-# Skilled Reflection v2
+
+[](figs/title.png)
 
 ### Change your thoughts. Change your life.  
 
+1.Is there a better version of you?  
+2.Are you capable of moving toward it?  
+3.Are you ready?
+
 ## Table of Contents  
 
-1. [Preface](c00-preface.md)
+1. [Preface](c00-preface.md)  
 2. [Introduction](c01-Intro.md)
-3. [Reader](c02-Reader.md)  
+
 **The Garden**  
+
 3. [Preface](c03-Gdn-prfc.md)
 4. [Self](c04-Gdn-Self.md)
+
 5. [Pri](c05-gdn-pri.md)
 6. [Ppl](c06-gdn-ppl.md)
 7. [Bet](c07-gdn-bet.md)  
