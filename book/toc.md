@@ -1,5 +1,5 @@
 
-[](figs/title.png)
+![](figs/title.png)
 
 ### Change your thoughts. Change your life.  
 
