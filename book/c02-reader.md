@@ -35,7 +35,7 @@ a FIT self with WIT.
 Your intention is to be FIT for 
 the actions your body and the world requires,
 and WIT to decide what's required,
-and making a HABIT of acting accordingly.
+and act accordingly.
 
 ### Attention  
 Everything is meant plainly.   
@@ -49,10 +49,7 @@ pay attention to right now.
 Our goal here is thinking.   
 Thinking happens in your heads.   
 In order to do something about it,   
-we need to think on paper.   
-[You'll write a lot. 
-You'll delete a lot.  
-You'll get good at writing.]  
+we need to think on paper.  
   
 ### Time  
 

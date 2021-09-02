@@ -1,5 +1,8 @@
 
-## The Garden: Self 
+[](figs/rm-garden1.png)  
+
+# The Garden
+## Part One: Self 
 
 Imagine your life is a garden. 
 Every one of your life ambitions, GOALS,  
@@ -83,7 +86,8 @@ are grounded in their most basic
 sense: time and attention.  
 
 
-## Ideas
+## Ideas  
+
 ### GOAL
 A GOAL  
 - names a problem,   
@@ -93,7 +97,7 @@ A GOAL
   - finite and singular or persistent and recurring.   
   - REALITY or FANTASY.  
   
-### PLAN
+### PLAN  
 Words that might
 improve the chance and   
 decrease the cost 
@@ -107,7 +111,7 @@ PLAN templates:
 1.  LESSONs. For thinking. Read and complete steps in order.   
 2.  TOOLs. Physical or mental objects.  
   
-### Self
+### Self  
 Every day, as a human, 
 you spend time and attention
 just meeting basic needs:
@@ -162,12 +166,6 @@ When they are immediately available,
 they are called CAKE. 
 
 ## Plans  
-
-### FORCES
-name CHUD; better to know them
-Study how forces work against you.
-ALIGN GOALS with FORCES
-
 
 ### PLANS
 Do not write PLANs you won't follow.
@@ -264,7 +262,7 @@ Set a date on the calendar
 to assess your commitment to this plan.   
   
 
-## L8: Food vs Cake  
+## Lesson: Food vs Cake  
 In your life,
 you have many experiences
 that seem separate,
