@@ -9,7 +9,7 @@
 
 ## Table of Contents  
 
-1. [Introduction](c01-intro.md)
+1. [Introduction](c01-Intro.md)
 
 **The Garden**  
 
