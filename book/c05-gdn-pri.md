@@ -96,19 +96,17 @@ Grouping works for
 IDEAS, PLANS, GOALS, or HOME things.
 
 Figure 3.   
+
+![](figs/group.png)  
+
 SAVINGs are illustrated as a function of GROUPs,
 across three rooms. The same OBJECTs are: 
 As you find them (Room 1),   
 labeled clearly (Room 2), and  
-Grouped by function (Room 3).    
+grouped by function (Room 3).    
 Letters reflect different things, and  
 shape differences reflect different kinds of things.  
 
-
-### RETIREMENT-group
-time until you die;
-resource and automation for 
-remaining SELF (CHUD maintenance).   
   
 ### TIME  
 
