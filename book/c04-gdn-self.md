@@ -88,6 +88,8 @@ sense: time and attention.
 
 ## Ideas  
 
+![](figs/rm-goals.png)
+
 ### GOAL
 A GOAL  
 - names a problem,   

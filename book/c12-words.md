@@ -83,12 +83,6 @@ do not over-think it
 
 ## L10 Simulation Test  
 "Self-testing"  
-  
-(
-revise exercise toward this pitch:
-Betting on words to ignite action
-without hesitation.
-)
 
 In this lesson, we'll dive into our lives without any planning.   
 For this to be effective  
@@ -312,7 +306,7 @@ Two people with identical PRIs see the world identically.
 To improve COMM, study the difference
 between CONTENT and STYLE.
 
-### DOC (combine w NOTE, WC)
+### DOC  
 
 Studying LINKs will improve 
 IDEAs and BETs in your life.  
@@ -587,7 +581,7 @@ edit/apply these techniques as a form of active READING.
 
 `insert pushed word-notes from issue, here`  
 
-## L6: 0 or 1
+## Lesson: 0 or 1
 As a human you are endowed with words.
 Too much, so.
 For a moment, forget those words.

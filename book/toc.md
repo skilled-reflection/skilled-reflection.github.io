@@ -9,20 +9,19 @@
 
 ## Table of Contents  
 
-1. [Preface](c00-preface.md)  
-2. [Introduction](c01-intro.md)
+1. [Introduction](c01-intro.md)
 
 **The Garden**  
 
-3. [Self](c04-gdn-self.md)
-5. [Pri](c05-gdn-pri.md)
-6. [Ppl](c06-gdn-ppl.md)
-7. [Bet](c07-bet.md)  
+2. [Self](c04-gdn-self.md)
+3. [Pri](c05-gdn-pri.md)
+4. [Ppl](c06-gdn-ppl.md)
+5. [Bet](c07-bet.md)  
 
 **The Bootcamp**  
 
-8. [Education](c09-ibc-ed.md)
-9. [Culture](c10-ibc-culture.md)
-10. [Words](c12-words.md)
-11. [Epilogue](c14-calling.md)
+6. [Education](c09-ibc-ed.md)
+7. [Culture](c10-ibc-culture.md)
+8. [Words](c12-words.md)
+9. [Epilogue](c14-calling.md)
 
