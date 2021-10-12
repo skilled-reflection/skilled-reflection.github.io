@@ -2,6 +2,112 @@
 [](figs/rm-garden1.png)  
 
 # The Garden
+## for 601
+2021-10-12-1203
+
+### Lesson: student vs school
+## "Student vs. School"  
+
+**Task 1. 3m, 40w.**  
+List four objectives, goals, course or program requirements that are  
+most on your mind right now.   
+Whether most frustrating, or most critical  
+to you, even 'impress my professor'.  
+
+
+Your current program requires things your 10 year plan does not.   
+Courses impose a number of  
+conditions on your life:    
+1.  Fixed time: courses  
+2.  Variable time: assignments  
+3.  Uncertain time: studying  
+  
+
+
+**Task 1. 3m, 40w.**  
+What are your top 4 goals for  
+the next 10 years?  
+you could work on any part of yourself,   
+move toward any goal you want.  
+  
+list four goals,  
+Each no longer than 10 words  
+
+**Task 3. 3m 40w**
+What's the difference?
+
+
+### afterlude
+Imagine a perfect course exists,   
+designed to teach you    
+to fulfill your specific ambitions.
+every aspect of what you NEED to know,
+that is known and communicable,
+is the only thing written.
+everything that cannot be known
+but must be discovered or practiced,
+is laid out as a set of instructions,
+described in the words that
+maximize the learning opportunity, and your progress.
+
+Rather than a course in a classroom,
+the perfect class
+accompanies you as you live your life,
+suggesting breaks to strategize your decisions,
+study how to generalize for future decisions,
+and so on.
+Any social function you wish to serve,
+artist, engineer, therapist, insurance salesperson,
+is recast in terms of specifically, and 
+only what you need,
+to do it the way you want.
+
+Any relationship, interpersonal skill,
+that is realistically possible for you,
+is preceded with the guidance and education
+that prepares you emotionally
+to choose the right experiences
+that set you up to be most likely
+to find and make the most of 
+opportunities to share yourself with another.
+
+If you then take a sense of this referent,
+and generalize to all the humans in the world,
+then identify common denominators,
+common causes and etc.,
+you have a description of
+the social sciences and education.
+
+This is silly to imagine,
+because it is so unrealistic.
+
+
+### to Education  
+No one chose to be born.
+Everyone begins life 
+with problems 
+that do not have names. 
+
+School books tell a student 
+what the answer is not (quite).
+
+The gap between problem
+and book answers
+is left for the student
+to "apply".
+
+ANSWER: 
+let the student
+Define the problem
+through their
+reality and life goals.  
+
+Let them write the plan
+and teach them only
+what is needed
+to succeed. 
+
+
 ## Part One: Self 
 
 Imagine your life is a garden. 
@@ -22,7 +128,9 @@ grow almost anywhere.
 Whether they are dear to you or weeds,   
 if they take your time, 
 they are in your garden.  
-  
+
+### today
+
 Today, you are on one end looking out across the  
 entire garden.   
 What has already been planted? 
@@ -53,7 +161,57 @@ What do you need to cultivate,
 today?  
 What do you want to cultivate 
 in this life?   
+
+### L4: Time  
+These are two exercises that
+can be used to plan your day.
+They are set up in a way
+that confronts one of the most common
+mistakes of planning:
+being unrealistic in your expectations.
+
+#### A. Typical Day  
+Think about a day and how much time you  
+spend on various activities, averaged over 365 days in a year. 
+Then pick a GOAL,  
+and estimate the changes  
+required to make it happen. 
+The first step reflects your HABITS, 
+and the changes reflect COSTS.  
   
+__Table 3. __First approximation of how my time is  
+spent (hours), sorted by GOALS and subgoals, and any details that are  
+worth noting. Hours total 24, and assume 365 days / year. Non-daily  
+activities such as visiting the dentist are factored in, accordingly.  
+Second approximation (ideal) reflects where I would like to be over the  
+next 3-4 months of my life.  
+  
+#### B. Morning Bets  
+  
+Task 1. 5m, 50w.  
+  
+Take five minutes to produce the words that are most likely to  
+accomplish your goals for the day. This may include describing the  
+goals, the plan, and/or the doubts.  
+  
+Task 2. 5m, 50w.  
+  
+Copy those 50 words, and revise them according to the following  
+instruction.  
+  
+Replace "accomplish your goals" with "do". In 50 words, what should you  
+(or an all-knowing observer) bet on that you will do, today? Regardless  
+of what you assumed in Response one, do not write with the intention of  
+'motivating' yourself, but to simply describe your day. (If this is too  
+hard, simply evaluate what you did yesterday.)  
+  
+Task 3. 5m, 0w.  
+  
+Compare your responses. Positive differences (more optimistic) in your  
+first response reflect bets you are making against your habits.  
+
+@## today's answer.
+
 First, 
 you want 
 what your body and mind best respond to. 
@@ -116,48 +274,42 @@ PLAN templates:
 ### Self  
 Every day, as a human, 
 you spend time and attention
-just meeting basic needs:
-eating, drinking, pooping, and  
-sleeping. 
+just meeting basic needs: 
+eating, drinking, pooping, and sleeping. 
 
 SELF is what's necessary and sufficient
-to manage CHUD,
-and maximize BETs.
+to manage CHUD, and maximize BETs.
 
 FITNESS is ALIGNING CHUD toward CAKE.
   
-SELF optimizes bodily homeostasis   
-- Eating,   
-- sleeping,   
-- pooping,   
-- showering,   
-- making babies, and   
-- staying alive   
-in order to maximize your values.  
+Good self-management is maximizing the homeostasis of these needs,
+on the bet that they will maximize your values.  
+While all humans must engage with each,
+each human's CHUD will dictate how much.
 
-While all humans must engage
-with each,
-each human's CHUD
-will dictate how much.
-
-### (GROUPS)  
-SELF is grouped by GOALs of your body:   
-Being fed, well-rested, and unstressed.  
+Keep a clean HOME, and LIB
 
 ### HOME  
-A HOME groups associated actions by place: 
-storing food,  
+The collection of places and tools needed
+for the habits that underscore SELF-maintenance,
+are "HOME".
+Home is an organic optimization, a GROUP.
+
+A HOME further groups related actions into rooms: 
+a kitchen for storing food,  
 providing running water, 
 and protection from the elements.   
 
-All physical material and  
+This definition of HOME is expanded to include
+all physical material and  
 resources you own, including MONEY; and
 environment and basis for HABITS.
 
 A good HOME is a PLAN for SELF;  
 simplifying the GOALS of   
 eating, sleeping, and other basic needs.   
-A bad HOME facilitates bad HABITs.
+A bad HOME facilitates bad HABITs,
+and takes more time to maintain than provide homeostasis.
 
 ### VALUES
 Anything fulfilling,  
@@ -171,10 +323,7 @@ they are called CAKE.
 
 ### PLANS
 Do not write PLANs you won't follow.
-To assess PLANs (e-in this book) see READING
-clarify planning and improve your expectations
-
-Keep a clean HOME, and LIB
+For assessing PLANs see READING.
 
 ### SELF	
 Identify and revise VALUES that are 
@@ -194,6 +343,7 @@ Build routines for
 
 Satisfy HOME, and SELF GOALs 
   
+
 ## Lesson: Self250  
   
 How accurately can you describe yourself?  
@@ -339,4 +489,5 @@ incorporate compassion toward yourself for how you might end up
 responding, including feeling anxious for the entirety of spring break.  
   
 Write out your spring break goals with midterm goals incorporated.  
+
 

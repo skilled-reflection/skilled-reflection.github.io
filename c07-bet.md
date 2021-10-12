@@ -12,7 +12,7 @@ which thoughts are right,
 and live that better life.
 
 What you're likely missing is
-a bigger dose of explicit doubt.
+a bigger dose of explicit doubt. 
 
 If you want your dreams to become real,    
 listen to your doubts.
@@ -211,7 +211,7 @@ Explore and learn where the line of control is,
 Expand control productively, and  
 Let go of unhelpful attempts to control.  
 
-## L9: Doubt   
+## L9: Doubt (Pandemic)   
   
 Imagine receiving the perfect email   
 that meets your needs;   
