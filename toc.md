@@ -3,16 +3,15 @@
 
 ### Change your thoughts. Change your life.  
 
-Language comprehension is an involuntary event.
+Comprehension is involuntary.
 You cannot help but recognize meaning 
 if you see or hear language.
 This likely means that
 your involuntary response
 to this section title 
 was something like,
-"Why not? 
-But its easier
-said than done."
+"Easier said than done."
+
 Sometimes real meaning requires voluntary thought.
 Often, all it takes is a
 seemingly incopatible pair
