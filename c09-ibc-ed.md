@@ -1,28 +1,4 @@
 
-## to Education  
-No one chose to be born.
-Everyone begins life 
-with problems 
-that do not have names. 
-
-School books tell a student 
-what the answer is not (quite).
-
-The gap between problem
-and book answers
-is left for the student
-to "apply".
-
-ANSWER: 
-let the student
-Define the problem
-through their
-reality and life goals.  
-
-Let them write the plan
-and teach them only
-what is needed
-to succeed.
 
 ## pay attention
 
