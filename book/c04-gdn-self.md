@@ -2,20 +2,14 @@
 [](figs/rm-garden1.png)  
 
 # The Garden
-## for 601
-2021-10-12-1203
 
-### Lesson: student vs school
 ## "Student vs. School"  
 
 **Task 1. 3m, 40w.**  
-List four objectives, goals, course or program requirements that are  
+List four course objectives
+or program requirements that are  
 most on your mind right now.   
-Whether most frustrating, or most critical  
-to you, even 'impress my professor'.  
 
-
-Your current program requires things your 10 year plan does not.   
 Courses impose a number of  
 conditions on your life:    
 1.  Fixed time: courses  
@@ -34,6 +28,8 @@ list four goals,
 Each no longer than 10 words  
 
 **Task 3. 3m 40w**
+Your current program requires things 
+your 10 year plan does not.   
 What's the difference?
 
 
