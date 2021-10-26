@@ -1,7 +1,7 @@
 
 ## The Garden: PPL 
 
-*PPL*    
+*PPL*   
 Think of the seeds of people 
 that clarify and cultivate your garden. 
 
@@ -107,8 +107,8 @@ align (get along with) people.
 
 
 ## Lesson: Goals vs PPL   
-  
-"Student vs. School"  
+## "Student vs. School"  
+
 **Task 1. 3m, 40w.**  
 This is a lesson in curriculum writing.  
 Imagine a perfect course exists,   
