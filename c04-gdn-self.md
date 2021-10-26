@@ -48,15 +48,18 @@ maximize the learning opportunity, and your progress.
 
 Rather than a course in a classroom,
 the perfect class
-accompanies you as you live your life,
-suggesting breaks to strategize your decisions,
-study how to generalize for future decisions,
+is a manual to reference 
+as you live your life,
+or at least until you've internalized its contents:
+when to take a break to strategize your decisions,
+lessons on what opportunities to watch for and resist,
 and so on.
-Any social function you wish to serve,
+Any social role you wish to take on,
 artist, engineer, therapist, insurance salesperson,
-is recast in terms of specifically, and 
-only what you need,
-to do it the way you want.
+reliable partner,
+is customized intimately,
+curated perfectly for 
+what you need.
 
 Any relationship, interpersonal skill,
 that is realistically possible for you,
@@ -67,19 +70,22 @@ that set you up to be most likely
 to find and make the most of 
 opportunities to share yourself with another.
 
-If you then take a sense of this referent,
-and generalize to all the humans in the world,
-then identify common denominators,
-common causes and etc.,
-you have a description of
-the social sciences and education.
+If you then take this notion of a personal book
+and consider one for all the humans in the world,
+then identify what is in common,
+in theory you have a description of
+the social sciences.
 
 This is silly to imagine,
-because it is so unrealistic.
-
+because such books are far from reality. 
+The thesis of *this* book
+is that social sciences are 
+missing a vital factor to
+approximates such a book,
+a census of all human thought and actions.
 
 ### to Education  
-No one chose to be born.
+(No one chose to be born.)
 Everyone begins life 
 with problems 
 that do not have names. 
