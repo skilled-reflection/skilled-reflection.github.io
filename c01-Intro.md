@@ -38,81 +38,139 @@ I posit an idea in "loud" terms,
 and you identify the appropriate volume for your own truth.
 More on this can be found in [words].
 
-The bad consequence is that it could seem a mystery if / why something is suggested. 
+The bad consequence is that much is left between the lines. 
 Why did I ask you to write down the time?
-Because all of your life, the good and the bad, 
-are most simply knowable, understandable, manipulable, in terms of time. 
-The more you know how your life, your meaning, etc., 
-relate to time, the more you understand your life, 
-and have a chance to do something about it.
-In this case, you now have 
+
+you now have 
 a rough estimate of when you started reading this book.
 It is a bookmark in your life. A moment.
 It tells you nothing on its own,
 but as things happen at later times,
 it gives you a comparison point.
-When you finish the book, when you started acting differently, when you started feeling better, etc.
+When you finish the book, 
+when you started acting differently, 
+when you started feeling better, etc.
+
+The more you know how your life, your meaning, etc., 
+relate to time, the more you understand your life, 
+and have a chance to do something about it.
 
 
-### logistics
-The book is organized into 
-parts. 
+### camp homeless
+I predict the most difficult part
+of reading this book
+is how uninteresting it seems,
+a book that describes
+obvious facts of life.
+Very little should surprise you,
+the reader engaged in simulating
+what I describe,
+because it
+falls awfully close to reality.
 
-Part One 
-deals with the existential facts of life:
-you experience it, and you have some control over it.
-By bringing process and analysis to the thoughts
-underlying your control,
-you can investigate, change, and optimize 
-the actions that most greatly improve your experiences.
+So let me offer three hypotheticals
+to help.
 
-To do so 
-with expectations modest and robust enough
-for most people to
-responsibly and effectively benefit,
-would be a fitting, improved "goal"
-of the pedagogy of 
-a mature education system.
+1. go camping
+2. be homeless
+3. try to write your own version of this book.
 
-As such,
-part one deals with the facts of life
-framed as an object of study
-for a novice student.
+1. When you camp, you
+overpack, 
+are late,
+and/or underprepared.
 
-It includes lessons
-as examples
-of how various challenges in life
-may be intellectualized
-for the benefit of the individual
-without imposing an external value system.
+Yes, you are.*
+You cannot give me a good reason
+why planning and executing your life is fundamentally different.
 
-The process of learning is called
-SKILLED REFLECTION.
-The idealized environment and learning culture
-is called
-the INTELLECTUAL BOOTCAMP.
-Don't overthink these frames,
-unless you're prepared to get dirty.
+*If you're a good camper,
+you've learned from mistakes.
+We don't have past lives 
+to learn from.
 
-While life is about a physical relationship
-with the world,
-it is thoughts that have the power to change
-the quality of life.
-Words are as close as we can practically get
-to investigating thoughts.
+The reason is a disconnect between
+your mind's reality,
+and the one you are physically acting in.
+It can be described in many ways,
+and all of them are versions of a single error:
+miscalculation of time on task.
+The most common version of this is
+forgetting necessary subtasks for an intended task.
+Another is that you simply don't do the things you think you will.
+The result is you will die in two worlds,
+the world you imagine you could have lived,
+and the one you did.
 
-In plain words, Part Two deals with
-the pros and cons of WORDS,
-their common uses,
-and a better way of engaging them,
-for the purposes of
-optimizing goals.
+Part one, 
+the Garden, 
+is a tool for remedying 
+all the knowable versions of this problem.
 
-Without spelling out all the flaws,
-Part two analyzes
-the nature of limitations of words
-and proposes lines of investigation
-and revision to lead to better word use.
+#### be homeless  
+The odds are you 
+haven't been homeless,
+but imagine the closest experience
+you've had.
+You couldn't find your car in the middle of winter,
+or you went camping without waterproof gear and it rained.
+In the first moments,
+there is shock and terror,
+frustration and suffering.
+This is the power of your habit
+protesting a change in plans.
+
+In any environment,
+even far into the spectrum of clear suffering,
+if you spend enough time to get used to it,
+that is, develop habits, acclimate,
+then what you deem suffering
+will shift. 
+
+It is hard to describe how this might happen
+for each individual for two reasons.
+First, we're dealing with an unknown experience,
+and second, we each carry a customized collection
+of misattributions that I cannot predict for you.
+Returning to the homeless situation,
+suppose two things:
+you are hungry, and food is what you need.
+Then, imagine you have two choices to pursue:
+food, or cake.
+In your pre-homeless life,
+often you can have food and cake,
+but when it is a choice, you should choose food.
+If you disagree 
+change your answer above to a 1 or 0.
+This book cannot help anyone
+who values hypotheticals more than the practical truth.
+
+To make sure you leave on time,
+and are packed for the things that matter,
+the most important thing you can do
+is be clearer about your priorities.
+Bare necessities at the top,
+cake at the bottom,
+and many hours of thinking and trying out,
+to sort the in-between cases.
+
+Extreme experiences, 
+like being homeless or taking a cold shower,
+can help clarify what really matters,
+and what you can live without.
+
+If, as most of us are,
+we just cannot be bothered to test ourselves that way,
+then I offer an alternative:
+share and discuss your priorities with others.
+This leverages the small ways
+each of us live, "suffering" according to the next person,
+as no two people's pris are identical.
+
+Part two is 
+a group of guidelines for
+sharing ideas with the goal of 
+identifying what matters.
 
 The key arguments are radical application of:
 - brevity
@@ -127,220 +185,20 @@ to reduce potential confusion with lay-definitions.
 
 Thanks to
 the first student of the boot camp, 
-who bet to publish the first edition.  
+who bet to publish the first version.  
 
-Thanks to those who didn't read it,
-especially Nick and Bill,
-to inspire me to write a second edition,
-quickly, more brief and clear.
+Thanks to those who didn't read it
+to encourage me to revise.
+May you find time to advocate your passions, too.
 
 ![](figs/bet.png)  
+
 ### Figure 1  
 The relationship between core IDEAS of this book. 
 These will appear throughout in capital letters. 
 The first word in each row refers to a Chapter.  
   
 
-## Introduction
-The incremental science
-we are familiar with
-identifies a gap in knowledge, 
-and proposes to fill it.
-
-We began with YOUR understanding;
-of yourself and your actions, first,
-then of your immediate environment,
-and then with extreme caution,
-your beliefs about everything else,
-including others' understanding, etc.
-
-If we were to take everyone's above assessment,
-some facts would emerge as universal:
-things about eating and sleeping and dying,
-for instance.
-Most observations will vary,
-but they will always connect to fundamental experiences.
-In this way it is possible to collect and summarize
-an empirical description of reality,
-and all its possibilities from birth to death.
-This is the ground truth for the intellectual boot camp (IBC),
-and ideally, the rest of social sciences.
-
-The core assumption is that
-any improved empirical description in this way
-will be useful for
-both individual and collective issues
-of the social sciences.
-
-What an easy solution!
-Unfortunately,
-we don't already have it,
-because of a number of methodological challenges.
-To illustrate these issues, 
-consider just a single, knowable event
-that a person experiences.
-what that person
-- understands about themselves,
-- and their experience,
-- and makes of it,
-- and reports,
-will vary widely.
-
-The primary purpose of this book
-is to begin solving these problems,
-by presenting YOU
-with an approach to standardizing
-your OWN experiences.
-That is,
-this book is a standard
-for understanding and solving 
-the problems in your life,
-framed purely by your own terms.
-
-
-### Problems
-
-Before I elaborate on that objective,
-let's review some fundamental problems 
-in social science research.
-
-There is no universal or ground truth for:  
-
-#### Experience, Value   
-(Read as: 
-_There is no universal or ground truth for Experience, or Value._) 
-
-It is difficult to give a rigorous, and unchanging answer to these questions.
-
-What is the material (money) value of
-- happiness?
-- food?
-- staying dry?
-
-How much does it depend on
-- how much sleep you've gotten the last week?
-- your marital status?
-
-#### rational action  
-Given options A or B, what to do?
-It turns out the answer is not always, "the better choice."
-What _is_ the better choice?
-What is the _popular_ choice?
-
-These questions are 
-the building blocks of what we aim for with
- education, intelligence, skills.
-
-Whereas economists and behavioral research
-have put humans in research labs 
-to see which they choose,
-I argue the necessary and more valid approach is 
-to remind humans of making better choices 
-out in their lives,
-ask them to keep track of the ones they did,
-why, and what happened 
-(with as little time in the lab as possible).
-
-That is precisely what the BET framework
-attempts to accomplish. 
-Its standardization lends for quantifying and summarizing many decisions.
-
-Couple the above data with experiences and values, and we can interpret results for future problem-solvers, or, "educate our youth".
-See "to Education" in Chapter 1.
-
-#### Words  
-
-Building on the last approach, we have great traction on 
-one of the foundational problems in philosophy: 
-the meaning of words.
-
-The vast complexity and nuance of words,
-its core intractability
-comes from the assumption that
-words are honest and clear.
-They aren't, but by standardizing
-communication, they could be.
-
-This means removing politeness and authorship
-from meaning making, using, and sharing.
-Especially for the nature of science.
-It gives meaning a chance to stand clearly.
-If the meaning-makers obey the BET framework,
-and work toward GOALS with PRI, SELF, and PPL in mind,
-then we have a clear benchmark
-against which to evaluate decisions, goals, and beliefs.
-
-### Answers  
-One of the most common pitfalls
-to perspectives and solutions 
-is to propose that
-people change their behavior.
-
-"If only so-and-so
-would quit smoking,"
-or "give a shit about global warming."
-
-Ironically, it could be said
-this book is the complete and universal
-form of that fallacy,
-albeit with a critical caveat:
-I demand only all the change
-that can and will happen,
-of your own will.
-
-I posit that the foundational,
-universal change of behavior needed,
-are the ones that YOU genuinely
-assert you are ready to make.
-
-This is the point of the book.
-I will give you all the tools
-to verify, let alone test and implement,
-changes you claim you're ready for.
-
-This is Skilled Reflection.
-
-Each of the problems and solutions
-presented above are
-characterized honestly,
-in terms of the selfish gain
-YOU stand to make;
-always, only at
-a cost of change.
-
-Still it is probably not enough
-to overcome all habits.
-So I also promote 
-a culture and ethos of rational change.
-It must be made artificially,
-but, with immersion,
-I bet this is sufficient
-for it to be adopted fluently.
-
-This is the IBC.
-
-So, READER,
-you are now equipped with the topics.
-
-First, you will encounter
-my worldview as a proposal
-for an education program,
-designed specifically for YOU.
-
-Once you've walked through
-its core mission, expectations, lessons,
-Part two will take you
-through the foundational concepts,
-and key lines of reasoning
-to fully implement the program
-in your life.
-
-After that, you're done.
-Go bet on and 
-live your better life.
-
-For any of the academic types,
-see me afterward.
 
 
 ## The Garden

@@ -8,49 +8,50 @@ concept of using language
 --thinking, talking, reading, 
 journaling, following a recipe, etc.
 
-It boils down to two key ideas:
 **insert fm rm**
-words said out loud or written,
-and heard, read, or understood are 
-usually not what people need, want, or mean.
-You benefit from engaging 
-the gap between words and reality.
 
-There are benefits of self-betterment:
-better ideas, clearer plans and realistic goals,
-more effective relationship communication.
+It boils down to two key ideas: 
+words said (out loud or written),
+and understood (heard or read) are 
+usually not what people mean.
+They do not reflect what people want or need. 
 
-or collective: 
+The gap between reality and
+idea as expressed by words,
+is only narrowed with systematic scrutiny,
+the process of BET (Chapter 6).
+
+By engaging 
+the gap between words and reality, 
+you increase self-awareness.
+
+Better words mean
+more practical understanding and expectations,
+more complete desires, and the capacity
+to make a concrete plan for achieving your goals.
+This will naturally include 
+healthier communication and 
+more rewarding relationships.
+
+A community with better words has
 clearer idea sharing,
-synthesizing, advancing,
-learning and teaching.
+synthesizing, developing, 
+teaching and learning.
 
-In turn, how do we 
-maximize connection and 
-reconcile differences with others?
+## Cognition  
 
-Perhaps better understanding of self-other
-increases compassion and 
-relationship quality.
-
-a memory for thousands of words
-has biases which influence 
-thoughts, and future words.
-This is built on cognitive effects
-on words, 
-words on meaning, belief, and behavior.
+A memory tasked to
+translate thoughts into
+the right words from thousands
+is prone to inefficiency;
+the building block of miscommunication,
+doubts.
 
 This section also 
 engages problems of meaning,
 communicating,
 and how words impact
 one's beliefs and behaviors.
-
-
-It sets up predictions
-for how CHUD and why BET
-(which are 
-beyond the scope of this chapter).
 
 These effects
 are each discussed in terms of 
