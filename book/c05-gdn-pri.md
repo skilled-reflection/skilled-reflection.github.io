@@ -1,3 +1,8 @@
+---
+output:
+  pdf_document: default
+  html_document: default
+---
 
 ## The Garden: Pri  
 ### LIFE, LOVE and DEATH  
