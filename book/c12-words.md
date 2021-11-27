@@ -6,7 +6,7 @@ output:
 
 
 ## Intro
-
+ 
 There are two key ideas in this chapter:
 words said (out loud or written),
 and understood (heard or read) are
@@ -36,14 +36,20 @@ teaching and learning.
 
 ## Cognition
 
-A memory tasked to
+Speaking your mind is difficult.
+A memory system dealing with language
+is tasked to
 translate thoughts into
-the right words from thousands
-is prone to inaccuracies,
-similarly, the incidental effects
-of words cannot possibly be managed
-while trying to understand.
-Words have a latent impact on
+the right words from thousands.
+It is prone to inaccuracies.
+
+Similarly, a listener 
+focused on comprehending,
+is not likely to monitor 
+all the incidental priming effects
+of words on a memory system.
+Words said and words heard 
+have a latent impact on
 one's beliefs and behaviors.
 
 These effects
@@ -54,7 +60,8 @@ for the better or worse.
 A habit of betting on words
 will lead to changed use.
 
-The results presented here are
+The result of such bets are
+this book, and this chapter:
 strong rules
 for thinking alone,
 saving, revising,
@@ -63,65 +70,11 @@ reading and communicating ideas.
 My experience led to these guidelines,
 which I hypothesize
 predict good language.
-Language that helps plans
-and the opposite hinders.
 
 The sections
 WORDS, DOCS, SR, COMM, and LIB
 are inter-related,
 dealing with a shared language problem.
-So if the differences are not obvious,
-or a point seems out of place,
-do not over-think it
-(unless you are/want to be a language scientist).
-
-## L10 Simulation Test
-"Self-testing"
-
-In this lesson, we'll dive into our lives without any planning.
-For this to be effective
-you need a task that gives you some stress, or is something you
-might procrastinate or risk not doing (well).
-It could be studying for an exam, or writing a research paper.
- 
-The exercise can apply to a test
-or writing task you haven't started yet,
-or one that you're 75% done with.
- 
-**Task 1. 3m, 40w.**
- 
-Think about the challenging task you've identified.
-Fill in the blank: "The purpose of this task is to demonstrate my
-knowledge of or ability to \_\_\_\_."
- 
-**Task 2. 2m, 0w.**
- 
-Picture someone who doesn't struggle to do this task.
-They would score 100% or write the perfect paper/assignment.
-Assume they weren't born able to do this.
-How did they get that skill?
-Edit the same 4 things to try to make them more concrete and tractable.
- 
-**Task 3. 8m, 100w.**
- 
-Assume that ideal performer writes a custom quiz on
-the very areas you're struggling with.
-Write quiz questions that tests your learning objectives.
-For example, I'm working on a paper that deals with
-how talking happens in the brain.
-A question in my quiz is, "define the two contrasting theoretical
-positions in 15 words, each."
- 
-**Task 4. 2m, 0w.**
- 
-Revise your quiz so that it would take about 30 minutes for your expert to complete, with questions that can be answered in 5 to 25 words.
-Add word and time limits for each question.
- 
-**Task 5. 20-25m.**
- 
-Take your quiz.
-
-
 
 ## Words
 ### DEF
@@ -193,16 +146,38 @@ Reading, thinking, saying, and writing
 a word perpetuates that word's IDEA over others,
 either moving you toward a GOAL, or your HABIT.
 
+### Plans
+Do not use a word that is more of a Lie
+say the truth or be quiet.
+Use words for decisions, not emotions.
+Use to facilitate your life PLAN.
+stop talking for other reasons.
+
+Choose what you listen to:
+assert boundaries against
+exaggerated words or
+unreliable ones.
+
 ### IDEAS
 ### LINKS  
 
 WORDs are one of two types:
  
 1.  IDEAS: words for things.
-2.  LINKS: words that give relationship between things.
+2.  LINKS: words that give relationship between things; actions and transformations
 
 Together, these make up CONTENT
 (vs STYLE).
+
+LINKS are BETS of
+higher risk and reward than IDEAS.
+
+IDEAs are BETs on LINKs
+between EXAMPLEs in the world.
+ 
+The right LINK between IDEAs is
+the foundation of every thought,
+recipe or terrible calculation.
 
 ### Alt (theory)
 An EXAMPLE is
@@ -213,20 +188,20 @@ An IDEA is a set of criteria
 that LINK EXAMPLES
 as similar (vs not).
 
-Good IDEAS
-group EXAMPLES
-in a way that
-improve PLANS and GOALS.
-
 The most basic IDEA
 classifies EXAMPLES as
 A or B.
 These are alternatives.
 
+Good IDEAS
+group EXAMPLES
+in a way that
+improve PLANS and GOALS.
+
 All IDEAS and LINKS are WORDS.
 All EXAMPLES are reality.
 Collections of EXAMPLES are DATA
-(to be handled, later).
+(a topic for later).
 
 ### NOTES
 improving WORDS
@@ -237,11 +212,10 @@ The resulting WORDS are COMM.
 
 NOTES are general PLANs for REVISION,
 and what follows is an introduction.
-A thorough, generalizable treatment
-of writing concisely
-is in progress and
-a draft is available on request.
+(A full draft is available on request.)
 
+Add structural consistency to make LINKS more explicit.
+edit/apply these techniques as a form of active READING.
 
 ### RECIPE
 
@@ -250,11 +224,10 @@ adhere to a RECIPE format.
 The RECIPE format highlights the IDEAS and LINKS of your
 point, and minimizes excessive STYLE.
  
-1.  List key IDEAS.
+1.  List key IDEAS.  
+2.  Describe actions and transformations (LINKS).  
 
-2.  Describe actions and transformations (LINKS).
-
-### COMM
+## COMM
 
 COMM deals with the complexity of PPL and WORDs.
 COMM is the exchange of WORDS with other PPL.
@@ -268,32 +241,30 @@ and therefore in precise meanings.
 #### Ambiguity 2: COMM
 As individuals with distinct PRIs,
 there may be distinct,
-potentially conflicting,
+potentially conflicting
 motives.
 READER and WRITER
 will vary in how much they
 TRUST COMM.
 
 #### Ambiguity 3: WORDS
-WORD definitions
-tend to be categorical.
 The real world is
 particular;
-any experience is an EXAMPLEs.
+each experience is an EXAMPLE.
+A WORD describes groups of experiences in common,
+whether an IDEA or LINK.
 As such,
-the categories from WORDS is always
-underspecified for the particulars.
-In other WORDS,
-GAVAGAI;
-words are never definite and certain
-in what they describe
---of the real world.
+WORDS are always
+less precise than reality.
 
-On the other hand,
-WORD definitions can match perfectly
-with generalizations.
-Thus, WORDS are more precise
-when hypothesizing (categories).
+WORDs are never definite and certain
+in what they describe
+of the real world.
+("Gavagai" is an anecdote popular in linguistics)
+
+A word's definition is a generalization.
+Thus, WORDS are better designed 
+to hypothesize and predict.
 
 `x-PRI`
 Two people with identical PRIs see the world identically.
@@ -316,9 +287,12 @@ Given an IDEA:
   - SELF-MAINTENANCE
 
 2.Keep DOCs short enough that
-the title and CONTENT address (only) one thing really well.
-3.Save selectively and
-4.delete frequently.
+the title and CONTENT address 
+only one thing.
+
+3.Save selectively and  
+
+4.delete frequently.  
 
 ### STYLE, VERSION
 
@@ -348,7 +322,7 @@ editing words to:
 SELF IDEAs are the most STYLE-free.
 e-FOOD and CAKE.
 
-BRAND is
+Bad style is BRAND, 
 STYLE that intentionally simplifies or obscures relevant
 LINKs to an IDEA.
 
@@ -369,16 +343,6 @@ Provide just enough CONTEXT
 to remember the basis of the key IDEAs.
  
 Precision depends on purpose.
-
-LINKS are BETS of
-higher risk and reward than IDEAS.
-
-IDEAs are BETs on LINKs
-between EXAMPLEs in the world.
- 
-The right LINK between IDEAs is
-the foundation of every thought,
-recipe or terrible calculation.
 
 1.  LIST. Name relevant IDEAs for GOAL.
 2.  WRITE a PLAN, (ordered LINKS).
@@ -530,11 +494,11 @@ will be useful enough later
 to save time, overall.
 
 Facilitate RETRIEVAL:
-5.Index (list) DOCs worth rereading.
-6.Assign a number that indicates its relative
+1.Index (list) DOCs worth rereading.
+2.Assign a number that indicates its relative
 importance (abs or relative weight).
-6.Add tags and metadata for easier sorting.
-7.Make and revise only for high-PRI GOAL(s).
+3.Add tags and metadata for easier sorting.
+4.Make and revise only for high-PRI GOAL(s).
   Record and study LIB RETRIEVAL patterns.
 
 ### LIB
@@ -550,81 +514,64 @@ LIB is post-WRITING cache
 to facilitate future production.
 
 RISKs
-1.FALSE POSITIVE: Writing and saving and finding bad DOCs.
-2.FALSE NEG: failure to save and find good DOCs.
+1.FALSE POSITIVE: Writing, saving, and finding bad DOCs.
+2.FALSE NEG: failure to save or find good DOCs.
 
+## L10 Simulation Test
+"Self-testing"
 
-## Plans
-
-### SELF
-speak the truth or shut up.
-Use them for decisions, not emotions.
-Use to facilitate your life PLAN and
-stop talking for other reasons.  "
-
-### PPL
-Do not use a word that is more of a Lie
-
-assert boundaries against
-exaggerated words or
-unreliable time (scheduling)
-
-
-### NOTES
-Add structural consistency to make LINKS more explicit.
-edit/apply these techniques as a form of active READING.
-
-`insert pushed word-notes from issue, here`
-
-## Lesson: 0 or 1
-As a human you are endowed with words.
-Too much, so.
-For a moment, forget those words.
-
-Please answer each question with "0" or "1".
-Do not dwell on any one question.
+All of this book is a lesson in simulation,
+because this is a book with words in it,
+and words are simulations of reality.
+This lesson is an exercise to fearlessly
+take action. Since you'll be writing,
+it works better if the "action" to take is, 
+itself, a writing task.
+It could be an upcoming exam, or writing your will.
+The exercise works whether you are 
+75% done or 5% prepared to start.
  
-1.  Which are you: 0 or 1?
-2.  If the person who knew you best guessed your answer,
-    what would they report? 0 or 1?
-3.  What would you tell them you are?
-4.  What would the last dog you encountered say you are?
+**Task 1. 3m, 40w.**
  
-How do you feel about
-5.  lunch today?
-6.  the chair you are sitting in?
-7.  your fingers?
+Think about the challenging task you've identified.
+Finish a sentence like this: 
+"The purpose of this task is to..."
+Perhaps "demonstrate my knowledge of the endocrine system," or 
+"communicate my values and divvy up my valuables." 
+
+So that I don't continue to prime your death, the remainder of this lesson will focus on the youthful experience of learning.
+
  
-8.  Where do you live?
-9.  When were you born?
-10. What makes this question so simple that you can answer it
-    with 0 or 1?
-11. Is lying, or hoping, or reminiscing 0, or 1?
-12. Have you been telling the truth to these questions?
-13. Are you honest with yourself?
+**Task 2. 2m, 0w.**
  
-14. Are you here?
-15. Do you know?
-16. How do you know?
-17. What would it look like if you didn't know?
-18. What if you *don't know* if you know?
+Picture someone who doesn't struggle to do this task.
+They would score 100% or write the perfect paper/assignment.
+Assume they weren't born able to do this.
+How did they get that skill?
+Edit the same 4 things to try to make them more concrete and tractable.
  
-19. What are you certain of?
-20. Is this annoying or interesting?
-21. Are you ready to use words, yet?
+**Task 3. 8m, 100w.**
  
-22. Imagine you didn't know of language beyond 0 or 1.
-    You didn't know a deeper connection with others was possible.
-    The chance to respond to the following question is
-    your 15 minutes of fame to the universe.
-    What is your one bit of say,
-    written on the ledger next to your existence, or
-    on your tombstone: 0 or 1?
+Assume that ideal performer writes a custom quiz on
+the very areas you're struggling with.
+Write quiz questions that tests your learning objectives.
+For example, I'm working on a paper that deals with
+how talking happens in the brain.
+A question in my quiz is, "define the two contrasting theoretical
+positions in 15 words, each."
  
-23. What's your average score? 0 or 1?
-24. Has this been insightful?
+**Task 4. 2m, 0w.**
  
-If you wrote 1 for 24, congratulations.
+Revise your quiz so that it would take about 30 minutes for your expert to complete, with questions that can be answered in 5 to 25 words.
+Add word and time limits for each question.
+ 
+**Task 5. 20-25m.**
+ 
+Take your quiz.
+
+
+
+
  
  
  
