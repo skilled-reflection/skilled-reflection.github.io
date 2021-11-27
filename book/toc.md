@@ -1,11 +1,8 @@
-
-![](figs/title.png)
-
-### Change your thoughts. Change your life.  
-
-1.Is there a better version of you?  
-2.Are you capable of moving toward it?  
-3.Are you ready?
+---
+output:
+  pdf_document: default
+  html_document: default
+---
 
 ## Table of Contents  
 
@@ -20,8 +17,7 @@
 
 **The Bootcamp**  
 
-6. [Education](c09-ibc-ed.md)
-7. [Culture](c10-ibc-culture.md)
-8. [Words](c12-words.md)
-9. [Epilogue](c14-calling.md)
+6. [Education and Culture](c09-ibc-ed.md)
+7. [Words](c12-words.md)
+8. [Epilogue](c14-calling.md)
 

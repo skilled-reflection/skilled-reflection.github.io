@@ -1,3 +1,10 @@
+---
+output:
+  pdf_document: default
+  html_document: default
+---
+(OMIT- COPIED TO ED)
+# Section Two: Culture  
 
 ## Intro
 
