@@ -4,6 +4,47 @@ output:
   html_document: default
 ---
 
+# pushed-from-c09-ibc-ed
+### RLTP--Peers  
+*push-revision*
+Peer review is a powerful learning tool.
+
+The peer WRITER 
+works with uncompromised objectivity, 
+and liberty to employ Truth, 
+however subjectively "harsh".
+
+### Scientist    
+
+A scientist WORKs to win BETS against the UNKNOWN. 
+They are a professional writer, 
+evaluated on two metrics:
+
+1.For their MEMES of CONTENT.
+2.The net benefit of their MEMES on GOAL outcomes.
+
+A scientist-researcher is a WRITER, 
+a data-collector and hypothesis tester. 
+A scientist-scholar is a READER,
+curating toward theory development and COMM.
+
+### Scholar    
+
+a professional READER and 
+Peer-Reviewer,
+especially in curating the Scientist's insights.
+
+evaluated by repost statistics 
+(others as readers),  
+akin to evaluating twitter users by their retweets.
+*epush*
+
+*push-revision*
+PEERs: 
+Forget *who* provides REVISION and how much. 
+Get answers from others.
+
+# main
 ## COMM
 
 COMM deals with the complexity of PPL and WORDs.

@@ -227,6 +227,89 @@ point, and minimizes excessive STYLE.
 1.  List key IDEAS.  
 2.  Describe actions and transformations (LINKS).  
 
+*push-words, from c09-ibc_ed*
+## manifesto  
+
+If you an informed STUDENT,
+then you will arrive at the following
+principles of knowledge, language, and action.
+
+### better language / world  
+
+Distrust words and ego.
+- Take nothing personally
+- Define everything empirically
+  - comparison group/quantity (has unique outcome)
+- Remove / ignore style
+- Speak for reasons only
+- Idea > authorship (anonymity)
+- Read to refine beliefs and doubts.
+- Write to bet.
+
+#### speak   
+Speak, write, initiate or respond only
+
+in limited duration and words
+dictated by intended outcome.
+
+Do not at all
+when actions or listening 
+are needed.
+
+#### listen  
+listen / read
+be with
+
+when you need to learn / connect
+- limited in duration/words needed
+- to assess consent (agreement).
+
+not when
+- speaking values unadhered
+
+#### repair  
+when listening to invalid speech,
+after--repair
+1m-gently with gestures  
+2m-briefly and clearly with words  
+3m-firmly with boundaries  
+5m-civilly end conversation and walk away.  
+
+
+#### dialog / revise / anon  
+write what you bet  
+revise toward truth  
+- to max others' bets
+
+radical anti-ownership of ideas  
+- edit for anyone with the authority of your autobiography  
+- for the benefit of the OP  
+- expecting only feedback  
+
+### actions  
+commit values to bets  
+- self + calling > cakes  
+- idea > xref  
+- bet > fact > belief > word  
+- action > money > words > thoughts  
+
+solutions to problems  
+- remove problem src or self from problem.  
+- accept that problem comes from other solutions  
+- revise those solutions (ie reuse)  
+- blitz solution  
+- eat, sleep better  
+- wake up: cold shower, pint of water, work out, deaf/blind hour, spend time with an ugly person  
+
+minimalism; align, revise and keep fit  
+- keep only hf things in smallest box possible  
+- keep clean  
+- keep routine (self) needs minimal  
+  - stuff, expectations, plans (movement)  
+
+### actions  
+"if" requires an action argument.  
+- (tethering hypotheticals)
 
 
 
