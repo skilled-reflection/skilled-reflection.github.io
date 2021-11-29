@@ -4,7 +4,7 @@ output:
   html_document: default
 ---
 
-# pushed-frm-self
+# pushed-frm-self 
 2. Study Time to learn reality, SELF, and 
 the LINK between the two.  
 3. Ask/reflect/study: 
@@ -39,8 +39,9 @@ while you're sitting
 here thinking. 
 Reflect only enough to improve your actions.  
   
-Your garden allows you 
-to ground the many goals of your life 
+Visualizing your life as a garden allows you 
+to ground actions and plans. 
+The mind analyzes well with visual space.
 into a medium the mind is well-equipped to analyze: 
 visual space. 
 
@@ -49,8 +50,7 @@ seems unnecessary to represent work satisfaction and relationship
 quality in terms of carrots and tomatoes. 
 
 When you arrive at the moment  
-of boredom or frustration in attempting to put your life in terms of  
-concrete IDEAS and actions between them (LINKS), 
+of boredom or frustration, 
 ask yourself why you  
 are bored and frustrated attempting to define 
 the things that apparently  
@@ -77,17 +77,18 @@ This is what it is for.
 Do not beat yourself up 
 for what you cannot give today.
 
-Instead, prevent the urge to be disappointed
-the next time you are less than productive,
-by planning a fact of being human:
+Prevent the urge to be disappointed
+the next time you are less than productive.
+If you must work to feel worthwhile,
+work to budget for a fact of being human:
 you are always sometimes less than productive,
-and always occasionally 
-in very inopportune times and ways.
+and occasionally your setbacks come 
+in unfortunate forms, at inconvenient times.
 
 
-## Ideas
-  
-All GOALs rely on a single, finite  
+## Ideas  
+Planning for goals requires attention.
+All GOALs rely on a single, limited 
 source of attention, and existence:  
 you.  
 
