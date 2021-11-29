@@ -294,14 +294,16 @@ is not a positive one:
 you should accept you failed,
 and, in part, 
 due to a miscalculation.
+Such a failure suggests 
+other aspects of your plan
+are likely misguided, and
 
-This failure means 
 the goal is further than
 you estimated. 
-If you feel the conclusion is overstated,
+If you disagree,
 let's bet again.
-Or, to address 
-your persistently miscalculated plans,
-consider applying for 
+Otherwise, 
+to fix your miscalculated life plans,
+you'll need  
 the Intellectual Bootcamp.
 
