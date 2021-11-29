@@ -4,6 +4,11 @@ output:
   html_document: default
 ---
 
+# pushed frm garden-self
+Do not write PLANs you won't follow.
+Read to revise plans into ones you'd follow.
+
+# main 
 
 ## Intro
  

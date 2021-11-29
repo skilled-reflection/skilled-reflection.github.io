@@ -4,8 +4,6 @@ output:
   html_document: default
 ---
 
-[](figs/rm-garden1.png)  
-
 # The Garden
 
 ## "Student vs. School"
@@ -257,26 +255,27 @@ sense: time and attention.
 
 ### GOAL
 A GOAL
-- names a problem,   
-- comprises a PLAN for an ideal outcome, and   
-- has COSTS associated with exercising the PLAN.   
-- can be 
-  - finite and singular or persistent and recurring. 
-  - REALITY or FANTASY.
+names a problem,  
+comprises a PLAN for an ideal outcome, and
+has COSTS associated with exercising the PLAN.   
+It can be 
+finite or persistent, 
+singular or recurring, or
+[realistic or not](REALITY or FANTASY).
   
 ### PLAN  
-Words that might
+Words intended to
 improve the chance and 
 decrease the cost 
 of achieving your GOAL.
 
-PLAN types:
-1.  INSTR. Instructions for learning, making, changing, reminding.
-2.  DOC. Document-based GOALs, like manuscripts and resumes.
+PLAN types:  
+1. INSTR. Instructions for learning, making, changing, reminding.  
+2. DOC. Document-based GOALs, like manuscripts and resumes.  
   
-PLAN templates:
-1.  LESSONs. For thinking. Read and complete steps in order. 
-2.  TOOLs. Physical or mental objects.
+PLAN templates:  
+1. LESSONs are a template for thinking. Read and complete steps in order.  
+2. TOOLs. Physical or mental objects.  
   
 ### Self  
 Every day, as a human, 
@@ -291,21 +290,21 @@ FITNESS is ALIGNING CHUD toward CAKE.
   
 Good self-management is maximizing the homeostasis of these needs,
 on the bet that they will maximize your values.
-While all humans must engage with each,
-each human's CHUD will dictate how much.
+Each person's CHUD will vary.
 
-Keep a clean HOME, and LIB
+1. Keep a clean HOME, and LIB
 
 ### HOME
 The collection of places and tools needed
 for the habits that underscore SELF-maintenance,
 are "HOME".
-Home is an organic optimization, a GROUP.
+Home is an example of a GROUP.
 
-A HOME further groups related actions into rooms: 
-a kitchen for storing food,
-providing running water, 
-and protection from the elements. 
+A HOME further groups related actions into rooms,
+such as a room for eating, for pooping, for sleeping.
+Take the eating room, a kitchen.
+It is also for storing,
+preparing and disposing of food. 
 
 This definition of HOME is expanded to include
 all physical material and
@@ -323,32 +322,24 @@ Anything fulfilling,
 including the reason for living. 
 
 VALUES are a good basis for GOALS.
-When they are immediately available,
-they are called CAKE. 
+Any non-SELF value is called CAKE. 
 
 ## Plans
 
-### PLANS
-Do not write PLANs you won't follow.
-For assessing PLANs see READING.
-
 ### SELF	
-Identify and revise VALUES that are 
+Cake can appear as VALUES that are 
 sufficient but not necessary for SELF. 
+1. Identify and revise.
+5. Separate what you need from what you want.  
+6. Master the SELF (survive well).
 
-study time to learn reality, SELF, and the LINK between the two.
-Ask/reflect/study: Does the benefit of a GOAL outweigh the cost of time? 
-Ask what it would take to change (if possible), and whether change is worth it.
-Separate what you need from what you want. 
-- master the SELF (survive well).
+7. Build routines for
+health and fitness,
+physical safety (shelter), 
+a sound mind, 
+healthy relationships.  
 
-Build routines for
-- health and fitness,  
-- physical safety (shelter),   
-- a sound mind,   
-- healthy relationships.  
-
-Satisfy HOME, and SELF GOALs 
+8. Satisfy HOME, and SELF GOALs 
   
 
 ## Lesson: Self250
@@ -422,41 +413,32 @@ to assess your commitment to this plan.
   
 
 ## Lesson: Food vs Cake
-In your life,
-you have many experiences
-that seem separate,
-and often what makes it so
-is how the experience
-relates to your priorities
+Often you will define
+experiences by your 
+priorities
 and immediate desires.
+Experiences out of line with 
+your desires are dreaded,
+and those in line with them
+are eagerly anticipated.
+For example, a college student
+dreads midterms
+and anticipates spring break. 
 
-So, some experiences
-you know you will have
-can be dreaded, 
-while others dreamed of.
+Each are about one week long,
+yet the feeling of time passing
+and the motivation to engage 
+with challenges are very different.
+Anticipations can create 
+disappointment, so
+reduce speculation, 
+especially its harmful effects
+on you.
 
-For example, a full time college student
-often comes to dread midterms
-and dream of spring break. 
-Each are about one week long
-with a clear end, 
-and both are part of a student's life.
-
-The problem is that
-these anticipations
-can create avoidable
-disappointment.
-
-This is an exercise
-to reduce simplistic speculation
-and its harmful effects
-on your behavior and perception.
-
-If you like your life,
-do more of what you like
+Do more of what you like
 when you most need it,
 try to appreciate what you dread,
-and all the imperfections.
+as it is, including the suffering.
 
 **Task 1. 4m, 50w.**
   
