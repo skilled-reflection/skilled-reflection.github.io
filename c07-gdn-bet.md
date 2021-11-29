@@ -16,8 +16,8 @@ commit yourself to finding out
 which thoughts are right,
 and live that better life.
 
-What you're likely missing is
-a bigger dose of explicit doubt. 
+A commitment is the first step,
+but far from the last.
 
 If you want your dreams to become real,
 listen to your doubts.
@@ -28,13 +28,12 @@ move you toward your goal,
 or to adjust your expectations.
   
 Winning means your reality is 
-one shade more like your goal. 
+one step toward your goal. 
 Losing is the wake-up call 
 to be more realistic.
 
-Bets don't make dreams real. 
-Instead, 
-betting is a protocol to guide you to reality, 
+Betting is a protocol 
+to guide you to reality, 
 and, if you're lucky, 
 your dreams might fit in.
   
@@ -104,18 +103,6 @@ I need those rocks.
 Tomorrow I'll finish
 my foundation
 with rocks from the slippery slope."
-
-
-"Y
-  
-Congratulations, 
-you've completed the first lesson 
-of Skilled Reflection.
-
-LINK-toINSTR
-\*Such a program does not exist,
-until the following call
-for an instructor is met.
 
 
 ## Ideas

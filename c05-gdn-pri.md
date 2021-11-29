@@ -4,6 +4,17 @@ output:
   html_document: default
 ---
 
+# pushed-frm-self
+2. Study Time to learn reality, SELF, and 
+the LINK between the two.  
+3. Ask/reflect/study: 
+Does the benefit of a GOAL 
+outweigh the cost of time?  
+4. Ask what it would take to change (if possible),
+and whether change is worth it.  
+
+# main  
+
 ## The Garden: Pri  
 ### LIFE, LOVE and DEATH  
 
