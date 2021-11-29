@@ -107,7 +107,7 @@ with rocks from the slippery slope."
 
 ## Ideas
 ## BET
-Betting is confronting 
+Betting is confronting  
 costs, habits, unknowns and doubts
 that stand in the way
 of your wants and dreams.
@@ -277,29 +277,31 @@ decisions, actions, confidence--
 give permission to take action.
   
 ## Back to the Garden
-The next morning
-you woke to a field
-in unplanned disarray.
+The next morning you woke 
+to a field in disarray
+and a letter.
 You had worked harder than you planned,
 and still fell short of your goal.
-You also awoke to a letter.
 "If you did more than you would have
 without the bet,
-you won something.
-And you also learned 
+you won something,
+including evidence that
 there is some commitment in you
 to make your dreams come true."
 
-But if you only focus
-on the many positives,
-you are very inclined
-to lose the most critical
-reward, the acceptance that
-you discretely failed,
-at least in part due to a miscalculation.
+The biggest reward
+is not a positive one:
+you should accept you failed,
+and, in part, 
+due to a miscalculation.
 
-While you moved toward your goal,
-you have good reason to believe
-that the goal is further than
-you estimate.
+This failure means 
+the goal is further than
+you estimated. 
+If you feel the conclusion is overstated,
+let's bet again.
+Or, to address 
+your persistently miscalculated plans,
+consider applying for 
+the Intellectual Bootcamp.
 
