@@ -297,9 +297,9 @@ due to a miscalculation.
 Such a failure suggests 
 other aspects of your plan
 are likely misguided, and
+your goal is further than
+you estimate.
 
-the goal is further than
-you estimated. 
 If you disagree,
 let's bet again.
 Otherwise, 
