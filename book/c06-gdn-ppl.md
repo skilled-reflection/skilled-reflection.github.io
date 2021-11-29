@@ -49,46 +49,45 @@ be the most reliable way for you.
 
 ### FORCE
 
-cause of change.
-There are forces within your control, and
-forces outside your control.
+A [Force](F1) is a cause of change.
+[There are forces within your control, and
+forces outside your control.](F1.1)
 
-MAINTENANCE is what it costs
-to neither move toward nor away from a GOAL.
-RISKS are covered by INSURANCE.
+[MAINTENANCE](F2) is what it costs
+to neither move toward nor away from a GOAL.  
+[RISKS](F3.3) are covered by [INSURANCE](F4.3).
 
 ### Norms
-NORMS are the web of FORCES of
+[NORMS](F5.1) are the web of FORCES of
 all actions of all people, including
-WORK, religion, popular attitudes, and DOUBTS.
+[WORK](F5.2), religion, popular attitudes, and DOUBTS.
  
-NORMS benchmark the COST of living.
-NORMs pay out MONEY for WORK,
-and can also negatively impact your GOALs.
+NORMS benchmark the [COST of living](F5.31),
+NORMs [pay out MONEY for WORK](F5.32),
+and can also [negatively impact your GOALs](F5.33).
 
-When you are individual,
-NORMS push against you
+NORMS push against [uniqueness](F5.34).
  
-(PPL'S LANGUAGE is made from NORMS.)
+PPL'S [LANGUAGE](F5.35) is made from NORMS.
 
 ### Work
-WORK is made to serve NORMs, not you.
-yet takes 80k hours of your time.
+WORK is made to [serve NORMs](F6.31), not you.
+yet takes [80k hours](F6.1) of your time.
 
-WORK pays the broadest INSURANCE: MONEY.
-Money is traded for MAINTENANCE of
+WORK [pays](F6.32) the broadest [INSURANCE](F4.3): [MONEY](F10).
+Money is traded for [MAINTENANCE](F10.1) of
 SELF and VALUES.
 
 ### RLTP
-GOALs about PPL.
+Relationships (RLTP) are [GOALs about PPL](F7.1).
 Good ones are aligned
-with your VALUES,
-Bad ones cost you.
-RLTPs are reciprocal BETS,
+with your [VALUES](F7.12),
+bad ones cost you. 
+RLTPs are [reciprocal](F7.13) BETS, 
 yours of them, and vice versa.
 
-RLTPs, especially family members,
-coordinate many GOALS for SAVINGS.
+RLTPs, especially [family members](F7.2),
+coordinate many GOALS for [SAVINGS](F7.3).
 
 ### ALIGN
 
@@ -103,9 +102,10 @@ Study how forces work against you.
 ALIGN GOALS with FORCES
 
 ### PPL
-Pick WORK and RLTPs that maximize your other PRIs including possibly one that maximizes time and money to apply to other PRIs.
+[Pick](P1) WORK and RLTPs 
+that maximize your other PRIs including possibly one that maximizes time and money to apply to other PRIs.
 
-i-Pick friends the same way.
+i-[Pick](P2) friends the same way.
 Consider your actions and choices about people carefully.
 Maximally ALIGN with NORMS with least compromise to PRIs.
 align (get along with) people.
