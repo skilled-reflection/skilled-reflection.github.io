@@ -37,9 +37,7 @@ especially in curating the Scientist's insights.
 evaluated by repost statistics 
 (others as readers),  
 akin to evaluating twitter users by their retweets.
-*epush*
 
-*push-revision*
 PEERs: 
 Forget *who* provides REVISION and how much. 
 Get answers from others.
@@ -103,7 +101,6 @@ less precise than reality.
 WORDs are never definite and certain
 in what they describe
 of the real world.
-("Gavagai" is an anecdote popular in linguistics)
 
 A word's definition is a generalization.
 Thus, WORDS are better designed 
