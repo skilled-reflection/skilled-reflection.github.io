@@ -4,7 +4,8 @@ output:
   html_document: default
 ---
 
-# pushed-frm-self 
+# pushed
+## frm-self 
 2. Study Time to learn reality, SELF, and 
 the LINK between the two.  
 3. Ask/reflect/study: 
@@ -12,6 +13,22 @@ Does the benefit of a GOAL
 outweigh the cost of time?  
 4. Ask what it would take to change (if possible),
 and whether change is worth it.  
+
+## frm intro-reader
+
+A perfect human is one
+who sees their destination
+as clear as the sun on the horizon,
+able-bodied to get there.
+
+This framework considers
+two interrelated ideals:
+a FIT self with WIT.
+
+Your intention is to be FIT for 
+the actions the world requires,
+and have WIT to decide what's required,
+and act accordingly.
 
 # main  
 
