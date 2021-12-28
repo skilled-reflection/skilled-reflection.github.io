@@ -8,12 +8,14 @@ output:
 
 1. [Introduction](c01-Intro.md)
 
-**The Garden**  
-
-2. [Self](c04-gdn-self.md)
+**The Garden**  |  *Lessons*
+----------------------------------
+2. [Self](c04-gdn-self.md)  | [vs-School](l06-ppl-school.md)
 3. [Pri](c05-gdn-pri.md)
-4. [Ppl](c06-gdn-ppl.md)
-5. [Bet](c07-bet.md)  
+4. [Ppl](c06-gdn-ppl.md) <--! 517 -->
+5. [Bet](c07-gdn-bet.md)  
+
+
 
 **The Bootcamp**  
 

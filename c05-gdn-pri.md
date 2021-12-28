@@ -4,15 +4,6 @@ output:
   html_document: default
 ---
 
-# pushed
-## frm-self 
-2. Study Time to learn reality, SELF, and 
-the LINK between the two.  
-3. Ask/reflect/study: 
-Does the benefit of a GOAL 
-outweigh the cost of time?  
-4. Ask what it would take to change (if possible),
-and whether change is worth it.  
 
 ## frm intro-reader
 
@@ -141,13 +132,12 @@ grouped by function (Room 3).
 Letters reflect different things, and  
 shape differences reflect different kinds of things.  
 
-  
+
 ### TIME  
 
 The constant (or denominator) for 
 FORCES, FORGETTING,
 PRI, and LIB.
-
 
 ## Plans
 ### PRI	
@@ -160,9 +150,19 @@ ALIGN SELF and VALUE
 Adopt all your goals to REALITY ("above", e-you will die). 
 Think about the sum of your GOALS, 
 
+
+4. Ask what it would take to change (if possible),
+and whether change is worth it. 
+
 ### TIME
 Do not ignore time
 Estimate durations accurately
 for GOAL accomplishment
 
+2. Study Time to learn reality, SELF, and 
+the LINK between the two.  
+
+3. Ask/reflect/study: 
+Does the benefit of a GOAL 
+outweigh the cost of time?  
 

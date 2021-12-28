@@ -4,7 +4,7 @@ output:
   html_document: default
 ---
 
-## T1: Bet
+## Bet
   
 You can take control of your life, or 
 you can let the world bet for you.

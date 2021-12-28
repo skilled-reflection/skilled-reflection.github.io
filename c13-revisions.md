@@ -49,10 +49,10 @@ Get answers from others.
 Comprehension is involuntary.
 You cannot help but recognize meaning 
 if you see or hear language.
-This likely means that
+This means that
 your involuntary response
 to this section title 
-was something like,
+was likely similar to 
 "Easier said than done."
 
 Sometimes real meaning requires voluntary thought.
@@ -68,114 +68,18 @@ seriously valuable suggestion.
 All it would take is for you
 to honestly believe you can.
 
-## COMM
-
-COMM deals with the complexity of PPL and WORDs.
-COMM is the exchange of WORDS with other PPL.
-
-#### Ambiguity 1: PPL
-Because PPL vary in PRIs,
-they vary in
-how they apprehend the world,
-and therefore in precise meanings.
-
-#### Ambiguity 2: COMM
-As individuals with distinct PRIs,
-there may be distinct,
-potentially conflicting
-motives.
-READER and WRITER
-will vary in how much they
-TRUST COMM.
-
-#### Ambiguity 3: WORDS
-The real world is
-particular;
-each experience is an EXAMPLE.
-A WORD describes groups of experiences in common,
-whether an IDEA or LINK.
-As such,
-WORDS are always
-less precise than reality.
-
-WORDs are never definite and certain
-in what they describe
-of the real world.
-
-A word's definition is a generalization.
-Thus, WORDS are better designed 
-to hypothesize and predict.
-
-`x-PRI`
-Two people with identical PRIs see the world identically.
-To improve COMM, study the difference
-between CONTENT and STYLE.
-
-### DOC
-
-Studying LINKs will improve
-IDEAs and BETs in your life.
-
-PLANs, and anything else you write down,
-should be part of a PRI.
-
-Given an IDEA:
-1.Estimate relevance to
-  - PRIs,
-  - problems,
-  - undeveloped PLANS,
-  - SELF-MAINTENANCE
-
-2.Keep DOCs short enough that
-the title and CONTENT address 
-only one thing.
-
-3.Save selectively and  
-
-4.delete frequently.  
-
-### STYLE, VERSION
-
-PRIs between PPL (WRITER and READER) differ.
-Difference in PRIs alter CONTENT of IDEAs.
-
-Good STYLE is change in WORDs to minimize change in IDEAs
-between READER and WRITER.
- 
-VERSIONs describe identical CONTENT
-with difference in STYLE between them.
-
-you today vs you in five years (LIB).
-
-A PLAN for a DOC is an earlier VERSION of
-the (same) final DOC.
- 
-Some STYLE addresses those who
-fail to appreciate READING and WRITING.
-
-NORMS (COMM-PPL) typically requires
-editing words to:
- 
-1.  Stroke ego and intelligence of others;
-2.  Frame attacks as agreeable observations.
- 
-SELF IDEAs are the most STYLE-free.
-e-FOOD and CAKE.
-
-Bad style is BRAND, 
-STYLE that intentionally simplifies or obscures relevant
-LINKs to an IDEA.
-
 ## SR
 
 The value of words (meaning)
-depends on TIME.
-WRITING is for READING.
-as TIME passes
-DOC becomes subject to COMM issues.
+changes over TIME,
+because the READER's
+values change over TIME (x-COMM).
 
 The GOAL of words is to express IDEAs that
-will retain their value tomorrow.
+at least retain today's value,
+at best maximize tomorrow's value.
+Since few words meet these criteria,
+your first benchmark is to write few words.
 
 Work to make IDEAS clear and concrete.
 Put IDEAS at the top of a DOC.
@@ -318,20 +222,181 @@ if they are too emotionally overwhelming,
 for critical thinking.
 
 Do not change the prompt so you can be lazy.
- 
-#### SAVE-if (LIB)  
+
+### SAVE
+x-LIB
+Assuming you have given honest attention and honest work, 
+Save your DOC.
+
 RECOGNITION, reading familiar WORDs is easier than
 RETRIEVAL from memory, of WORDs to write.
-is-an IDEA-REVISION SAVINGs.
+is- SAVINGs on revision.
 
 Lessons are only valuable for the insights
 that will make tomorrow helpful.
 Lessons are designed to be
 revised over time.
 
-Only save and maintain DOCs that
-will be useful enough later
+Only save DOCs that
+you BET will be useful enough later
 to save time, overall.
+
+
+
+## DOC
+A recipe is the ideal DOC template.
+Here are additional guidance. 
+
+Given an IDEA:
+1.Estimate relevance to
+  - PRIs,
+  - problems,
+  - undeveloped PLANS,
+  - SELF-MAINTENANCE
+
+2.Keep DOCs short enough that
+the title and CONTENT address 
+only one thing.
+
+3.Save selectively and  
+
+4.delete frequently.  
+
+These suggestions are only as valuable as your experience with them. In the next section, COMM,
+your goal is to understand how to make the most of your experience with WRITING and READING.
+
+### COMM
+Once saved, we assume a DOC will be READ later, and provide value. This is the primary type of COMM we engage in. 
+
+COMM is the exchange of WORDS from one self to another. Other examples include a traffic sign, something you wrote and are rereading,
+a carefully crafted party invite, 
+or a Lease Agreement.
+
+The goal of COMM is to maximize that likelihood, by engaging in the inherent and practical problems that arise. 
+
+This section, COMM, describes the inherent problem. The next section, STYLE-VERSION describes the practical problem.
+
+The general problem of COMM is the discrepancy between READER and WRITER of the same word. No person is identical with a future or past self, with any other person, and all of these relationships are in part unknown.
+Writing a word creates a static record of a word.
+The cognition which wrote the word
+is under a specific state and intends a specific meaning or value for that word.
+At the future time when the word is read,
+it is the same static record of a word,
+but the cognition reading the word may be different enough to understand a meaning different than intended. Additional words on part of the original writer might be added to attempt to minimize unintended interpretation on part of the reader. Additionally, the reader may apply an additional interpretation attempting to reconcile the same problem.
+
+GOOD COMM attempts to systematically reconcile these issues.
+BAD COMM takes advantage of them at the cost of clarity and honesty.
+
+
+#### Ambiguity 1: PPL
+Because PPL vary in PRIs,
+they vary in
+how they apprehend the world,
+and therefore in precise meanings.
+
+#### Ambiguity 2: COMM
+As individuals with distinct PRIs,
+there may be distinct,
+potentially conflicting
+motives.
+READER and WRITER
+will vary in how much they
+TRUST COMM.
+
+#### Ambiguity 3: WORDS
+The real world is
+particular;
+each experience is an EXAMPLE.
+A WORD describes groups of experiences in common,
+whether an IDEA or LINK.
+As such,
+WORDS are always
+less precise than reality.
+
+WORDs are never definite and certain
+in what they describe
+of the real world.
+
+A word's definition is a generalization.
+(Thus, WORDS are better designed 
+to hypothesize and predict.)
+
+`x-PRI`
+Two people with identical PRIs see the world identically.
+To improve COMM, study the difference
+between CONTENT and STYLE.
+
+
+### STYLE, VERSION
+
+PRIs between PPL (WRITER and READER) differ.
+Difference in PRIs alter CONTENT of IDEAs.
+
+Good STYLE is change in WORDs 
+to minimize change in IDEAs
+between READER and WRITER.
+ 
+VERSIONs describe identical CONTENT
+with difference in STYLE between them.
+A PLAN for a DOC is an earlier VERSION of
+the (same) final DOC.
+
+e-you today vs you in five years.
+
+
+COMM-PPL (x-NORMS) assume READING and WRITING
+have no intrinsic GOALs.
+A DOC's arguments for why to READ it
+are a STYLE called PITCH.
+For example,
+ 
+1.  Stroke ego and intelligence of others;
+2.  Frame attacks as agreeable observations.
+
+The maximum common SELF-PRIs across PPL
+are the optimal arguments for PITCH.
+e-FOOD vs. CAKE.
+
+However, if PPL do not have a real appreciation for FOOD vs CAKE, 
+they will not be pursuaded by PITCH.
+
+Therefore they will be compelled more by lies.
+BRAND is PITCH that distorts truth,
+a form of bad STYLE.
+
+
+### LIB-CURATOIN
+This book is a DOC among many you have encountered, and you have written many, yourself, even if just a to-do list. LIB is the explicit effort to maximize the use of what you WRITE, SAVE, and READ, by organizing it for best application, and providing feedback to help your future decisions to WRITE, SAVE, and READ. 
+
+The scope of LIB is the collection of your WORDs over a lifetime.
+LIB is to DOCs as HOME is to possessions.
+
+LIB aims to maximize the value of words you save,
+and ideally, reduce future efforts to plan and accomplish PRIS, through making the best of your prior thoughts easy to find by your current SELF's context.
+
+A bad LIB is the sum of your WORDS, void of curation.
+
+A good LIB is the closest approximation of SELF.
+
+`Library = sum(GOALS + PLANS) / 1`
+
+for learning what you don't know you don't know.
+ 
+vs-whereas WORDS deals with involuntary IDEAs,
+LIB is post-WRITING cache
+to facilitate future production.
+
+RISKs
+1.FALSE POSITIVE: Writing, saving, and finding bad DOCs.
+2.FALSE NEG: failure to save or find good DOCs.
+
+### LIB-RETRIEVAL 
+
+Studying LINKs will improve
+IDEAs and BETs in your life.
+
+PLANs, and anything else you write down,
+should be part of a PRI.
 
 Facilitate RETRIEVAL:
 1.Index (list) DOCs worth rereading.
@@ -341,20 +406,4 @@ importance (abs or relative weight).
 4.Make and revise only for high-PRI GOAL(s).
   Record and study LIB RETRIEVAL patterns.
 
-### LIB
-The collection of your WORDs over a lifetime.
 
-A good LIB is the closest approximation of SELF.
-
-`Library = sum(GOALS + PLANS) / 1`
-
-for learning what you don't know you don't know.
-A bad LIB is the sum of your WORDS, void of curation.
- 
-vs-whereas WORDS deals with involuntary IDEAs,
-LIB is post-WRITING cache
-to facilitate future production.
-
-RISKs
-1.FALSE POSITIVE: Writing, saving, and finding bad DOCs.
-2.FALSE NEG: failure to save or find good DOCs.
