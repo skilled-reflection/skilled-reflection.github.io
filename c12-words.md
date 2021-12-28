@@ -6,21 +6,41 @@ output:
 
 # main 
 
+Change your thoughts. Change your life.
+[reprise of title page]()
+
+Comprehension is involuntary.
+You cannot help but recognize meaning 
+if you see or hear language.
+This means that
+your involuntary response
+to this section title 
+was likely similar to 
+"Easier said than done."
+
+Sometimes real meaning requires voluntary thought.
+Often, all it takes is a
+seemingly incompatible pair
+of ideas.
+For example,
+this time when you
+think about the title,
+assume it is a reasonable,
+serious, 
+seriously valuable suggestion.
+All it would take is for you
+to honestly believe you can.
 ## Intro
  
-There are two key ideas in this chapter:
-words said (out loud or written),
+This chapter can be reduced to the following problem and solution.
+Words said (out loud or written),
 and understood (heard or read) are
-usually not what people mean.
+not usually what people mean.
 They do not reflect what people want or need.
-
-The gap between reality and
-idea is only narrowed with systematic scrutiny,
-the process of BET (Chapter 6).
 
 By engaging
 the gap between words and reality,
-you increase self-awareness.
+you increase self-awareness (BET).
 
 Better words mean
 more practical understanding and expectations,
@@ -58,39 +78,17 @@ are each discussed in terms of
 how words can be used
 for the better or worse.
 
-A habit of betting on words
-will lead to changed use.
-
-The result of such bets are
-this book, and this chapter:
-strong rules
-for thinking alone,
-saving, revising,
-reading and communicating ideas.
-
-My experience led to these guidelines,
-which I hypothesize
-predict good language.
-
-The sections
-WORDS, DOCS, SR, COMM, and LIB
-are inter-related,
-dealing with a shared language problem.
-
 ## Words
 ### DEF
-Perhaps more than anywhere else,
-the definition of WORD is
-critical to making sense of this chapter.
-
 This book deals mainly with
 actions and the felt-experience of the world.
 Like any book,
-this one describes the world
-and its conditions with WORDS.
+this book uses words to describe the world
+and its conditions.
 
 This chapter is about
 the act of describing, itself.
+
 Saying WORDS is a very small
 physical action, to describe
 real actions and consequences.
@@ -102,15 +100,12 @@ about the real world.
 
 The issue is that descriptions
 can be more and less right,
-more and less helpful.
+more and less helpful,
+and we have little guidance on how to use them.
 
 [](figs/words.png)
 
 ### as-hypothetical
-All decision are bets,
-and saying or not saying
-a word is a decision.
-
 Words are BETS on hypotheticals:
 - truth and reality.
 - lies and fantasy.
@@ -131,7 +126,8 @@ direct attention to PRIS, and
 predict reality;
 improve decisions and make you smarter.
 
-By thinking about all words you experience,
+By thinking about 
+all words you experience (LIB),
 you can take control
 to limit your WORD use
 toward more productive ones,
@@ -139,16 +135,16 @@ improving READ and WRITE decisions,
 increasing focus and time for GOALs.
 
 Bad words keep CHUD expensive,
-and are a major culprit of wasted time.
+and waste time.
 
 The COST of an individual word is tiny, but
-we say tens of thousands per day.
+we say tens of thousands per day (Levelt).
 Reading, thinking, saying, and writing
 a word perpetuates that word's IDEA over others,
 either moving you toward a GOAL, or your HABIT.
 
 ### Plans
-Do not use a word that is more of a Lie
+Do not use a word that is more of a Lie.
 say the truth or be quiet.
 Use words for decisions, not emotions.
 Use to facilitate your life PLAN.
@@ -162,31 +158,24 @@ unreliable ones.
 Do not write PLANs you won't follow.
 Read to revise plans into ones you'd follow.
 
+### EXAMPLE
+
+An EXAMPLE is
+an individual, particular
+event or object,
+of reality.
+An example with consequence is
+a USE-CASE.
+An example in-principle is
+a HYPE (hypothetical/hype).
+
 ### IDEAS
 ### LINKS  
 
 WORDs are one of two types:
  
-1.  IDEAS: words for things.
-2.  LINKS: words that give relationship between things; actions and transformations
-
-Together, these make up CONTENT
-(vs STYLE).
-
-LINKS are BETS of
-higher risk and reward than IDEAS.
-
-IDEAs are BETs on LINKs
-between EXAMPLEs in the world.
- 
-The right LINK between IDEAs is
-the foundation of every thought,
-recipe or terrible calculation.
-
-### Alt (theory)
-An EXAMPLE is
-an individual, particular
-event or object.
+1.  LINKS: words that give relationship between EXAMPLES, IDEAS, describe ACTIONS, ROLES, and transformations
+2. IDEAS: words that refer to EXAMPLES.
 
 An IDEA is a set of criteria
 that LINK EXAMPLES
@@ -194,32 +183,22 @@ as similar (vs not).
 
 The most basic IDEA
 classifies EXAMPLES as
-A or B.
-These are alternatives.
+A or not-A.
+"blue" is an IDEA that certain 
+colored things are BLUE (A),
+and all other colors are not BLUE.
 
 Good IDEAS
 group EXAMPLES
 in a way that
-improve PLANS and GOALS.
+directs attention toward
+PLANS and GOALS.
+Bad IDEAS distract.
 
-All IDEAS and LINKS are WORDS.
-All EXAMPLES are reality.
-Collections of EXAMPLES are DATA
-(a topic for later).
+The right LINK between IDEAs is
+the foundation of every thought,
+recipe or terrible calculation.
 
-### NOTES
-improving WORDS
-to improve actions
-of yourself or others
-is REVISION.
-The resulting WORDS are COMM.
-
-NOTES are general PLANs for REVISION,
-and what follows is an introduction.
-(A full draft is available on request.)
-
-Add structural consistency to make LINKS more explicit.
-edit/apply these techniques as a form of active READING.
 
 ### RECIPE
 
@@ -233,28 +212,18 @@ point, and minimizes excessive STYLE.
 
 *push-words, from c09-ibc_ed*
 ## manifesto  
-
-If you an informed STUDENT,
-then you will arrive at the following
-principles of knowledge, language, and action.
-
-### better language / world  
-
-Distrust words and ego.
-- Take nothing personally
-- Define everything empirically
-  - comparison group/quantity (has unique outcome)
-- Remove / ignore style
-- Speak for reasons only
-- Idea > authorship (anonymity)
-- Read to refine beliefs and doubts.
-- Write to bet.
+the following are principles of 
+knowledge, language, and action.
 
 #### speak   
 Speak, write, initiate or respond only
 
 in limited duration and words
 dictated by intended outcome.
+- Define everything empirically
+  - comparison group/quantity (has unique outcome)
+- Speak to bet.
+- Idea > authorship (anonymity)
 
 Do not at all
 when actions or listening 
@@ -271,49 +240,37 @@ when you need to learn / connect
 not when
 - speaking values unadhered
 
-#### repair  
-when listening to invalid speech,
-after--repair
-1m-gently with gestures  
-2m-briefly and clearly with words  
-3m-firmly with boundaries  
-5m-civilly end conversation and walk away.  
+Listening: 
+- Distrust words and ego.
+- Take nothing personally
+- Remove / ignore style
+- Read to refine beliefs and doubts.
 
+# ROLES
+## Scientist    
 
-#### dialog / revise / anon  
-write what you bet  
-revise toward truth  
-- to max others' bets
+A scientist WORKs to win BETS against the UNKNOWN. 
+They are a professional writer, 
+evaluated on two metrics:
 
-radical anti-ownership of ideas  
-- edit for anyone with the authority of your autobiography  
-- for the benefit of the OP  
-- expecting only feedback  
+1.For their MEMES of CONTENT.
+2.The net benefit of their MEMES on GOAL outcomes.
 
-### actions  
-commit values to bets  
-- self + calling > cakes  
-- idea > xref  
-- bet > fact > belief > word  
-- action > money > words > thoughts  
+A scientist-researcher is a WRITER, 
+a data-collector and hypothesis tester. 
+A scientist-scholar is a READER,
+curating toward theory development and COMM.
 
-solutions to problems  
-- remove problem src or self from problem.  
-- accept that problem comes from other solutions  
-- revise those solutions (ie reuse)  
-- blitz solution  
-- eat, sleep better  
-- wake up: cold shower, pint of water, work out, deaf/blind hour, spend time with an ugly person  
+## Scholar    
 
-minimalism; align, revise and keep fit  
-- keep only hf things in smallest box possible  
-- keep clean  
-- keep routine (self) needs minimal  
-  - stuff, expectations, plans (movement)  
+a professional READER and 
+Peer-Reviewer,
+especially in curating the Scientist's insights.
 
-### actions  
-"if" requires an action argument.  
-- (tethering hypotheticals)
+evaluated by repost statistics 
+(others as readers),  
+akin to evaluating twitter users by their retweets.
+
 
 
 
