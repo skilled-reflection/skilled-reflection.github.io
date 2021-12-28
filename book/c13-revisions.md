@@ -4,70 +4,6 @@ output:
   html_document: default
 ---
 
-# pushed-from-c09-ibc-ed
-### RLTP--Peers  
-*push-revision*
-Peer review is a powerful learning tool.
-
-The peer WRITER 
-works with uncompromised objectivity, 
-and liberty to employ Truth, 
-however subjectively "harsh".
-
-### Scientist    
-
-A scientist WORKs to win BETS against the UNKNOWN. 
-They are a professional writer, 
-evaluated on two metrics:
-
-1.For their MEMES of CONTENT.
-2.The net benefit of their MEMES on GOAL outcomes.
-
-A scientist-researcher is a WRITER, 
-a data-collector and hypothesis tester. 
-A scientist-scholar is a READER,
-curating toward theory development and COMM.
-
-### Scholar    
-
-a professional READER and 
-Peer-Reviewer,
-especially in curating the Scientist's insights.
-
-evaluated by repost statistics 
-(others as readers),  
-akin to evaluating twitter users by their retweets.
-
-PEERs: 
-Forget *who* provides REVISION and how much. 
-Get answers from others.
-
-# main  
-## Change your thoughts. Change your life.
-[reprise of title page]()
-
-Comprehension is involuntary.
-You cannot help but recognize meaning 
-if you see or hear language.
-This means that
-your involuntary response
-to this section title 
-was likely similar to 
-"Easier said than done."
-
-Sometimes real meaning requires voluntary thought.
-Often, all it takes is a
-seemingly incompatible pair
-of ideas.
-For example,
-this time when you
-think about the title,
-assume it is a reasonable,
-serious, 
-seriously valuable suggestion.
-All it would take is for you
-to honestly believe you can.
-
 ## SR
 
 The value of words (meaning)
@@ -102,7 +38,7 @@ and impose time and word limits.
 A bad doc begins with
 stream-of-consciousness.
 
-#### PROMPTS
+### PROMPTS
 Prompts elicit conflicts (truth)
 between SELF and NORM,
 to improve PLANS for your GOALS.
@@ -176,6 +112,11 @@ Done right,
 you will face some new truths.
 
 ### REVISE
+improving WORDS
+to improve actions
+of yourself or others
+is REVISION.
+
 REVISION is how we know reflection is happening,
 described here in
 VERSIONS (v\#) of a response.
@@ -222,6 +163,21 @@ if they are too emotionally overwhelming,
 for critical thinking.
 
 Do not change the prompt so you can be lazy.
+
+#### NOTES
+NOTES are general PLANs for REVISION.
+(Available on request.)
+
+#### PEER-REVISION 
+Peer revision is a powerful learning tool.
+Forget *who* provides REVISION and how much. 
+Get answers from others.
+
+The peer WRITER 
+works with uncompromised objectivity, 
+and liberty to employ Truth, 
+however subjectively "harsh".
+
 
 ### SAVE
 x-LIB
