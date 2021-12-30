@@ -1,5 +1,6 @@
 ---
 output:
+  word_document: default
   pdf_document: default
   html_document: default
 ---
@@ -13,66 +14,68 @@ worth maximizing.
 
 ## how to read this book
 
-The purpose of this book is for you to engage your life.
+I want you to engage your life.
+This book is meant to help you 
+break through mental barriers, 
+into action, starting right now.
 
-1-get a pencil and note the date and time, here: \_\_\_\_\_\_-\_\_\_\_\_\_-\_\_\_\_\_\_ `YYYY-MMDD-HHMM`.
+Please get a pencil and note the date and time, right now: \_\_\_\_\_\_-\_\_\_\_\_\_-\_\_\_\_\_\_ `YYYY-MMDD-HHMM`.
 
-2-in this box, \_\_\_\_  
-if you:  
-- did 1, write "2". you either are curious enough to try new things,
-or lie about it.
-- didn't do 1 and felt, "will do, but first let me read on.", write "1". you imagine you have the curiosity, and
-you will be right once you write down the time, 
-and you are a liar until this happens or you admit you qualify as a 0.
-- didn't do 1 and felt, "that's dumb, strike 1 for this book," write "0". you could probably stop reading now, or admit you're a "1".
 
-The only reason to read anything is for its potential impact on your life.
+The words in this book
+hold meaning only 
+in your application
+of them, to your life. 
 
-The primary voice I assume is as a 2,
-assuming you're a 2. 
+If you completed step one, 
+you have proven enough that 
+you are open to trying new ideas.
+You are prepared to grow,
+and continue reading.
 
-I'm a 2 because I've tested what I write and I find it to be 
-better than alternative ways of dealing with the subject. 
-I'm telling you because it is good, and you want to know what is good, and will minimally consider applying it to find out if it is good for you.
-Where possible, the language is direct, perscriptive and strong.
-I write with the intention to make such decisions and impact easier.
-You can engage every word you read in this book with 0, 1, or 2.  
+If you left the line blank, 
+you might think tell yourself 
+you are open to new ideas.
+You will be right only 
+when you complete the task. 
 
-Why did I ask you to write down the time?
-you now have 
-a rough estimate of when you started reading this book.
-It is a bookmark in your life. A moment.
-It tells you nothing on its own,
-but as things happen at later times,
-it gives you a comparison point.
-When you finish the book, 
-when you started acting differently, 
-when you started feeling better, etc.
+Either write the time above,
+or stop reading and 
+take a better action 
+to improve your life, 
+right now.
 
-The more you know how your life, your meaning, etc., 
-relate to time, the more you understand your life, 
-and have a chance to do something about it.
+Every word you say to yourself
+is at best a plan for action,
+meaningliess until you take that action.
+Consider every word I write
+a plan to improve your actions.
 
-### camp homeless
+Why was writing down the time 
+the first action I asked you to take?
+There are many things 
+that explain themselves when you take action,
+and are not worth the time to put into words. 
+What is important will appear,
+and what isn't will be forgotten.
+Never forget the time, though.
+
+## camp homeless
 this book describes
 obvious facts of life.
 Very little should surprise you,
-the reader engaged in simulating
-what I describe,
 because it
 falls awfully close to reality.
 
-So let me offer three hypotheticals
-to help.
+So let me offer
+two experiences as examples
+to help illustrate the point:  
 
-1. go camping
-2. be homeless
-3. try to write your own version of this book.
+### 1. go camping  
 
-1. When you camp, you
-overpack, 
-are late,
-and/or underprepared.
+When you prepare to go camping, 
+you overpack, 
+are late or unprepared.
 
 planning and executing your life is 
 not fundamentally different.
@@ -102,7 +105,8 @@ the Garden,
 is a tool for remedying 
 all the knowable versions of this problem.
 
-#### be homeless  
+### 2. be homeless  
+  
 The odds are you 
 haven't been homeless,
 but imagine the closest experience
@@ -127,15 +131,27 @@ food, or cake.
 In your pre-homeless life,
 often you can have food and cake,
 but when it is a choice, you should choose food.
-If you disagree 
-change your answer above to a 1 or 0.
+Throughout this book, 
+Food refers to needs and 
+Cake refers to wants.
+
+**PAUSE HERE.**  
+"When it is a choice, you should choose food."
+This is a claim about action. 
+This books makes many claims of this nature 
+(presuppositions) that 
+you will need to accept
+either instantly,
+or take the time to arrive at a similar view.
 This book cannot help anyone
-who values [hypotheticals]() more than the practical truth.
+who values hypotheticals
+more than the practical truth.  
+**RESUME**  
 
 To make sure you are on time for life,
 the single most important mental decision to make
 is to identify the Food and Cake in your life.
-Always gaurantee Food, bare necessities, is 
+Always gaurantee Food is 
 identified and first to be packed.
 What time remains before you need to go (act),
 may be spent thinking, trying out,
@@ -146,21 +162,6 @@ like being homeless or taking a cold shower,
 help illuminate the difference between Food and Cake,
 what really matters,
 and what you can live without.
-
-Whether you're up for extreme experiences or not,
-you are engaging in only one side of
-the profound human ability we call "cognition."
-The agenda for writing this book is to facilitate
-the other side of that profound ability: communication.
-
-The more we can discuss our decisions for Food and Cake,
-rationale and experiences, too,
-the more we may benefit from others' time spent thinking,
-and arrive at collective answers.
-So, share and discuss your priorities with others.
-This leverages the small ways
-each of us live, "suffering" according to the next person,
-as no two people's pris are identical.
 
 Part two is 
 a group of guidelines for
@@ -175,12 +176,6 @@ Figure 1 highlights key IDEAS and
 their basic associations,
 to reduce potential confusion with lay-definitions.
 
-Thanks to
-the first student of the boot camp, 
-who bet to publish the first version.  
-Thanks to those who didn't read it
-to encourage me to revise.
-May you find time to advocate your passions, too.
 
 ![](figs/bet.png)  
 
@@ -197,51 +192,52 @@ and the last column suggest ideal goals (e.g., cake and relationship) and strate
 
 Circled concepts are Example Goals. 
 All boxes are forces or attributes of them.
-Roughly, words are arranged by association strength,
-in terms of row, column, and boxes. The particular relationships are too complex to summarize, and the subject of respective chapters.
-
+Roughly, 
+words are arranged by association strength,
+in terms of row, column, and boxes. 
+The particular relationships are 
+too complex to summarize, and 
+the subject of respective chapters.
 
 
 ## The Garden
 
-The Garden foregrounds the things we often lose sight of when conceptualizing: life is brief and we are mortal.
-The Garden describe the key IDEAS of this book: the experience of being human--from eating and sleeping to thinking and meaning-making; the interdependence of mind and body (Garden-1), death and meaning (Garden-2), self and others (Garden-3).
-
-"The Garden" is a description to be experienced. The purpose is for you to make
-a Garden with the specifics of 
-your own life, identity, and ambitions.
-
+The Garden foregrounds the things 
+we often lose sight of 
+when conceptualizing life goals: 
+life is brief and we are mortal.
+The Garden describe the key IDEAS of this book.
 
 Your imagined garden
 is a mental model of reality, 
 strategic and powerful 
 in bringing clarity. 
-You need the Garden to combat the other strength of your mind,
-its inherently idealistic nature, which sets you up 
+You need the Garden to combat 
+the other strength of your mind,
+its inherently idealistic nature, 
+which sets you up 
 for failure and suffering. 
 
 ### IDEAS and Plans  
 The second part of each chapter,
 "IDEAS and Plans" provides
-literal and concrete language 
-to the key IDEAs and consequences (LINKs)
+additional concrete language 
+to the key IDEAs and claims
 in that chapter.
 
-Definitions for IDEAS (ALL CAPS) are always 
-describing some sense(s) of 
-what you already know by the same name,
-but LIMIT which relevant senses.
-For example "WORK" is about careers,
-but not 'yard work'.
+IDEAS (ALL CAPS) and claims are always 
+describing some, but not all sense(s)
+For example "WORK" is an IDEA referring to "careers",
+but not 'yard work'. 
+Claims assume not that they are always relevant,
+but in the cases where they are self-evidently relevant,
+they are precisely the valuable way to think about the IDEAs.
 
 Generally, this is to give
-IDEAS measurable, consequential meaning.
-See the chapters on WORDS 
-for more.
+IDEAS measurable, consequential meaning
+(See WORDS).
 
-You can read more about this in "PLANS"
-
-A special case of plans is a LESSON.
+A special case of plans is a LESSON (See SR).
 The LESSONS are much like "The Garden",
 meant to activate 
 relevant parts of your reality or beliefs,
@@ -249,5 +245,9 @@ in a way that applies
 the IDEAS introduced.
 They are exercises that
 take between 10 and 60 minutes to complete.
-You can read more about them in "SR".
+
+## Version
+This is the second version of "Skilled Reflection".
+The first version was under 20 thousand words. 
+Since the first version I have taught an Undergraduate course that tested much of the core principles of the words--action premise. The result is deeper integration between ideas and clarification. A second result is that I am explicitly aware that my communication can be confusing and disorganized. Treat this either as your final suggestion to stop reading, or encouragement to read between the lines.
 
