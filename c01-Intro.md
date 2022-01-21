@@ -5,6 +5,13 @@ output:
   html_document: default
 ---
 
+*Note for v2.12.* 
+If you are reading this, you have an early copy of the 2nd version of this book. 
+This copy is missing a few key sections in addition to other edits which remain before making it public. T
+hank you for your patience in misunderstandings. 
+I welcome any and all constructive feedback. Additionally, 
+feel free to check back in for a revised and updated version if you please.
+
 Dear Friend,  
 
 You are going to die some day.
