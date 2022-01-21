@@ -6,7 +6,7 @@ output:
 ---
 
 *Note for v2.12.* 
-If you are reading this, you have an early copy of the 2nd version of this book. 
+If you are reading this, it is an early copy of the 2nd version of this book. 
 This copy is missing a few key sections in addition to other edits which remain before making it public. T
 hank you for your patience in misunderstandings. 
 I welcome any and all constructive feedback. Additionally, 
