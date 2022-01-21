@@ -44,6 +44,4 @@ This book asks and answers a series of questions about the nature of a productiv
 [Revisions](c13-revisions.md). When am i done? When your plan for bets is according to pris, prepared for CHUD is good enough to bet on (revision): as soon as possible (blitz).
 [Epilogue](c14-calling.md). What is wrong with this book? It is mostly about idealized productivity, because it is written by one instructor obsessed with discipline and science fiction.
 
-## part 1
-
 
