@@ -1,8 +1,28 @@
 ---
 output:
+  word_document: default
   pdf_document: default
   html_document: default
 ---
+
+
+## frm intro-reader
+
+A perfect human is one
+who sees their destination
+as clear as the sun on the horizon,
+able-bodied to get there.
+
+This framework considers
+two interrelated ideals:
+a FIT self with WIT.
+
+Your intention is to be FIT for 
+the actions the world requires,
+and have WIT to decide what's required,
+and act accordingly.
+
+# main  
 
 ## The Garden: Pri  
 ### LIFE, LOVE and DEATH  
@@ -28,8 +48,9 @@ while you're sitting
 here thinking. 
 Reflect only enough to improve your actions.  
   
-Your garden allows you 
-to ground the many goals of your life 
+Visualizing your life as a garden allows you 
+to ground actions and plans. 
+The mind analyzes well with visual space.
 into a medium the mind is well-equipped to analyze: 
 visual space. 
 
@@ -38,8 +59,7 @@ seems unnecessary to represent work satisfaction and relationship
 quality in terms of carrots and tomatoes. 
 
 When you arrive at the moment  
-of boredom or frustration in attempting to put your life in terms of  
-concrete IDEAS and actions between them (LINKS), 
+of boredom or frustration, 
 ask yourself why you  
 are bored and frustrated attempting to define 
 the things that apparently  
@@ -66,17 +86,18 @@ This is what it is for.
 Do not beat yourself up 
 for what you cannot give today.
 
-Instead, prevent the urge to be disappointed
-the next time you are less than productive,
-by planning a fact of being human:
+Prevent the urge to be disappointed
+the next time you are less than productive.
+If you must work to feel worthwhile,
+work to budget for a fact of being human:
 you are always sometimes less than productive,
-and always occasionally 
-in very inopportune times and ways.
+and occasionally your setbacks come 
+in unfortunate forms, at inconvenient times.
 
 
-## Ideas
-  
-All GOALs rely on a single, finite  
+## Ideas  
+Planning for goals requires attention.
+All GOALs rely on a single, limited 
 source of attention, and existence:  
 you.  
 
@@ -112,13 +133,12 @@ grouped by function (Room 3).
 Letters reflect different things, and  
 shape differences reflect different kinds of things.  
 
-  
+
 ### TIME  
 
 The constant (or denominator) for 
 FORCES, FORGETTING,
 PRI, and LIB.
-
 
 ## Plans
 ### PRI	
@@ -131,9 +151,19 @@ ALIGN SELF and VALUE
 Adopt all your goals to REALITY ("above", e-you will die). 
 Think about the sum of your GOALS, 
 
+
+4. Ask what it would take to change (if possible),
+and whether change is worth it. 
+
 ### TIME
 Do not ignore time
 Estimate durations accurately
 for GOAL accomplishment
 
+2. Study Time to learn reality, SELF, and 
+the LINK between the two.  
+
+3. Ask/reflect/study: 
+Does the benefit of a GOAL 
+outweigh the cost of time?  
 

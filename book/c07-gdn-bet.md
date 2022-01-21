@@ -1,10 +1,11 @@
 ---
 output:
+  word_document: default
   pdf_document: default
   html_document: default
 ---
 
-## T1: Bet
+## Bet
   
 You can take control of your life, or 
 you can let the world bet for you.
@@ -16,8 +17,8 @@ commit yourself to finding out
 which thoughts are right,
 and live that better life.
 
-What you're likely missing is
-a bigger dose of explicit doubt. 
+A commitment is the first step,
+but far from the last.
 
 If you want your dreams to become real,
 listen to your doubts.
@@ -28,13 +29,12 @@ move you toward your goal,
 or to adjust your expectations.
   
 Winning means your reality is 
-one shade more like your goal. 
+one step toward your goal. 
 Losing is the wake-up call 
 to be more realistic.
 
-Bets don't make dreams real. 
-Instead, 
-betting is a protocol to guide you to reality, 
+Betting is a protocol 
+to guide you to reality, 
 and, if you're lucky, 
 your dreams might fit in.
   
@@ -106,21 +106,9 @@ my foundation
 with rocks from the slippery slope."
 
 
-"Y
-  
-Congratulations, 
-you've completed the first lesson 
-of Skilled Reflection.
-
-LINK-toINSTR
-\*Such a program does not exist,
-until the following call
-for an instructor is met.
-
-
 ## Ideas
 ## BET
-Betting is confronting 
+Betting is confronting  
 costs, habits, unknowns and doubts
 that stand in the way
 of your wants and dreams.
@@ -290,29 +278,33 @@ decisions, actions, confidence--
 give permission to take action.
   
 ## Back to the Garden
-The next morning
-you woke to a field
-in unplanned disarray.
+The next morning you woke 
+to a field in disarray
+and a letter.
 You had worked harder than you planned,
 and still fell short of your goal.
-You also awoke to a letter.
 "If you did more than you would have
 without the bet,
-you won something.
-And you also learned 
+you won something,
+including evidence that
 there is some commitment in you
 to make your dreams come true."
 
-But if you only focus
-on the many positives,
-you are very inclined
-to lose the most critical
-reward, the acceptance that
-you discretely failed,
-at least in part due to a miscalculation.
-
-While you moved toward your goal,
-you have good reason to believe
-that the goal is further than
+The biggest reward
+is not a positive one:
+you should accept you failed,
+and, in part, 
+due to a miscalculation.
+Such a failure suggests 
+other aspects of your plan
+are likely misguided, and
+your goal is further than
 you estimate.
+
+If you disagree,
+let's bet again.
+Otherwise, 
+to fix your miscalculated life plans,
+you'll need  
+the Intellectual Bootcamp.
 

@@ -1,89 +1,249 @@
 ---
 output:
+  word_document: default
   pdf_document: default
   html_document: default
 ---
 
-# Section One: Education    
 
-## pay attention  
+# The IBC
+# Intellectual Bootcamp  
 
-### COMM-to Applicant    
+## Admissons  
+On the computer screen:  
 
-How would your life look 
-if you put it on paper?
-How do you get what you
-need and want? 
-How do you clarify and 
-direct your life? 
+### Information 
 
-With better words. 
-The right words will change 
-your actions and your life.
-It's time to live a better life. 
-It starts with your words,
-and a commitment to change.
+This is a boot camp 
+whose purpose is to train adults 
+to think harder, clearer and more effectively; 
+to produce intelligent solutions 
+for personal and social puzzles; 
+to have a higher cognitive discipline; 
+to instill shared values about 
+reason, thinking and discourse; and 
+to empower.
 
-Committing is a personal decision, and risk. 
+It is a training program designed to 
+break down bad habits of thought,
+and build good ones while immersed here,
+a culture of rational thinking
+isolated from the outside world.
 
-1.Is there a better version of you?
-2.Are you capable of moving toward it?
-3.Are you ready?
+Here you will relentlessly confront
+your ideas 
+about the world, 
+with instructors 
+drilling intellectual skills
+(writing essays, arguing for ideas, and
+developing proposals for action). 
 
-### Attention: Be Here   
-Now let me move your identity
-from the ground to the sky.
-Instead of a garden
-your ambition is a star (point),
-seen from the eyes of reality,
-feet of progress underneath you.
+You will be trained to 
+move toward your goals with focus,
+even in the face of perceptual, physical, or emotional distractions. 
+Over time, students could expect to cultivate 
+a sharper focus on cognitive objectives, 
+resilience to distractions and challenges.
+If you graduate,
+it will be with the ability 
+to identify, develop, and communicate ideal critical,
+rational arguments, 
+positions or plans (orally or written) given the available knowledge, finite time, and resources at hand 
+(reference material, teamwork).   
 
-Habit of strength needed
-to take the right steps,
-keen eyes to optimize course
-focused mind to steady the foot.
+you will also learn 
+a code of behavior for
+being a community leader;
+collaborating or competing with
+an idiosyncratic, irrational world.
 
-#### Attention  
+The central requirement for applicants will be 
+a commitment to better understand 
+the self and world. 
+
+### Consent and Commitment   
+Hi.  
+0.Your name doesn't matter.  
+1.Is there a better version of you?  
+2.Are you capable of moving toward it?  
+3.Are you ready?  
+
+If your answers are yes, then you are a student.
+To live a better life,
+you will commitment 
+to change your actions.
+First, you will learn what changes are needed.
+
+# Student  
+
+Students are PPL with
+IDEAS from EXPERIENCE toward 
+selfish GOALS. 
+
+Lessons depend on 
+students' prior knowledge. 
+
+A STUDENT 
+
+1. has a goal that can be better named and planned.
+2. requires time away from BETTING.
+3. admits not knowing but capable.
+
+Students learn
+to represent their knowledge in words;
+to prefer better, alternative words.
+A student
+sees the impersonal as more reliable 
+both for selfish GOALS and
+social ones. 
+
+A bad student studies 
+to avoid action, or 
+for its own sake.
+
+A Student WRITES IDEAs and GOALs
+to their INSTRUCTOR.
+
+#### Goal 
+Your goal is clear. 
+
+You want
+1. The strength needed to 
+  a. take the right steps and  
+  b. make a habit of it,
+3. keen eyes to 
+  a. estimate the destination and 
+  b. correct course, and 
+4. a focused mind to steady the foot.
+
+
+### Agreement  
+This is
+an in-person immersive experience.
+
+You only really learn
+what you need to know
+to be who you really want.
+You won't learn
+unless you cannot escape needing it;
+in a dedicated environment 
+that fosters acquisition,
+minimizes interference.
+
+Whether you're here for 
+the 7- or 30-day experience,
+you will work hard every minute.
+
+
+For every minute of lesson on my time,
+students are to
+provide two minutes of writing,
+either toward others' learning or 
+in direct application toward their goal.
+
+Dedicate to identity growth. 
+Be:  
+1.Quiet, except when tasks require verbal response.  
+2.Receptive to work and feedback provided by the instructor.  
+3.Committed to producing genuinely inspired ideas, working quickly, and seeking   improvement.  
+4.Respectful that all are equal in voice, and aim to describe solutions with collective values.  
+5.Receptive and responsive to prompts and observations (from peers and/or instructors)  especially CHUD, vague language, and cognitive bias.  
+6.Motivated to describe solutions that benefit others, when possible, including peer-review
+
+Now,
+what is it you'll learn?
+Precisely and only what is needed
+to trust a clear picture of
+what your life is. 
+You will first learn
+how to make a plan, a map of who you are,
+and who you want to be.
+You will exercise Part one of this book,
+until you plan is good enough to be wrong,
+and truthful enough to hurt.
+
+This will be the beginning of change,
+and the first test of your commitment.
+Your performance is evaluated simply:
+whether or not you end up 
+eating, 
+sleeping, 
+thinking, 
+talking, and 
+acting differently.  
+
+# Lesson in Roles 
+## Think  
+
+Think, student.
 Do not take notes, 
 simply pay attention. 
-Everything is meant plainly. 
+Everything I say is meant plainly. 
  If you get confused, forget it,
- recenter on (pay attention to) right now.
+and pay attention to right now.
 
-#### Thinking  
 Our goal here is thinking. 
 Thinking happens in your heads. 
-In order to do something about it, 
-we need to think on paper. 
- [You'll write a lot.
-You'll delete a lot.
-You'll get good at writing.]
 
-#### Time  
-  [You'll get good at thinking.
-  but not because of attention]
+Right now your job is to think
+about the truth you see in what i say. 
 
-your attention is not reliable. 
- The clock is.
+A student has two roles to think in: Reader and Writer.
+
+## READER   
+A reader is a listener and observer.
+
+Reading is the same as 
+listening to me,
+except the pace of my words
+don't determine 
+how fast you have to think,
+or remind you to
+PAY ATTENTION!
+
+You'll get good at thinking, 
+but not because of attention.
+Your attention cannot be trusted
+to be left alone while reading,
+so we will take away distracting technology.
+There will be no phone or internet access.
+
+the simplest scientific instrument.
+so the clock will babysit you.
+
+your attention is not reliable, The clock is.
 The clock is a cue to think.
  When it goes off,
-get back on task (pay attention).
+get back on task.
 
-#### Truth  
-There is some truth inside 
-some of you more than others. 
 
-It is your job to    
-focus on the Truth in you.
-(It is my job to tell you 
- how shitty of a liar you have been.
-)  
-You will practice all this with 
-Skilled Reflection. 
+Your goal in reading
+is to isolate the truth from the lie. 
+Try reading this sentence:
+"Everyone is best off running weekly until they die."
+You're thinking, "this can't be true for everyone, so it's a lie."
+Not so fast. 
 
-### READER   
+There are many components to this idea,
+and likely many that you believe are truthful.
+We'll get nowhere in an all-or-nothing philosophy class.
+The most common delineation of truth and lie,
+is a matter of changing
+the pronouns in the writing.
 
-listening to another person. 
+In our example, consider this revision:
+"I am best off running weekly until I die."
+Now the author's words are consistent with your truth.
+
+Doing this makes a clear relationship
+between your belief and the author's.
+Becoming smart is the discipline of
+understanding how you relate to others.
+
+When reading, you may only dismiss
+writing where the author has convinced you 
+they are intentionally lying.
+
 
 Read to assess your BET on 
 the WORDs reflecting TRUTH for 
@@ -103,96 +263,30 @@ I BET this is true for:
 3 = Us and 30% of PPL.
 9 = Us and approx. 90% of the human population.
 
-When reading,
-Revise the pronouns as-written to align
-with the corresponding bet above.
-For example,
-if you read the sentence,
-"Everyone is best off running weekly until they die,"
-and you bet the author might believe that
-for himself, but
-its not relevant for me or a lot of people,
-then you may as well read the written sentence as
-"I am best off running weekly until I die."
-This is what you've chosen to believe,
-given the text.
-Admitting it allows you to grant that observation,
-and the argument for doing this is
-that it makes it easier for you to
-give credit and opportunity to make an argument
-where it is due,
-and not simply ignore it
-because the author didn't read your mind.
-
-I share this because it seems to me
-not only is the last point very common
-amongst active readers,
-almost increasingly so.
 
 
 
-## IBC   
-On the computer screen is a memo:
-This is a boot camp 
-whose purpose is to train adults 
-to think harder, clearer and more effectively; 
-to produce intelligent solutions 
-for personal and social puzzles; 
-to have a higher cognitive discipline; 
-to instill shared values about 
-reason, thinking and discourse; and 
-to empower.
+## WRITER  
+How will your life look 
+if you put it on paper?
+Like a bunch of words.
 
-a training program designed to 
-break down bad habits of thought,
-amidst a culture of rational thinking
-isolated from the outside world.
+How do you change it?
+By deleting the words with lies,
+and replacing them with better words. 
 
-Here you will relentlessly confront
-your ideas 
-about the world, 
-with instructors 
-drilling intellectual skills
-(writing essays, arguing for ideas, and
-developing proposals for action). 
+The right words will change 
+your actions and your life.
+To live a better life, 
+starts with your words.
 
-You would be trained to 
-move toward your goals with focus,
-even in the face of perceptual, physical, or emotional distractions. 
-Over time, students could expect to cultivate 
-a sharper focus on cognitive objectives, 
-resilience to distractions and challenges.
-If you graduate,
-it will be with the ability 
-to identify, develop, and communicate ideal critical,
-rational arguments, 
-positions or plans (orally or written) given the available knowledge, finite time, and resources at hand 
-(reference material, teamwork).   
-
-Students would also learn 
-a code of behavior for
-being a community leader;
-collaborating or competing with
-an idiosyncratic, irrational world.
-
-The central requirement for applicants would be 
-a commitment to better understand 
-the self and world. 
-
-# Section Two: Culture    
-
-## Intro  
-
-
-## Roles    
-
-
-A role is a set of attitudes and actions.
-
-### READER  
-[See READER](c02-reader.md)
-
-### WRITE    
+*push-writer*
+In order to do something about thoughts, 
+we need to think on paper. 
+ [You'll write a lot.
+You'll delete a lot.
+You'll get good at writing.]
+*epush*
 
 BET on WORDs.
 A writer invests time and energy 
@@ -226,222 +320,26 @@ WRITING for LIB-PPL,
 relatable, depersonalized, objective words,
 minimizes ROT, maximizes PLAN utility.
 
-### PEERs    
-
-Forget *who* provides REVISION and how much. 
-Get answers from others.
-
-### Student  
-
-Students are PPL with
-IDEAS from EXPERIENCE toward 
-selfish GOALS. 
-
-Lessons depend on 
-students' prior knowledge. 
-
-A STUDENT 
-
-1.has a goal that can be better named and planned.
-2.requires time away from BETTING.
-3.admits not knowing but capable.
-
-Students learn
-to represent their knowledge in words;
-to prefer better, alternative words.
-A student
-sees the impersonal as more reliable 
-both for selfish GOALS and
-social ones. 
-
-A bad student studies 
-to avoid action, or 
-for its own sake.
-
-A Student WRITES IDEAs and GOALs
-to their INSTRUCTOR.
-
-### Instructor    
-A guardian of 
-1.True IDEAs expressed in COMM, and
-2.WRITER of a general PLAN (this book).
+# Instructor  
+I am instructor, 
+a guardian of  
+1. True IDEAs and
+2. WRITER of a general PLAN (this book).
 
 An instructor READS, and enforces 
 BETs on LINKs toward a PLAN. 
 
-1.Minimize student effort and time to write. 
-2.READ for 
- - cognitive biases,
-- illogical appeals, and
-- imprecise language, and
- WRITE feedback that is
-  - dispassionate and neutral, yet
-- invested and True.
-3.Reward defense of arguments based on 
+My goals are to  
+1. Minimize student effort and time to write.  
+2. READ for 
+cognitive biases,
+illogical appeals, and
+imprecise language, and
+WRITE feedback that is
+dispassionate and neutral, yet
+invested and True.
+3. Reward arguments based on 
 (Truth:) REALITY, SELF, and VALUES. 
-4.Reward IDEAS shared (vs personal).
+4. Reward IDEAS shared (vs kept).
 
-### RLTP--Peers  
-
-Peer review is a powerful learning tool.
-
-The peer WRITER 
-works with uncompromised objectivity, 
-and liberty to employ Truth, 
-however subjectively "harsh".
-
-### Scientist    
-
-A scientist WORKs to win BETS against the UNKNOWN. 
-They are a professional writer, 
-evaluated on two metrics:
-
-1.For their MEMES of CONTENT.
-2.The net benefit of their MEMES on GOAL outcomes.
-
-A scientist-researcher is a WRITER, 
-a data-collector and hypothesis tester. 
-A scientist-scholar is a READER,
-curating toward theory development and COMM.
-
-### Scholar    
-
-a professional READER and 
-Peer-Reviewer,
-especially in curating the Scientist's insights.
-
-evaluated by repost statistics 
-(others as readers),  
-akin to evaluating twitter users by their retweets.
-
-
-
-
-### Agreement  
-On acceptance you will attend 
-an in-person immersive experience.
-
-Our bodies resist discomfort. 
-You won't learn
-unless you cannot escape needing it;
-in a dedicated environment 
-that fosters acquisition,
-minimizes interference.
-
-7- or 30-day experience,
-meals and lodging included.
-There will be no phone or internet access.
-
-In exchange, students are to
-0.provide two minutes of product
- for every minute of learning.
-a.content toward others' learning (IBC).
-b.the application of their learning.
-
-Dedicate to identity growth. 
-Be:
-
-1.Quiet, except when tasks require verbal response.
-2.Receptive to work and feedback provided by the instructor.
-3.Committed to producing genuinely inspired ideas, working quickly,
-and seeking improvement.
-4.Respectful that all are equal in voice, and aim to describe
-solutions with collective values.
-5.Receptive and responsive to prompts and observations (from peers and/or
- instructors)
-  especially CHUD, vague language, and cognitive bias.
-6.Motivated to describe solutions that benefit others, when possible, including peer-review
-
-As a result the student will
-- eat, sleep, think, talk, and act differently.
-
-Now,
-what is it you'll learn?
-The first subject is
-to gain a clear picture of
-what you think your life is. 
-
-
-
-## manifesto  
-
-If you an informed STUDENT,
-then you will arrive at the following
-principles of knowledge, language, and action.
-
-### better language / world  
-
-Distrust words and ego.
-- Take nothing personally
-- Define everything empirically
-  - comparison group/quantity (has unique outcome)
-- Remove / ignore style
-- Speak for reasons only
-- Idea > authorship (anonymity)
-- Read to refine beliefs and doubts.
-- Write to bet.
-
-#### speak   
-Speak, write, initiate or respond only
-
-in limited duration and words
-dictated by intended outcome.
-
-Do not at all
-when actions or listening 
-are needed.
-
-#### listen  
-listen / read
-be with
-
-when you need to learn / connect
-- limited in duration/words needed
-- to assess consent (agreement).
-
-not when
-- speaking values unadhered
-
-#### repair  
-when listening to invalid speech,
-after--repair
-1m-gently with gestures
-2m-briefly and clearly with words
-3m-firmly with boundaries
-5m-take polite action to end conversation
-
-#### dialog / revise / anon  
-write what you bet
-revise toward truth
-- to max others' bets
-
-radical anti-ownership of ideas
-- edit for anyone with the authority of your autobiography
-- for the benefit of the OP
-- expecting only feedback
-
-### actions  
-commit values to bets
-- self + calling > cakes
-- idea > xref
-- bet > fact > belief > word
-- action > money > words > thoughts
-
-solutions to problems
-- remove problem src or self from problem.
-- accept that problem comes from other solutions
-- revise those solutions (ie reuse)
-- blitz solution
-- eat, sleep better
-- wake up: cold shower, pint of water, work out, deaf/blind hour, spend time with an ugly person
-
-minimalism; align, revise and keep fit
-- keep only hf things in smallest box possible
-- keep clean
-- keep routine (self) needs minimal
-  - stuff, expectations, plans (movement)
-
-### actions  
-"if" requires an action argument.
-- (tethering hypotheticals)
 

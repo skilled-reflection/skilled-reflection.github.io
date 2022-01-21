@@ -1,14 +1,47 @@
+
+# version
+cur--
+2.0.alpha-pre
+- Target subject matter, 
+- style, weight id-ed
+- wl cap cur + 1000
+
+next--
+alpha--
+major sections in place
+style (transitions, framing)
+predict weights
+test core args for soundness,
+clues for style 
+
+beta--
+test for style efficacy
+
+*write a thing like this section,
+and it's the death knell.
+it means i'm never going to revise this book again.*
+
+## last
+edited mostly for continuity from ...
+this draft, circa-end of psych601
+-t.obrien, raimy as pregnant readers,
+v1 shared w harvey.
+
+## next
+add qualifier
+- 25w for top 5 most incongruous referents.
+  e-"scholar", scientist, etc.
+  
+give purpose and wordlimit.
+afterward, iot include it.
+
 # Preface  
   
-for academics. 
+## for academics. 
 
 ## Introduction
-The incremental science
-we are familiar with
-identifies a gap in knowledge, 
-and proposes to fill it.
-
-We began with YOUR understanding;
+This book begins with
+YOUR understanding;
 of yourself and your actions, first,
 then of your immediate environment,
 and then with extreme caution,
