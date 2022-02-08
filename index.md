@@ -3,7 +3,7 @@ layout: home
 ---
 
 
-[Typical Session](_posts/every_session.md) . [About](about.md) . [Events](club_meetings.md) . [Instagram](https://www.instagram.com/skilledreflection/)
+[Typical Session](_posts/every_session.html) . [About](about.md) . [Events](club_meetings.md) . [Instagram](https://www.instagram.com/skilledreflection/)
 
 Here's a challenge: Try to describe yourself in [250 words](self250.md).  
 
