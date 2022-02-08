@@ -1,3 +1,6 @@
+---
+layout: home
+---
 
 
 [Typical Session](every_session.md) . [About](about.md) . [Events](club_meetings.md) . [Instagram](https://www.instagram.com/skilledreflection/)
