@@ -1,3 +1,8 @@
+---
+layout: post
+---
+
+
 ## Every session
 Whether it's your first session or not, here is what you can expect when you show up to a Skilled Reflection session.
 
