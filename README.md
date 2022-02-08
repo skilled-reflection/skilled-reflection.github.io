@@ -2,4 +2,4 @@
 
 1. Curiosity
 2. Change
-3. to be Continued..
+3. Revise and repeat.
