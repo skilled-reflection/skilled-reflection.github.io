@@ -1,0 +1,15 @@
+- title: home
+  url: index
+- title: more info
+  submenu:
+  - title: club_meetings
+    url: club_meetings
+  - title: self250
+    url: self250
+  - title: membership
+    url: membership
+- title: about
+  url: about 
+  submenu: 
+  - title: Our Habit
+    url: every_session
