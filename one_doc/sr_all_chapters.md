@@ -1,26 +1,32 @@
-﻿
+---
+output:
+  word_document: default
+  html_document: default
+---
+
+    <!-- reference_docx: book v2.01.docx -->
+
 
 student0 2022-01-18-1037  v2.13
 
 ## Table of Contents
 
-The Garden. Basics
-   1. Introduction.  Read me first.
+The Garden. Basics  
+1.	Introduction.  Read me first.
 
 
-   2. SELF.  Mind and body.
-   3. PRI.  Death and meaning.
-   4. PPL.  SELF and others.
-   5. BET.  Back to reality.
-
+2.	SELF.  Mind and body.
+3.	PRI.  Death and meaning.
+4.	PPL.  SELF and others.
+5.	BET.  Back to reality.
 
 The Bootcamp. Theory
 
-6. Education.  A bootcamp fantasy. 
-7. WORDS.  Benefits and drawbacks to thinking.
-8. Revisions.  Writing, reading, and librarians.
+6.	Education.  A bootcamp fantasy. 
+7.	WORDS.  Benefits and drawbacks to thinking.
+8.	Revisions.  Writing, reading, and librarians.
 
-9. Epilogue.  Lullaby for survivors.
+9.	Epilogue.  Lullaby for survivors.
 
 ## Abstract 
 
