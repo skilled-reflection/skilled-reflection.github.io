@@ -1,2573 +1,967 @@
----  
-title: "Skilled Reflection-Strictly Content"  
-version: 1.1  
-output:  
-  word_document:   
-    reference_docx: template.docx  
-  pdf_document: default  
-  
----  
-  
-# overhead  
-
-## Tagline  
-Change your thoughts. Change your life.  
-
-## Abstract  
-  
-Bet(Life) = Words / Time. 
-Bets improve life. 
-words mediate bets. 
-Life has three inter-related dimensions. 
-A person experiences the world with  
-senses, holds BETS about the world, and 
-commits ACTIONS on the world. 
-
-Desired experiences are GOALS. 
-Which (words) lead to success? 
-To Plan (1) is human (2). 
-Words (3) and numbers (4) are aids. 
-Bets synthesize all four. 
-
-Much like DOUBTS is a metonym for REALITY, 
-PPL are a metonym for 
-the forces that we co-exist with. 
-1. Self: physical realities--  
-sleep, nourishment, physical and mental fitness, health
----constrain time for 
-actions and success of goals. 
-2. Ppl: People have goals that can  
-help or hinder. 
-Work costs time but gives resources for goals. 
-3. Pri: Actions take time, and 
-time is limited. 
-Goals are worth different amounts. 
-How will you divide time across your goals?  
-  
-## Key words  
-intellectual coaching, mind-training, defining goals, accountability, expanding the boundaries of the mind, personal development, redirecting your life, tapping into your capabilities, identifying and challenging limiting patterns of thought, accomplish goals, unlock abilities, tap into your potential, motivation  
-  
-# 02 Prefc - 600w  
-  
-Dear Friend,  
-  
-since I first wrote about 
-the Intellectual Boot Camp (IBC) in 2017,  
-I have felt as if I am forever awakening from a dream, 
-slowly moving in a constant, 
-panicked daze toward a still-clearer reality. 
-From that first essay on, 
-I have attached a GOAL and 
-deadline to develop the IBC,  
-in line with the theory's 
-strong position on time management. 
-From the first essay on, 
-I have always been late.  
-  
-This book is my biggest attempt yet 
-to shake myself from the dream of  
-the IBC, and 
-it is the most late of all of them. 
-I undertook it after  
-some key insights, and 
-ould not put it together without discovering a  
-few more, and 
-now it is too far from complete 
-for an excuse. 
-Yet here it  
-is in your hands anyway, because 
-it is time. 
-I hope you can enjoy some  
-wonder beyond the morning breath of 
-this half-awoken book. 
-Thank you so much 
-for being my friend.  
-  
-I respectfully ask you to 
-please be as scathing and  
-ruthless as possible 
-in your critiques of 
-the CONTENT of this book. 
-If I've LINKED the core IDEAS correctly, 
-your most cutting critiques will  
-breathe even more life into the theory. 
-  
-each chapter begins with a short  
-description of key points. 
-
-The book is organized into 
-three parts. 
-Part One is on 
-the learning and teaching context,
-with definitions of 
-instructor and student in the IBC. 
-
-Part Two is the IBC's key IDEAS 
-(words in all capital letters), 
-presented logically, 
-arranged by  topic. 
-
-Figure 1 indexes most IDEAS and 
-their basic associations,
-shared here to reduce potential confusion with lay-definitions.
-Most  
-These are nuanced, but lay-definitions are generally okay on first-pass.
-
-The third part of the book is 
-a set of core lessons for applying core IDEAs
-to your life.
-  
-My deepest gratitude goes to 
-the first student of the boot camp, 
-who so generously offered to publish this volume, and 
-whose dream I have loved watching blossom.  
-  
-### Figure 1  
-  
-Figure 1. The relationship between core IDEAS of this book. These will  
-appear throughout in capital letters, but are defined in context in Part  
-Two. Here, terms are grouped according to chapter, to aid finding  
-definitions and provide a first approximation of conceptual relationship  
-between IDEAS. In both boxes, the first word in each row refers to a  
-Chapter (except LIB, a section of COMM).  
-  
-### *Extra  
-This is for you if:   
-1.	you are going to die some day, and  
-2.	it matters to you how you pass the time,  
-3.	you want to maximize quality time, or   
-4.	there is something worth living for.  
-  
-# 40 Gardn - 6700w  
-  
-**Part One**  
-  
-- IBC "Student 0"  
-Narrative, historical "preface"  
-Overlaps partially with #Plans  
-  
-- Bet  
-Bet thesis in narrative form.  
-  
-- Garden  
-Blank slate for conceptualizing PRIs.  
-  
-- Plans  
-Description of problem and (IBC) solution,  
-and definition of Instructor's Role.  
-  
-- School  
-First approximation "skeleton plan" of IBC implementation,  
-recruitment pitch, and   
-Instr1- Commitment  
-  
-- SR  
-Instr2- Reflection  
-core method and logistics.  
-  
-## 08 IBC-v1 710  
-"Student 0"  
-  
-I often have recurring dreams about   
-the absurdity of military boot camp.  
-I relive the sense of having a knife hand at my throat,   
-scared shitless   
-as the instructor spits profanity in my face.   
-He'll do this again and again so that  
-instead of just imagining,   
-I can come to intuit   
-a sense of discipline around   
-whatever behavior set off his explosion.   
-The instructor's resolved,   
-intense belief is what allows a student to develop   
-a deep, unique set of values.   
-When I wake, I don't call these nightmares.  
-  
-For the 18-year-old Mark looking for discipline and drive,   
-society didn't provide many options.   
-The things Marines boot camp came with  
---countless hours of drill, combat training,   
-military tactics and history--  
-seemed necessarily entangled in the idea of discipline.  
-  
-But I don't need combat readiness anymore.   
-My 18-year-old self didn't necessarily need it, either.   
-I wanted to go to college, but   
-was intimidated and beset by unaddressed fears.   
-I didn't see any alternatives for gaining confidence and character.   
-If only there was a course of training that   
-prepared me to be a rigorous, productive, confident thinker,   
-instead of combat.  
-  
-My experience in the Marines was both necessary and vital for who I am  
-now, even as an academic, but it has also slowed me down.   
-At best, combat training is a loose analogy to   
-the mental work and discipline needed for intellectual pursuits.   
-At worst, it's counterproductive and alienating.  
-  
-On the one hand, the military gave me an eye for practical solutions  
-that align well with research goals.   
-It is good tactical discipline to assess circumstances, cut out the excess, and evaluate possible outcomes in service of a quick, executable solution.  
-  
-On the other hand, the nature of battle is not like the nature of  
-thinking (or debates, even).   
-Assuming limited resources and taking an aggressive or defensive stance, is less helpful than accurately identifying   
-similarities, differences, and possibilities for improvement.   
-A lot of energy has been spent applying military notions of competition to my research.  
-  
-I want to see a boot camp whose purpose is to train young adults to  
-think harder, clearer and more effectively;   
-to produce intelligent, usable solutions to personal and social puzzles;   
-to have a higher cognitive discipline;   
-to instill shared values about   
-reason, thinking and discourse; and   
-ultimately, to empower strong individuals.  
-  
-Modeled after the instructor-student mentorship in military boot  
-camp,   
-this is a training program designed to   
-break down bad habits of thought and   
-build a more rigorous, disciplined, effective mind.   
-Students would give up personal possessions, wear a uniform,  
-adhere to a strict code of ethics, and   
-in isolation from the outside world.  
-  
-The central experience of an IBC student would be intense,   
-relentless intellectual challenging and confrontation of their own ideas about the  
-world by instructors.   
-This would be through drilling of intellectual skills (writing essays, arguing for ideas, and   
-developing proposals for action) under pressure with limited resources (time, information, attention).   
-They would be trained to focus   
-in the face of perceptual, physical, or emotional distractions.   
-Over time, students could expect to cultivate   
-a sharper focus on cognitive objectives,   
-resilience to distractions and challenges.   
-like their own ego.  
-  
-Students would graduate with the ability   
-to identify, develop, and communicate ideal critical,  
-rational arguments,   
-positions or plans (orally or written) given the available knowledge, finite time, and resources at hand   
-(reference material, teamwork).   
-Students would also learn responsible, ethical ways  
-to interact in a broader community---leading, collaborating, and  
-competing with existing systems of problems and solutions, subordinates,  
-peers, and supervisors.  
-  
-The central requirement for applicants is a commitment to better  
-understand the self and world.   
-Students would leave with   
-the capacity to handle a broad range of  
-unforeseeable and foreseeable problems and goals.  
-  
-My waking hours have slowly been taken over by these ideas.   
-I now dream of them.   
-I don't have it all worked out;   
-I don't even have all the skills I'd expect of students.   
-What I have is the belief that   
-an immersive, intense instructor-student model   
-can sharpen minds in ways   
-our education system is not designed to, and  
-our society increasingly needs.  
-  
-## 08 BetLife 742  
-  
-You can take control of your life, or   
-you can let the world bet for you.    
-  
-**Doubts. **  
-When I was little I wanted to be a writer.   
-I dreamed up stories and books.   
-I imagined writing them, but 
-I never picked up the habit.   
-
-I wanted to be the one to 
-inspire others by painting 
-scenes that reflected reality in a new way, but 
-I rarely wrote. 
-Nearing high school graduation, 
-the missing work was hard to ignore, and 
-I accepted I wasn't a novelist.  
-
-PLAN-
-If you want your dreams to become real,    
-listen to your doubts.  
-  
-My hesitation stemmed from 
-doubts that I had what it  
-took to be a writer. 
-Eventually those doubts became reality. 
-I was afraid to 
-accept the work needed to 
-achieve my dream. 
-I needed to bet my life 
-in order to learn this.  
-  
-**Bets. **  
-I hated that I let myself down; that I never  
-challenged my doubts. In that emotional frustration I felt confronted  
-with the possibility that I was too weak to be inspiring at all. I put  
-my life on the line to prove I wasn't afraid to succeed. I enlisted in  
-the Marine Corps.  
-  
-I didn't know it then, but I had made my first serious bet. I forced a  
-confrontation with the complacency that held me back from becoming  
-somebody. I just had to survive my enlistment to win, and winning meant  
-progress.  
-  
-I had pit my dream---to be a source of inspiration for others---against  
-my doubts of pulling it off. The outcome of this would either clearly  
-move me toward my goal, or push me to stop denying reality and adjust my  
-expectations.  
-  
-When you bet your life, winning means your reality is one shade more  
-like your goal. Losing is the wake-up call to be more realistic about  
-your dreams. Betting is the instruction manual for how to pursue your  
-dreams. It is also a reality-check for fantasies.  
-  
-Along with discipline came many stumblings that led to better  
-self-awareness about how I might be suited to improve lives. Unlike my  
-hesitation to write, I actually spent time helping others understand  
-their values and achieve their goals. I wanted to be a psychologist.   
-  
-For this version of my dream, I set out to test it immediately. I  
-started full time as a psychology major within weeks of finishing my  
-enlistment. The proof was in the pudding. Studying wasn't work; it was  
-play. I loved it. In three years, I was off to graduate school for a  
-PhD.  
-  
-Bets, in this sense, are a way of committing your dreams to the facts of  
-reality. This is importantly different from making your dreams come  
-true. Bets don't make dreams real, because most dreams have elements of  
-fantasy in them; something conceivable, but impossible.  
-  
-More accurately, betting is a protocol to guide you to reality, and if  
-you're lucky, you might have some liberties to make your dreams fit in.  
-  
-How real will your dreams get before you die?  
-  
-**Lessons. **  
-No really, consider it, right now. Imagine  
-the most realistic, attainable, best life you could have. Imagine taking  
-the first step and then stay with the thought. Listen to the fear that  
-surfaces. For the moment, never mind how the world has gotten in your  
-way. How are you in your own way? See your doubts with curiosity. Now  
-bet on overcoming them.  
-  
-Congratulations, you've completed the first lesson of the Intellectual  
-Boot camp.  
-  
-In the latest revision of my dream, I am an educator of bets.  
-I've been betting on this technique for years now.   
-First, I was my own student,  
-and then I recruited friends and   
-eventually University students.   
-I've been making the idea of Bets into reality.  
-  
-I'm preparing to bet my life, again.   
-I will need students willing to bet theirs,   
-in order to build this school.  
-  
-*Maybe then I'll write that book.*\*  
-Hey, a boy can BET, can't he?  
-  
-\*You're reading my first book.  
-  
-Learn about [[#Bets]] and   
-complete [Lesson Seven](Self) to Bet your Life.  
-  
-## 04 Gardn 1090  
-del90  
-  
-This thought experiment helps visualize your life goals,   
-especially in terms of the time and actions required (PRI).  
-  
-Imagine your life is a garden. Every one of your life ambitions, GOALS,  
-is buried in the ground as seeds.  
-Finding a life partner, acquiring a car or promotion, or resolving a  
-conflict with your childhood friend are all matters spread across the  
-dirt in need of water, sunlight, and---most important---your time. Other  
-goals, like naps, your favorite hobbies, or TV shows, take little work and  
-grow almost anywhere.   
-Whether they are dear to you or weeds,   
-if they take your time, they are in your garden.  
-  
-Today, you are on one end looking out across the  
-entire garden.   
-What has already been planted? What will you add and how  
-much time will you devote to those goals?   
-Every seed you plant---  
-even abstract ones like passing a course or making a friend---  
-implies things in and out of your control (work and weather), beyond your  
-awareness (the future), depending on the goal.  
-  
-Meditate on the final products of your garden.   
-Is there a more important plant that deserves your time today?   
-Meditate on the prioririties of your work.   
-Do two plants grow better when together?   
-Make a quick and accurate assessment, but   
-don't sit here all morning thinking about it.  
-What do you want to cultivate, today?  
-What do you want to cultivate in this life?   
-  
-You want what your body and mind best respond to. Many of these seeds  
-will be obvious. It is up to you how curious you are for what better  
-life is possible. The only way to know is to make the best  
-assessment you can about past outcomes to make predictions about what  
-new seeds or gardening techniquest you should try. You don't have enough  
-time in the day to tend to try everything, and many are not worth  
-trying. There is not always harm to planting something that does not  
-grow, but sometimes there is---you could run out of space, time, or  
-energy that could have been devoted to better crops; you might get a  
-weak yield for trying to grow something not suitable in your climate, or  
-find you have no taste or stomach for the fruit.  
-  
-In the garden, the COSTS of goals are grounded in their most basic  
-sense: time and attention.  
-  
-Every day, as a human, you spend time eating, drinking, pooping, and  
-sleeping. You might make things that help you more efficiently manage  
-your garden. Building a HOME provides SAVINGS for the basic needs of  
-being human. In this contained environment, you can efficiently prepare  
-and eat food, maintain hygiene, and sleep.  
-  
-If you don't have the SKILLS, you just need a PLAN, and time to practice  
-and learn. Look on the internet, or go visit Dot's garden and see if you  
-can trade something for his help. Just know that when you leave your  
-garden, you are definitely not tending to it.  
-  
-*People*    
-  
-In someone else's garden, you have (only) what you see immediately  
-before you, and their word about what came before.  
-Maybe they are your friend, and he needs help with some unruly vines, or  
-maybe you are captivated by some apples you haven't seen before.  
-Everything that happens in their garden could be thought of as a seed in  
-your garden: how much time your visit takes and what you're left with,  
-after.  
-  
-Sometimes, people are like water, bringing extra life to needy crops.  
-Sometimes people are careless and track weeds in on their boots, or  
-over-water your interest in running until you sprain an ankle.  
-Sometimes, people are like pills. Someone might come to your garden and  
-distract you, make you anxious or bored or excited. How are the people  
-(PPL) in your life affecting your garden?  
-  
-Where do you get seeds from and how did you know to plant them? From  
-other people, right? No silly, you don't know how to plant all these  
-plants! Lucky for you, many of the most important crops, products, and  
-savings are already grown, prepared and handed to you---in exchange for  
-money, which you have from spending time on a much larger, collective  
-garden called society, doing some very specialized thing called WORK.  
-You'll do about 80,000 hours of work in your life in exchange for  
-already grown apples and baked cake, and things like toilets to take  
-your poop somewhere else.  
-  
-The expectation that you will WORK for money for goods often falls  
-outside your control (NORMS). NORMS are a reliable way to live,  
-generally, but not necessarily the best, which goes back to that  
-curiosity business mentioned earlier.  
-  
-Many people believe in seeds with special powers, like true love, or  
-winning the lottery. One seed grows the duration of your life, which you  
-rarely notice but are often aware of. When you eat it, the sun sets for  
-the last time and you bite the dust. Think about this, but don't dwell  
-on it. It happens to all of us.  
-  
-Instead, think of what you can grow from the seeds of the best apple in  
-your crop, which you tended to with dedication and skill. Think of the  
-seeds of people that clarify and cultivate your garden---Dot's cousin  
-who also loves leatherworking seeds. Also, think of what's happening  
-right this very moment: nothing in your garden, while you're sitting  
-here thinking. Reflect only enough to improve your actions.  
-  
-Your garden allows you to ground the many goals of your life into a  
-medium the mind is well-equipped to analyze: visual space. Maybe it  
-seems unnecessary to represent work satisfaction and relationship  
-quality in terms of carrots and tomatoes. When you arrive at the moment  
-of boredom or frustration in attempting to put your life in terms of  
-concrete IDEAS and actions between them (LINKS), ask yourself why you  
-are bored and frustrated attempting to define the things that apparently  
-define you. What is happening in your life, and what is in your control  
-if these are unclear? If you are not reflecting on your life, your  
-garden is a foggy labyrinth and you are a drunk gardener wearing  
-oven-mitts.  
-  
-# 06 IBC    
-The IBC idealized.  
-
-## Pitch
-### toEducation 143  
-
-REALITY-
-Widespread education failure
-begins with answers purported
-by a few authors far removed from
-the students' PRIs and PLANs
-(questions and answers).
-
-EXAMPLE-
-The PLAN for happiness is  
-within reach for all, except
-in books and WORDS
-by a few others (authors),
-thus, with idiosyncratic STYLE.
-
-BOOK relevance and application 
-is left to the student.
-
-Books tell a student 
-what the answer is not.
-
-A student begins with 
-problems that do not have names,
-not those named in books. 
-
-Define knowledge by   
-the student's reality and life goals.  
-
-The only book 
-should be a PLAN template
-- robust across individuals,  
-- self-learnable,  
-- iterable and  
-authored by the population.
-i-this book.
-
-LINK-toApplicant
-It begins with the average answer
-to the following invitation.
-
-### toApplicant 89w  
-  
-How would your life look 
-if you put it on paper?    
-How do you get what you  
-need and want?   
-How do you clarify and 
-direct your life?   
-
-With better words.   
-The right words will change 
-your actions and your life.  
-It's time to live a better life.   
-It starts with your words,  
-and a commitment to change.  
-  
-Committing is a personal decision, and risk.   
-
-1.Is there a better version of you?  
-2.Are you capable of moving toward it?  
-3.Are you ready?  
-
-Then apply.
-
-LINK-toINSTR
-\*Such a program does not exist,
-until the following call
-for an instructor is met.
-
-### toINSTR 0 212  
-<!-- imagined as the introduction to the -->
-<!-- instructor's course;  -->
-<!-- whereas standard swim qual is -->
-<!-- an objective test of water commitment, -->
-<!-- the top level requires  -->
-<!-- water skill despite  -->
-<!-- an overt adversary. -->
-  
-Welcome,
-You vibrating sack of meat   
-taking up my space and time.  
-
-i am the first student that demanded one, but 
-i am your teacher, 
-until you convince me otherwise.  
-
-you say 
-you want to be a teacher, so
-you are crazy.  
-  
-a teacher and student
-take on a debt of time to
-bet on my life;
-a radical co-dependency. 
-why would you do this?  
-  
-aggressive teaching is not logical, but 
-you and i are not dealing with the logical. 
-i must doubt you. 
-  
-you will do everything to 
-put the truth in front of me.  
-if i find out you withhold truth, 
-i will punish you with it.  
-
-you are a teacher when you 
-re-do your shitty lecture, 
-until your student has earned 
-both your time.
-
-LINK-toStudents
-An instructor agrees,
-because they BET: 
-
-### toStudents 148  
-2021-02-16  
-  
-your calling,  
-your highest value,  
-is yours to name;  
-an idea about the world,  
-bounded by reality and your doubts.  
-  
-if you overcome your doubts,  
-and see reality plainly,  
-you will want peace.*  
-    
-but we all have doubts, so   
-you want some form of   
-dignity and affirmation.  
-    
-tell me your calling, student,  
-and subtracting from peace,  
-i'll tell you your doubts.  
-  
-On finishing this book  
-your life will be regimented  
-to afford your calling.  
-  
-tell me the missing chapter  
-that lets you achieve peace  
-instead of a life of regimen,  
-so that I may find mine.  
-  
-*time*  
-The beginning is now,  
-and the end is near.  
-The rest is math.  
-  
-To master time is to   
-attend to your life,   
-in its passing degrees.  
-  
-*Congruence*  
-parsimony is to   
-maximize energy on priority 1 and   
-0% toward others.   
-Either sacrifice SELF pri (asceticism), or   
-assign SELF as pri 1, Buddhism.   
-
-
-## IBC Pedagogy  
-
-### Apply-p 53  
-PLAN-
-Demonstrate you are minimally capable of   
-identifying, cultivating, and   
-communicating GOALS in writing, and   
-hold genuine commitment to their growth (or quit).   
-      
-The interested applicant will:   
-a. Submit a 400-word essay describing your goal(s) and   
-   why coaching will help you.  
-b. On receiving feedback, return a revised 400-word essay   
-   within 48 hours.  
-  
-   
-### -COST-p
-#### material
-
-7- or 30-day experience,  
-meals and lodging included.  
-
-REALITY-
-Our bodies resist discomfort.   
-You won't learn    
-unless you cannot escape needing it;
-in a dedicated environment   
-that fosters acquisition,
-minimizes interference.
-
-EXAMPLE-
-No phone or internet access.  
-
-#### actions  
-
-Students,  
-0.provide two minutes of product  
-  for every minute of learning. 
-  a.content toward others' learning (IBC).  
-  b.the application of their learning.  
-
-Dedicate to identity growth. 
-Be:  
-  
-1.  Quiet, except when tasks require verbal response.  
-2.  Receptive to work and feedback provided by the instructor.  
-3.  Committed to producing genuinely inspired ideas, working quickly,  
-    and seeking improvement.  
-4.  Respectful that all are equal in voice, and aim to describe  
-    solutions with collective values.  
-5.  Receptive and responsive to observations (from peers and/or  
-    instructors) of their DOUBTS: vague language, cognitive bias,  
-    illogical arguments, and over-valuing of personal arguments.  
-6.  Motivated to describe solutions that benefit others, when possible.  
-
-7. Respond to prompts on a computer   
-enabled with a text editor,
-document and time manager. 
-8. provide work for other students' goals via  
-anonymous peer-review. 
-
-You will
-- eat, sleep, think, talk, and act differently.
-Your
-- thoughts, 
-- attitude, and    
-- life will be different.
-
-
-## PUSHED
-### Phase-2 IBC 134
-
-With these simple constraints on thought and written expression, individuals produce standardized documentation   
-(individual problem identification,   
-progress tracking including barriers) of   
-authentic lives, motivations, and solutions, and   
-critically, in timed, quantifiable sessions.   
-The result is a recipe for well-controlled,   
-context-rich data on   
-the process of thinking about one's life.   
-Those willing to volunteer their reflections and   
-its efficacy on their lives  
-are providing higher resolution views on   
-the psychological landscape.   
-
-The psychological landscape is   
-not complete without the social landscape.  
-  
-The intellectual bootcamp is a controlled community 
-aiming to catalyze learning.   
-Here, the individual improves themselves
-and helps others
-on the bet that what goes around comes around.   
-
-### Phase-3 63  
-
-Ideally, insights from the IBC would lead to generalization to non-controlled environments and education systems.   
-  
-Phase three will exist only to the extent that   
-a shared sentiment and belief exists,  
-to increase the value in the self,  
-and that a better life is possible,  
-if we only commit ourselves and   
-each other to trying to make it happen for ourselves,  
-and each other.  
-
-# 40 Laws 9660w  
-**Part Two**  
-  
-An introduction to the foundation, 
-best read slowly and in order. 
-Refer to Figure 1 in the Preface to see 
-LINKs between IDEAs.  
-  
-# DEFs 2388w
-  
-## BET
-Betting maximizes getting what you need and want  
-by imposing deadlines to confront   
-costs, habits, unknowns and doubts.  
-  
-### GOAL
-- names a problem,   
-- comprises a PLAN for an ideal outcome, and   
-- has COSTS associated with exercising the PLAN.   
-- can be 
-  - finite and singular or persistent and recurring.   
-  - REALITY or FANTASY.  
-  
-### PLAN
-any external suggestion   
-(usually words) with the goal to  
-improve the chance and   
-decreases the costs of achieving your GOAL.  
-
-Specific PLANs:   
-1.  INSTR. Instructions for learning, making, changing, reminding.  
-2.  DOC. Document-based GOALs, like manuscripts and resumes.  
-  
-PLAN templates:  
-1.  LESSONs. A reflection plan. Read and complete steps in order.   
-2.  TOOLs. Like a hammer, anti-virus software.  
-  
-### BET
-PLAN template for   
-reconciling REALITY with CHUD  
-to accomplish GOALs.   
-
-Successes shorten your PLAN, and   
-the distance to your GOAL.  
-Failures mean you underestimated  
-your CHUD.   
-  
-Every IDEA you hold is a BET  
-with a rolling deadline,   
-idiosyncratic achievements,  
-and inconsistent revisions.  
-
-Figure 2. Bet schema.   
-PLAN and DOUBT reflect predictions   
-biased to assume the GOAL,   
-action and CHUD will be reality or fantasy,  
-respectively.   
-Biases are updated when the deadline passes. 
-
-## C.H.U.D. 86  
-
-
-The degree you are wrong is UNKNOWNS.   
-DOUBTs are the BET against yourself.  
-  
-### COSTS
-COST is the amount of change needed   
-(between your current and goal state)   
-to accomplish a GOAL:  
-labor and resources needed.   
-All costs are variations of passing time.  
-  
-### HABITS
-Your dominant tendencies (FORCES).   
-Bad HABITS are FORCES working against your GOALS.  
-Good HABITS are ALIGNED with GOALS.
-  
-### UNKNOWNS  
-As long as you have not arrived at the goal, 
-there are Unknowns.  
-It is unclear if you can control it,  
-but you can estimate it.  
-Failures reveal DOUBTS.
-
-The difference (error) between 
-your Plan's estimate of reality,
-and Reality.    
-  
-### DOUBTS  
-Good DOUBTS temper  
-an optimistic PLAN.
-Bad DOUBTS fuel bad habits and fantasies.  
-  
-Fear, anxiety, and jealousy,  
-reflect overestimation of UNKNOWNs.  
-Resistance to change due to arrogance and ego   
-reflect underestimation of UNKNOWNs.  
-  
-To be **distracted** from
-or bored of
-your plan is    
-- anxiety about your future.  
-- discomfort toward present reality.  
-- distrust in your past. 
-
-## Self
-SELF is what's sufficient and necessary to survive.  
-  
-SELF is the direct effort to  
-mitigate the cost of existing HABITs and DOUBTs;  
-and optimize health  
-to maximize your BETs.  
-  
-SELF optimizes bodily homeostasis   
-- Eating,   
-- sleeping,   
-- pooping,   
-- showering,   
-- making babies, and   
-- staying alive   
-in order to maximize your values.  
-   
-SAVINGs intrinsic to your body, 
-especially GOALS  
-that are high MAINTENANCE. 
-
-### (GROUPS)  
-SELF is grouped by GOALs of your body:   
-Being fed, well-rested, and unstressed.  
-A HOME groups associated actions by place: 
-storing food,  
-providing running water, and protection from the elements.   
-
-### HOME  
-All physical material and  
-resources you own, including MONEY; and
-environment and basis for HABITS.
-
-A good HOME is a PLAN for SELF;  
-simplifying the GOALS of   
-eating, sleeping, and other basic needs.   
-A bad HOME facilitates bad HABITs.
-
-### VALUES
-Anything fulfilling,  
-including the reason for living.   
-
-## 04 Pri 177  
-  
-Managing the set of goals in your life is   
-the goal of PRI.   
-Betting your life, GOALs, and VALUEs are   
-refined by and subservient to the full set  
-of facts in your life, and   
-the management of these.   
-
-PRIs recognize that GOALs  
-all draw from a single, finite  
-source of attention, and   
-a single, limited and finite existence;  
-you.  
-
-  
-PRIs is your map to VALUES.  
-
-  
-### ORDER 142  
-
-### REALITY  
-
-PRIs shift around as you  
-spend more time on one and not another.   
-
-  
-### SAVINGS  169  
-completing an action  
-that serves various goals.   
-  
-
-
-### GROUPS 217  
-Grouping makes SAVINGs.
-Figure 3 below illustrates savings  
-from the good maintenance practice of grouping.   
-
-
-Grouping works for  
-abstract or concrete things.
-Figure 3.   
-SAVINGs are illustrated as a function of GROUPs,
-across three rooms. The same OBJECTs are: 
-As you find them (Room 1),   
-labeled clearly (Room 2), and  
-Grouped by function (Room 3).    
-Letters reflect different things, and  
-shape differences reflect different kinds of things.  
-
-
-
-### GOALS-group
-single outcome,
-or sustained state (MAINTENANCE).
-
-### RETIREMENT-group
-time until you die;
-resource and automation for 
-remaining life COSTS.   
-  
-### TIME  
-
-The constant or denominator for FORCES, FORGETTING,
-PRI, and LIB.
-
-
-## PPL
-
-### FORCE  
-
-cause of change.   
-There are forces within your control, and   
-forces outside your control.   
-
-MAINTENANCE is what it costs 
-to neither move toward nor away from a GOAL.   
-RISKS are covered by INSURANCE. 
-
-### Norms
-NORMs pay out MONEY for WORK.  
-
-Others' actions can impact your GOALs.   
-NORMS are the web of FORCES of   
-all actions of all people, including   
-WORK, religion, popular attitudes, and DOUBTS.   
-  
-NORMS benchmark the COST of living.  
-
-Individuality can conflict with NORMs.
-PPL'S LANGUAGE is made from NORMS.
-When you are individual, 
-NORMS push against you
-  
-### Work  
-WORK is made to serve NORMs, not you.
-yet takes 80k hours of your time.
-
-WORK pays the broadest INSURANCE: MONEY.   
-Money is traded for MAINTENANCE of  
-SELF and VALUES.   
-
-### RLTP 
-GOALs about PPL.   
-you would spend much
-to protect their SELF
-and perhaps VALUEs.
-Good ones are aligned,   
-Bad ones cost you.   
-RLTPs are reciprocal BETS,   
-yours of them, and vice versa.  
-
-### ALIGN  
-
-Adjust direction of your goal to be more similar to another force,
-usually one acting against your goal.
-   
-## Words 
-
-Words can make you smarter.   
-Words provide miniatures of reality that  
-are efficient for exploring possibilities.  
-You can think through 
-far more situations with words, than 
-you can (or should) try in reality.   
-Your GOALs can be described in words, and 
-words can be easily crossed out and revised, with minimal labor. 
-Words increase the quality of decisions.   
-  
-The COST of an individual word is tiny, but   
-we say tens of thousands per day.   
+﻿
+
+student0 2022-01-18-1037  v2.13
+
+## Table of Contents
+
+The Garden. Basics
+   1. Introduction.  Read me first.
+
+
+   2. SELF.  Mind and body.
+   3. PRI.  Death and meaning.
+   4. PPL.  SELF and others.
+   5. BET.  Back to reality.
+
+
+The Bootcamp. Theory
+
+6. Education.  A bootcamp fantasy. 
+7. WORDS.  Benefits and drawbacks to thinking.
+8. Revisions.  Writing, reading, and librarians.
+
+9. Epilogue.  Lullaby for survivors.
+
+## Abstract 
+
+This book asks and answers a series of questions about the nature of a productive life and its implications, as follows. 
+   1. Self. What must I do (FOOD) in order to have what I want (CAKE)? Food is health, comprising maximum physical energy (fit) and mental energy (wit). CAKE is motivation, meaning and will to live (PRI). 
+   2. Pri. What actions maximize cake in my life? Efficient fit and wit maximally used, before death (plan). 
+   3. Ppl. What are people? Parallel universes dealing with the identical problem set. 
+   4. Bet. What actions result in CAKE? Steps taken now according to my plan (bets) and revision according to bet wins and failures (CHUD). 
+   5. School. What now? Learn all your answers (student), along with other ppl (peers): go to school (ibc). 
+   6. Words. What do i study? How to minimize the difference between your pri (words) and data (reality), or how to increase bet wins, and minimize their failures over your time as a student (data). 
+   7. Revisions. When am i done? When your plan for bets is according to pris, prepared for CHUD is good enough to bet on (revision): as soon as possible (blitz). 
+   8. Epilogue. What is wrong with this book? It is mostly about idealized productivity, because it is written by one instructor obsessed with discipline and science fiction.
+
+# 1. Introduction
+
+
+Note for v2.12. If you are reading this, you have an early copy of the 2nd version of this book. This copy is missing a few key sections in addition to other edits which remain before making it public. Thank you for your patience in misunderstandings. I welcome any and all constructive feedback. Additionally, feel free to check back in for a revised and updated version if you please.
+Dear me,
+      1. Read this book because you’re ready to.
+      2. You are going to die someday. This book is for you if there is something in the meantime worth maximizing.
+      3. Please engage your life. This book is meant to help you break through mental barriers, into action, starting right now.
+      4. Please get a pencil and note the date and TIME, right now: 
+
+
+______-______
+YYMMDD-HHMM
+
+
+      5. The WORDS in this book are meaningful only when you apply them to your life.
+      6. If you completed step one, you have proven enough that you are open to trying new ideas. You are prepared to grow and continue reading.
+      7. If you left the line blank, you might tell yourself you are open to new ideas. You will be right when you complete the task.
+      8. Either write the TIME above or stop reading, and take a better action to improve your life, right now.
+      9. Every WORD you say to yourself is at best a PLAN for action, meaningless until you take that action. 
+      10. Consider every WORD I write a PLAN to improve your actions.
+      11. Reasons for the PLAN are always less important than consequences of following them, often omitted. 
+      12. What is important will appear, and what isn’t will be forgotten. 
+Go Camping
+      13. This book describes obvious facts of life. Very little should surprise you because it falls awfully close to reality.
+      14. The first way to see this is to consider going on a camping trip, right now.
+      15. To make this happen you will likely overpack, be late or unprepared.
+      16. Planning and executing your life are not fundamentally different.
+      17. Perhaps you are an experienced camper, and you’re not unprepared or late to camp. 
+      18. Unlike camping, we don’t have past life experiences. You are very likely late to your own life.
+      19. The reason is a disconnect between your mind’s image of TIME, and the one you are physically bound to. 
+      20. The result is you will die in two worlds, the world you imagine you could have lived, and the one you did. 
+      21. Part one, the Garden, is a tool for remedying all the knowable versions of this problem.
+
+
+      22. Now, suppose you are hungry, and you must choose between finding FOOD or CAKE. 
+      23. FOOD refers to needs and CAKE refers to wants; what really matters, and what you can live without.
+      24. If you reject this premise, you CAKE hypotheticals more than constructive exploration.
+      25. To make sure you are on TIME for life, first find the FOOD. Guarantee FOOD is thoroughly planned, and first to be packed.
+      26. Then, what TIME remains before you need to go (act) is for choosing and packing pieces of CAKE.
+      27. Now for the bigger issue: How do you decide whether something is FOOD or CAKE?
+      28. Often, extreme experiences like being homeless or taking a cold shower, illuminate the difference between FOOD and CAKE.
+
+
+Be homeless
+      29. The odds are you haven’t been homeless. Therefore, imagine the closest experience you’ve had. 
+      30. Perhaps you couldn’t find your car in the middle of winter, or you went camping without waterproof gear and it rained. 
+      31. In the first moments, there is shock and terror, frustration and suffering. Your habit protests for a change in PLANS.
+      32. In any environment, even far into the spectrum of clear suffering, habits will acclimate in TIME. What you call suffering will change.
+      33. Part two is a group of guidelines for sharing ideas with the GOAL of identifying what matters. 
+      34. The key arguments are radical application of brevity, CAKE-assessing, and clarity. 
+      35. These are accomplished with concrete guidance on actions. 
+The Garden Narrative
+      36. The Garden foregrounds the things we often lose sight of when conceptualizing life GOALS: life is brief, and we are mortal. 
+      37. It is a mental model of reality, designed to bring clarity. 
+      38. Your Garden is your GOALS put on key IDEAS of this book.
+      39. You need the Garden to combat the other strength of your mind, its inherently idealistic nature, which sets you up for failure and suffering.
+      40. In these chapters, the second half revisits the key ideas in more formal language.
+      41. WORDS in all capital letters are IDEAS that have specific definitions that differ slightly from conventional use. 
+      42. For example, “WORK” is an IDEA referring to “careers”, but not ‘yard WORK’. 
+      43. LESSONS are much like “The Garden”, meant to activate relevant parts of your reality or beliefs, in a way that applies the IDEAS introduced. 
+      44. They are exercises that take between 10 and 60 minutes to complete.
+      45. Finally, each unique point made in a chapter is enumerated for easy cross-referencing. 
+      46. An example cross-reference for the item immediately above is as follows: [1.45] “1” referring to this chapter, and “45” to the item number.
+      47. This will be taken advantage of in future revisions.
+
+
+## 2. SELF
+Your Garden
+      1. Imagine your life takes place in a garden.
+      2. Visualizing your life as a garden allows you to ground actions and PLANS. 
+      3. The mind analyzes well with visual space. 
+      4. In this garden we’ll consider all your biological needs – eating, sleeping especially – as literal. 
+      5. Your plants are GOALS, and gardening is your PLAN.
+      6. FOOD and CAKE exists in the form of fruit from plants.
+      7. Whatever it takes to obtain your CAKE you can consider as an act of gardening. 
+      8. Every one of your life ambitions, GOALS, is buried in the ground as seeds. 
+      9. Finding a life partner, acquiring a car or promotion, or resolving a conflict with your childhood friend are all matters spread across the dirt in need of water, sunlight, and—most important—your TIME.
+      10. Other GOALS, like your favorite hobbies, or TV shows, take little WORK and grow almost anywhere. 
+      11. Whether they are dear to you or weeds, if they take your TIME, they are PLANTS in your garden.
+      12. Except that they start as seeds. 
+      13. And what do you do with seeds to make plants? You garden, dear human, you garden.
+      14. All actions toward a plant are according to PLAN. 
+      15. All actions toward your SELF are to be considered literal in the garden metaphor.
+      16. For example, if you need to eat, or go to the bathroom, you physically go to the place and literally do the deed. 
+      17. (There will be no defecating on plants, or a defecation plant in this garden.)
+      18. Thus, in the garden you are still a normal human bound to a normal space and time, capable of: 
+      1. acting according to bodily need, 
+      2. moving about space, and 
+      3. gardening.
+Today
+      19. Today, you are looking out across the entire garden. 
+      20. What has already been planted? What will you add and how much TIME will you devote to those GOALS? 
+      21. Every seed you plant — even an abstract one like passing a course or making a friend— implies things in and out of your control like WORK and weather, or beyond your awareness, like what your boss loses sleep over.
+      22. Meditate on the final products of your garden. 
+      23. Is there a more important plant that deserves your TIME today?
+      24. Meditate on the priorities of your WORK. Do two plants grow better when together?
+      25. Make a quick and accurate assessment, but don’t sit here all morning thinking about it. 
+      26. A garden is for working in, to get the FOOD and CAKE you need. 
+      27. What do you need to cultivate, today? 
+      28. What do you want to cultivate in this life?
+
+
+      29. First, you want what your body and mind best respond to. Many of these seeds will be obvious. 
+      30. It is up to you how curious you are for what better life is possible.
+      31. The day is too short to try everything, and many things are not worth trying. 
+      32. There is not always harm to planting something that does not grow, but sometimes there is. 
+      33. You could run out of space, TIME, or energy that could have been devoted to better crops; 
+      34. You might get a weak yield for trying to grow something not suitable in your climate, or 
+      35. find you have no taste or stomach for the fruit.
+      36. In the garden, the COSTS of GOALS are grounded in their most basic sense: TIME and attention.
+
+
+Core Concepts
+      37. The following are core concepts for application beyond the Garden.
+GOALS
+      38. A GOAL names an ideal future reality, comprises a PLAN to increase its likelihood, which has COSTS to exercise it.
+      39. These three things encompass all cognitive activity related to reality.
+
+
+      40. Everything that could be true or in your hand, but isn’t right now, is a GOAL. 
+      41. It is your GOAL if you aim to increase its probability.
+      42. A GOAL can be finite or persistent, singular or recurring, or realistic or not.
+
+
+      43. If you will need to do something before it is in your hand, it requires a PLAN.
+      44. A PLAN is any combination of WORDS where the writing or reading of them aims to improve the chance or decrease the COST of achieving your GOAL.
+      45. Most PLANS are instructions (INSTR) for learning, making, changing, reminding. 
+      1. Product INSTR are a PLAN to maximize satisfaction and minimize liability. 
+      2. For example, lamp INSTR will likely suggest not to put it in water. 
+      46. A DOC is a PLAN for GOALS to complete a linguistic product
+      1. Example DOCs include a resume or epitaph on a tombstone.
+      47. LESSONS are a PLAN template for thinking. 
+      1. Read and complete LESSON steps in order.
+      48. TOOLS are physical or mental objects that help you accomplish your GOAL.
+
+
+      49. What is materially required—muscle energy, cash, brain power—is COST.
+      50. All COSTS can be reduced to TIME.
+      51. COST is any action that has a direct exchange.
+      52. COSTS often are secondary objectives within a PLAN.
+      53. For example, you might buy a TOOL (COST).
+SELF
+      54. Every day, as a human, you spend TIME and attention just meeting basic needs: eating, drinking, pooping, and sleeping.
+      55. These actions are subgoals of maintaining SELF, the category of basic human GOALS.
+      56. FOOD is the necessary and sufficient material to satisfy these needs.
+      57. CAKE is anything (else) fulfilling, that you are inclined to pursue, including the reason for living.
+      58. The GOALS of SELF are what’s necessary and sufficient to obtain and manage FOOD and maximize BET outcomes.
+      1. Separate FOOD from CAKE. 
+      2. Be careful not to mislabel CAKE as FOOD. CAKE may appear sufficient but ask yourself if it is necessary. 
+      3. Build routines for health and fitness, physical safety (shelter), a sound mind, healthy relationships.
+      4.  Master the SELF (survive well).
+Home
+      59. HOME is the collection of materials and TOOLS needed for SELF.
+      60. Within a HOME related actions are grouped into rooms. 
+      61. For example, a kitchen, is for eating, storing, preparing and disposing of FOOD.
+      62. HOME also includes all physical material and resources you own, including MONEY, and environment and basis for HABITS.
+      63. A good HOME is clean and ALIGNED for FOOD. 
+      64. A bad HOME facilitates bad HABITS and takes more TIME to maintain.
+Lesson One: Define Yourself
+Routine and Ideal
+      65. You are how you act. Therefore, establish a baseline to know what it will take to get where you want to be.
+      66. One of the most common mistakes of planning is being overly optimistic in predicting outcomes.
+      67. This exercise is a remedy.
+
+
+      68. Task 1. 5m, 50w. Take five minutes to produce the WORDS that are most likely to accomplish your GOALS for the day. This may include describing the GOALS, the PLAN, and/or the DOUBTs.
+      69. Task 2. 5m, 50w. Copy those 50 WORDS and revise them according to the following instruction.
+      1. Replace “accomplish your GOALS” with “do”. 
+      2. In 50 WORDS, what should you (or an all-knowing observer) BET on that you will do, today? 
+      3. Regardless of what you assumed in Response one, do not write with the intention of ‘motivating’ yourself, but to simply describe your day. 
+      4. If this is too hard, simply evaluate what you did yesterday.
+      70. Task 3. 5m, 0w. Compare your responses. Positive differences (more optimistic) in your first response reflect bets you are making against your habits.
+
+
+SELF-750
+      71. How accurately can you describe yourself? 
+      72. Relate to those who care, including your better SELF, by practicing the right WORDS.
+SELF-past
+      73. Task 1. 20m, 250w. Look back on your life. What are your CAKE, and where did they come from?
+SELF-future
+      74. Where are you going? Imagine your life plays out 
+      1. Ideally.
+      2. Terribly.
+      3. Typically.
+      75. Consider 1. What could go right or wrong, 2. What it depends on and the likelihood. 3. Who you will be if it happens.
+      76. Create a “choose your adventure”, ordered by likelihood.
+      77. For example, (I will…)  80% make enough money to be content. 50% marry, and - 50:50 ends well or in divorce, and 10% major accident leading to depression.
+SELF-now
+      78. Task 3. 20m, 250w. Make a small table with three columns. 
+      79. In the 1st column, leave enough room in the first column for a short text description, and a 1-2 digit number for the 2nd and 3rd column.
+      80. Think about a day and how much TIME you spend on various activities, averaged over 365 days in a year.
+      81. on-daily activities such as visiting the dentist should be factored in, accordingly. 
+      82. List the activities in the first column.
+      83. List the TIME you spend (in hours), in the second column. 
+      84. The total of your second column should be 24.
+      85. Task 3a. 2m, 50w. Choose a GOAL you named in SELF-Future with a probability of outcome that you would like to increase. 
+      86. What change is needed in your daily schedule to make this increase?
+      87. Estimate the re-allocation of TIME required to achieve your GOAL, in the third column. 
+      88. For example, if your GOAL is to lose weight, you may need to adjust TIME for exercise and eat, and other activities if you “need more TIME”.
+      89. Task 3b. 3m, 50w. List most likely reasons this PLAN fails, especially reverting to old habits.
+      90. Task 3c. 10m, 150w. Add steps to create and protect changes in your schedule.
+      91. Task 3d. 1m, [decide-date]
+      92. BET on this (Task 3b vs 3c). Set a date on the calendar to assess your commitment to this PLAN.
+________________
+
+
+      3. Priorities
+      1. Think of what you can grow from the seeds of the best apple in your crop, which you tended to with dedication and skill or luck.
+      2. Before there was a garden, you lived as if you wouldn’t die. 
+      3. Even today, you hold some GOALS on the assumption that you will start working toward them, tomorrow.
+      4. I did, at least. The list of my GOALS grew like a wild vine and I found myself overwhelmed by what else I wanted, and yet an inability to equalize various goals. 
+      5. For example, sleep is vital FOOD, but perhaps only 4 hours of it. 
+      6. If you like to sleep in on the weekends, that is CAKE.
+      7. In your garden, you are limited in what you can do in one day.
+      8. Even if you build machines to work fields that stretch out to the horizons, 
+      9. you can only eat so much in a day and a lifetime.
+      10. How do you most want to spend your time?
+      11. If your GOAL is to obtain something you do not yet have and have never tasted, be careful. It may not satisfy you how you imagine.
+      12. Suppose your goal takes 300 hours of labor.
+      13. You might spend 10 years accruing the time on task, or immerse yourself and achieve your GOAL in under 1 year.
+      14. To avoid let downs, better to achieve your GOAL as soon as possible.
+      15. Today, you grow the best apple you can,
+      16. yet having tasted it, you might discover a more refined GOAL is closer to your heart.
+      17. Whether this apple is FOOD or CAKE, the more you align with yourself, the more you will see your GOALS differently than you first conceived of them.
+      18. Leave time in your life to achieve the next GOAL.
+Death and Sickness
+      19. Many PPL believe in seeds with special powers, like true love, or winning the lottery. 
+      20. One seed grows the duration of your life, which you rarely notice but are often aware of. 
+      21. When you eat it, the sun sets for the last TIME and you bite the dust. It happens to all of us.
+      22. Think about this, but don’t dwell on it. 
+
+
+Bad days
+      23. Maybe you are sick, down or depressed.
+      24. Then today, do not look out onto your field as a day to WORK. 
+      25. Today your field gives to you, and you should take what you need. This is what it is for. 
+      26. Do not beat yourself up for what you cannot give today. This assumes your field is only meaningful for its future. 
+      27. And before you’re well again, remember this moment well, so you may 
+      28. prevent the urge to be disappointed the next TIME you are less than productive. 
+      29. If you must WORK to feel worthwhile, WORK to budget for a fact of being human: 
+      30. you are always sometimes less than productive, and occasionally your setbacks come in unfortunate forms, at inconvenient times.
+Attention and time
+      31. Think of what’s happening right this very moment: nothing in your garden, while you’re sitting here thinking. 
+      32. Reflect only enough to improve your actions.
+
+
+      33. The GOAL of PRI is to manage the set of GOALS in your life.
+      34. All GOALS rely on a single, limited source of attention, and existence: you.
+      35. Attention:
+      1. At its best, this limiting fact drastically improves the reality of PLANS and GOALS. 
+      2. At its worst, it is the most common oversight responsible for bloated CHUD. 
+      3. GOAL importance (PRIS) partly depends on context.
+      4. Group GOALS by shared actions, places, or times. Make/group/keep, order, reduce in the order presented in Figure 4. “A place for everything, everything in its place”
+      5. ALIGN SELF and CAKE 
+      6. Adopt all your GOALS to REALITY (“above”, e-you will die). 
+      7. Think about the sum of your GOALS,
+      36. Ask what it would take to change (if possible), and whether change is worth it.
+      37. Savings occur anytime you complete an action that serves various GOALS.
+      1. An example is Grouping. (See Fig. 3) 
+      2. Apply to IDEAS, PLANS, GOALS, or HOME things.
+      38. TIME is the constant (or denominator) for FORCES, FORGETTING, PRI, and LIB. 
+      1. Do not ignore TIME. 
+      2. Estimate durations accurately for GOAL accomplishment.
+      3. Study TIME to learn reality, SELF, and their LINK.
+      4. Continually assess whether GOAL benefits outweighs costs of TIME.
+
+
+      39. Maybe it seems unnecessary to represent WORK satisfaction and relationship quality in terms of carrots and tomatoes.
+      40. When you get bored, ask yourself why attempting to understand and define yourself bores you. 
+      41. What is happening in your life, and what is in your control if these are unclear? 
+      42. If you are not reflecting on your life, your garden is a foggy labyrinth, and you are a drunk gardener wearing oven-mitts.
+
+
+Your Calling, Part I
+      43. Your calling,
+your highest CAKE,
+is yours to name.
+
+
+      44. If you overcome your DOUBTs,
+and see reality plainly,
+you will want peace.
+
+
+      45. But we all have DOUBTs, so
+you want some form of
+dignity and affirmation.
+
+
+      46. Tell me your calling, student,
+and subtracting from peace,
+I’ll tell you your DOUBTs.
+
+
+      47. On mastering my book
+your life will be regimented
+to afford your calling.
+      4. PPL
+      1. Think of PPL (PPL) as seeds that clarify and cultivate your garden or affect your garden in other ways.
+      2. Maybe they are your friend, and need help with some unruly vines, or maybe you just like their apples. Sometimes, PPL are like water, bringing extra life to needy crops. 
+      3. Sometimes PPL are careless and track weeds in on their boots, or over-encourage your interests until you sprain an ankle, or come to your garden and distract you, make you anxious or bored or excited. How are PPL affecting your garden?
+      4. Everything that happens in their garden could be thought of as a seed in yours.
+      5. How much TIME your visit takes and what you get are like TIME spent on a plot of soil of that person, and the fruit that comes of your TIME.
+
+
+      6. Where do you get seeds for FOOD from and how did you know to plant them? 
+      7. From other PPL, right? No silly, you don’t know how to garden a sandwich! 
+      8. Lucky for you, many of the most important crops, products, and savings are already grown, prepared and handed to you—in exchange for money, which you have from spending TIME on a much larger, collective garden called society, doing some very specialized thing called WORK. 
+      9. You’ll WORK about 80,000 hours in your life in exchange for already grown apples and baked CAKE, and a toilet to take your poop somewhere else.
+
+
+      10. WORK pays the broadest insurance: money. 
+      11. Money is traded for maintenance of SELF and CAKE. 
+      12. It takes 80,000 hours of your TIME.
+      13. WORK is made to serve NORMS, not you.
+
+
+      14. Relatedly, NORMS assume you will WORK for money for goods. 
+      15. NORMS are all actions assumed of (or about) the “average” person.
+      16. Language, agreed usage of WORDS, is made from NORMS.
+      17. NORMS may or may not always be the most reliable way for you.
+      18. NORMS are the web of FORCES of all actions of all PPL, including WORK, religion, popular attitudes, and DOUBTS.
+      19. When you are individual, NORMS push against you.
+
+
+      20. A FORCE is any cause of change. 
+      1. A FORCE underlies every action involved in a GOAL, yours or otherwise.
+      2. There are forces within your control, and forces outside.
+      21. MAINTENANCE is the COST of FORCE to neither move toward nor away from a GOAL. 
+      22. ALIGNMENT is when NORM or natural FORCE causes your GOAL to be more likely.
+      1. To ALIGN is to adjust your GOAL to be more like another force, usually one acting against your GOAL. 
+      2. Study how forces WORK against you. 
+
+
+      23. Relationships (RLTP) are GOALS about PPL (PPL). 
+      24. Good ones are aligned with your GOALS.
+      25. Bad ones COST more. 
+      26. A RLTP is a reciprocal pair of BETS, yours of them, and vice versa.
+      27. RLTPS, especially family members, coordinate many GOALS for SAVINGS.
+
+
+      28. Pick WORK and RLTP that maximize your other PRIS including possibly one that maximizes TIME and money to apply to other PRIS.
+      29. Pick friends the same way. 
+      30. Consider your actions and choices about PPL carefully. 
+      31. Maximally ALIGN with NORMS with least compromise to PRIS. 
+      32. ALIGN (get along) with PPL.
+
+
+The Classroom
+      33. (No one chose to be born.) 
+      34. Everyone begins life with their own unnamed and unanswered problems.
+      35. Books can only tell a student what the answer is not (quite).
+      36. The gap between problem and book answers is left for the student to “apply”.
+      37. A better approach would be to let the student define the problem through their reality and life GOALS.
+      38. Let them write the PLAN and teach them only what is needed to succeed.
+      39. Imagine a perfect course exists, designed to teach you to fulfill your specific ambitions. 
+      40. Every aspect of what you NEED to know, that is known and communicable, is the only thing written. 
+      41. Everything that cannot be known but must be discovered or practiced, is laid out as a set of instructions, described in the WORDS that maximize the learning opportunity, and your progress.
+      42. Rather than a course in a classroom, the perfect class is a manual to reference as you live your life, or at least until you’ve internalized its contents: 
+      43. when to take a break to strategize your decisions, lessons on what opportunities to watch for and resist, and so on. 
+      44. Any social role you wish to take on, artist, engineer, therapist, insurance salesperson, reliable partner, is customized intimately, curated perfectly for what you need.
+      45. Any relationship, interpersonal skill, that is realistically possible for you, is preceded with the guidance and education that prepares you emotionally to choose the right experiences that set you up to be most likely to find and make the most of opportunities to share yourself with another.
+
+
+Lesson: Student vs. School- 1
+      46. Task 1. 3m, 40w. List four course objectives or program requirements that are most on your mind right now.
+      47. Courses impose a few conditions on your life: 
+1. Fixed TIME: courses 
+2. Variable TIME: assignments 
+3. Uncertain TIME: studying
+      48. Task 1. 3m, 40w. What are your top 4 GOALS for the next 10 years? You could WORK on any part of yourself, move toward any GOAL you want.
+      49. List four GOALS, Each no longer than 10 WORDS
+      50. Task 3. 3m 40w Your current program requires things your 10-year PLAN does not. What’s the difference?
+
+
+Lesson: Student vs School 2
+      51. Often you will define experiences by your priorities and immediate desires.
+      52. Experiences out of line with your desires are dreaded, and those in line with them are eagerly anticipated. 
+      53. For example, a college student dreads midterms and anticipates spring break. Each are about one weeklong, yet the feeling of TIME passing and the motivation to engage with challenges are very different. 
+      54. Anticipations can create disappointment, so reduce speculation, especially its harmful effects on you.
+      55. Do more of what you like when you most need it, try to appreciate what you dread, as it is, including the suffering.
+      56. Task 1. 4m, 50w. List 4 GOALS to accomplish for midterms, before spring break
+      57. Task 2. 4m, 50w. List 4 GOALS for the best spring break you can imagine.
+      58. Task 3. 15m, 200w. There are only so many hours in a day. What aspects of SELF-care can you incorporate during your midterms to improve your sanity, and hopefully your midterm performance? 
+      59. We know what happens if you don’t. You’re staring at your phone; you’re reading random articles on the internet and wasting TIME. 
+      60. Let’s take that same honest realism and intentionally PLAN better alternatives: instead of garbage breaks, how about spring breaks? 
+      61. In what strategic ways can you get a head start on your spring break GOALS, as a form of SELF-care and therapy during your marathon of midterm WORK?
+      62. Write out your midterm GOALS with SELF-care and/or spring break strategically built in.
+      63. Task 4. 15m, 200w. Now imagine that spring break more fully. You’re spending TIME on one of your GOALS, when suddenly you remember something, you need to do for midterms. 
+      64. Maybe you get an email from your instructor or boss, or there’s a project that looms large. 
+      65. What are you going to do to be okay with this intrusion? Would it help to allow some TIME to WORK on it, or is it vital that you embrace your needs and resist any urge to do WORK? 
+      1. Regardless of how you might ideally respond, PLAN for SELF-compassion for when you might unexpectedly struggle emotionally. 
+      2. Write out your spring break GOALS with midterm GOALS incorporated.
+      5. BET
+      1. You can’t help but think how to make your life better.
+      2. You can take control of your life, or you can let the world BET for you. You can commit yourself to finding out which thoughts are right or leave it to chance to have better life.
+      3. A commitment is the first step, but far from the last.
+      4. If you want your dreams to become real, listen to your DOUBTs.
+      5. Then test them.
+      6. Winning means your reality is one step toward your GOAL. 
+      7. Losing is the wake-up call to be more realistic.
+      8. Betting is a protocol to guide you to reality, and, if you’re lucky, your dreams might fit in.
+      9. How real will your dreams get before you die?
+
+
+      10. A stranger comes to your garden at the end of a long day, chopping his jaw. You look up.
+      11. “No really, consider it, right now. Imagine the most realistic, attainable, best life you could have. 
+      12. Imagine taking the first step and then stay with the thought. Listen to the fear that surfaces. 
+      13. For the moment, never mind how the world has gotten in your way. 
+      14. How are you in your own way?”
+      15. He seems to be in your way. He’s staring past your wet forehead.
+      16. “See your DOUBTs with curiosity. Now BET on what you tell yourself you believe. BET on overcoming them.”
+      17. But you mostly only think of frustration and say, “I appreciate the suggestion.”
+      18. “Let’s both BET. Name what you believe you can accomplish tomorrow, in terms of what you think holds you back most. 
+      19. If you make it happen before sun-up, you’ll be over the most daunting hurdle between you and your outcome. 
+      20. And I’ll give you the equivalent of your harvest, today. If you fail, you leave me today’s harvest.”
+      21. “Okay,” you say. You’ll show him.
+      22. “The rocks on the far field. They’re on a slippery slope. To build the home I want, I need those rocks, but I’m afraid of falling. I’ve collected every rock on my land and I need those rocks. Tomorrow I’ll finish my foundation with rocks from the slippery slope.”
+BET
+      23. A BET is a PLAN template for reconciling REALITY with CHUD, to accomplish GOALS.
+      24. Betting is confronting costs, habits, UNKNOWNs and DOUBTs that stand in the way of your wants and dreams. 
+      25. The TIME that passes and the status of your GOAL when it runs out are an intersection of reality: the world and you. To name them, is to shed CHUD.
+      26. Every IDEA you hold is a BET with a rolling deadline, idiosyncratic successes, and revisions.
+      27. BET wins shorten your PLAN, and the distance to your GOAL. Losses should guide revisions to your CHUD.
+      28. To BET, name: 
+      1. a step in your PLAN, 
+      2. a deadline to achieve it, and 
+      3. the C.H.U.D. for that duration.
+      29. Blitz to revise and win, and log your actions.
+      30. When the deadline arrives, take stock. 
+      1. Compare your action log to your PLAN. 
+      2. Identify CHUD factors that best explain discrepancies.
+      3. Revise PLAN, updated with CHUD factor predictions.
+      4. (Record TIME to do the next BET or GOAL, Revise, etc.)
+      5. Start the next BET or GOAL.
+Back to the Garden
+      31. The next morning you woke to a field in disarray and a letter. You had worked harder than you planned, and still fell short of your GOAL. 
+      32. “If you did more than you would have without the BET, you won something, including evidence that there is some commitment in you to make your dreams come true.”
+      33. The biggest reward is not positive: accept you failed, 
+      34. and partly due to a miscalculation. 
+      35. Therefore, likely other parts of your PLAN are misguided, and your GOAL is further than you estimate.
+      36. If you disagree, let’s BET again. First, take a minute to learn from your planning mistake.
+
+
+C.H.U.D.
+      37. Even if you make a PLAN and BET on it, you can fail.
+      38. Why don’t we achieve our GOALS?
+      39. Here are the four critical aspects of success, 
+      40. and by extension, clues for why we fail;
+      41. CHUD encompasses the changes in you, the world, and your GOAL for you to achieve it.
+      42. COST [See Chapter 2]
+      43. HABITS are your dominant tendencies (FORCES). 
+      1. HABITS are your most likely and reliable FOOD or CAKE actions.
+      2. Bad HABITS are FORCES working against your GOALS. 
+      3. Good HABITS are ALIGNED with GOALS.
+      44. If you have not arrived at the GOAL, there are UNKNOWNs. 
+      45. A train might stop you from arriving on TIME.
+      46. From a planning standpoint, it is unclear if you can control UNKNOWNs, but you can estimate them. 
+      47. Failures to accurately estimate reveal DOUBTS.
+      48. DOUBTs are the difference (error) between your PLAN’s estimate of reality, and Reality.
+      49. Explore and learn where the line of control is, expand control productively, and let go of unhelpful attempts to control.
+      50. Good DOUBTS temper an optimistic PLAN. 
+      51. Bad DOUBTS fuel bad habits and fantasies.
+      52. Fear, anxiety, and jealousy, reflect overestimation of UNKNOWNs. 
+      53. Resistance to change due to arrogance and ego reflect underestimation of UNKNOWNs.
+      54. To be distracted from or bored of your PLAN is
+      1.  anxiety about your future. 
+      2. discomfort toward present reality. 
+      3. distrust in your past.
+
+
+      55. Most of these issues, if deep enough, require therapy. 
+      56. Or the Intellectual Bootcamp.
+
+
+Lesson: DOUBT
+      57. Imagine receiving the perfect email that meets your needs; addresses your fears, frustrations, paralysis. One that gives you the guidance only you could dream of.
+      58. Task 1. 4m, 40w. List things the email should include feelings, tangible things, states, WORDS of wisdom, anything you need to hear.
+      59. Task 2. 4m, author name, revise. Consider who could write this: a boss, a best friend, a stranger. Add an author and revise as needed.
+      60. Task 3. 15m, 200w. Now write that email. Don’t worry about how or why “they would say this.” Focus on making sure the letter covers the things you NEED to hear.
+      61. Task 4. 2m, “your name”. Plot twist. Russia sends long range missiles that take out U.S. infrastructure including the internet. The government issues a full lockdown, and you’re home alone without Netflix.
+      62. Two days in, an email appears on your computer.
+      63. It’s the letter! How is this possible? Slowly you realize, you must have written this letter. You did!
+      64. Add these WORDS at the bottom of your letter:
+      65. “Respectfully, (your name)”
+      66. Read what you need to hear, in the true leader’s voice: yours.
+      67. Task 5. 15m, 0w. Your original author may have had the authority, resources, or information you don’t. For example, “Here’s 20 thousand dollars to build your classroom.”
+      68. Revise to make the letter practical.
+      69. Tip 1: For resources you don’t have– money, TIME, influence– accept that indeed, you do not have power over these things, give up attempts to control, and welcome your feelings.
+      70. Tip 2: For guiding your behavior—decisions, actions, confidence– give permission to take action.
+      6. Education
+Intellectual Bootcamp
+      1. On the computer screen…
+Consent and Commitment
+      2. Hi.
+      1.  Is there a better version of you?
+      2.  Are you capable of moving toward it?
+      3.  Are you ready?
+      3. If your answers are yes, then you are a student. 
+      4. To live a better life, you will commit to change your actions. 
+      5. First, you will learn what changes are needed.
+Admissions
+      6. This is a boot camp whose purpose is 
+      1. to train adults to think harder, clearer and more effectively. 
+      2. to produce intelligent solutions for personal and social puzzles.
+      3. to have a higher cognitive discipline.
+      4. to instill shared CAKE about reason, thinking and discourse. 
+      5. to empower.
+      7. It is a training program designed to break down bad habits of thought, and build good ones while immersed here, a culture of rational thinking isolated from the outside world.
+      8. Here you will relentlessly confront your ideas about the world, with instructors drilling intellectual skills (writing essays, arguing for ideas, and developing proposals for action).
+      9. You will be trained to move toward your GOALS with focus, even in the face of perceptual, physical, or emotional distractions. 
+      10. Over TIME, students could expect to cultivate a sharper focus on cognitive objectives, resilience to distractions and challenges. 
+      11. If you graduate, it will be with the ability to identify, develop, and communicate ideal critical, rational arguments, positions or PLANS (orally or written) given the available knowledge, finite TIME, and resources at hand (reference material, teamwork).
+      12. you will also learn a code of behavior for being a community leader,
+      13. collaborating or competing with an irrational world.
+      14. The central requirement for applicants will be a commitment to better understand the SELF and world.
+Student
+      15. Students are PPL with IDEAS from EXPERIENCE toward selfish GOALS.
+      16. Lessons depend on students’ prior knowledge.
+      17. A STUDENT
+      1. has a GOAL that can be better named and planned.
+      2. requires TIME away from BETTING.
+      3. admits not knowing but capable.
+      18. Students learn to represent their knowledge in WORDS; to prefer better, alternative WORDS. A student sees the impersonal as more reliable both for selfish GOALS and social ones.
+      19. A bad student studies to avoid action, or for its own sake.
+      20. A Student WRITES IDEAs and GOALS to their INSTRUCTOR.
+      21. Your GOAL is clear. You want 
+      1. The strength needed to 
+      1. take the right steps and
+      2. make a habit of it, 
+      2.  keen eyes to 
+      1. estimate the destination and 
+      2. correct course, and 
+      3.  a focused mind to steady the foot.
+Agreement
+      22. This is an in-person immersive experience.
+      23. You only really learn what you need to know to be who you really want. You won’t learn unless you cannot escape needing it; in a dedicated environment that fosters acquisition, minimizes interference.
+      24. Whether you’re here for the 7- or 30-day experience, you will WORK hard every minute.
+      25. For every minute of lesson on my TIME, students are to provide two minutes of writing, either toward others’ learning or in direct application toward their GOAL.
+      26. Dedicate to identity growth. Be:
+      1. Quiet, except when tasks require verbal response.
+      2. Receptive to WORK and feedback provided by the instructor.
+      3. Committed to producing genuinely inspired ideas, working quickly, and seeking improvement.
+      4. Respectful that all are equal in voice, and aim to describe solutions with collective CAKE.
+      5. Receptive and responsive to prompts and observations (from peers and/or instructors) especially CHUD, vague language, and cognitive bias.
+      6. Motivated to describe solutions that benefit others, when possible, including peer-review.
+      27. Now, what is it you’ll learn? 
+      1. Precisely and only what is needed to trust a clear picture of what your life is. 
+      2. First, how to make a PLAN, a map of who you are, and who you want to be; 
+      3. Repeat Part one of this book, until your PLAN is good enough to be wrong, and truthful enough to hurt.
+      28. This will be the beginning of change, and the first test of your commitment. 
+      29. Your performance is evaluated simply: whether or not you 
+      30. end up eating, sleeping, thinking, talking, and acting differently.
+Roles
+      31. Think, student. 
+      32. Do not take notes, simply pay attention. 
+      33. Everything I say is meant plainly. 
+      34. If you get confused, forget it, and pay attention to right now.
+      35. Our GOAL here is thinking. Thinking happens in your heads.
+      36. Right now your job is to think about the truth you see in what i say.
+      37. A student has two roles to think in: Reader and Writer.
+
+
+      38. Read, student.
+      39. A reader is a listener and observer.
+      40. Reading is the same as listening to an instructor, 
+      41. except that the speaking pace doesn’t determine how fast you have to think, or remind you to 
+      42. pay attention!
+      1. Your attention cannot be trusted on its own, 
+      2. so lose distractions 
+      3. like your smart phone.
+      4. You will befriend the simplest scientific instrument, a clock. 
+      5. The clock is a cue to think. 
+      6. When it goes off, get back on task.
+      7. The clock will babysit your unreliable attention.
+      43. Your GOAL in reading is to isolate the truth from the lie. 
+      1. Try reading this sentence: 
+      2. “Everyone is best off running weekly until they die.” 
+      3. You’re thinking, “this can’t be true for everyone, so it’s a lie.” 
+      4. Not so fast.
+      5. There are many components to this idea, and likely many that you believe are truthful. 
+      6. Often a lie becomes true just by changing the pronouns in the text.
+      7. Consider this revision: “I am best off running weekly until I die.” 
+      8. Perhaps now the WORDS are more truthful to you. 
+      44. Doing this makes a clear relationship between your belief and the author’s. 
+      45. Becoming smart is the discipline of understanding how you relate to others.
+      46. When reading, dismiss only what you fully believe is an intentional lie.
+      47. More generally, read to assess your BET on the WORDS reflecting TRUTH.
+      48. Whether to a single WORD, a line, chapter, or  book.
+      49. Assign WEIGHTs (0 to 9) to what you read, to complete this prompt:
+      50. I BET this is true for…
+      1. 0 = not even the author. 
+      2. 1 = only the author. 
+      3. 2 = the author, me, and a few others.
+      4. 3 = Us and 30% of everyone else. 
+      5. …
+      6. 9 = Us and about 90% of everyone else.
+
+
+      51. For every assertion and assumption you read, begin assuming it is a “9”, working backwards according to evidence you hold. 
+      52. The following mini lesson illustrates the risk at hand—involuntary comprehension, and the benefit at stake from deliberate reading. 
+      53. Consider the following quote, “Change your thoughts to change your life.” 
+      54. Comprehension is involuntary. 
+      1. You cannot help but recognize meaning when you read.
+      2. This means that you likely thought the quote was largely unrealistic.
+      55. Reading as proposed here, is strongly voluntary.
+      56. For example, reread the quote, this TIME assuming it is reasonable, serious, and valuable. 
+      57. The statement is the core assumption to this book, and any psychological theory.
+      58. For example, Freud’s talk therapy was, in his TIME, the radical idea that WORDS could fix PPL.
+      59. Therefore, do not waste the opportunity to consider a truth that could change your life by failing to entertain a simple assumption.
+Writer
+      60. How will your life look if you put it on paper? Like a bunch of WORDS.
+      61. How do you change it? By deleting the WORDS with lies, and replacing them with better WORDS.
+      62. The right WORDS will change your actions and your life. To live a better life, starts with your WORDS.
+      63. push-writer In order to do something about thoughts, we need to think on paper. [You’ll write a lot. You’ll delete a lot. You’ll get good at writing.]
+      64. BET on WORDS. A writer invests TIME and energy to map feelings onto WORDS.
+      65. Good writing is discovering, curating, and applying insight. Bad WRITING has an author; ad hominem
+      66. Revisions also make you a WRITER. When you revise WORDS (yours or others’) to maximize your BET, you are a writer.
+      67. Separate thought and SELF (author), by BETTING explicitly.
+      68. State your assumptions, do not justify them. -is-STYLE-bad
+      69. Replace "I am." with tag WORDS.
+      70. Strive for COMM-CONTENT and brevity; Write only valuable BETs, or WORDS that manifest valuable BETs. Prioritize understanding over original writing.
+      71. WRITING for LIB-PPL, relatable, depersonalized, objective WORDS, minimizes ROT, maximizes PLAN utility.
+Instructor
+      72. I am instructor, a guardian of
+      1. True IDEAs and 
+      2. WRITER of a general PLAN (this book).
+      73. An instructor READS, and enforces BETs on LINKs toward a PLAN.
+      74. My GOALS are to
+      1. Minimize student effort and TIME to write.
+      2. READ for cognitive biases, illogical appeals, and imprecise language, and WRITE feedback that is dispassionate and neutral, yet invested and True. 
+      3. Reward arguments based on (Truth:) REALITY, SELF, and CAKE. 
+      4. Reward IDEAS shared (vs kept).
+      7. WORDS
+Cognition
+      1. Like any book, this book uses WORDS to describe the world and its conditions.
+      2. This chapter is about the act of describing, itself.
+      3. This chapter can be reduced to the following problem and solution. 
+      4. WORDS said (out loud or written) and understood (heard or read) are not usually what PPL mean. 
+      5. They do not reflect what PPL want or need.
+      6. By engaging the gap between WORDS and reality, you increase SELF-awareness (BET).
+      7. Better WORDS mean more practical understanding and expectations, more complete desires, and 
+      8. the capacity to make a concrete PLAN for achieving your GOALS. 
+      9. This will naturally include healthier communication and more rewarding relationships.
+      10. A community with better WORDS has clearer idea sharing, synthesizing, developing, teaching and learning.
  
-Words are BETS on hypotheticals. 
-Reading, thinking, saying, and writing   
-a word perpetuates that word's IDEA over others.   
-
-WORDs reflect 
-- truth and reality.
-- lies and fantasy.
-WORDs either push you toward a GOAL, or your HABIT.   
-
-The WORDS BET is about maximizing productivity of thought.   
-Mastering this is synonymous with being smarter.  
-
-Words guide attention past local biases.  
-Words do one thing well,   
-if you trust them:   
-move you out of local minima  
-- distractions.  
-
-Good words are ones that 
-direct attention to PRIS, and 
-predict reality. 
-
-Any validation or assurance from words is brittle,   
-because there is no  
-reliable shared meaning.  
-- Not "If I'm nice will you trust me?"  
-
-### IDEAS  
-### LINKS  
-
-WORDs are one of two types:   
-  
-1.  IDEAS: words for things.  
-2.  LINKS: words that give relationship between things. 
-
-Together, these make up CONTENT 
-(vs STYLE).  
-
-
-### WORDS
-A major culprit of wasted time
-is wasted words.  
-
-### NOTES  
-
-It also distinguishes supporting 
-from main BETS of an IDEA.
-NOTES are PLANs to improve
-clarity and value of WORDs for COMM.
-
-1. a syntactic tree, where  
-2. [newline] is the right path in a fork,  
-3. first indent (" -") is the left path in a fork,  
-   - trailing "-" denotes all subsequent lines 
-     in section are equal childs.   
-4. subsequent newline indents or in-line "--" are siblings  
-5. left to right are siblings  
-6. double linebreak ends the local tree.  
-  
-when word order is a left-to-right walk of 
-a right-branching syntactic tree, 
-sentence can be written in lines of random lengths, and 
-read equally as unambiguously. 
-
-
-  
-         
-  
-### COMM  
-
-COMM deals with the complexity of PPL and WORDs.   
-COMM is the exchange of WORDS with other PPL.   
-  
-### COMM-PRI  
-
-is-CONTEXT
-Two people with identical PRIs see the world identically.  
-
-### STYLE, VERSION  
-
-PRIs between WRITER and READER differ.
-Difference in PRIs alter CONTENT of IDEAs.
-
-Good STYLE is change in WORDs to minimize change in IDEAs
-between READER and WRITER.
-  
-VERSIONs describe identical CONTENT 
-with difference in STYLE between them.   
-
-you today vs you in five years (LIB).   
-
-
-A PLAN for a DOC is an earlier VERSION of
-the (same) final DOC.
-  
-Some STYLE addresses those who 
-fail to appreciate READING and WRITING. 
-
-NORMS (COMM-PPL) typically requires adding language and rearranging presentation order in a way that:  
-  
-1.  Strokes ego and intelligence of others;  
-2.  Appears to rock no boats; and  
-3.  Frames attacks as agreeable observations.  
-  
-SELF IDEAs are the most STYLE-free. 
-e-FOOD and CAKE.
-
-### BRAND  
-STYLE that intentionally simplifies or obscures relevant  
-LINKs to an IDEA. 
-
-### RLTP--Peers
-
-Peer review is a powerful learning tool.
-
-The peer WRITER   
-works with uncompromised objectivity,   
-and liberty to employ Truth,   
-however subjectively "harsh".  
-
-
-## SR 
-
-The value of words (meaning)
-depends on TIME.
-WRITING is for READING.
-TIME passes between, so
-DOC is subject to COMM issues.
-
-The GOAL of words is to express IDEAs that 
-will retain their value tomorrow.   
-
-Work to make IDEAS clear and concrete. 
-Put IDEAS at the top of a DOC.   
-Provide just enough CONTEXT. 
-to remember the basis of the key IDEAs.   
-  
-Precision depends on purpose.   
-
-LINKS are BETS of 
-higher risk and reward than IDEAS.   
-  
-The right LINK between IDEAs is 
-the foundation of every thought, 
-recipe or terrible calculation.   
-
-IDEAs are BETs on LINKs 
-between EXAMPLEs in the world.   
-
-
-
-#### PROMPTS  171  
-**Prompts ** elicit conflicts (truth) between SELF and  
-NORM, to improve PLANS for your GOALS. TIME and WORD limits work  
-together to encourage a balance between reflecting on truth and  
-describing it.  
-
-
-### DOCs  
-
-DOCs revisited and revised later are 
-better with fewer words. 
-
-### WORD_CT
-Word limits combat needless words and  
-distracting tangents.  
-A word limit keeps your attention.  
-
-A DOC's word count is a proxy for 
-its complexity; 
-
-
-The **word limit** lets you succinctly address the prompt. Try to  
-write the exact number of words. To meet word limits, you will need to  
-cut out unhelpful words. When in doubt, remove figurative language and  
-strive for words that are assertive and testable (falsifiable). In the  
-following example, the shorter version is still figurative, but more  
-assertive and clear:  
-  
-It breathes through your peers and  
-neighbors, who speak a language  
-of norms.  
-  
-4 Your peers and neighbors speak a language of  
-norms.  
-
-#### TIME
-The **time limit** dictates how precise your words should be. Extra  
-time is for better words. For example, a one-minute, 50-word limit (1m,  
-50w) encourages free writing similar to the Dear Diary  
-above, with minimal restrictions on quality of thought.  
-Conversely, a 4-minute, 40-word limit (4m, 40w) is meant to encourage  
-more careful selection of your words.  
-
-#### LESSONS  144  
-LESSONS are an ordered set of prompts, usually three to four, up to 60  
-minutes and 250 words. In lessons, a prompt's word count is the number  
-of words to be added to your document.  
-  
-The first prompts in LESSONS are 
-warm-ups to direct your attention. 
-They ask for names of IDEAS. 
-  
-The next prompts are for thinking, requiring you to make LINKS between  
-your warm-up IDEAS. Done right, you will face some new truths. For  
-example:  
-
-### REVISE 238  
-REVISION is how we know reflection is happening, described here in  
-VERSIONS (v\#) of a response. Considering the Dear Diary  
-example again:  
-  
-Ask yourself why you felt this conflict. What ingredients or  
-instructions are fail-proof in causing you to have this reaction? 5m,  
-20w.  
-  
-Response-v1:  
-  
-1.  I work hard on an intellectual activity.  
-2.  I'm not secure about it.  
-3.  Someone I admire undermines it.  
-  
-The issue starts out specific, but on reflection, generalizes. It relies  
-on simpler observations making it more valuable for the future.  
-  
-Response-v2:  
-  
-1.  I make something I think is well done.  
-2.  I expect validation.   
-3.  Criticism catches me off guard.  
-  
-Note: A 0w prompt means revise, but do not increase the total word  
-count.  
-  
-**Revise the prompt.**   
-The prompts encourage reflection,  
-but truth-seeking defines the prompt.   
-While reflecting you may uncover  
-truths less relevant to the prompt than to your GOALS.   
-Revise the prompt  
-in a way that best promotes development of the insight at hand.   
-This may be toward the end, or on the first prompt.   
-For example,   
-a prompt referring to University student experiences   
-should be adapted for your  
-non-University experiences as relevant.  
-  
-Prompts and topics are designed to be challenging,  
-but if they are emotionally overwhelming,   
-Change the prompt.  
-Do not change the prompt so you can be lazy.  
-  
-You should also revise answers to prior prompts, but   
-only to keep up with or   
-help address the current prompt.  
-  
-#### SAVE-if (LIB)  
-f-identifies gap bx pris and habits  
-  i-CAL  
-  
-vs-whereas WORDS deals with involuntary IDEAs,
-LIB is the post-production cache to facilitate future production.
-
-X-Lessons are only valuable for the insights  
-that will make tomorrow helpful.   
-Lessons are designed to be  
-revised over time.  
-
-### REALITY  
-
-RECOGNITION, reading familiar WORDs is easier than   
-RETRIEVAL from memory, of WORDs to write.   
-is-an IDEA-REVISION SAVINGs.
-
-### LIB  
-
-The collection of your WORDs over a lifetime.   
-A good LIB is the closest approximation of SELF.
-`Library = sum(GOALS + PLANS) / 1`  
-A bad LIB is the sum of your WORDS, void of curation.
-
-
-
-### RISKs  
-
-1.FALSE POSITIVE: Writing and saving and finding bad DOCs.
-2.FALSE NEG: failure to save and find good DOCs.
-
-
-### GOAL  
-
-To learn about what you don't know you don't know.
-
-## 06 Roles - 794w  
-
-### ROLE  
-
- set of attitudes and actions.  
-  
-### READ  
-
-listening to another person.   
-
-Revisions beyond pronouns makes you a WRITER.
-is-PLAN-
-If you revise other words to maximize your BET,
-you are a writer.
-
-  
-### WRITER  
-
- BET on WORDs.
-A writer invests time and energy   
-to map feelings onto words.   
-  
-Good writing is discovering,   
-curating, and applying insight.   
-Bad WRITING has an author; *ad hominem*   
-
-### Student-d  
-
-Students are PPL with
-IDEAS from EXPERIENCE toward 
-selfish GOALS. 
-
-Lessons depend on 
-students' prior knowledge.   
-
-A STUDENT 
-  
-1.  has a goal that can be better named and planned.  
-2.  requires time away from BETTING on my Goal.  
-3.  admits not knowing but capable.
-
-A bad student studies 
-to avoid living, or 
-for its own sake.
-  
-X-Environment
-To learn a thing, 
-a student need only  
-be in an environment that 
-VALUES a shared knowledge.   
-
-### BET  
-
-Good COMM and LIB-PPL maximize utility of PRI-PLANs.
-
-3.Students learn to represent their knowledge in words.   
-They learn to prefer better, alternative  
-representations, especially from peer reviews.  
-
-
-### INSTR-d
-A guardian of 
-1.True IDEAs expressed in COMM, and
-2.WRITER of a general PLAN (this book).
-
-
-### Scientist    
-  
-A scientist WORKs to win BETS against the UNKNOWN. They are a  
-professional writer, evaluated on two metrics:  
-  
-1.  For their MEMES of CONTENT.  
-2.  The net benefit of their MEMES on GOAL outcomes.  
-  
-A scientist-researcher is a WRITER,   
-a data-collector and hypothesis tester.   
-A scientist-scholar is a READER,  
-curating toward theory development and COMM.  
-  
-### Scholar  
-
- interpreter of  
-others' self-truth, a Peer-Reviewer professional,  
-by incorporating the Scientist's insights.  
-
-evaluated by repost statistics   
-(others as readers),  
-akin to evaluating twitter users by their retweets.  
-  
-  
-# WORDS-STYLE
-The only thing more complex than PPL and facts are WORDS.   
-PPL and facts are IDEAS and WORDS are their LINKs.   
-PPL and all their actions are limited to a single Reality whereas WORDs are not.  
-The challenge and wonder of WORDs is to see what they are,   
-having BET on WORDS that facilitate Reality.   
-What will language (and __fluency__) look like   
-grounded in empirical Truth?   
-
-
-## LESSONS
-### HERE and NOW-INTRO
-
-There are two kinds of people in this room.  
-To the first kind of person  
-you are encouraged to embrace yourself,  
-honestly, and seriously; to investigate who you  
-are, and strengthen your grounding in this world.   
-To the  
-second kind of person, you learn to spend your time  
-more effectively, and get more of it.   
-Both kinds of you need the same  
-core ideas: attention, thinking, time, and truth.  
-
-### HERE and NOW-END
-
-
-Identity makers,   
-try not to waste time.   
-Time hackers, try not to waste space.   
-
-
-
-# PLANS
-
-## BETS  
-### PLAN   
-
-
-### BETS  
-  
-
-### DEF-TIME
-deadline
-- time
-
-  
-### CHUD  
-
-Account for true COSTS and HABITS 
-in your way to achieve a GOAL;   
-
-### SELF  
-
-#### VALUES  
-
-
-## PRI
-
-### SAVINGS  
-
-### DEF-GROUPS  
-
-RLTPs, especially family members, coordinate many GOALS for SAVINGS.  
-
-#### LIB
-
-### TIME  
-  
-
-## PPL-DEF
-Others and the relationships with them define   
-the BETS called people (PPL).  
-
-### FORCE
-
-  
-### RLTP
-
-### ALIGN
-  
-
-## WORDS  
-
-### NOTES  
-
-Add tags as a prefix to the dash 
-to make the nature of the LINK  explicit.  
-Prefixes are not exhaustive or mutually exclusive  
-  
-1.  `e` example, data-point, untested data  
-2.  `x` Cross-references, xref  
-3.  `d` Data or evidence, summary  
-4.  `i` synonym  
-5.  `n` next task  
-6.  `v` version / revise  
-7.  `w` write (verb)  
-8.  `f` define; function  
-9.  `a` assumption or attribute  
-         x-[link-f]  
-         x-(pri-lesson-chess life 2021-03-07.txt)  
-
-### RECIPE  
-
-A well-formed plan, especially lessons and instructions, 
-adhere to a RECIPE format. 
-The RECIPE format highlights the IDEAS and LINKS of your  
-point, and minimizes excessive STYLE.  
-  
-1.  List key IDEAS. 
-
-2.  Describe actions and transformations (LINKS). 
-
-### COMM  
-
-To improve COMM, study the difference
-between CONTENT and STYLE.
-
-## SR 
-
-1.  LIST. Name relevant IDEAs for GOAL.  
-2.  WRITE a PLAN, (ordered LINKS).
-3.  DOUBT. Assert the strongest rebuttal to the PLAN.  
-4.  BET. Improve IDEAS and LINKS by addressing weakness and clarity.  
-5.  READ. Wager its value (e.g. relative to another PLAN).
-
-
-Always reflect to address the question,  
-How can I help my future self?  
-and impose time and word limits.  
-  
-A good DOC is _X_.
-Defined, below. 
-
-A bad doc begins with 
-stream-of-consciousness.
-
-### DOC  
-
-Studying LINKs will improve 
-IDEAs and BETs in your life.  
-
-PLANs, and anything else you write down, 
-should be part of a PRI.  
-
-Given an IDEA:  
-1.Estimate relevance to 
-  - PRIs,   
-  - problems, 
-  - undeveloped PLANS, 
-  - SELF-MAINTENANCE
-
-2.Keep DOCs short enough that   
-the title and CONTENT address (only) one thing really well.   
-3.Save selectively and   
-4.delete frequently. 
--X-LIB-PLAN-0
-
-### SR 
-
-If you set 50w, and at 80w 
-there is no end in sight, 
-stop and reassess.   
-  
-For every PLAN you make, ask yourself:   
-What are the necessary and sufficient words 
-to accomplish your GOAL?  
-Assert a word limit before writing, 
-to be reminded of your initial intentions, and
-be challenged to express IDEAs clearly.
-Become skilled at using only the fewest words necessary, 
-to reveal and clarify VALUEs.  
-
-### LIB  
-
-Only save and maintain DOCs that 
-will be useful enough later  
-to save time, overall.
-
-
-Facilitate RETRIEVAL:
-5.Index (list) DOCs worth rereading.
-6.Assign a number that indicates its relative  
-importance (abs or relative weight). 
-6.Add tags and metadata for easier sorting. 
-7.Make and revise only for high-PRI GOAL(s).  
-  Record and study LIB RETRIEVAL patterns. 
-
-i-COMM from-SELF-now to-SELF-fut
-
-Thinking about all words you experience 
-will improve READ and WRITE decisions,    
-increasing focus and time for GOALs.  
-
-The conscious control of memory 
-outperforms unconscious memory. 
-
-WRITING for LIB-PPL, 
-relatable, depersonalized, objective words,
-minimizes ROT, maximizes PLAN utility.
-
-## ROLE
-### READ  
-
-Read to assess your BET on 
-the WORDs reflecting TRUTH for   
-1. for the author.   
-2. for you. Ask yourself how you saw the world before,  
-and after reading.   
-3. for others. Ask if this generalizes to others.  
-  
-Assign WEIGHTs (0 to 9) to what you read.  
-Whether to a book, sections, or a word.  
-  
-I BET this is true for:  
-  
-0 = not even the author.  
-1 = only the author.   
-2 = the author and me (Us), but less than 30% of PPL.  
-3 = Us and 30% of PPL.  
-9 = Us and approx. 90% of the human population.  
-
-Revise pronouns to align with your belief. 
-
-### WRITE  
-
-Separate thought and self (author),   
-by being explicit about what you  
-BET.   
-State your assumptions,   
-do not justify them.   
--is-STYLE-bad
-
-Replace \"I am.\" with tag words.  
-  
-Strive for COMM-CONTENT and brevity;  
-Write only valuable BETs, or
-WORDs that manifest valuable BETs.
-Prioritize understanding over original writing.  
-  
-### PEERs  
-
-Forget *who* provides REVISION and how much.   
-Get answers from others.
-
-### Student--
-A Student WRITES IDEAs and GOALs
-to their INSTRUCTOR.
- 
-The curious student sees the impersonal as  
-both more reliable for their selfish GOALS and  
-socially rewarding. 
-
-### --Instructor  
-An instructor READS, and enforces 
-BETs on LINKs toward a PLAN. 
-
-1.Minimize student effort and time to write. 
-2.READ for 
-  - cognitive biases, 
-  - illogical appeals, and  
-  - imprecise language, and  
-  WRITE feedback that is 
-  - dispassionate and neutral, yet
-  - invested and True.  
-3.Reward defense of arguments based on 
-  (Truth:) REALITY, SELF, and VALUES.   
-4.Reward IDEAS shared (vs personal).
-
-# 15 Lessns 2422w   
-  
-These Lessons are designed to focus your PRIs.   
-Lessons 1 - 3 directly address   
-SELF and PRIs.  
-Lessons 4 - 7 do so by  
-confronting competing goals,   
-such as NORMS vs VALUE.   
-Some are framed to a STUDENT context, but   
-all are adaptable for other contexts.  
-
-## HERE and NOW  
-  
-### Attention  
-You will not take notes.   
-You simply need to pay attention.   
-Everything I say is meant plainly.   
-If you get confused, forget it, and   
-pay attention to right now.  
-  
-### Thinking  
-
-Our goal here is thinking.   
-Thinking happens in your heads.   
-In order to do something about it,   
-we need to think on paper.   
-You'll write a lot. 
-You'll delete a lot.  
-You'll get good at writing.  
-  
-### Time  
-
-You'll get good at thinking, but   
-not by relying on attention, because   
-your attention is not reliable.   
-The clock is. 
-The clock is a cue to think.  
-When it goes off, 
-get back on task.  
-  
-### Truth  
-There is some truth inside   
-some of you more than others.   
-It is my job to tell you   
-how shitty of a liar you have been.   
-It is your job to  
-focus on the Truth in you.  
-  
-You will practice all this with 
-Skilled Reflection. 
-
-  
-## 04 Times - 240w    
-### A. Typical Day  
-Think about a day and how much time you  
-spend on various activities, averaged over 365 days in a year. Then pick  
-a GOAL, and estimate the changes required to make it happen. The first  
-step reflects your HABITS, and the changes reflect COSTS.  
-  
-__Table 3. __First approximation of how my time is  
-spent (hours), sorted by GOALS and subgoals, and any details that are  
-worth noting. Hours total 24, and assume 365 days / year. Non-daily  
-activities such as visiting the dentist are factored in, accordingly.  
-Second approximation (ideal) reflects where I would like to be over the  
-next 3-4 months of my life.  
-  
-### B. Morning Bets  
-  
-Task 1. 5m, 50w.  
-  
-Take five minutes to produce the words that are most likely to  
-accomplish your goals for the day. This may include describing the  
-goals, the plan, and/or the doubts.  
-  
-Task 2. 5m, 50w.  
-  
-Copy those 50 words, and revise them according to the following  
-instruction.  
-  
-Replace "accomplish your goals" with "do". In 50 words, what should you  
-(or an all-knowing observer) bet on that you will do, today? Regardless  
-of what you assumed in Response one, do not write with the intention of  
-'motivating' yourself, but to simply describe your day. (If this is too  
-hard, simply evaluate what you did yesterday.)  
-  
-Task 3. 5m, 0w.  
-  
-Compare your responses. Positive differences (more optimistic) in your  
-first response reflect bets you are making against your habits.  
-  
-## 06 Self7 - 227w  
-  
-How accurately can you describe yourself?  
-Relate to those who care,  
-including your better self,  
-by practicing the right words.  
-  
-### A. SELF-past  
-Task 1. 20m, 250w  
-  
-Look back on your life.   
-What are your values, and  
-where did they come from?  
-  
-### B. SELF-future    
-  
-Where are you going?   
-Imagine your life plays out  
-- ideally,  
-- terribly, and  
-- typically.  
-  
-Consider  
-1.  What could go right or wrong,  
-2.  What it depends on and the likelihood.  
-3.  Who you will be if it happens.  
-  
-Create a "choose your adventure", ordered by likelihood.  
-  
-For example:  
-  
-80% make enough money to be content.  
-50% marry, and  
-- 50:50 ends well or in divorce.  
-10% major accident leading to depression.  
-  
-### C. SELF-now   
-Task 3. (20m, 250w)  
-  
-If you have not done **Lesson: Times**,   
-skim it.  
-  
-Task 3a. 2m, 50w.  
-  
-Choose a goal you named in **Self-Future ** with   
-a probability of outcome that   
-you would like to increase.   
-What change is needed   
-in your daily schedule   
-to make this increase?  
-  
-List the activities and durations   
-you will reduce or increase.  
-  
-Task 3b. 3m, 50w.  
-  
-List most likely reasons this plan fails,   
-especially reverting back to old habits.  
-  
-Task 3c. 10m, 150w.  
-  
-Add steps to create and protect changes in your schedule.  
-  
-Task 3d. 1m, [decide-date]  
-  
-Bet on this (Task 3b vs 3c).   
-Set a date on the calendar   
-to assess your commitment to this plan.   
-  
-## 04 0 v 1 - 261w  
-del 80w  
-  
-Please answer each question with "0" or "1".   
-Do not dwell on any one question.  
-  
-1.  Which are you: 0 or 1?  
-2.  If the person who knew you best guessed your answer,  
-    what would they report? 0 or 1?  
-3.  What would you tell them you are?  
-4.  What would the last dog you encountered say you are?  
-  
-How do you feel about   
-5.  lunch today?  
-6.  the chair you are sitting in?  
-7.  your fingers?  
-  
-8.  Where do you live?  
-9.  When were you born?  
-10. What makes this question so simple that you can answer it  
-    with 0 or 1?  
-11. Is lying, or hoping, or reminiscing 0, or 1?  
-12. Have you been telling the truth to these questions?  
-13. Are you honest with yourself?  
-  
-14. Are you here?  
-15. Do you know?  
-16. How do you know?  
-17. What would it look like if you didn't know?  
-18. What if you *don't know* if you know?  
-  
-19. What are you certain of?  
-20. Is this annoying or interesting?  
-21. Are you ready to use words, yet?  
-  
-22. Imagine you didn't know of language beyond 0 or 1.    
-    You didn't know a deeper connection with others was possible.  
-    The chance to respond to the following question is   
-    your 15 minutes of fame to the universe.   
-    What is your one bit of say,   
-    written on the ledger next to your existence, or   
-    on your tombstone: 0 or 1?  
-  
-23. What's your average score? 0 or 1?  
-24. Has this been insightful?  
-  
-If you wrote 1 for 24, congratulations.  
-  
-  
-## 02 Skool - 320w  
-  
-"Student vs. School"  
-**Task 1. 3m, 40w.**  
-This is a lesson in curriculum writing.  
-Imagine a perfect course exists,   
-designed to teach you    
-to fulfill your specific ambitions.   
-  
-What are your top 4 goals for  
-the next 10 years?  
-you could work on any part of yourself,   
-move toward any goal you want.  
-  
-list four goals,  
-Each no longer than 10 words  
-  
-**Task 2. 3m, 40w.**  
-Your current program requires things your 10 year plan does not.   
-Courses impose a number of  
-conditions on your life:    
-1.  Fixed time: courses  
-2.  Variable time: assignments  
-3.  Uncertain time: studying  
-  
-List four objectives, goals, course or program requirements that are  
-most on your mind right now.   
-Whether most frustrating, or most critical  
-to you, even 'impress my professor'.  
-  
-**Task 3. 5m, 50w.**    
-  
-Spell out the intersection between the two lists.   
-Think of how each goal in the second list  
-directly influences (or not) your 10 year  
-objectives.  
-  
-Explore the main ways these two lists relate.   
-  
-For example,    
-1.  If I don't get a B, I won't keep my scholarship, and will have to  
-    get a job which will likely lower all my grades.  
-  
-  
-**Task 4. 15m, 100w.**    
-  
-  
-What is the least you can do toward the course requirements and still achieve your long term goals?  
-Consider cutting the work from list two,  
-that doesn't overlap with one.  
-  
-Examples:  
-  
-1.  Graphic design is fun but not necessary. I could drop it and  
-    still graduate.  
-2.  If I get a D, I'll still pass, graduate, and be able to start my own  
-    business.  
-  
-Add 100 more words to your description.  
-  
-**Task 5. 15m, 50w.**  
-  
-Negotiate ways to make direct progress on your first list while fulfilling the second list.  
-  
-For example, my personality class requires a term paper.   
-To align with my business goal, maybe the professor will let me write  
-on "personality traits of Entrepreneurs."  
-  
-Add up to 50 words, and revise.  
-  
-## 02 Break - 306w  
-"Midterm Spring Break"  
-  
-Midterms and spring break should be assumed to each be a fixed period of  
-time with a clear deadline / end, at least one week long, and not longer  
-than one month.  
-  
-**Task 1. 4m, 50w.**  
-  
-List 4 goals to accomplish for midterms, before spring break  
-  
-**Task 2. 4m, 50w.**  
-  
-List 4 goals for the best spring break you can imagine.  
-  
-**Task 3. 15m, 200w.**  
-  
-There are only so many hours in a day. What aspects of self-care can you  
-incorporate during your midterms to improve your sanity, and hopefully  
-your midterm performance? We know what happens if you don't. You're  
-staring at your phone, you're reading random articles on the internet  
-and wasting time. Let's take that same honest realism and intentionally  
-plan better alternatives: instead of garbage breaks, how about spring  
-breaks? In what strategic ways can you get a head start on your spring  
-break goals, as a form of self-care and therapy during your marathon of  
-midterm work?  
-  
-Write out your midterm goals with self-care and/or spring break  
-strategically built in.  
-  
-**Task 4. 15m, 200w.**  
-  
-Now imagine that spring break more fully. You're spending time on one of  
-your goals, when suddenly you remember something you need to do for  
-midterms. Maybe you get an email from your instructor or boss, or  
-there's a project that looms large.  
-  
-What are you going to do to be okay with this intrusion? Would it help  
-to allow some time to work on it, without feeling guilty or beating  
-yourself up, or is it vital that you embrace your independent needs and  
-resist any urge to do work? Regardless of how you might ideally respond,  
-incorporate compassion toward yourself for how you might end up  
-responding, including feeling anxious for the entirety of spring break.  
-  
-Write out your spring break goals with midterm goals incorporated.  
-  
-## 01 Doubt - 295w   
-  
-Imagine receiving the perfect email   
-that meets your needs;   
-addresses your fears, frustrations, paralysis.   
-One that gives you the guidance   
-only you could dream of.  
-  
-**Task 1. 4m, 40w**  
-  
-List things the email should include:   
-feelings, tangible things,   
-states, words of wisdom,  
-anything you need to hear.  
-  
-**Task 2. 4m, author name, revise**  
-  
-Consider who could write this: a boss, a best friend, a stranger.   
-Add an author, and revise as needed.  
-  
-**Task 3. 15m, 200w**  
-  
-Now write that email.   
-Don't worry about how or why  
-"they would say this."  
-Focus on making sure the letter  
-covers the things you NEED to hear.  
-  
-**Task 4. 2m, "your name"**  
-  
-Plot twist.   
-Russia sends long range missiles that take out  
-U.S. infrastructure including the internet.   
-The government issues a full lockdown, and  
-you're home alone without netflix.   
-  
-Two days in, an email  
-appears on your computer.  
-  
-It's the letter! How is this possible?  
-Slowly you realize,   
-you must have written this letter.   
-You did!  
-  
-Add these words at the bottom of your letter:   
-  
-"Respectfully,  
-(your name)"  
-  
-Read what you need to hear, in the true leader's voice: yours.  
-  
-**Task 5. 15m, 0w**  
-  
-Your original author may have had   
-the authority, resources, or information you don't.   
-For example,   
-"Here's 20 thousand dollars   
-to build your classroom."   
-  
-revise to make the letter practical.  
-  
-Some tips:  
-1. for resources you don't have--  
- money, time, influence--  
-accept that indeed,   
-you do not have power over these things,  
-give up attempts to control,  
-and welcome your feelings.  
-  
-2. for guiding your behavior--  
-decisions, actions, confidence--  
-give permission to take action.  
-  
-**Afterword**  
-  
-congratulations, you've  
-shown up for yourself.   
-  
-you are your best leader; ally.  
-Try not to think this is ridiculous.  
-  
-you will always have yourself.  
-Take that seriously.   
-Be your leader.  
-  
-  
-## 03 Testg - 258w  
-"Self-testing"  
-  
-In this lesson, we'll dive into our lives without any planning.   
-For this to be effective  
-you need a task that gives you some stress, or is something you  
-might procrastinate or risk not doing (well).   
-It could be studying for an exam, or writing a research paper.  
-  
-The exercise can apply to a test  
-or writing task you haven't started yet,   
-or one that you're 75% done with.  
-  
-**Task 1. 3m, 40w.**  
-  
-Think about the challenging task you've identified.  
-Fill in the blank: "The purpose of this task is to demonstrate my  
-knowledge of or ability to \_\_\_\_."  
-  
-**Task 2. 2m, 0w.**  
-  
-Picture someone who doesn't struggle to do this task.   
-They would score 100% or write the perfect paper/assignment.   
-Assume they weren't born able to do this.   
-How did they get that skill?   
-Edit the same 4 things to try to make them more concrete and tractable.  
-  
-**Task 3. 8m, 100w.**  
-  
-Assume that ideal performer writes a custom quiz on   
-the very areas you're struggling with.   
-Write quiz questions that tests your learning objectives.   
-For example, I'm working on a paper that deals with   
-how talking happens in the brain.  
-A question in my quiz is, "define the two contrasting theoretical  
-positions in 15 words, each."   
-  
-**Task 4. 2m, 0w.**  
-  
-Revise your quiz so that it would take about 30 minutes for your expert to complete, with questions that can be answered in 5 to 25 words.   
-Add word and time limits for each question.   
-  
-**Task 5. 20-25m.**  
-  
-Take your quiz.  
-  
-# --------------------------
-
-# --------------------------
-
-# XREF
-## TIME--LIT
-
-Many philosophies --- stoicism, buddhism --- suggest that  
-accepting and enjoying the passing of time is the GOAL, and pursuing  
-GOALs are a waste of time.   
-
-## BETS--IBC  
-
-Unfortunately, you do not have time to make the BETs to  
-find out what your time is best applied to.   
-The IBC at its core is an  
-artificial environment that puts a high value on   
-time-management.   
-An IBC GOAL
-i-and experimental psychology
-is to consolidate insights from PPLs BETs to address this.   
-
-# EXAMPLES
-## CHUD
-### COSTS
-
-I joined my Middle School's movie club   
-for the free microwave popcorn.  
-
-## PRIS
-
-Pri 1 should finish before Pri 2.   
-Our PRIs are a list of bets,  
-and the PRI list itself is a bet.  
-
-### ORDER
-
-sleep.   
-How important is it?  
-Two days of no sleep, or two weeks of terrible sleep, and sleep will be  
-worth time to figure out how to get more of it.   
-Your body needs sleep,  
-and so a certain minimal amount of sleep is a top PRI.   
-How high of a PRI  
-is it to get ten hours of sleep per night? Likely not a high PRI at all.  
-As you fulfill the need, the rank of the GOAL of sleep shifts down.   
-The  
-same is true for cake.   
-One vacation from WORK every 10 years is a higher  
-PRI than one every year.   
-(Unlike sleep, zero vacations will not kill  
-you.) 
-
-### STYLE  
-
-you will die  
-You have one lifetime.  
-you must live healthy in the meantime.
-These cut into the time for VALUES.
-
-the number of goals will increase.   
-There is an inflection point   
-when the GOALs in your PRIs compete for  
-your time, because 
-you cannot do them all before you die.   
-
-### SAVINGS
-
-The benefit of sleep (its own goal)  
-on other goals.   
-Few GOALs require sleep,  
-but good sleep will improve progress on  
-most GOALs.  
-
-### GROUPS
-
-EATING nutritionally. You meet this goal multiple  
-times a day, but the timing and frequency of eating is secondary to quantity.
-
-### GROUP-FIG 3
-Consider how long it takes 1) to find your gloves before leaving the  
-house. 2) to know if you have run out of tissues and need to buy more.  
-
-
-## PPL
-### RLTP
-  
-Friendship, Brotherhood, Parenthood, and Partnerships
-are expensive BETs with
-emotional and legal COSTs. 
-
-## WORDS  
-
-"I won't come over, if you make  
-fun of me."   
-- Not "Because it hurts."  
-  
-Love.
-To know Pan and Dot are  
-__in love__ we need evidence: they tend to spend time with each  
-other, even when they're not doing anything in particular. Two people in  
-love will behave differently, in a reliable way, than two people not in  
-love, even if each pair are otherwise identical. That difference may not  
-be clearly touchable or visible in one moment, but it is absolutely  
-touchable and visible over a period of, say one month. Saying Pan and  
-Dot are in love is a bet, because you can imagine being wrong about it.  
-  
-### IDEAS//LINKS  
-
-Coffee (IDEA) reduces (LINK) sleep (IDEA).  
-
-## NOTES  
-
-"This line of text applies to this point, and this line of text applies to that point."  
-  
-    This line of text applies to  
-  
-    -   this point, and  
-    -   that point.  
-  
-I love psychology.  
-e-teaching about the value of operant conditioning.  
-d-I spend hours helping students understand concepts.  
-x-`my\_teaching\_statement.docx`  
-
-### RECIPE  
-
-A lesson:
-
--   DOUBT  
--   Someone you love  
--   NORMS  
--   Your WORK  
--   Your HOME  
-  
-1.  Write a response of 20 words, replacing (x) in the following  
-    prompt with the first ingredient:  
-    -   How does (X) help accomplish your GOALS?  
-2.  For each remaining ingredient, update the prompt and revise your  
-    response (0w).  
-
-### IDEAs-STYLE  
-
-Good IDEAs survive.  
-
-### VERSION-1  
-
-"Feed the cat."   
-1.invaluable when you're stopping by to water a friend's  
-plants, and they forgot to tell you beforehand.    
-2. harmful to find that note in a stack of papers a year after your cat  
-died from an allergic food reaction.  
-
-
-### VERSION-2  
-
-Consider this list of pros and cons.  
-  
-__They prefer we share:__  
-  
--   __cake (pro)__  
--   __apples (pro)__  
--   __sleep 3 hours a night (con)__  
-
-And this context: 
-The author requires 8 hours of sleep.
-
-Given the context of SELF PRIs as described, 
-the imbalance is obvious.   
-
-If at a future date,   
-the author lowers the PRI of sleep,
-the context is required to prevent 
-losing the meaning of the sleep observation.
-
-Now it seems the partner in question is fairly compatible.  
-   
-The heart of the IDEA, instead of sleep, is 
-the partner's willful neglect of the author's PRIs.  
-  
-### LINK-STYLE  
-
-Good links change lives. 
-
-### LINK  
-
-The RISK is not Pan or Dot, the IDEAS, but   
-the LINK between the two: __in love__ (vs __coworkers__).   
-
-A __cat __ is a BET that 
-all those furry things are LINKed; 
-of the same kind.   
-  
-
-### WC
-I used to have to read  
-2000-word journal entries (DOC)  
-to be reminded of key IDEAs.  
-Each DOC addressed a number of points idiosyncratically. 
-In the context of writing, 
-many things were relevant, and 
-insights were written as they occurred.  
-I assumed building on past insights meant 
-re-experiencing the full context, 
-often chronologically.  
-LIB is an antidote for anyone who over-saves  
-and cannot find things on their computer.  
-  
-### WORD_CT
-a 200w DOC half as complex as a 400w DOC.   
-
-### DOC-VERSION
-I have a party (CONTENT).
-If I invite two friends with different WORDS (STYLE)
-the invites are two VERSIONs of the same DOC. 
-
-## SR-BAD  
-
-Probably not like this:  
-  
-  Dear diary,   
-    
-  I don't know where to begin. I could  
-  talk about my personal life, school work. I don't even want to think  
-  about the future right now. These last few months have been impossible.  
-  My boss gave me feedback last week that I find very frustrating. Instead  
-  of commenting on my work, she replaced it with her own. I wanted to tell  
-  my boss what I thought...  
-  
-Seventy words and a few minutes later, you still haven't said anything  
-but STYLE. For who? You lost focus. Spend more of your time developing  
-thoughts than setting them up. Better yet, spend less time and fewer  
-words altogether.  
-  
-1.  In two minutes and under 25 words, say what happened today.  
-  
-I feel inadequate. I submitted work to my boss. She rewrote  
-it entirely, instead of revising my work.  
-  
-A prompt required you to attend to a truth, and with TIME and WORD  
-limits, you didn't have time or space to get distracted. Less bullshit,  
-less wasted time.  
-
-### LESSONS
-For example:  
-  
-1.  Spend four minutes making a list of four GOALS you would be most  
-    happy achieving in the next five years.  
-  
-1.  Assume you can only achieve two of your four GOALS. Pick which two,  
-    and come to terms with not achieving the other two. How can you  
-    still feel you've fulfilled your life goals? In 15 minutes, write  
-    150 words about your four PRIs.  
-
-
-### COMM-BRAND  
-Consider the GOAL of describing  
-the properties of __apples __ with the purpose of selling them:  
-  
-v1 (CONTENT): __Apples are healthy but sugary. __  
-  
-v2 (STYLE): __Apples are tasty and nutritious. __  
-  
-v3 (BRAND): __Apples are healthy.__  
-
-## ROLES
-### Reader
-  
-"(You) should get 10 hours of sleep nightly."   
-  
-Replace (You), with:    
-  
-0 = "no one"  
-1 = "I"  
-2 = "You" or "We"  
-3+ = "Many"  
-9 = "Everyone"  
-
-### WRITER  
-
-v2-WORDs are not owned.   
-v1-You are yours, but   
-your thoughts are not.  
-Thoughts are objects to interact with.   
-
-### Afterword
-X-Asimov
-
-Experiments on Truth for fun,
-by WRITING fiction. 
-The Afterword maintains some  
-principles of Student, and 
-devotes other principles to  
-creativity. 
-Good fiction writers  
-are Afterwords. 
-The best student is an  
-Afterword. 
-book-  
- conversation with a really smart  
-person who has thought carefully about what to say. 
-An Afterword  
-is like playing with someone who has thought really carefully about how  
-they'd like to play. 
-
-[ibc-content lib-role-afterword]  
-[comm-poem-fut-2021-01-09]  
-  
-
-- The afterward writes with one hand.  
-- The other hand reaches out to  
-you,  
-- reader,  
-  
-to ask for a hand in polishing, grinding, or  
-throwing out of these ideas (and in some places,  
-grinding or throwing out). 
-At first,  
-Our roles are different, 
-I the relucant or arrogant  
-writer and instructor, 
-you the reluctant or arrogant  
-student. 
-They will blur back to the beginning, 
-each and all of us universal humans. 
-The swallowing of pride is to 
-forget which side of the  
-hand clasp is responsible for the insight. 
-Share with  
-more hands, faster, better (PRI). Faster and better than what?  
-NORMs, which  
-showed that the giants aren't so  
-keen on being climbed upon. 
-What if instead,  
-the giant wasis  
-like a parent, hoisting the child to the heavens? 
-Thanks for showing me the stars, Nat.  
-Thanks a lot for pushing me higher, Nino, and thanks  
-for sharing in the glee, Nick.  
-  
-An Afterword is someone imagining,   
-"The view, from up here."  
-
-
-# PT 4
-## MATs
-### HOME-LIB  
-X-FILENAMES
-
-HOME-LIB includes 
-- files on your computer
-- books by other authors
-- music,  
-- kitchen appliance manuals
-- grocery lists
-- blueprints, diagrams, leases,
-- recipes, records, artwork, prescriptions.
-
-
-# PT 5 SCIENCE
-## NOTES
-SCIENCE-
-X-WORDS-NOTES
-X-SR-REVISION
-x-ML-thought 2021-02-22-1938v  
-
-the (drafted) conceptual complexity is 
-inverse to N possible line breaks
-that do not change meaning. 
-N is a quantifiable and reducable integer.  
-  
-quantified by eliciting best-judgments 
-between an original draft, and  
-one with n mutations of these kinds 
-- insert(or(new_line, indent, word))  
-- delete(or(new_line, indent, word)) 
-an algorithm might learn to predict  
-the context-specific non-random edits of the final version. 
-i-accepted by the author or others over other mutations.  
-  
-parser-dev 
-- (when evaluating each line, do not eval 1st char first) 
-- if line[char2]=="-", then eval line[char1]  
-
-## Afterward
-There is an IDEA this book hasn't cracked.   
-what lies beyond the IDEA of an IDEA?
-What lies beyond language?
-Instead of READ / WRITE for 
-INSTR and STUDENT,
-TOUCH and FEEL.
-
-COMM is
-the COST in STYLE,   
-of ego is, the number  
-of extra words to lip service.   
-Such STYLE COST is  
-everywhere, especially academia.   
-The LIB offers an initial plan to human  
-singularity: an ideal state of language.   
-
-## Singularity-G  
-Computer science envisions an AI singularity.   
-The IBC envisions the singularity of humans.   
-
-### X-ROLE-PEER-REVIEW
-Multiple READERS   
-for the same DOC allows quantifying   
-the quality of REVISIONS.   
-Statistical analyses can  
-reveal which students recognize (READER) and   
-contribute (WRITER) most reliably.   
-  
-Any general trends derived by the algorithm,  
-and revision techniques  
-build toward a universal revision of cognition.  
-  
-
-
+      11. Speaking your mind is difficult.
+      12. A memory system dealing with language is tasked to translate thoughts into the right WORDS from thousands. 
+      13. It is prone to inaccuracies.
+      14. Similarly, a listener focused on comprehending, is not likely to monitor all the incidental priming effects of WORDS on a memory system. 
+      15. WORDS said and heard impact both parties’ beliefs and behaviors.
+      16. These effects are each discussed in terms of how WORDS can be used for the better or worse.
+Kinds and Uses
+      17. Saying WORDS is a very small physical action, to describe real actions and consequences. 
+      18. Hearing and understanding a WORD are also a small action, that engages with WORDS– a description about the real world.
+      19. The issue is that descriptions can be more and less right, more and less helpful, and we have little guidance on how to use them.
+
+
+      20. Every WORD itself is a BET on hypotheticals, which can be true (reality) or false (fantasy).
+      21. You can think through far more situations with WORDS, than you can (or should) act out. 
+      22. Your GOALS can be described in WORDS, and WORDS can be easily crossed out and revised.
+      23. A PLAN is a BET on a winning arrangement of WORDS that result in the GOAL.
+      24. WORDS efficiently simulate possible worlds. 
+      25. Good WORDS maximize productivity of thought, move you beyond pitfalls of CHUD, direct attention to PRIS, and predict reality; improve decisions and make you smarter.
+      26. By thinking about all WORDS you experience (LIB), you can take control to limit your WORD use toward more productive ones, improving READ and WRITE decisions, increasing focus and TIME for GOALS.
+      27. Bad WORDS keep CHUD expensive, and waste TIME.
+      28. The COST of an individual WORD is tiny, but we say tens of thousands per day (Levelt). 
+      29. Reading, thinking, saying, and writing a WORD perpetuates that WORD’s IDEA over others, either moving you toward a GOAL, or your HABIT.
+
+
+Speak/Write
+      30. Speak, write, initiate or respond only in limited duration and WORDS dictated by intended outcome. 
+      31. Use WORDS empirically, with a comparison group (vs) and quantity in mind.
+      32. Ideas are more important than authorship. 
+      33. Do not use a WORD that is more of a Lie. 
+      34. Say the truth or be quiet. 
+      35. Use WORDS for decisions, not emotions. 
+      36. Use WORDS to facilitate PRIS. Do not write PLANS you won’t follow. 
+      37. Stop talking when action (or listening) is needed.
+
+
+Listen
+      38. Listen / read when you need to learn / connect. 
+      39. Limit duration/WORDS needed to assess consent.
+      40. Distrust ego, and take nothing personally 
+      41. Investigate the empirical CAKE of WORDS.
+      42. Revise to believe, and revise PLANS into ones you’d follow.
+      43. Remove / ignore style. 
+      44. Assert boundaries against exaggerated WORDS or unreliable ones.
+
+
+Meanings of Words
+      45. An EXAMPLE is an individual, particular event or object, of reality. An example with consequence is a USE-CASE. An example in-principle is a HYPE (hypothetical/hype).
+      46. WORDS are one of two types:
+      1. LINKS: WORDS that give relationship between EXAMPLES, IDEAS, describe ACTIONS, ROLES, and transformations
+      2. IDEAS: WORDS that refer to EXAMPLES.
+      3. An IDEA is a set of criteria that LINK EXAMPLES as similar (vs not).
+      4. The most basic IDEA classifies EXAMPLES as A or not-A. “blue” is an IDEA that certain colored things are BLUE (A), and all other colors are not BLUE.
+      5. Good IDEAS group EXAMPLES in a way that directs attention toward PLANS and GOALS. Bad IDEAS distract.
+      6. The right LINK between ideas is the foundation of every thought, recipe or terrible calculation.
+
+
+Scientist
+      47. A scientist works to win BETS against the UNKNOWN. They are a professional writer, evaluated on two metrics:
+      1. For their MEMES of CONTENT. 
+      2. The net benefit of their MEMES on GOAL outcomes.
+      48. A scientist-researcher is a WRITER, a data-collector and hypothesis tester. 
+      49. A scientist-scholar is a READER, curating toward theory development and COMM.
+________________
+
+
+      8. Revisions 
+Skilled Reflection
+      1. [50,51,56,57] The GOAL of WORDS is to express ideas of  maximum CAKE tomorrow. 
+      2. Since few WORDS meet these criteria, start by revising toward fewer WORDS.
+      3. Make IDEAS clear and concrete. 
+      4. Provide just enough CONTEXT to remember the basis of the key ideas.
+      5. Precision depends on purpose. 
+      1. LIST. Name relevant ideas for GOAL.
+      2. WRITE a PLAN, (ordered LINKS).
+      3. DOUBT. Assert the strongest rebuttal to the PLAN.
+      4. BET. Improve IDEAS and LINKS by addressing weakness and clarity. 
+      5. READ. Wager its CAKE (e.g., Relative to another PLAN).
+      6. When reflecting, reflect only on “how can I help my future SELF?” And impose TIME and WORD limits.
+      7. A bad doc is  stream-of-consciousness.
+
+
+      8. Prompts elicit conflicts (truth) between SELF and NORM, to improve PLANS for your GOALS. 
+      9. TIME and WORD limits WORK together to encourage a balance between reflecting on truth and describing it.
+
+
+      10. WORD limits combat needless WORDS and distracting tangents. A WORD limit keeps your attention.
+      11. A WORD limit  is a proxy for its complexity.
+      12. Try to write the exact number of WORDS. 
+      13. Good WORD limits require cutting out unhelpful WORDS, change figurative WORDS to concrete, ideally assertive and falsifiable.
+      14. For every PLAN you make: Assert a WORD limit before writing, to be reminded of your initial intentions, and be challenged to express ideas clearly. Become skilled at using only the fewest WORDS necessary, to reveal and clarify CAKE.
+      15. If you exceed the limit and there is no end in sight, stop and reassess.
+      16. The TIME limit dictates how precise your WORDS should be. 
+      17. Use extra TIME to improve WORD choice. 
+      18. For example, given a 50-WORD limit, 1 minute (1m, 50w) encourages free writing with minimal restrictions on quality of thought, while 4 minutes encourages more careful selection of WORDS.
+      19. LESSONS are an ordered set of prompts, usually three to four, up to 60 minutes and 250 WORDS. A prompt’s WORD count is the number of WORDS to be added to your document.
+      20. Lessons target inconsistencies between reality and PRIS.
+      21. They are designed to be revisited and revised repeatedly.
+      22. A 0w prompt means revise, but do not increase the WORD total.
+      23. The first prompts in LESSONS are warm-ups to direct your attention. They ask for names of IDEAS.
+      24. The remaining prompts are for thinking, requiring you to make LINKS between your warm-up IDEAS. Done right, you will face some new truths.
+REVISE
+      25. Revise WORDS to improve actions of yourself or others is REVISION.
+      26. REVISION is how we know reflection is happening, described here in VERSIONS (v#) of a response.
+      27. For example, consider the following revisions (v1-3) describing this brief argument: 
+
+
+1: "Nobody follows doctors' orders."
+2: "My parents do, religiously."
+1: "They're the exception."
+2: "You're not exposed to minorities."
+
+
+       v1:
+      1. 1 makes a false generalization.
+      2. 2 illustrates a counterpoint, and 1 gets mad.
+      3. 1 dismisses it, and 2 gets mad.
+       v2:
+      1. 1 generalizes from WORK experience.
+      2. 2 argues with parents’ experience, and 1 gets mad.
+      3. 1 dismisses and 2 get mad.
+       v3:
+      1. 1 argues outside 2’s experience.
+      2. 2 uses personal experience, thinking it’s impenetrable.
+      3. Failing and hurt, 2 insults.
+
+
+      28. The example aims to illustrate revisions which increase the amount of responsibility, control, and preventable future behavior on part of the writer, without much change in WORD count.
+      29. Good revisions better describe what we know to have happened, and predict what will happen (again). 
+      30. Reality is what determines whether each version is better.
+      31. Revise prior prompt responses only to help your current prompt response.
+      32. If your GOAL deals with different assumptions about the truth, change the prompt to whatever gets you to write the most helpful WORDS for your GOAL. 
+      1. For example, a prompt referring to University student experiences should be adapted for your non-University experiences.
+      2. A common (problematic) assumption is that you are emotionally ready to be SELF-critical.
+      3. Do not change the prompt so you can be lazy.
+      33. NOTES are general PLANS for REVISION. (Available on request.)
+      34. Peer revision is a powerful learning tool. Get answers from others.
+      1. Forget who provides REVISION and how much. 
+      2. The peer WRITER has uncompromised objectivity, and liberty to employ Truth, however “harsh”.
+DOC
+      35. A Recipe is one of the best ways to arrange PLANS.
+      36. Lessons and instructions use a RECIPE format. 
+      37. The RECIPE format highlights the IDEAS and LINKS of your point and minimizes excessive STYLE.
+      1. List key IDEAS.
+      2. Describe actions and transformations (LINKS).
+      38. Given an IDEA, estimate relevance to PRIS, problems, undeveloped PLANS, and SELF-MAINTENANCE.
+      39. Keep docs short enough that the title and CONTENT address only one thing.
+      40. Save selectively and
+      41. delete frequently.
+Communication
+      42. RECOGNITION, reading familiar WORDS is easier than RETRIEVAL from memory, of WORDS to write. Is- savings on revision.
+      43. Only save docs that you BET will be useful enough later to save TIME, overall.
+      44. Once saved, we assume a DOC will be READ later, and provide CAKE. This is the primary type of COMM we engage in.
+      45. COMM is the exchange of WORDS from oneself to another. Other examples include a traffic sign, something you wrote and are rereading, a carefully crafted party invite, or a Lease Agreement.
+      46. The GOAL of COMM is to maximize that likelihood, by engaging in the inherent and practical problems that arise.
+
+
+      47. Writing a WORD creates a static record of a WORD. 
+      48. The problem of COMM is the difference in meaning between READER and WRITER of the same WORD. 
+      49. Even if you wrote the WORD, your later SELF may read a different meaning for that WORD. 
+      50. No person is identical with a future or past SELF, with any other person, and all of these relationships are in part UNKNOWN. 
+      51. GOOD COMM attempts to systematically reconcile these issues. 
+      52. BAD COMM takes advantage of them at the COST of clarity and honesty.
+      53. PPL vary in how they apprehend the world, and therefore they can vary in 
+      1. precise understanding of meanings.
+      2. TRUST (usually WRITER more than READER). 
+      54. The real world is particular; each experience is an EXAMPLE. 
+      55. A WORD describes a set of similar experiences. 
+      1. WORDS are never definite and certain in what they describe of the real world.
+      2. A WORD’s definition is a generalization. 
+      56. As such, WORDS are 
+      1. less precise than reality.
+      2. better designed to hypothesize and predict.
+      57. To improve COMM, study the difference between CONTENT and STYLE.
+Styles
+      58. PRIS between PPL (WRITER and READER) differ.
+      59. Difference in PRIS alter CONTENT of ideas.
+      60. Good STYLE is change in WORDS to minimize change in ideas between READER and WRITER.
+      61. Versions describe identical CONTENT with difference in STYLE between them. 
+      62. A PLAN for a DOC is an earlier VERSION of the (same) final DOC.
+      63. For example, you today vs you in five years.
+      64. COMM-PPL assumes READING and WRITING have no intrinsic GOALS. 
+      65. A DOC’s arguments for why to READ it are a STYLE called PITCH. 
+      66. Pitch can be accomplished, for example, by
+      1. stroking the ego and intelligence of the reader.
+      2. framing attacks as agreeable observations.
+      67. The maximum common SELF-PRIS across PPL are the optimal arguments for PITCH. E-FOOD vs. CAKE.
+      68. PPL who do not distinguish FOOD from CAKE will not be persuaded by PITCH.
+      69. Therefore, they will be compelled more by lies. 
+      70. BRAND is PITCH that distorts truth, a form of bad STYLE.
+Library
+      71. LIB is the explicit effort to maximize the use of what you WRITE, SAVE, and READ, by organizing it for best application, and providing feedback to help your future decisions to WRITE, SAVE, and READ.
+      72. The scope of LIB is the collection of your WORDS over a lifetime. 
+      73. is post-WRITING cache to facilitate future production.
+      74. LIB is to docs as HOME is to possessions.
+      75. LIB aims to maximize the CAKE of WORDS you save, and ideally, reduce future efforts to PLAN and accomplish PRIS, through making the best of your thoughts easy to find.
+      76. A bad LIB is the sum of your WORDS, void of curation, none of which helped PLANS.
+      77. A good LIB is the closest approximation of SELF.
+      78. Library = sum (GOALS + PLANS) / 1
+      79. For learning what you don’t know you don’t know.
+      80. Potential risks include 
+      1. writing, saving, and finding bad docs. 
+      2. failure to save or find good docs.
+      81. Studying links will improve ideas.
+      82. PLANS, and anything else you write down, should be part of a PRI.
+      83. Facilitate RETRIEVAL: 
+      1. Index (list) docs worth rereading. 
+      2. Assign a number that indicates its relative importance (abs or relative weight). 
+      3. Add tags and metadata for easier sorting.
+      4. Make and revise only for high-PRI GOAL(s). Record and study LIB RETRIEVAL patterns.
+      84. Note the TIME and date now, as you did in the introduction.
+Graduate
+      85. This is the end of the book. 
+      86. Put it in your library.
+      87. Now return to your garden and WORK on your PRIS.
+      9. Epilog
+Reader, Opt-in
+      1. Now you have read this book. 
+      2. What were your numbers? (6.50)
+      3. Annotate 100 lines you would bet 1 dollar on each, and you are a student of the IBC.
+      1. Your bets would go to a general pool.
+      2. When bets on a line reach a critical mass, the pool of subpar bets is split among winners.
+      3. Cash is divided.
+      4. Also, points are recorded, to incentivize a deeper purpose:
+      5. A game, where the prize is
+      6. the collective revision and authorship of this book.
+      7. After x wins, your name appears on the title.
+      8. High scores are on the acknowledgements page.
+      9. This is the process and meaning of READER and WRITER; bound directly to material and action, IRL.
+Your Calling, Part II 
+      4. Tell me the missing chapter
+that gives peace instead of regimen,
+so that I may find mine.
+The Instructor of Instructors
+      5. Listen up, you vibrating sacks of meat.
+      6. A teacher and student conspire in a radical co-dependency, mutually betting on the student’s ability. 
+      7. It is my job to sniff out why on Earth you are interested in this.
+      8. You are crazy for wanting to be a teacher. 
+      9. Until you are, you have only one thing to teach: 
+      10. You must teach me to believe you.
+      11. You will do everything to put the truth in front of me.
+      12. If I find out you withhold the truth, I will punish you with it.
+      13. You are a teacher when your student has paid for both your TIME.
+      10. Next
+      14. This book’s object is to define the individual absolute, central terms of necessity, desire, and pursuit.
+      15. From this book I see horizons, future WORK I aimed to imply from the core premises laid out above.
+      16. In addition to remaining edits on version 2, the next major project is The Book of Answers. The Book of Answers will compile the pragmatic consequences and conclusions of this book. That is, what you come up with if you exercise Skilled Reflection and Bets on SELF and PRIS. 
+      17. Below are other tangents in mind as I wrote this book.
+      18. Bet on them to affect my priorities.
+H1: Theory
+      19. From PPL and NORMS, lay seeds for a definition of being and seeing, that provide magnitude approximations which should be investigated at population scale. 
+      20. The product is a precise centroid of all humans, no individual, the most of all individuals.
+      21. Such centroid is defined by coordinates from theory, dictating measurements of the full population. 
+      22. The successful theory makes economic predictions which increase NORM-SAVINGS or reduce the net COST of PPL given FORCES of REALITY. A capitalist society argues that industry offers solutions, here.
+      23. COSTS and RISKS generated by PPL, I-inherent independence, selfishness, antagonism, where behavior is patently (observed) adversarial to the centroid, are the object of social sciences and govt.
+H2: Education
+      24. This book offers two scales of SELF-betterment: - skilled reflection and - the intellectual bootcamp.
+      25. Both programs assume that ALIGNMENT is the key to SAVINGS, and SELF-betterment is social betterment.
+      26. I see skilled reflection as a micro-solution to any and all personal, cognitive dilemmas, whether daily or lifetime.
+      27. The intellectual bootcamp is an experimental BET to pursue a maximal ideal individual, both in practice, and in concept. 
+      28. Through immersive training, graduates should provide vantage points worthy of think-tank productivity, demonstrating, testing, and proposing solutions beyond norms.
+      29. What new HABITS can PPL adopt, which effectively cut down suffering?
+      30. Perhaps it is my duty, but it is my dream lately, that untapped magic lies in the power of WORDS.
+      31. What lies beyond effortful skilled reflection, truth telling, truth seeking, disciplined altruism?
+      32. What new WORDS maximize Argument 2?
+      33. My horizons may be mirages; this is the domain of fantasy. Nonetheless, what is possible when we assume that human potential IS untapped, and coordination is not yet perfect, and improvements are possible?
+      34. Neal D. Tyson asks, “What questions lie beyond our comprehension, that we cannot think to ask?”
+      35. Let us first think to ask all the best questions.
+      36. Then let us answer them. Let us perfect and give away the cheat sheet to all.
+      37. A book of answers, an almanac collecting that which defines the centroid, the possible destination, styled properly from the vantage of the centroid, with the best PLAN laid out to arrive there.
+H3: Revision
+      38. This is for the ivory tower. Humans are in motion, imperfect. That is, they exist physically restless, and are simultaneously mentally restless, seeing an ideal in contradiction with existence. The social sciences, for too long, blunder the language game around the duality of reality and fantasy; application and theory; observation and description.
+      39. At the least, we must model and explain 1- the magnitude gap between, 2- let alone its nature, but most critically, 3- what it is that we journey with an ideal in mind, and how it is that such an ideal (WORDS), lead to changed reality, vs fail.
+      40. All this is to document and theorize about drafts of an idea, revisions, and the personal empirical account of body and mind over a lifetime.
+      41. In a symbolic way, we might document the process of developing an argument. Here I have theories about how NOTES, and BET move us forward; how LIB and PRI set precedent for REALITY to maximize FANTASY.
+      42. This book is the first revision. Books will come to emphasize each horizon, and in turn, revise this book further. What transformation to the ideas will come?
+      43. At least, we fail to account for behavior, and we fail to relate to each other NOW, when we hold out for perfect ideals, instead of sharing the first MOMENT an impression could be communicated. See the Introduction for this point in practice.
+
+
+I1: The Playground
+An extension of the Garden, which describes the nature of collective work, individual motivation and collective gain.
+
+
+      44. Sincerely,
+      45.    Student0-v-the AnswerWORD
