@@ -70,7 +70,7 @@ barriers, into action, starting right now.
 6.	If you wrote the date and time as requested in step 4, you have proven enough to yourself that you are open to trying 
 new ideas. You are prepared to grow and continue reading.
 7.	If you left the line blank, you might tell yourself you are open to new ideas. You 
-will be right when you complete the task.
+will be right when you complete the task. 
 8.	Either write the TIME above or stop reading, and take a better action to improve 
 your life, right now.
 9.	Every WORD you say to yourself is at best a PLAN for action, meaningless until 
@@ -1273,6 +1273,29 @@ Graduate
 86.	Put it in your library.
 87.	Now return to your garden and WORK on your PRIS.
 
+#### Reference system
+88. Well, what LIB would be complete without
+89. a reference index? 
+90. The equivalent of the Dewey system
+91. mine is a reference of space-and-time:
+91.1. Space: this book's chapter and line numbering, and
+91.2. Time: v2.14 the current book version.
+92. For example, a document that elaborates about trump would begin titled "c4.23 v2.14", giving the relevant chapter_number.idea_number in the version 2.14.
+93. In that version of SR, 4 is the chapter PPL, and number 23 is the definition of RLTP. Trump, the article topic, is an example.
+94. this is the header format for any subsequent document of an idea I write.
+
+#### The Answerword
+
+95. The complete set of PPL's LIBs is sufficiently exhaustive to describe all that matters in each and all lives. 
+96. The efficiently compressed content of this LIB produces a distribution of variation along a median LIB. 
+97. This is the content of the next book, "Answerword."
+98. That book, then optimized to maximize the most learning, determines its STYLE.
+
+
+### Index of Definitions
+99. below are the chapter and line numbers for IDEA definitions, alphabetical.
+
+00. Okay you got me, that's a promise and this is a placeholder for a future version that fulfills the promise. Start the clock: 2022-03-09-2129
 
 ## Chapter 9.	Epilog 
 
