@@ -1,3 +1,7 @@
+---
+layout: home
+---
+
 You care about some things more than others, and 
 do some things more than others. 
 
