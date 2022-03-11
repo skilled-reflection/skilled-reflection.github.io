@@ -4,6 +4,7 @@ output:
   pdf_document: default
   html_document: default
 ---
+
 ## Chapter 1.	Introduction
 
 Note for v2.12. If you are reading this, you have an early copy of the 2nd version of 
@@ -96,9 +97,10 @@ slightly from conventional use.
 43.	LESSONS are much like "The Garden", meant to activate relevant parts of your 
 reality or beliefs, in a way that applies the IDEAS introduced. 
 44.	They are exercises that take between 10 and 60 minutes to complete.
-45.	Finally, each unique point made in a chapter is enumerated for easy cross-
-referencing. 
-46.	An example cross-reference for the item immediately above is as follows: [1.45] 
-"1" referring to this chapter, and "45" to the item number.
+45.	Use the ennumeration of ideas to cross-reference.
+46. The item immediately above is "c1.45". "c1" referring to this chapter, and "45" to the item number.
 47.	This will be taken advantage of in future revisions.
-
+48. Most chapter concepts are a category of goals, and offer generalizable guidance for your plans. 
+49. Like food vs cake, the habits relevant to your goals can be closer to food, or excessive like cake.
+50. In the context of definitions, they will be referred to instead, as "good" and "bad".
+51. For example, c8.60.
