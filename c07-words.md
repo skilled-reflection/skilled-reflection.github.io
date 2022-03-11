@@ -5,277 +5,115 @@ output:
   html_document: default
 ---
 
-# main 
+## Chapter 7.	WORDS
 
-Change your thoughts. Change your life.
-[reprise of title page]()
+### Cognition 
 
-Comprehension is involuntary.
-You cannot help but recognize meaning 
-if you see or hear language.
-This means that
-your involuntary response
-to this section title 
-was likely similar to 
-"Easier said than done."
-
-Sometimes real meaning requires voluntary thought.
-Often, all it takes is a
-seemingly incompatible pair
-of ideas.
-For example,
-this time when you
-think about the title,
-assume it is a reasonable,
-serious, 
-seriously valuable suggestion.
-All it would take is for you
-to honestly believe you can.
-## Intro
+1.	Like any book, this book uses WORDS to describe the world and its 
+conditions.
+2.	This chapter is about the act of describing, itself.
+3.	This chapter can be reduced to the following problem and solution. 
+4.	WORDS said (out loud or written) and understood (heard or read) are 
+not usually what PPL mean. 
+5.	They do not reflect what PPL want or need.
+6.	By engaging the gap between WORDS and reality, you increase SELF-
+awareness (BET).
+7.	Better WORDS mean more practical understanding and expectations, 
+more complete desires, and 
+8.	the capacity to make a concrete PLAN for achieving your GOALS. 
+9.	This will naturally include healthier communication and more 
+rewarding relationships.
+10.	A community with better WORDS has clearer idea sharing, 
+synthesizing, developing, teaching and learning.
  
-This chapter can be reduced to the following problem and solution.
-Words said (out loud or written),
-and understood (heard or read) are
-not usually what people mean.
-They do not reflect what people want or need.
-
-By engaging
-the gap between words and reality,
-you increase self-awareness (BET).
-
-Better words mean
-more practical understanding and expectations,
-more complete desires, and the capacity
-to make a concrete plan for achieving your goals.
-This will naturally include
-healthier communication and
-more rewarding relationships.
-
-A community with better words has
-clearer idea sharing,
-synthesizing, developing,
-teaching and learning.
-
-## Cognition
-
-Speaking your mind is difficult.
-A memory system dealing with language
-is tasked to
-translate thoughts into
-the right words from thousands.
-It is prone to inaccuracies.
-
-Similarly, a listener 
-focused on comprehending,
-is not likely to monitor 
-all the incidental priming effects
-of words on a memory system.
-Words said and words heard 
-have a latent impact on
-one's beliefs and behaviors.
-
-These effects
-are each discussed in terms of
-how words can be used
+11.	Speaking your mind is difficult.
+12.	A memory system dealing with language is tasked to translate 
+thoughts into the right WORDS from thousands. 
+13.	It is prone to inaccuracies.
+14.	Similarly, a listener focused on comprehending, is not likely to monitor 
+all the incidental priming effects of WORDS on a memory system. 
+15.	WORDS said and heard impact both parties' beliefs and behaviors.
+16.	These effects are each discussed in terms of how WORDS can be used 
 for the better or worse.
+Kinds and Uses
+17.	Saying WORDS is a very small physical action, to describe real actions 
+and consequences. 
+18.	Hearing and understanding a WORD are also a small action, that 
+engages with WORDS-- a description about the real world.
+19.	The issue is that descriptions can be more and less right, more and less 
+helpful, and we have little guidance on how to use them.
 
-## Words
-### DEF
-This book deals mainly with
-actions and the felt-experience of the world.
-Like any book,
-this book uses words to describe the world
-and its conditions.
+20.	Every WORD itself is a BET on hypotheticals, which can be true (reality) 
+or false (fantasy).
+21.	You can think through far more situations with WORDS, than you can 
+(or should) act out. 
+22.	Your GOALS can be described in WORDS, and WORDS can be easily 
+crossed out and revised.
+23.	A PLAN is a BET on a winning arrangement of WORDS that result in the 
+GOAL.
+24.	WORDS efficiently simulate possible worlds. 
+25.	Good WORDS maximize productivity of thought, move you beyond 
+pitfalls of CHUD, direct attention to PRIS, and predict reality; improve 
+decisions and make you smarter.
+26.	By thinking about all WORDS you experience (LIB), you can take 
+control to limit your WORD use toward more productive ones, 
+improving READ and WRITE decisions, increasing focus and TIME for 
+GOALS.
+27.	Bad WORDS keep CHUD expensive, and waste TIME.
+28.	The COST of an individual WORD is tiny, but we say tens of thousands 
+per day (Levelt). 
+29.	Reading, thinking, saying, and writing a WORD perpetuates that 
+WORD's IDEA over others, either moving you toward a GOAL, or your 
+HABIT.
 
-This chapter is about
-the act of describing, itself.
+### Speak/Write
 
-Saying WORDS is a very small
-physical action, to describe
-real actions and consequences.
-Hearing and understanding a word
-is also a small action,
-that engages with WORDS--
-a description
-about the real world.
+30.	Speak, write, initiate or respond only in limited duration and WORDS 
+dictated by intended outcome. 
+31.	Use WORDS empirically, with a comparison group (vs) and quantity in 
+mind.
+32.	Ideas are more important than authorship. 
+33.	Do not use a WORD that is more of a Lie. 
+34.	Say the truth or be quiet. 
+35.	Use WORDS for decisions, not emotions. 
+36.	Use WORDS to facilitate PRIS. Do not write PLANS you won't follow. 
+37.	Stop talking when action (or listening) is needed.
 
-The issue is that descriptions
-can be more and less right,
-more and less helpful,
-and we have little guidance on how to use them.
+### Listen 
 
-[](figs/words.png)
+38.	Listen / read when you need to learn / connect. 
+39.	Limit duration/WORDS needed to assess consent.
+40.	Distrust ego, and take nothing personally 
+41.	Investigate the empirical CAKE of WORDS.
+42.	Revise to believe, and revise PLANS into ones you'd follow.
+43.	Remove / ignore style. 
+44.	Assert boundaries against exaggerated WORDS or unreliable ones.
 
-### as-hypothetical
-Words are BETS on hypotheticals:
-- truth and reality.
-- lies and fantasy.
+### Meanings of Words
 
-A PLAN is an arrangement
-of WORD BETS.
-
-Words efficiently simulate possible worlds.
-You can think through
-far more situations with words, than
-you can (or should) try in reality.
-Your GOALs can be described in words, and
-words can be easily crossed out and revised.
-
-Good WORDs maximize productivity of thought,
-move you beyond pitfalls of CHUD,
-direct attention to PRIS, and
-predict reality;
-improve decisions and make you smarter.
-
-By thinking about 
-all words you experience (LIB),
-you can take control
-to limit your WORD use
-toward more productive ones,
-improving READ and WRITE decisions,
-increasing focus and time for GOALs.
-
-Bad words keep CHUD expensive,
-and waste time.
-
-The COST of an individual word is tiny, but
-we say tens of thousands per day (Levelt).
-Reading, thinking, saying, and writing
-a word perpetuates that word's IDEA over others,
-either moving you toward a GOAL, or your HABIT.
-
-### Plans
-Do not use a word that is more of a Lie.
-say the truth or be quiet.
-Use words for decisions, not emotions.
-Use to facilitate your life PLAN.
-stop talking for other reasons.
-
-Choose what you listen to:
-assert boundaries against
-exaggerated words or
-unreliable ones.
-
-Do not write PLANs you won't follow.
-Read to revise plans into ones you'd follow.
-
-### EXAMPLE
-
-An EXAMPLE is
-an individual, particular
-event or object,
-of reality.
-An example with consequence is
-a USE-CASE.
-An example in-principle is
-a HYPE (hypothetical/hype).
-
-### IDEAS
-### LINKS  
-
-WORDs are one of two types:
- 
-1.  LINKS: words that give relationship between EXAMPLES, IDEAS, describe ACTIONS, ROLES, and transformations
-2. IDEAS: words that refer to EXAMPLES.
-
-An IDEA is a set of criteria
-that LINK EXAMPLES
-as similar (vs not).
-
-The most basic IDEA
-classifies EXAMPLES as
-A or not-A.
-"blue" is an IDEA that certain 
-colored things are BLUE (A),
-and all other colors are not BLUE.
-
-Good IDEAS
-group EXAMPLES
-in a way that
-directs attention toward
-PLANS and GOALS.
-Bad IDEAS distract.
-
-The right LINK between IDEAs is
-the foundation of every thought,
+45.	An EXAMPLE is an individual, particular event or object, of reality. An 
+example with consequence is a USE-CASE. An example in-principle is a 
+HYPE (hypothetical/hype).
+46.	WORDS are one of two types:
+46.1.	LINKS: WORDS that give relationship between EXAMPLES, IDEAS, 
+describe ACTIONS, ROLES, and transformations
+46.2.	IDEAS: WORDS that refer to EXAMPLES.
+46.3.	An IDEA is a set of criteria that LINK EXAMPLES as similar (vs not).
+46.4.	The most basic IDEA classifies EXAMPLES as A or not-A. "blue" is 
+an IDEA that certain colored things are BLUE (A), and all other 
+colors are not BLUE.
+46.5.	Good IDEAS group EXAMPLES in a way that directs attention 
+toward PLANS and GOALS. Bad IDEAS distract.
+46.6.	The right LINK between ideas is the foundation of every thought, 
 recipe or terrible calculation.
 
+### Scientist
 
-### RECIPE
-
-A well-formed plan, especially lessons and instructions,
-adhere to a RECIPE format.
-The RECIPE format highlights the IDEAS and LINKS of your
-point, and minimizes excessive STYLE.
- 
-1.  List key IDEAS.  
-2.  Describe actions and transformations (LINKS).  
-
-*push-words, from c09-ibc_ed*
-## manifesto  
-the following are principles of 
-knowledge, language, and action.
-
-#### speak   
-Speak, write, initiate or respond only
-
-in limited duration and words
-dictated by intended outcome.
-- Define everything empirically
-  - comparison group/quantity (has unique outcome)
-- Speak to bet.
-- Idea > authorship (anonymity)
-
-Do not at all
-when actions or listening 
-are needed.
-
-#### listen  
-listen / read
-be with
-
-when you need to learn / connect
-- limited in duration/words needed
-- to assess consent (agreement).
-
-not when
-- speaking values unadhered
-
-Listening: 
-- Distrust words and ego.
-- Take nothing personally
-- Remove / ignore style
-- Read to refine beliefs and doubts.
-
-# ROLES
-## Scientist    
-
-A scientist WORKs to win BETS against the UNKNOWN. 
-They are a professional writer, 
-evaluated on two metrics:
-
-1.For their MEMES of CONTENT.
-2.The net benefit of their MEMES on GOAL outcomes.
-
-A scientist-researcher is a WRITER, 
-a data-collector and hypothesis tester. 
-A scientist-scholar is a READER,
-curating toward theory development and COMM.
-
-## Scholar    
-
-a professional READER and 
-Peer-Reviewer,
-especially in curating the Scientist's insights.
-
-evaluated by repost statistics 
-(others as readers),  
-akin to evaluating twitter users by their retweets.
-
-
-
-
-
- 
- 
- 
+47.	A scientist works to win BETS against the UNKNOWN. They are a 
+professional writer, evaluated on two metrics:
+47.1.	For their MEMES of CONTENT. 
+47.2.	The net benefit of their MEMES on GOAL outcomes.
+48.	A scientist-researcher is a WRITER, a data-collector and hypothesis 
+tester. 
+49.	A scientist-scholar is a READER, curating toward theory development 
+and COMM.
