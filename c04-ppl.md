@@ -7,6 +7,9 @@ output:
 
 ## Chapter 4.	PPL
 
+46. Author's note: The concepts in this chapter are active development, which may substantially change. 
+47. Numbers 48-53 would be the basis for a revised chapter. 
+
 1.	Think of PPL (PPL) as seeds that clarify and cultivate your garden or 
 affect your garden in other ways.
 2.	Maybe they are your friend, and need help with some unruly vines, or 
@@ -100,9 +103,16 @@ opportunities to watch for and resist, and so on.
 44.	Any social role you wish to take on, artist, engineer, therapist, 
 insurance salesperson, reliable partner, is customized intimately, 
 curated perfectly for what you need.
-45.	Any relationship, interpersonal skill, that is realistically possible for 
-you, is preceded with the guidance and education that prepares you 
+45.	Any relationship or interpersonal skill that is realistically possible for 
+you is preceded with the guidance and education that prepares you 
 emotionally to choose the right experiences that set you up to be 
 most likely to find and make the most of opportunities to share 
 yourself with another.
+
+48. People, are the part of a theory of life that require the most care, and least words. 
+49. Unlike the nature of our actions which play unconsciously and imply bets, 
+50. Common, bad people activity is the habit of over-emphasizing mutual bets, and 
+51. which fall out of alignment with actions.
+52. Instead, consider a relationship to be only the actions that are reciprocated;
+53. and call this the relationship 'contract.'
 

@@ -115,7 +115,9 @@ ask yourself if it is necessary.
 58.3.	Build routines for health and fitness, physical safety (shelter), a sound 
 mind, healthy relationships.
 58.4.	 Master the SELF (survive well).
-Home
+
+### Home  
+
 59.	HOME is the collection of materials and TOOLS needed for SELF.
 60.	Within a HOME related actions are grouped into rooms. 
 61.	For example, a kitchen, is for eating, storing, preparing and disposing of FOOD.
@@ -123,5 +125,10 @@ Home
 MONEY, and environment and basis for HABITS.
 63.	A good HOME is clean and ALIGNED for FOOD. 
 64.	A bad HOME facilitates bad HABITS and takes more TIME to maintain.
+
+65. All your life can be very well characterized by a series of purely numerical data:
+66. Event timestamps associated with a location.
+67. The average movement over time, consider as HABITS.
+68. The average location is HOME.
 
 
