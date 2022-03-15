@@ -1,5 +1,7 @@
-Lesson One: Define Yourself
-Routine and Ideal
+
+# Define Yourself
+
+## Routine and Ideal
 65.	You are how you act. Therefore, establish a baseline to know what it will take to 
 get where you want to be.
 66.	One of the most common mistakes of planning is being overly optimistic in 

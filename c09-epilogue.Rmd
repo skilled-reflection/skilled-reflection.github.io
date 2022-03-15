@@ -6,9 +6,9 @@ output:
 ---
 
 
-## Chapter 9.	Epilog 
+# Epilogue
 
-### Reader Opt-in 
+## Reader Opt-in 
 
 1.	Now you have read this book. 
 2.	What were your numbers? (6.50)
@@ -25,13 +25,13 @@ among winners.
 3.9.	This is the process and meaning of READER and WRITER; bound directly to 
 material and action, IRL.
 
-### Your Calling, Part II 
+## Your Calling, Part II 
 
 4.	Tell me the missing chapter
 that gives peace instead of regimen,
 so that I may find mine.
 
-### Prequel to Answerword 
+## Prequel to Answerword 
 
 `comm-by-instructor0 to-instructors`  
 `i-"By the instructor of instructors, to instructors."`  
@@ -47,7 +47,7 @@ the student's ability.
 12.	If I find out you withhold the truth, I will punish you with it.
 13.	You are a teacher when your student has paid for both your TIME.
 
-### Beginnings
+## Beginnings
 
 14. If you need more examples to make more sense of this book, read the second, "Answerword". 
 15. If you need to stand beyond the limits of both, prepare with the third and last book, "Lastword".

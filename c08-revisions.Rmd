@@ -6,9 +6,9 @@ output:
 ---
 
 
-## Chapter 8.	Revisions 
+# Revisions 
 
-### Skilled Reflection
+## Skilled Reflection
 
 1.	[50,51,56,57] The GOAL of WORDS is to express ideas of  maximum 
 CAKE tomorrow. 
@@ -60,7 +60,7 @@ They ask for names of IDEAS.
 between your warm-up IDEAS. Done right, you will face some new 
 truths.
 
-#### REVISE  
+### REVISE  
 
 25.	Revise WORDS to improve actions of yourself or others is REVISION.
 26.	REVISION is how we know reflection is happening, described here in 
@@ -111,7 +111,7 @@ ready to be SELF-critical.
 34.2.	The peer WRITER has uncompromised objectivity, and liberty to 
 employ Truth, however "harsh".
 
-#### DOC
+### DOC
 
 35.	A Recipe is one of the best ways to arrange PLANS.
 36.	Lessons and instructions use a RECIPE format. 
@@ -126,7 +126,7 @@ thing.
 40.	Save selectively and
 41.	delete frequently.
 
-### Communication
+## Communication
 
 42.	RECOGNITION, reading familiar WORDS is easier than RETRIEVAL from 
 memory, of WORDS to write. Is- savings on revision.
@@ -164,7 +164,7 @@ the real world.
 56.2.	better designed to hypothesize and predict.
 57.	To improve COMM, study the difference between CONTENT and STYLE.
 
-### Styles
+## Styles
 
 58.	PRIS between PPL (WRITER and READER) differ.
 59.	Difference in PRIS alter CONTENT of ideas.
@@ -186,7 +186,7 @@ PITCH.
 69.	Therefore, they will be compelled more by lies. 
 70.	BRAND is PITCH that distorts truth, a form of bad STYLE.
 
-### Library
+## Library
 
 71.	LIB is the explicit effort to maximize the use of what you WRITE, SAVE, 
 and READ, by organizing it for best application, and providing feedback 
@@ -220,7 +220,7 @@ Graduate
 86.	Put it in your library.
 87.	Now return to your garden and WORK on your PRIS.
 
-#### Reference system
+### Reference system
 88. Well, what LIB would be complete without
 89. a reference index? 
 90. The equivalent of the Dewey system
@@ -231,7 +231,7 @@ Graduate
 93. In that version of SR, 4 is the chapter PPL, and number 23 is the definition of RLTP. Trump, the article topic, is an example.
 94. this is the header format for any subsequent document of an idea I write.
 
-#### The Answerword
+### The Answerword
 
 95. The complete set of PPL's LIBs is sufficiently exhaustive to describe all that matters in each and all lives. 
 96. The efficiently compressed content of this LIB produces a distribution of variation along a median LIB. 
@@ -239,7 +239,7 @@ Graduate
 98. That book, then optimized to maximize the most learning, determines its STYLE.
 
 
-### Index of Definitions
+## Index of Definitions
 99. below are the chapter and line numbers for IDEA definitions, alphabetical.
 
 00. Okay you got me, that's a promise and this is a placeholder for a future version that fulfills the promise. Start the clock: 2022-03-09-2129

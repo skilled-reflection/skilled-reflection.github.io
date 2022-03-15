@@ -5,9 +5,9 @@ output:
   html_document: default
 ---
 
-## Chapter 7.	WORDS
+# WORDS 
 
-### Cognition 
+## Cognition 
 
 1.	Like any book, this book uses WORDS to describe the world and its 
 conditions.
@@ -66,7 +66,7 @@ per day (Levelt).
 WORD's IDEA over others, either moving you toward a GOAL, or your 
 HABIT.
 
-### Speak/Write
+## Speak/Write
 
 30.	Speak, write, initiate or respond only in limited duration and WORDS 
 dictated by intended outcome. 
@@ -79,7 +79,7 @@ mind.
 36.	Use WORDS to facilitate PRIS. Do not write PLANS you won't follow. 
 37.	Stop talking when action (or listening) is needed.
 
-### Listen 
+## Listen 
 
 38.	Listen / read when you need to learn / connect. 
 39.	Limit duration/WORDS needed to assess consent.
@@ -89,7 +89,7 @@ mind.
 43.	Remove / ignore style. 
 44.	Assert boundaries against exaggerated WORDS or unreliable ones.
 
-### Meanings of Words
+## Meanings of Words
 
 45.	An EXAMPLE is an individual, particular event or object, of reality. An 
 example with consequence is a USE-CASE. An example in-principle is a 
@@ -107,7 +107,7 @@ toward PLANS and GOALS. Bad IDEAS distract.
 46.6.	The right LINK between ideas is the foundation of every thought, 
 recipe or terrible calculation.
 
-### Scientist
+## Scientist
 
 47.	A scientist works to win BETS against the UNKNOWN. They are a 
 professional writer, evaluated on two metrics:

@@ -5,7 +5,7 @@ output:
   html_document: default
 ---
 
-## Chapter 5.	BET
+#	BET  
 
 1.	You can't help but think how to make your life better.
 2.	You can take control of your life, or you can let the world BET for you. 
@@ -68,7 +68,7 @@ should guide revisions to your CHUD.
 30.4.	(Record TIME to do the next BET or GOAL, Revise, etc.)
 30.5.	Start the next BET or GOAL.
 
-### Back to the Garden
+## Back to the Garden
 
 31.	The next morning you woke to a field in disarray and a letter. You had 
 worked harder than you planned, and still fell short of your GOAL. 
@@ -82,7 +82,7 @@ GOAL is further than you estimate.
 36.	If you disagree, let's BET again. First, take a minute to learn from your 
 planning mistake.
 
-### C.H.U.D. 
+## C.H.U.D. 
 
 37.	Even if you make a PLAN and BET on it, you can fail.
 38.	Why don't we achieve our GOALS?

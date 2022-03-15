@@ -2,11 +2,10 @@
 
 <!-- 326 words -->
 
-## Lesson: Goals vs PPL
-## "Student vs. School"  
+# Student vs. School 
 
 
-**Task 1. 3m, 40w.**
+## **Task 1. 3m, 40w.**
 This is a lesson in curriculum writing.
 Imagine a perfect course exists,
 designed to teach you
@@ -20,7 +19,7 @@ move toward any goal you want.
 list four goals,
 Each no longer than 10 words
  
-**Task 2. 3m, 40w.**
+## **Task 2. 3m, 40w.**
 Your current program requires things your 10 year plan does not.
 Courses impose a number of
 conditions on your life:
@@ -33,7 +32,7 @@ most on your mind right now.
 Whether most frustrating, or most critical
 to you, even 'impress my professor'.
  
-**Task 3. 5m, 50w.**
+## **Task 3. 5m, 50w.**
  
 Spell out the intersection between the two lists.
 Think of how each goal in the second list
@@ -47,7 +46,7 @@ For example,
     get a job which will likely lower all my grades.
  
  
-**Task 4. 15m, 100w.**
+## **Task 4. 15m, 100w.**
  
  
 What is the least you can do toward the course requirements and still achieve your long term goals?
@@ -63,7 +62,7 @@ Examples:
  
 Add 100 more words to your description.
  
-**Task 5. 15m, 50w.**
+## **Task 5. 15m, 50w.**
  
 Negotiate ways to make direct progress on your first list while fulfilling the second list.
  

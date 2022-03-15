@@ -1,7 +1,8 @@
-2021-11-22-2217
+
+# (APPENDIX) Appendix {-}  
 
 
-## Lesson: 0 or 1
+# 0 or 1  
 As a human you are endowed with words.
 Too much, so.
 For a moment, forget those words.

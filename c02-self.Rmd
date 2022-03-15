@@ -5,9 +5,10 @@ output:
   html_document: default
 ---
 
-## Chapter 2.	SELF
+# (PART) The Garden {-}
+# SELF
 
-### Your Garden
+## Your Garden
 
 1.	Imagine your life takes place in a garden.
 2.	Visualizing your life as a garden allows you to ground actions and PLANS. 
@@ -70,7 +71,7 @@ climate, or
 36.	In the garden, the COSTS of GOALS are grounded in their most basic sense: TIME 
 and attention.
 
-### Core Concepts
+## Core Concepts
 
 37.	The following are core concepts for application beyond the Garden.
 GOALS
@@ -116,7 +117,7 @@ ask yourself if it is necessary.
 mind, healthy relationships.
 58.4.	 Master the SELF (survive well).
 
-### Home  
+## Home  
 
 59.	HOME is the collection of materials and TOOLS needed for SELF.
 60.	Within a HOME related actions are grouped into rooms. 

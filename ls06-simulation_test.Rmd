@@ -3,8 +3,8 @@ output:
   pdf_document: default
   html_document: default
 ---
-## L10 Simulation Test
-"Self-testing"
+
+# "Self-testing"
 
 All of this book is a lesson in simulation,
 because this is a book with words in it,

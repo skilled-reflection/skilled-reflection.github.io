@@ -5,9 +5,9 @@ output:
   html_document: default
 ---
 
-## Chapter 4.	PPL
+# PPL  
 
-46. Author's note: The concepts in this chapter are active development, which may substantially change. 
+46. Author's note: The concepts in this chapter are under active development. 
 47. Numbers 48-53 would be the basis for a revised chapter. 
 
 1.	Think of PPL (PPL) as seeds that clarify and cultivate your garden or 
@@ -33,6 +33,9 @@ savings are already grown, prepared and handed to you--in exchange
 for money, which you have from spending TIME on a much larger, 
 collective garden called society, doing some very specialized thing 
 called WORK. 
+
+## WORK  
+
 9.	You'll WORK about 80,000 hours in your life in exchange for already 
 grown apples and baked CAKE, and a toilet to take your poop 
 somewhere else.
@@ -76,7 +79,9 @@ one that maximizes TIME and money to apply to other PRIS.
 31.	Maximally ALIGN with NORMS with least compromise to PRIS. 
 32.	ALIGN (get along) with PPL.
 
-### The Classroom  
+## The Classroom  
+
+**Note: If this section is confusing, revisit it after "Ed".**  
 
 33.	(No one chose to be born.) 
 34.	Everyone begins life with their own unnamed and unanswered 

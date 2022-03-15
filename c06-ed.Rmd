@@ -6,9 +6,10 @@ output:
 ---
 
 
-## Chapter 6.	Education
+#	(PART) The I.B.C. {-}
+# Education
 
-### Intellectual Bootcamp 
+## Intellectual Bootcamp 
 
 1.	On the computer screen:
 Consent and Commitment
@@ -45,7 +46,7 @@ teamwork).
 14.	The central requirement for applicants will be a commitment to better 
 understand the SELF and world.
 
-### Student
+## Student
 
 15.	Students are PPL with IDEAS from EXPERIENCE toward selfish GOALS.
 16.	Lessons depend on students' prior knowledge.
@@ -97,7 +98,7 @@ and truthful enough to hurt.
 29.	Your performance is evaluated simply: whether or not you 
 30.	end up eating, sleeping, thinking, talking, and acting differently.
 
-### Roles
+## Roles
 
 31.	Think, student. 
 32.	Do not take notes, simply pay attention. 
