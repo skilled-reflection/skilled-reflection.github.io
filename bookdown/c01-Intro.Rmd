@@ -1,6 +1,3 @@
----
-
----
 
 # Introduction
 
@@ -27,8 +24,8 @@ you take that action.
 them, often omitted. 
 12.	What is important will appear, and what isn't will be forgotten. 
 
-Sincerely,  
-student0
+    Sincerely,  
+    student0  
 
 ## Go Camping  
 
@@ -61,7 +58,7 @@ lived, and the one you did.
 ## Be homeless
 
 29.	The odds are you aren't and haven't been, and will very much avoid ever being homeless. 
-30. So consider any and all other surprising and scary experiences in your life.
+30. So consider any and all other surprising and scary experiences in your life.  
     1. You couldn't find your car in the middle of winter. 
     2. You went camping without waterproof gear and it rained. 
     3. For weeks your shower only produced ice cold water.
@@ -89,10 +86,10 @@ language.
 slightly from conventional use. 
 42.	For example, "WORK" is an IDEA referring to "careers", but not 'yard WORK'. 
 43.	Do not overlook the nuances for these terms, they are the result of careful decisions about the FOOD and CAKE of the IDEAs.
-
+44. (EMPTY) 
 45.	Use the ennumeration of ideas to cross-reference.
-46. The item immediately above is "c1.45". "c1" referring to this chapter, and "45" to the item number.
-47.	This will be taken advantage of in future revisions.
+46. The item immediately above is "c1.45". "c1" referring to the chapter "Introduction", and "45" to the numbered IDEA.
+47.	This system will be taken advantage of in future revisions.
 48. Most chapter concepts are a category of goals, and offer generalizable guidance for your plans. 
 49. Like food vs cake, the habits relevant to your goals can be closer to food, or excessive like cake.
 50. In the context of definitions, they will be referred to instead, as "good" and "bad".
