@@ -98,8 +98,10 @@ to improve the chance or decrease the COST of achieving your GOAL.
 50.	All COSTS can be reduced to TIME.
 51.	COST is any action that has a direct exchange.
 52.	COSTS often are secondary objectives within a PLAN.
-53.	For example, you might buy a TOOL (COST).
-SELF
+53.	For example, you might buy a TOOL (COST). 
+
+### SELF  
+
 54.	Every day, as a human, you spend TIME and attention just meeting basic needs: 
 eating, drinking, pooping, and sleeping.
 55.	These actions are subgoals of maintaining SELF, the category of basic human 
@@ -116,7 +118,7 @@ ask yourself if it is necessary.
 mind, healthy relationships.
 58.4.	 Master the SELF (survive well).
 
-## Home  
+### Home  
 
 59.	HOME is the collection of materials and TOOLS needed for SELF.
 60.	Within a HOME related actions are grouped into rooms. 
