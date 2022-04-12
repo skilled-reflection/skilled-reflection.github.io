@@ -110,7 +110,7 @@ GOALS.
 57.	CAKE is anything (else) fulfilling, that you are inclined to pursue, including the 
 reason for living.
 58.	The GOALS of SELF are what's necessary and sufficient to obtain and manage 
-FOOD and maximize BET outcomes.
+FOOD and maximize BET outcomes ([c5.28][BET]).
 58.1.	Separate FOOD from CAKE. 
 58.2.	Be careful not to mislabel CAKE as FOOD. CAKE may appear sufficient but 
 ask yourself if it is necessary. 
