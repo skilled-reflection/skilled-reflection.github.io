@@ -1,6 +1,6 @@
 Glossary
 
-## c2.Self
+## c2.SELF
 
 38.	A GOAL names an ideal future reality, comprises a PLAN to increase its likelihood, associated with CHUD.
 44.	A PLAN is any combination of WORDS where the writing or reading of them aims 
@@ -14,7 +14,7 @@ to improve the chance or decrease the COST of achieving your GOAL.
 62.	HOME also includes all physical material and resources you own, including 
 MONEY, and environment and basis for HABITS.
 
-## c3.Pri
+## c3.PRI
 
 33.	The GOAL of PRI is to manage the set of GOALS in your life.
 38.	TIME is the constant (or denominator) for FORCES, FORGETTING, PRI, and LIB. 
@@ -43,3 +43,21 @@ you to achieve it.
 43.1.	HABITS are your most likely and reliable FOOD or CAKE actions.
 44.	If you have not arrived at the GOAL, there are UNKNOWNs. 
 48.	DOUBTS are predictable failures of estimating Reality, PLANs and UNKNOWNs.
+
+
+## c6.ed
+
+15.	Students are PPL with IDEAS from EXPERIENCE toward selfish GOALS.
+39.	A reader is a listener and observer.
+64.	BET on WORDS. A writer invests TIME and energy to map feelings onto WORDS.
+66.	Revisions also make you a WRITER. When you revise WORDS (yours or others') 
+to maximize your BET, you are a writer.
+73.	An instructor READS, and enforces BETs on LINKs toward a PLAN.
+
+
+
+
+## x
+PLANs for each Definition;
+- GOOD vs BAD
+
