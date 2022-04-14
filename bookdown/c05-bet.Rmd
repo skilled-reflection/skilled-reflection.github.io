@@ -90,18 +90,16 @@ planning mistake.
 40.	and by extension, clues for why we fail;
 41.	CHUD encompasses the changes in you, the world, and your GOAL for 
 you to achieve it.
-42.	COST [See Chapter 2]
+42.	COST ([c2.51][SELF])
 43.	HABITS are your dominant tendencies (FORCES). 
 43.1.	HABITS are your most likely and reliable FOOD or CAKE actions.
 43.2.	Bad HABITS are FORCES working against your GOALS. 
 43.3.	Good HABITS are ALIGNED with GOALS.
 44.	If you have not arrived at the GOAL, there are UNKNOWNs. 
-45.	A train might stop you from arriving on TIME.
-46.	From a planning standpoint, it is unclear if you can control 
-UNKNOWNs, but you can estimate them. 
-47.	Failures to accurately estimate reveal DOUBTS.
-48.	DOUBTs are the difference (error) between your PLAN's estimate of 
-reality, and Reality.
+45.	For example, a train might stop you from arriving on TIME.
+46.	From a planning standpoint, UNKNOWNs can be estimated. 
+47. Like their conventional meaning, DOUBTs are a form of interference to your PLAN that comes from within.
+48.	DOUBTS are predictable failures of estimating Reality, PLANs and UNKNOWNs.
 49.	Explore and learn where the line of control is, expand control 
 productively, and let go of unhelpful attempts to control.
 50.	Good DOUBTS temper an optimistic PLAN. 

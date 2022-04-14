@@ -73,9 +73,10 @@ and attention.
 ## Core Concepts
 
 37.	The following are core concepts for application beyond the Garden.
+
 GOALS
 38.	A GOAL names an ideal future reality, comprises a PLAN to increase its 
-likelihood, which has COSTS to exercise it.
+likelihood, associated with CHUD.
 39.	These three things encompass all cognitive activity related to reality.
 
 40.	Call anything that could be true, but isn't right now, a GOAL, and any effort in support of making it true a PLAN. 
@@ -104,13 +105,10 @@ to improve the chance or decrease the COST of achieving your GOAL.
 
 54.	Every day, as a human, you spend TIME and attention just meeting basic needs: 
 eating, drinking, pooping, and sleeping.
-55.	These actions are subgoals of maintaining SELF, the category of basic human 
-GOALS.
+55.	These actions are subgoals of maintaining SELF, the category of basic human GOALS.
 56.	FOOD is the necessary and sufficient material to satisfy these needs.
-57.	CAKE is anything (else) fulfilling, that you are inclined to pursue, including the 
-reason for living.
-58.	The GOALS of SELF are what's necessary and sufficient to obtain and manage 
-FOOD and maximize BET outcomes ([c5.28][BET]).
+57.	CAKE is anything (else) fulfilling, that you are inclined to pursue, including the reason for living.
+58.	The GOALS of SELF are what's necessary and sufficient to obtain and manage FOOD and maximize BET outcomes ([c5.28][BET]).
 58.1.	Separate FOOD from CAKE. 
 58.2.	Be careful not to mislabel CAKE as FOOD. CAKE may appear sufficient but 
 ask yourself if it is necessary. 
