@@ -6,4 +6,5 @@ _posts
 .pdf
 .docx
 _sitemain
-bookdown/
+bookdown/_book/
+.Rproj
