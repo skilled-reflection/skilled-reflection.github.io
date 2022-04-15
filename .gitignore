@@ -7,3 +7,6 @@
 _sitemain
 /bookdown/_book/*
 .Rproj
+bookdown/_book/ppl.html
+bookdown/_book/ppl.html
+*.html
