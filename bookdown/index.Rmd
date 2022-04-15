@@ -16,8 +16,7 @@ version: 2.14
 
 # Abstract {-}
 
-This book asks and answers a series of questions about the nature of a 
-productive life and its implications, as follows:  
+This book asks and answers a series of questions about the nature of a productive life and its implications:  
 1. Self. What must I do (FOOD) in order to have what I want (CAKE)? Food is 
 health, comprising maximum physical energy (fit) and mental energy (wit). CAKE 
 is motivation, meaning and will to live (PRI).  
@@ -32,16 +31,9 @@ and revision according to bet wins and failures (CHUD).
 failures.  
 7.	Revisions. When am I done? When BETs align with PRIs and address CHUD, and as soon as possible 
 (BLITZ).  
-8.	Epilogue. What is wrong with this book? It is mostly about idealized 
-productivity, because it is written by one instructor obsessed with discipline and 
-science fiction. 
 
 
-**Note:** If you are reading this, you have an early copy of the 2nd version of 
-this book. This copy is missing a few key sections in addition to other edits which 
-remain before making it public. Thank you for your patience in 
-misunderstandings. I welcome any and all constructive feedback. Additionally, 
-feel free to check back in for a revised and updated version if you please.
+**Note:** This is an early copy of the 2nd version. This copy is missing a few key sections. Thank you for your patience. I welcome any and all constructive feedback. Check back later for a revised and updated version.
 
 ```{r include=FALSE}
 # automatically create a bib database for R packages
