@@ -43,8 +43,7 @@ engages with WORDS-- a description about the real world.
 19.	The issue is that descriptions can be more and less right, more and less 
 helpful, and we have little guidance on how to use them.
 
-20.	Every WORD itself is a BET on hypotheticals, which can be true (reality) 
-or false (fantasy).
+20.	Every WORD itself is a BET on hypotheticals, which can be true (reality) or false (fantasy).
 21.	You can think through far more situations with WORDS, than you can 
 (or should) act out. 
 22.	Your GOALS can be described in WORDS, and WORDS can be easily 
@@ -111,9 +110,10 @@ recipe or terrible calculation.
 
 47.	A scientist works to win BETS against the UNKNOWN. They are a 
 professional writer, evaluated on two metrics:
-47.1.	For their MEMES of CONTENT. 
-47.2.	The net benefit of their MEMES on GOAL outcomes.
-48.	A scientist-researcher is a WRITER, a data-collector and hypothesis 
-tester. 
-49.	A scientist-scholar is a READER, curating toward theory development 
-and COMM.
+    1.	For their new CONTENT. 
+    2.	The net benefit on GOAL outcomes.
+ 
+    
+48.	A scientist-researcher is a WRITER, a data-collector and hypothesis tester. 
+
+49.	A scientist-scholar is a READER, curating toward theory development and COMM.
