@@ -16,24 +16,23 @@ version: 2.14
 
 # Abstract {-}
 
-This book asks and answers a series of questions about the nature of a productive life and its implications:  
-1. Self. What must I do (FOOD) in order to have what I want (CAKE)? Food is 
-health, comprising maximum physical energy (fit) and mental energy (wit). CAKE 
-is motivation, meaning and will to live (PRI).  
-2.	Pri. What actions maximize cake in my life? Efficient fit and wit maximally used, 
-before death (plan).  
-3.	Ppl. What are people? Parallel universes dealing with identical problems, requiring words to establish connection and travel.  
-4.	Bet. What actions result in CAKE? Steps taken now according to my plan (bets) 
-and revision according to bet wins and failures (CHUD).  
-5.	School. What now? Learn all your answers (student), along with other ppl 
-(peers): go to school (IBC).   
-6.	Words. What do I study? Minimize the difference between your PLAN (words) and HABITS,  and minimize BET 
-failures.  
-7.	Revisions. When am I done? When BETs align with PRIs and address CHUD, and as soon as possible 
-(BLITZ).  
+This book is a work of translation between the many languages and worlds a modern thinking human can live in. For the human, this is a system that helps you sort and prioritize any and every thought and action in your life, to manage the one resource you have: time. The researcher can find a backdrop of insights across many siloes of academic study: behavioral sciences such as sociology, psychology and economics; belief systems studied in anthropology, theology and political science; and underlying metaphysics, including philosophy of language, semiotics. At its heart this book is a radically critical look at the most obvious fact of your existence: you. After this book, every one of the academic schools above risks dissolving, for their lack of translation and equally critical appreciation of the human they seek to explain.
 
+## Questions  
+1.  You.  How do humans vary in what they need and want?
+2.	Self. What must I do to have what I want? 
+3.  Pri. What actions maximize cake in my life?    
+3.	Ppl. What are people?   
+4.	Bet. How do I take action?   
+5.	School. How do I figure out a better plan for my life?    
+6.	Words. Why do(n't) people talk to each other?  
+7.	Revisions. How can we help each other? 
 
-**Note:** This is an early copy of the 2nd version. This copy is missing a few key sections. Thank you for your patience. I welcome any and all constructive feedback. Check back later for a revised and updated version.
+## Comment on Structure  
+A central design principle of this book is to communicate with an intersection of the familiar conventions of communicating, and those that come from the principles within. Therefore, you might want to keep in mind that if things do not seem helpful or to make sense, it may be because of an underlying assumption not yet discussed. For example, to emphasize the value of revision, separate ideas are numbered by chapter. A simple solution is to skim the definitions of the "core ideas" in the [Index of Definitions][Index of Definitions]. 
+
+## Author's Note  
+This is an early copy of the 2nd version. This copy is missing a few key sections. Thank you for your patience. I welcome any and all constructive feedback. Check back later for a revised and updated version.
 
 ```{r include=FALSE}
 # automatically create a bib database for R packages
