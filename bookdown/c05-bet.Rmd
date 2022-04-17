@@ -20,8 +20,11 @@ leave it to chance to have better life.
 dreams might fit in.
 9.	How real will your dreams get before you die?
 
-10.	A stranger comes to your garden at the end of a long day, chopping his 
-jaw. You look up.
+## A parable 
+### A stranger comes to town.  
+
+10.	A stranger comes to your garden at the end of a long day, which you realize only when you hear him chopping his 
+jaw at you. You look up.
 11.	"No really, consider it, right now. Imagine the most realistic, 
 attainable, best life you could have. 
 12.	Imagine taking the first step and then stay with the thought. Listen to 
@@ -44,7 +47,9 @@ leave me today's harvest."
 home I want, I need those rocks, but I'm afraid of falling. I've collected 
 every rock on my land and I need those rocks. Tomorrow I'll finish my 
 foundation with rocks from the slippery slope."
-BET
+
+### What to BET  
+
 23.	A BET is a PLAN template for reconciling REALITY with CHUD, to 
 accomplish GOALS.
 24.	Betting is confronting costs, habits, UNKNOWNs and DOUBTs that 
@@ -56,19 +61,19 @@ CHUD.
 successes, and revisions.
 27.	BET wins shorten your PLAN, and the distance to your GOAL. 
 Losses should guide revisions to your CHUD.
-28.	To BET, name: 
-28.1.	a step in your PLAN, 
-28.2.	a deadline to achieve it, and 
-28.3.	the C.H.U.D. for that duration.
-29.	Blitz to revise and win, and log your actions.
-30.	When the deadline arrives, take stock. 
-30.1.	Compare your action log to your PLAN. 
-30.2.	Identify CHUD factors that best explain discrepancies.
-30.3.	Revise PLAN, updated with CHUD factor predictions.
-30.4.	(Record TIME to do the next BET or GOAL, Revise, etc.)
-30.5.	Start the next BET or GOAL.
+28.	To BET, name:  
+    1.	a step in your PLAN, 
+    2.	a deadline to achieve it, and 
+    3.	the C.H.U.D. for that duration.
+29. Blitz to revise and win, and log your actions.
+30. When the deadline arrives, take stock.  
+    1.	Compare your action log to your PLAN. 
+    2.	Identify CHUD factors that best explain discrepancies.
+    3.	Revise PLAN, updated with CHUD factor predictions.
+    4.	(Record TIME to do the next BET or GOAL, Revise, etc.)
+    5.	Start the next BET or GOAL.
 
-## Back to the Garden
+### After BETs
 
 31.	The next morning you woke to a field in disarray and a letter. You had 
 worked harder than you planned, and still fell short of your GOAL. 
@@ -83,14 +88,16 @@ GOAL is further than you estimate.
 planning mistake.
 
 ## C.H.U.D. 
+### Definitions
 
 37.	Even if you make a PLAN and BET on it, you can fail.
 38.	Why don't we achieve our GOALS?
 39.	Here are the four critical aspects of success, 
-40.	and by extension, clues for why we fail;
+40.	and, by extension, clues for why we fail.
 41.	CHUD encompasses the changes in you, the world, and your GOAL for 
 you to achieve it.
 42.	COST ([c2.51][SELF])
+
 43.	HABITS are your dominant tendencies (FORCES). 
 43.1.	HABITS are your most likely and reliable FOOD or CAKE actions.
 43.2.	Bad HABITS are FORCES working against your GOALS. 
@@ -99,7 +106,8 @@ you to achieve it.
 45.	For example, a train might stop you from arriving on TIME.
 46.	From a planning standpoint, UNKNOWNs can be estimated. 
 47. Like their conventional meaning, DOUBTs are a form of interference to your PLAN that comes from within.
-48.	DOUBTS are predictable failures of estimating Reality, PLANs and UNKNOWNs.
+48.	DOUBTS are predictable failures of estimating Reality, PLANs and UNKNOWNs. 
+
 49.	Explore and learn where the line of control is, expand control 
 productively, and let go of unhelpful attempts to control.
 50.	Good DOUBTS temper an optimistic PLAN. 
@@ -108,9 +116,9 @@ productively, and let go of unhelpful attempts to control.
 53.	Resistance to change due to arrogance and ego reflect 
 underestimation of UNKNOWNs.
 54.	To be distracted from or bored of your PLAN is
-54.1.	 anxiety about your future. 
-54.2.	discomfort toward present reality. 
-54.3.	distrust in your past.
+    1.	 anxiety about your future. 
+    2.	discomfort toward present reality. 
+    3.	distrust in your past.
 
 55.	Most of these issues, if deep enough, require therapy. 
 56.	Or the [Intellectual Bootcamp].
