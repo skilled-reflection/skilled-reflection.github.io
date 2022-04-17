@@ -123,13 +123,55 @@ Graduate
 98. In that book, STYLE is any further optimization to maximize learning.
 
 
-### Index of Definitions
-99. below are the chapter and line numbers for IDEA definitions, alphabetical.
+## Index
+99. below are the chapter and line numbers for IDEA definitions. This is currently statically generated, so there are slight discrepancies with definitions in main text. (Last major revision: v2.15.)
 
-00. Okay you got me, that's a promise and this is a placeholder for a future version that fulfills the promise. Start the clock: 2022-03-09-2129
+c2.38.	GOAL names an ideal future reality, comprises a PLAN to increase its likelihood, associated with CHUD.
+c2.44.	PLAN is WORDS that facilitate your GOAL (or decrease its COSTS). 
+c2.49.	COST is materially required--muscle energy (actions), cash, brain power-- for GOALs.
+c2.56.	FOOD is the necessary and sufficient material to satisfy these needs.
+c2.57.	CAKE is anything (else) fulfilling, that you are inclined to pursue, including the reason for living.
+c2.58.	SELF is what's necessary and sufficient for FOOD and to maximize BET outcomes ([c5.28][BET]).
+c2.59.	HOME is the collection of materials and TOOLS, materials, money (which support HABITs).
+c3.33.	PRI is the GOAL to manage the set of GOALS in your life (and common themes therein).
+c3.38.	TIME is the constant (or denominator) for PRI and FORCES (LIB and MEMORY). 
+c4.09.	MONEY is traded for maintenance of, or insurance for SELF and CAKE.
+c4.10.  WORK is performing a specific task on a collective garden for MONEY.
+c4.13.	NORMS are all actions assumed of (or about) the "average" person, including WORK and CHUD.
+c4.16.	Language, agreed usage of WORDS, is made from NORMS.
+c4.17.	NORMS push against individuality.
+c4.20.	A FORCE is any cause of change including actions toward GOALs and CHUD.
+c4.21.	MAINTENANCE is the COST of FORCE to neither move toward nor away from a GOAL. 
+c4.22.	ALIGNMENT is shared FORCE for alternative GOALs which reduce COST. 
+c4.23.	Relationships (RLTP) are GOALS about PPL (PPL). 
+c5.23.	A BET is a PLAN template for reconciling REALITY with CHUD, to accomplish GOALS.
+c5.41.	CHUD encompasses the changes in you, the world, and your GOAL for you to achieve it.
+c5.43.	HABITS are your dominant tendencies (FORCES); reliable FOOD or CAKE actions.
+c5.44.	If you have not arrived at the GOAL, there are UNKNOWNs. 
+c5.48.	DOUBTS are predictable failures of estimating Reality, PLANs and UNKNOWNs.
+c6.15.	Students are PPL with IDEAS from EXPERIENCE toward selfish GOALS.
+c6.39.	A READER is a listener and observer ROLE.
+c6.64.	A WRITER invests TIME and energy to map feelings onto WORDS.
+c6.73.	An instructor is a READING ROLE, and enforcing BETs on STUDENTs' PLANs.
+c7.20.	A WORD is a BET for simulating (direct attention to) truth (reality) or falsehood (fantasy).
+c7.23.	A PLAN is a BET on a winning arrangement of WORDS that result in the GOAL.
+c7.47.	A SCIENTIST BETS new CONTENT against the UNKNOWN, evaluated for their net gain for NORMs.
+c7.48.	A RESEARCHER is a SCIENTIST WRITER, a data-collector and hypothesis tester. 
+c7.49.	A SCHOLAR is a SCIENTIST READER, curating toward theory development and COMM.
+c8.19.	LESSONS are an ordered set of prompts, usually three to four, up to 60 minutes and 250 WORDS. 
+c8.33.	NOTES are general PLANS for REVISION. (Available on request.)
+c8.37.	The RECIPE is a DOC format that PRIs CONTENT (IDEAS and LINKS) over STYLE.
+c8.45.	COMM is the exchange of WORDS between PPL. 
+c8.48.	The problem of COMM is the difference in meaning between READER and WRITER of the same WORD. 
+c8.54.	The real world is particular; each experience is an EXAMPLE. 
+c8.55.	A WORD describes a set of similar experiences. 
+c8.61.	VERSIONs are variations of STYLE on a identical CONTENT, implicitly in temporal order. 
+c8.62.	A PLAN for a DOC is an earlier VERSION of the (same) final DOC.
+c8.65.	PITCH is DOC STYLE for why to READ. 
+c9.58.	PPL are different VERSIONs of PRI (WRITER and READER of DOC are different, too).
 
 
-## Epilogue
+## Outtakes
 
 ### Reader Opt-in 
 
@@ -154,10 +196,7 @@ material and action, IRL.
 that gives peace instead of regimen,
 so that I may find mine.
 
-### Prequel to Answerword 
-
-`comm-by-instructor0 to-instructors`  
-`i-"By the instructor of instructors, to instructors."`  
+###  Instructor 0 to Instructors (SR.v1)
 
 5.	Listen up, you vibrating sacks of meat.
 6.	A teacher and student conspire in a radical co-dependency, mutually betting on 
@@ -168,10 +207,13 @@ the student's ability.
 10.	You must teach me to believe you.
 11.	You will do everything to put the truth in front of me.
 12.	If I find out you withhold the truth, I will punish you with it.
-13.	You are a teacher when your student has paid for both your TIME.
+13.	You are a teacher when your students pay for both your lost TIME with BET winnings.
 
 ### Beginnings
 
-14. If you need more examples to make more sense of this book, read the second, "Answerword". 
-15. If you need to stand beyond the limits of both, prepare with the third and last book, "Lastword".
+14. Thank you for reading this book. 
+    1. Part one of this book has been PRI PLAN for NORMs and its requisite assumptions.
+    2. Part two has been the anticipated problems and solutions for a comprehensive PLAN across PPL.  
+    2. Book 2, "Answerword" is PRI PLAN for (other) VERSIONs of PPL. 
+15. Book 3, "Afterword" is the DARPA for thought when the Answerword is muscle-memory.
 
