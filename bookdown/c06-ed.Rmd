@@ -10,6 +10,7 @@ output:
 # Education
 
 ## Intellectual Bootcamp 
+### Prompt 1
 
 1.	On the computer screen:
 Consent and Commitment
@@ -20,7 +21,8 @@ Consent and Commitment
 3.	If your answers are yes, then you are a student. 
 4.	To live a better life, you will commit to change your actions. 
 5.	First, you will learn what changes are needed.
-Admissions
+
+### Admissions 
 6.	This is a boot camp whose purpose is 
 6.1.	to train adults to think harder, clearer and more effectively. 
 6.2.	to produce intelligent solutions for personal and social puzzles.
@@ -29,7 +31,10 @@ Admissions
 6.5.	to empower.
 7.	It is a training program designed to break down bad habits of thought, and build 
 good ones while immersed here, a culture of rational thinking isolated from the 
-outside world.
+outside world. 
+
+### Challenge yourself  
+
 8.	Here you will relentlessly confront your ideas about the world, with instructors 
 drilling intellectual skills (writing essays, arguing for ideas, and developing 
 proposals for action).
@@ -48,13 +53,15 @@ understand the SELF and world.
 
 ## Student
 
+### Student GOAL  
+
 15.	Students are PPL with IDEAS from EXPERIENCE toward selfish GOALS.
 16.	Lessons depend on students' prior knowledge.
 17.	A STUDENT
 17.1.	has a GOAL that can be better named and planned.
 17.2.	requires TIME away from BETTING.
 17.3.	admits not knowing but capable.
-18.	Students learn to represent their knowledge in WORDS; to prefer better, 
+18.	Students learn to represent their knowledge in WORDS; to prefer better,
 alternative WORDS. A student sees the impersonal as more reliable both for 
 selfish GOALS and social ones.
 19.	A bad student studies to avoid action, or for its own sake.
@@ -68,7 +75,7 @@ selfish GOALS and social ones.
 21.2.2.	correct course, and 
 21.3.	 a focused mind to steady the foot.
 
-## Agreement 
+### Agreement-1
 
 22.	This is an in-person immersive experience.
 23.	You only really learn what you need to know to be who you really want. You 
@@ -78,6 +85,8 @@ that fosters acquisition, minimizes interference.
 minute.
 25.	For every minute of lesson on my TIME, students are to provide two minutes of 
 writing, either toward others' learning or in direct application toward their GOAL.
+
+### Student PLAN 
 26.	Dedicate to identity growth. Be:
 26.1.	Quiet, except when tasks require verbal response.
 26.2.	Receptive to WORK and feedback provided by the instructor.
@@ -87,6 +96,9 @@ writing, either toward others' learning or in direct application toward their GO
 instructors) especially CHUD, vague language, and cognitive bias.
 26.6.	Motivated to describe solutions that benefit others, when possible, 
 including peer-review.
+
+### Course Content  
+
 27.	Now, what is it you'll learn? 
 27.1.	Precisely and only what is needed to trust a clear picture of what your life 
 is. 
@@ -98,7 +110,7 @@ and truthful enough to hurt.
 30.	end up eating, sleeping, thinking, talking, and acting differently.
 
 ## Roles
-
+### Think  
 31.	Think, student. 
 32.	Do not take notes, simply pay attention. 
 33.	Everything I say is meant plainly. 
@@ -107,6 +119,7 @@ and truthful enough to hurt.
 36.	Right now your job is to think about the truth you see in what i say.
 37.	A student has two roles to think in: Reader and Writer.
 
+### READ Attention  
 38.	Read, student.
 39.	A reader is a listener and observer.
 40.	Reading is the same as listening to an instructor, 
@@ -120,6 +133,8 @@ remind you to
 42.5.	The clock is a cue to think. 
 42.6.	When it goes off, get back on task.
 42.7.	The clock will babysit your unreliable attention.
+
+### READ GOAL (LESSON)
 43.	Your GOAL in reading is to isolate the truth from the lie. 
 43.1.	Try reading this sentence: 
 43.2.	"Everyone is best off running weekly until they die." 
@@ -146,11 +161,11 @@ are truthful.
 
 51.	For every assertion and assumption you read, begin assuming it is a "9", working 
 backwards according to evidence you hold. 
+
+### READ PITCH  
 52.	The following mini lesson illustrates the risk at hand--involuntary 
 comprehension, and the benefit at stake from deliberate reading. 
 53.	Consider the following quote, "Change your thoughts to change your life." 
-
-#### Comprehension is involuntary. 
 
 54.	Comprehension is involuntary. 
 54.1.	You cannot help but recognize meaning when you read.
@@ -164,7 +179,7 @@ theory.
 59.	Therefore, do not waste the opportunity to consider a truth that could change 
 your life by failing to entertain a simple assumption.
 
-### Writer 
+### Write PITCH
 
 60.	How will your life look if you put it on paper? Like a bunch of WORDS.
 61.	How do you change it? By deleting the WORDS with lies, and replacing them 
@@ -172,7 +187,9 @@ with better WORDS.
 62.	The right WORDS will change your actions and your life. To live a better life, 
 starts with your WORDS.
 63.	In order to do something about thoughts, we need to think on 
-paper. [You'll write a lot. You'll delete a lot. You'll get good at writing.]
+paper. [You'll write a lot. You'll delete a lot. You'll get good at writing.] 
+
+### WRITE PLAN  
 64.	BET on WORDS. A writer invests TIME and energy to map feelings onto WORDS.
 65.	Good writing is discovering, curating, and applying insight. 
 Bad WRITING has an author; ad hominem
@@ -183,8 +200,7 @@ to maximize your BET, you are a writer.
 69.	Replace "I am." with tag WORDS.
 70.	Strive for COMM-CONTENT and brevity; Write only valuable BETs, or WORDS 
 that manifest valuable BETs. Prioritize understanding over original writing.
-71.	WRITING for LIB-PPL, relatable, depersonalized, objective WORDS, minimizes 
-ROT, maximizes PLAN utility.
+71.	WRITING for LIB-PPL, relatable, depersonalized, objective WORDS, minimizes rot, maximizes PLAN utility.
 
 ### Instructor 
 

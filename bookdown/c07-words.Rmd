@@ -8,7 +8,7 @@ output:
 # WORDS 
 
 ## Cognition 
-
+### PITCH  
 1.	Like any book, this book uses WORDS to describe the world and its 
 conditions.
 2.	This chapter is about the act of describing, itself.
@@ -25,7 +25,9 @@ more complete desires, and
 rewarding relationships.
 10.	A community with better WORDS has clearer idea sharing, 
 synthesizing, developing, teaching and learning.
- 
+
+### Problem  
+
 11.	Speaking your mind is difficult.
 12.	A memory system dealing with language is tasked to translate 
 thoughts into the right WORDS from thousands. 
@@ -35,13 +37,16 @@ all the incidental priming effects of WORDS on a memory system.
 15.	WORDS said and heard impact both parties' beliefs and behaviors.
 16.	These effects are each discussed in terms of how WORDS can be used 
 for the better or worse.
-Kinds and Uses
+
+### Kinds and Uses  
 17.	Saying WORDS is a very small physical action, to describe real actions 
 and consequences. 
 18.	Hearing and understanding a WORD are also a small action, that 
 engages with WORDS-- a description about the real world.
 19.	The issue is that descriptions can be more and less right, more and less 
 helpful, and we have little guidance on how to use them.
+
+### WORD as BET  
 
 20.	Every WORD itself is a BET on hypotheticals, which can be true (reality) or false (fantasy).
 21.	You can think through far more situations with WORDS, than you can 
@@ -50,10 +55,14 @@ helpful, and we have little guidance on how to use them.
 crossed out and revised.
 23.	A PLAN is a BET on a winning arrangement of WORDS that result in the 
 GOAL.
+
+### WORD as simulation  
 24.	WORDS efficiently simulate possible worlds. 
 25.	Good WORDS maximize productivity of thought, move you beyond 
 pitfalls of CHUD, direct attention to PRIS, and predict reality; improve 
 decisions and make you smarter.
+
+### WORD PLAN  
 26.	By thinking about all WORDS you experience (LIB), you can take 
 control to limit your WORD use toward more productive ones, 
 improving READ and WRITE decisions, increasing focus and TIME for 
@@ -66,6 +75,7 @@ WORD's IDEA over others, either moving you toward a GOAL, or your
 HABIT.
 
 ## Speak/Write
+### WRITE PLAN  
 
 30.	Speak, write, initiate or respond only in limited duration and WORDS 
 dictated by intended outcome. 
@@ -78,7 +88,7 @@ mind.
 36.	Use WORDS to facilitate PRIS. Do not write PLANS you won't follow. 
 37.	Stop talking when action (or listening) is needed.
 
-## Listen 
+### READ PLAN
 
 38.	Listen / read when you need to learn / connect. 
 39.	Limit duration/WORDS needed to assess consent.
@@ -88,7 +98,7 @@ mind.
 43.	Remove / ignore style. 
 44.	Assert boundaries against exaggerated WORDS or unreliable ones.
 
-## Meanings of Words
+### EXAMPLE and IDEA
 
 45.	An EXAMPLE is an individual, particular event or object, of reality. An 
 example with consequence is a USE-CASE. An example in-principle is a 
@@ -106,7 +116,7 @@ toward PLANS and GOALS. Bad IDEAS distract.
 46.6.	The right LINK between ideas is the foundation of every thought, 
 recipe or terrible calculation.
 
-## Scientist
+### ROLE Scientist
 
 47.	A scientist works to win BETS against the UNKNOWN. They are a 
 professional writer, evaluated on two metrics:
