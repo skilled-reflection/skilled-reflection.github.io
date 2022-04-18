@@ -52,7 +52,7 @@ foundation with rocks from the slippery slope."
 
 23.	A BET is a PLAN template for reconciling REALITY with CHUD, to 
 accomplish GOALS.
-24.	Betting is confronting costs, habits, UNKNOWNs and DOUBTs that 
+24.	Betting is confronting COSTs, HABITs, UNKNOWNs and DOUBTs that 
 stand in the way of your wants and dreams. 
 25.	The TIME that passes and the status of your GOAL when it runs out are 
 an intersection of reality: the world and you. To name them, is to shed 
@@ -88,7 +88,6 @@ GOAL is further than you estimate.
 planning mistake.
 
 ## C.H.U.D. 
-### Definitions
 
 37.	Even if you make a PLAN and BET on it, you can fail.
 38.	Why don't we achieve our GOALS?
@@ -96,30 +95,49 @@ planning mistake.
 40.	and, by extension, clues for why we fail.
 41.	CHUD encompasses the changes in you, the world, and your GOAL for 
 you to achieve it.
-42.	COST ([c2.51][SELF])
 
-43.	HABITS are your dominant tendencies (FORCES). 
-43.1.	HABITS are your most likely and reliable FOOD or CAKE actions.
-43.2.	Bad HABITS are FORCES working against your GOALS. 
-43.3.	Good HABITS are ALIGNED with GOALS.
-44.	If you have not arrived at the GOAL, there are UNKNOWNs. 
-45.	For example, a train might stop you from arriving on TIME.
-46.	From a planning standpoint, UNKNOWNs can be estimated. 
-47. Like their conventional meaning, DOUBTs are a form of interference to your PLAN that comes from within.
-48.	DOUBTS are predictable failures of estimating Reality, PLANs and UNKNOWNs. 
+### COSTs and HABITs
+42. COSTs ([c2.51][SELF]) and HABITs are knowable facts. 
+43. Observers could independently note and agree on your COSTS and HABITS. 
+44. COSTS are the unadjusted record of transactions in your life.
+45. Referring to COST is referring to typical transactions for a GOAL.
+46. For example, a relationship with an alcoholic poses a RISK of violence.
 
-49.	Explore and learn where the line of control is, expand control 
-productively, and let go of unhelpful attempts to control.
-50.	Good DOUBTS temper an optimistic PLAN. 
-51.	Bad DOUBTS fuel bad habits and fantasies.
-52.	Fear, anxiety, and jealousy, reflect overestimation of UNKNOWNs. 
-53.	Resistance to change due to arrogance and ego reflect 
-underestimation of UNKNOWNs.
-54.	To be distracted from or bored of your PLAN is
-    1.	 anxiety about your future. 
-    2.	discomfort toward present reality. 
-    3.	distrust in your past.
+47. The unadjusted, plain record of everything you have physically done, is your HABIT.
+48. Referring to HABIT is referring to patterns of behavior. 
+49. For example, I eat every morning before 9 AM.
+    1.	HABITS are your most likely and reliable FOOD or CAKE actions.
+    2.	Bad HABITS are FORCES working against your GOALS. 
+    3.	Good HABITS are ALIGNED with GOALS.
 
-55.	Most of these issues, if deep enough, require therapy. 
-56.	Or the [Intellectual Bootcamp].
+### UNKNOWNs and DOUBTs
+
+50. UNKNOWNS and DOUBTS are the gap between your real and perceived COSTs and HABITs.  
+51.	If you have not arrived at the GOAL, there are UNKNOWNs. 
+52. UNKNOWNs are all that are fully out of your control (analogous to statistical 'error'). 
+53.	For example, a train might stop you from arriving on TIME.
+54. UNKNOWNs are reduced by estimating causes of failure.
+55. For example:
+    1. I will die, but not know how or when. The cause is UNKNOWN. 
+    2. I will die due to a natural disaster or cancer. The cause is named, and the UNKNOWN is pushed to those things' underlying causes.
+56. DOUBTs are misperceptions caused or perpetuated by your HABIT. 
+57. Like COSTs, DOUBTs are the patterns of UNKNOWN. 
+58. DOUBT is any systematic error that is possible to be addressed by another human of equal ability and resources.
+59. For example, "self-fulfilled prophesies", irrational fear or anxiety.  
+
+60.	Good DOUBTS temper an optimistic PLAN. 
+61.	Otherwise (Bad) DOUBTS:
+    1. fuel bad HABITs and fantasies.
+    2. Like Fear, anxiety, and jealousy, reflect overestimations. 
+   	3. Like narrow-mindedness, reflect underestimations.
+  	4. Like distraction and boredom can be:
+        1.	anxiety about your future. 
+        2.	discomfort toward present reality. 
+        3.	distrust in your past.
+
+62.	Most of these issues, if deep enough, require therapy. 
+63.	Or the [Intellectual Bootcamp].
+
+
+
 

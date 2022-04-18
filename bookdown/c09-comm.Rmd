@@ -47,8 +47,7 @@ honesty.
 59.	Difference in PRIS alter CONTENT of ideas.
 60.	Good STYLE is change in WORDS to minimize change in ideas between 
 READER and WRITER.
-61.	Versions describe identical CONTENT with difference in STYLE between 
-them. 
+61.	Versions describe identical CONTENT with difference in STYLE between them. 
 62.	A PLAN for a DOC is an earlier VERSION of the (same) final DOC.
 63.	For example, you today vs you in five years.
 
@@ -61,10 +60,12 @@ them.
     2.	framing attacks as agreeable observations.
 67.	The maximum common SELF-PRIS across PPL are the optimal 
 arguments for PITCH. E-FOOD vs. CAKE.
-68.	PPL who do not distinguish FOOD from CAKE will not be persuaded by 
-PITCH.
-69.	Therefore, they will be compelled more by lies. 
-70.	BRAND is PITCH that distorts truth, a form of bad STYLE.
+68.	BRAND is PITCH that distorts truth, a form of bad STYLE.
+69. For example, consider the GOAL of describing the properties of __apples __ with the purpose of selling them:  
+    1. CONTENT: __Apples are healthy but sugary. __  
+    2. STYLE: __Apples are tasty and nutritious. __  
+    3. BRAND: __Apples are healthy.__  
+70.	PPL who do not distinguish FOOD from CAKE will be persuaded by BRAND more than PITCH.
 
 ## Library
 
