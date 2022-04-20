@@ -13,6 +13,8 @@ relate to each other, and
 make clear next-steps toward 
 who you imagine yourself being.
 
+There's a book about it [right here](_book/index.html).
+
 [Skilled Reflection](https://win.wisc.edu/organization/skilledreflection) is 
 a Student Organization at the University of Wisconsin-Madison that 
 meets once a week 
