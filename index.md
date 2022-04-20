@@ -13,11 +13,11 @@ Click below to read version 2.15.
 A journaling club with purpose: yours.
 
 Habits and reality have a tendency to sneak between our intentions and actions.
-A little Skilled Reflection will smooth out the plan between your values and actions. 
+A little Skilled Reflection will make reality more like your plan. 
 
-We're a Student Organization 
+For 3 years, we've been a Student Organization 
 at the University of Wisconsin-Madison 
-that meets once a week to write privately for about an hour.
+that meets every few weeks to write privately for about an hour.
 Each session focuses on specific themes related to identity, goals, and being a student, with prompts for you to reflect and write on.
 
 Read about us in the [Psychology Department Bulletin](https://psych.wisc.edu/news/when-personal-experience-meets-psychology-michael-koranda/).
