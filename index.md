@@ -4,12 +4,11 @@ layout: home
 
 
 
-## An Identity Workbook
-Click below to read version 2.15.
+## [An Identity Workbook](_book/index.html)
 
-![[](figs/title.png)](_book/index.html)
+![](figs/title.png)
 
-## Club
+## A Club
 A journaling club with purpose: yours.
 
 Habits and reality have a tendency to sneak between our intentions and actions.
