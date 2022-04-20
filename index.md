@@ -5,7 +5,11 @@ layout: home
 
 
 
+(Click human for book.)
+
+<a href="_book/index.html">
 ![](figs/title.png)
+</a>
 
 ## [An Identity Workbook](_book/index.html)
 
