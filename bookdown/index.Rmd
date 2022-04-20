@@ -12,27 +12,29 @@ link-citations: yes
 version: 2.15
 ---
 
-<!-- ![](Sr-fig_1-1.svg) -->
 
 # Abstract {-}
 
-This book is a work of translation between the many languages and worlds a modern thinking human can live in. For the human, this is a system that helps you sort and prioritize any and every thought and action in your life, to manage the one resource you have: time. The researcher can find a backdrop of insights across many siloes of academic study: behavioral sciences such as sociology, psychology and economics; belief systems studied in anthropology, theology and political science; and underlying metaphysics, including philosophy of language, semiotics. At its heart this book is a radically critical look at the most obvious fact of your existence: you. After this book, every one of the academic schools above risks dissolving, for their lack of translation and equally critical appreciation of the human they seek to explain.
+![](C:/Users/Owner/Dropbox/theory/website/figs/sr_gray_transp.png)
+
+
+Skilled Reflection is a framework to help you make objective sense of your subjective reality. 
 
 ## Questions  
-1.  You.  How do humans vary in what they need and want?
-2.	Self. What must I do to have what I want? 
-3.  Pri. What actions maximize cake in my life?    
-3.	Ppl. What are people?   
-4.	Bet. How do I take action?   
-5.	School. How do I figure out a better plan for my life?    
-6.	Words. Why do(n't) people talk to each other?  
-7.	Revisions. How can we help each other? 
-
-## Comment on Structure  
-A central design principle of this book is to communicate with an intersection of the familiar conventions of communicating, and those that come from the principles within. Therefore, you might want to keep in mind that if things do not seem helpful or to make sense, it may be because of an underlying assumption not yet discussed. For example, to emphasize the value of revision, separate ideas are numbered by chapter. A simple solution is to skim the definitions of the "core ideas" in the [Index of Definitions][Index of Definitions]. 
+1.  You.  How am I and what do I need?
+2.	Self. What must I do to have it? 
+3.  Priorities. What actions maximize cake in my life?    
+4.	Others. What are people?   
+5.	Bet. How do I take action?   
+6.	Learn. How do I figure out a better plan for my life?    
+7.	Words. What are they good for?  
+8.	Revision. What would your life look like on paper? 
+9.  Communication. How can we help each other?
 
 ## Author's Note  
-This is an early copy of the 2nd version. This copy is missing a few key sections. Thank you for your patience. I welcome any and all constructive feedback. Check back later for a revised and updated version.
+This book attempts to balance convention and new ideas. If something does not seem to make sense, refer to the definitions of the "core ideas" in the [Index of Definitions][Index of Definitions].  
+
+This is an early copy of Skilled Reflection, and much of it is still in development. Thank you for your patience. I welcome any and all constructive feedback. Check back later for a revised and updated version.
 
 ```{r include=FALSE}
 # automatically create a bib database for R packages

@@ -1,5 +1,5 @@
 
-# (APPENDIX) Appendix: Lessons {-}  
+# (APPENDIX) Lessons {-}  
 
 
 # Zero or One  
