@@ -2,6 +2,7 @@
 layout: home
 ---
 
+# You, more clearly
 You care about some things more than others, and 
 do some things more than others. 
 

@@ -13,7 +13,7 @@ layout: home
 
 ## [An Identity Workbook](_book/index.html)
 
-version 2.15 is an abreviated manual (under 15000 words!) with the goal of giving you all the tools you'll need to master the precise SELF you're after. Without having to tell a single soul. (SELF-assembly required.) 
+Skilled Reflection v2.15 is an abreviated manual of the tools that'll help you shape the precise SELF you're after without having to tell a single soul (some SELF-assembly required). 
 
 ## A Club
 A journaling club with purpose: yours.
