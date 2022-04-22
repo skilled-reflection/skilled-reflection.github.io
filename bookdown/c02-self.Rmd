@@ -74,7 +74,7 @@ and attention.
 
 37.	The following are core concepts for application beyond the Garden.
 
-GOALS
+### GOALS
 38.	A GOAL names an ideal future reality, comprises a PLAN to increase its 
 likelihood, associated with CHUD.
 39.	These three things encompass all cognitive activity related to reality.

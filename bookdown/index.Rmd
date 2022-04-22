@@ -15,7 +15,7 @@ version: 2.15
 
 # Abstract {-}
 
-![](C:/Users/Owner/Dropbox/theory/website/figs/sr_gray_transp.png)
+![](../figs/sr_gray_transp.png)
 
 
 Skilled Reflection is a framework to help you make objective sense of your subjective reality. 
