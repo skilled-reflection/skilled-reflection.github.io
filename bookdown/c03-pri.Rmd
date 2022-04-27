@@ -1,10 +1,3 @@
----
-output:
-  word_document: default
-  pdf_document: default
-  html_document: default
----
-
 
 # Priorities
 
@@ -37,12 +30,12 @@ to afford your calling.
 2. There are two important things to keep in mind, however clear things may seem right now.  
 3.	The first is to always leave room for your goals to change, if and when you achieve them.  Think of what you can grow from the seeds of the best apple in your crop.
 2.	The second is that much of what you could achieve, you won't, before the day is over, nor before you die. 
-3. Before there was a garden, you lived as if you wouldn't die. At least some of your GOALS assume *tomorrow* is a good time to start.  
+3. Before there was a garden, you lived as if you wouldn't die. At least some of your GOALs assume *tomorrow* is a good time to start.  
 4.	I did, at least. The list of my GOALS grew like a wild vine and I found myself 
 overwhelmed by what else I wanted, and yet an inability to equalize various 
 goals. 
 5.	The very difficult task of your priorities, at their core, is to establish the optimal intersection of finite time and infinite, ever-changing desire. 
-6. For example, sleep. About 4 hours daily is a  vital priority for everyone (FOOD), but sleeping in on the weekends is not (CAKE). 
+6. For example, sleep. About 4 hours daily is a vital priority for everyone (FOOD), but sleeping in on the weekends is usually not (CAKE). 
 7.	In your garden, you are limited in what you can do in one day, and in one lifetime. 
 8.	Even if you build machines to work fields that stretch out to the horizons, 
 9.	you can only eat so much in a day and a lifetime.
@@ -52,7 +45,7 @@ tasted, be careful. It may not satisfy you how you imagine.
 12.	Suppose your goal takes 300 hours of labor.
 13.	You might spend 10 years accruing the time on task, or immerse yourself 
 and achieve your GOAL in under 1 year.
-14.	To avoid let downs, better to achieve your GOAL as soon as possible.
+14.	Any true GOAL has a specific optimal deadline.
 15.	Today, you grow the best apple you can,
 16.	yet having tasted it, you might discover a more refined GOAL is closer to 
 your heart.
@@ -90,7 +83,7 @@ come in unfortunate forms, at inconvenient times.
 you're sitting here thinking. 
 32.	Reflect only enough to improve your actions.
 
-33.	The GOAL of PRI is to manage the set of GOALS in your life.
+33.	PRI is the optimizing and managing of all your GOALS.
 34.	All GOALS rely on a single, limited source of attention, and existence: you.
 35.	Attention.
     1.	At its best, this limiting fact drastically improves the reality of PLANS and GOALS. 

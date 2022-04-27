@@ -2,17 +2,10 @@ Ch 2:
 
 
 Ch 3:
-c3.4 - capitalize second “goals”?
 
-c3.6 - not necessarily? (some people working too much during the week and needing to catch up on weekend)
-
-c3.14 - this feels like a more subjective opinion
-
-c3.19 - haven’t introduced “PPL” yet so using it without defining it leaves it open to interpretation
 
 c3.30 - why is “Attention and time” at the end?
 
-c3.33 - haven’t defined “PRI” yet
 
 c3.35.2 - what is “CHUD”?
 c3.35.3 - are “PRIS” dif from “PRIs” (plural PRI)?
