@@ -1,5 +1,5 @@
 title: Skilled Reflection
-
+include: ['_book']
 description: > # this means to ignore newlines until "show_excerpts:"
   Keep a skilled eye on yourself. Especially during the pandemic.
 show_excerpts: false # set to true to show excerpts on the homepage
@@ -20,9 +20,9 @@ minima:
 
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
-header_pages:
-- about.md
-- index.html
+# header_pages:
+# - about.md
+# - index.html
 
 # Build settings
 theme: minima

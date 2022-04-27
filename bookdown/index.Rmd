@@ -1,0 +1,44 @@
+--- 
+title: "Skilled Reflection"
+author: "Student0"
+date: "`r Sys.Date()`"
+output: pdf_document
+site: bookdown::bookdown_site
+documentclass: book
+bibliography:
+- book.bib
+- packages.bib
+link-citations: yes
+version: 2.15
+---
+
+
+# Abstract {-}
+
+![](../figs/sr_gray_transp.png)
+
+
+Skilled Reflection is a framework to help you make objective sense of your subjective reality. 
+
+## Questions  
+1.  You.  How am I and what do I need?
+2.	Self. What must I do to have it? 
+3.  Priorities. What actions maximize cake in my life?    
+4.	Others. What are people?   
+5.	Bet. How do I take action?   
+6.	Learn. How do I figure out a better plan for my life?    
+7.	Words. What are they good for?  
+8.	Revision. What would your life look like on paper? 
+9.  Communication. How can we help each other?
+
+## Author's Note  
+This book attempts to balance convention and new ideas. If something does not seem to make sense, refer to the definitions of the "core ideas" in the [Index of Definitions][Index of Definitions].  
+
+This is an early copy of Skilled Reflection, and much of it is still in development. Thank you for your patience. I welcome any and all constructive feedback. Check back later for a revised and updated version.
+
+```{r include=FALSE}
+# automatically create a bib database for R packages
+knitr::write_bib(c(
+  .packages(), 'bookdown', 'knitr', 'rmarkdown'
+), 'packages.bib')
+```

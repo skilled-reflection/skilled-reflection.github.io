@@ -1,0 +1,150 @@
+
+# Communication
+
+(COMM)
+
+## STYLE  
+### Goal  
+
+42.	RECOGNITION, reading familiar WORDS is easier than RETRIEVAL from 
+memory, of WORDS to write. Is- savings on revision.
+43.	Only save docs that you BET will be useful enough later to save TIME, 
+overall.
+44.	Once saved, we assume a DOC will be READ later, and provide CAKE. 
+This is the primary type of COMM we engage in.
+45.	COMM is the exchange of WORDS from oneself to another. Other 
+examples include a traffic sign, something you wrote and are 
+rereading, a carefully crafted party invite, or a Lease Agreement.
+46.	The GOAL of COMM is to maximize that likelihood, by engaging in the 
+inherent and practical problems that arise.
+
+### COMM problem  
+47.	Writing a WORD creates a static record of a WORD. 
+48.	The problem of COMM is the difference in meaning between READER 
+and WRITER of the same WORD. 
+49.	Even if you wrote the WORD, your later SELF may read a different 
+meaning for that WORD. 
+50.	No person is identical with a future or past SELF, with any other 
+person, and all of these relationships are in part UNKNOWN. 
+51.	GOOD COMM attempts to systematically reconcile these issues. 
+52.	BAD COMM takes advantage of them at the COST of clarity and 
+honesty.
+53.	PPL vary in how they apprehend the world, and therefore they can vary in 
+    1.	precise understanding of meanings.
+    2.	TRUST (usually WRITER more than READER). 
+54.	The real world is particular; each experience is an EXAMPLE. 
+55.	A WORD describes a set of similar experiences. 
+     1.	WORDS are never definite and certain in what they describe of the real world.
+     2.	A WORD's definition is a generalization. 
+56.	As such, WORDS are 
+     1.	less precise than reality.
+     2.	better designed to hypothesize and predict.
+57.	To improve COMM, study the difference between CONTENT and STYLE.
+
+### PRIs differ
+
+58.	PRIS between PPL (WRITER and READER) differ.
+59.	Difference in PRIS alter CONTENT of ideas.
+60.	Good STYLE is change in WORDS to minimize change in ideas between 
+READER and WRITER.
+61.	Versions describe identical CONTENT with difference in STYLE between them. 
+62.	A PLAN for a DOC is an earlier VERSION of the (same) final DOC.
+63.	For example, you today vs you in five years.
+
+### NORMs STYLE  
+
+64.	COMM NORMs assume READING and WRITING have no intrinsic GOALS. 
+65.	A DOC's arguments for why to READ it are a STYLE called PITCH. 
+66.	Pitch can be accomplished, for example, by
+    1.	stroking the ego and intelligence of the reader.
+    2.	framing attacks as agreeable observations.
+67.	The maximum common SELF-PRIS across PPL are the optimal 
+arguments for PITCH. E-FOOD vs. CAKE.
+68.	BRAND is PITCH that distorts truth, a form of bad STYLE.
+69. For example, consider the GOAL of describing the properties of __apples __ with the purpose of selling them:  
+    1. CONTENT: __Apples are healthy but sugary. __  
+    2. STYLE: __Apples are tasty and nutritious. __  
+    3. BRAND: __Apples are healthy.__  
+70.	PPL who do not distinguish FOOD from CAKE will be persuaded by BRAND more than PITCH.
+
+## Library
+
+### Def  
+71.	LIB is the explicit effort to maximize the use of what you WRITE, SAVE, 
+and READ, by organizing it for best application, and providing feedback 
+to help your future decisions to WRITE, SAVE, and READ.
+72.	The scope of LIB is the collection of your WORDS over a lifetime. 
+73.	is post-WRITING cache to facilitate future production.
+74.	LIB is to docs as HOME is to possessions.
+
+### LIB as PRI  
+
+75.	LIB aims to maximize the CAKE of WORDS you save, and ideally, 
+reduce future efforts to PLAN and accomplish PRIS, through making 
+the best of your thoughts easy to find.
+76.	A bad LIB is the sum of your WORDS, void of curation, none of which 
+helped PLANS.
+77.	A good LIB is the closest approximation of SELF.
+78.	Library = sum (GOALS + PLANS) / 1
+79.	For learning what you don't know you don't know.
+80.	Potential risks include 
+80.1.	writing, saving, and finding bad docs. 
+80.2.	failure to save or find good docs.
+81.	Studying links will improve ideas.
+82.	PLANS, and anything else you write down, should be part of a PRI.
+83.	Facilitate RETRIEVAL: 
+83.1.	Index (list) docs worth rereading. 
+83.2.	Assign a number that indicates its relative importance (abs or 
+relative weight). 
+83.3.	Add tags and metadata for easier sorting.
+83.4.	Make and revise only for high-PRI GOAL(s). Record and study LIB 
+RETRIEVAL patterns.
+84.	Note the TIME and date now, as you did in the introduction.
+Graduate
+85.	This is the end of the book. 
+86.	Put it in your library.
+87.	Now return to your garden and WORK on your PRIS.
+
+### Reference system  
+88. Well, what LIB would be complete without
+89. a reference index? 
+90. The equivalent of the Dewey system
+91. mine is a reference of space-and-time:
+91.1. Space: this book's chapter and line numbering, and
+91.2. Time: v2.14 the current book version.
+92. For example, a document that elaborates about trump would begin titled "c4.23 v2.14".
+93. In version 2.14 of SR, 4 is the chapter PPL, and number 23 is the definition of RLTP. Trump, the article topic, is an example.
+94. this is the header format for any subsequent document of an idea I write.
+
+### The Answerword
+
+95. The complete set of PPL's LIBs is sufficiently exhaustive to describe all that matters in each and all lives. 
+96. The efficiently compressed content of this LIB produces a distribution of variation along a median LIB. 
+97. This is the content of the next book, "Answerword."
+98. In that book, STYLE is any further optimization to maximize learning.
+
+99. Book 3, "Afterword", is the DARPA for thought when the Answerword is muscle-memory.
+
+## Outtakes
+
+
+### Your Calling, Part II 
+
+4.	Tell me the missing chapter
+that gives peace instead of regimen,
+so that I may find mine.
+
+###  Instructor 0 to Instructors (SR.v1)
+
+5.	Listen up, you vibrating sacks of meat.
+6.	A teacher and student conspire in a radical co-dependency, mutually betting on 
+the student's ability. 
+7.	It is my job to sniff out why on Earth you are interested in this.
+8.	You are crazy for wanting to be a teacher. 
+9.	Until you are, you have only one thing to teach: 
+10.	You must teach me to believe you.
+11.	You will do everything to put the truth in front of me.
+12.	If I find out you withhold the truth, I will punish you with it.
+13.	You are a teacher when your students pay for both your lost TIME with BET winnings.
+
+

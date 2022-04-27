@@ -2,6 +2,11 @@
 .Rhistory
 .RData
 .Ruserdata
-_posts
 .pdf
 .docx
+_sitemain
+/bookdown/_book/*
+.Rproj
+bookdown/_book/ppl.html
+bookdown/_book/ppl.html
+*.html

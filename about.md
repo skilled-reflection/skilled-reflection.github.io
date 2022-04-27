@@ -2,6 +2,7 @@
 layout: home
 ---
 
+# You, more clearly
 You care about some things more than others, and 
 do some things more than others. 
 
@@ -12,6 +13,8 @@ values
 relate to each other, and 
 make clear next-steps toward 
 who you imagine yourself being.
+
+There's a book about it [right here](_book/index.html).
 
 [Skilled Reflection](https://win.wisc.edu/organization/skilledreflection) is 
 a Student Organization at the University of Wisconsin-Madison that 
