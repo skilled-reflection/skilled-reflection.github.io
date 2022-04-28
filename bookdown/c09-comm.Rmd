@@ -20,12 +20,12 @@ inherent and practical problems that arise.
 
 ### COMM problem  
 47.	Writing a WORD creates a static record of a WORD. 
-48.	The problem of COMM is the difference in meaning between READER 
+48.	No person is identical with a future or past SELF, with any other 
+person, and all of these relationships are in part UNKNOWN. ([c4.1][PPL])
+49. The problem of COMM is the difference in meaning between READER 
 and WRITER of the same WORD. 
-49.	Even if you wrote the WORD, your later SELF may read a different 
+50.	Even if you wrote the WORD, your later SELF may read a different 
 meaning for that WORD. 
-50.	No person is identical with a future or past SELF, with any other 
-person, and all of these relationships are in part UNKNOWN. 
 51.	GOOD COMM attempts to systematically reconcile these issues. 
 52.	BAD COMM takes advantage of them at the COST of clarity and 
 honesty.
