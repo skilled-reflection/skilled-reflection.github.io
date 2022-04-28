@@ -1,0 +1,135 @@
+\contentsline {chapter}{Abstract}{7}{chapter*.2}%
+\contentsline {section}{\numberline {0.1}Questions}{7}{section.0.1}%
+\contentsline {section}{\numberline {0.2}Author's Note}{8}{section.0.2}%
+\contentsline {section}{\numberline {0.3}Index of Definitions}{8}{section.0.3}%
+\contentsline {chapter}{\numberline {1}Introduction}{13}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Dear me,}{13}{section.1.1}%
+\contentsline {subsection}{\numberline {1.1.1}Your life}{13}{subsection.1.1.1}%
+\contentsline {subsection}{\numberline {1.1.2}is}{13}{subsection.1.1.2}%
+\contentsline {subsection}{\numberline {1.1.3}a game.}{13}{subsection.1.1.3}%
+\contentsline {section}{\numberline {1.2}you and me}{14}{section.1.2}%
+\contentsline {section}{\numberline {1.3}Go Camping}{15}{section.1.3}%
+\contentsline {subsection}{\numberline {1.3.1}in two worlds}{15}{subsection.1.3.1}%
+\contentsline {subsection}{\numberline {1.3.2}or eat right.}{15}{subsection.1.3.2}%
+\contentsline {section}{\numberline {1.4}Be homeless}{16}{section.1.4}%
+\contentsline {subsection}{\numberline {1.4.1}Do, don't think.}{16}{subsection.1.4.1}%
+\contentsline {subsection}{\numberline {1.4.2}Or like it.}{16}{subsection.1.4.2}%
+\contentsline {subsection}{\numberline {1.4.3}TIME changes}{16}{subsection.1.4.3}%
+\contentsline {section}{\numberline {1.5}The Garden}{16}{section.1.5}%
+\contentsline {section}{\numberline {1.6}LESSONs}{17}{section.1.6}%
+\contentsline {section}{\numberline {1.7}This book's FOOD.}{17}{section.1.7}%
+\contentsline {part}{I\hspace {1em}The Garden}{19}{part.1}%
+\contentsline {chapter}{\numberline {2}SELF}{21}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Your Garden}{21}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Core Concepts}{23}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}GOALS}{23}{subsection.2.2.1}%
+\contentsline {subsection}{\numberline {2.2.2}SELF}{24}{subsection.2.2.2}%
+\contentsline {subsection}{\numberline {2.2.3}Home}{24}{subsection.2.2.3}%
+\contentsline {chapter}{\numberline {3}Priorities}{27}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Your Calling, Part I}{27}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Cake of Cakes}{27}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Death and Sickness}{28}{section.3.3}%
+\contentsline {section}{\numberline {3.4}Bad days}{29}{section.3.4}%
+\contentsline {section}{\numberline {3.5}Attention and time}{29}{section.3.5}%
+\contentsline {chapter}{\numberline {4}PPL}{31}{chapter.4}%
+\contentsline {section}{\numberline {4.1}pushed in new work}{31}{section.4.1}%
+\contentsline {subsection}{\numberline {4.1.1}intro}{31}{subsection.4.1.1}%
+\contentsline {subsection}{\numberline {4.1.2}first intermission}{31}{subsection.4.1.2}%
+\contentsline {subsection}{\numberline {4.1.3}part two: rules of work}{32}{subsection.4.1.3}%
+\contentsline {subsection}{\numberline {4.1.4}part three: shared thinking}{32}{subsection.4.1.4}%
+\contentsline {section}{\numberline {4.2}Who are PPL}{32}{section.4.2}%
+\contentsline {section}{\numberline {4.3}WORK}{33}{section.4.3}%
+\contentsline {section}{\numberline {4.4}The Classroom}{34}{section.4.4}%
+\contentsline {chapter}{\numberline {5}BET}{37}{chapter.5}%
+\contentsline {section}{\numberline {5.1}A parable}{37}{section.5.1}%
+\contentsline {subsection}{\numberline {5.1.1}A stranger comes to town.}{37}{subsection.5.1.1}%
+\contentsline {subsection}{\numberline {5.1.2}What to BET}{38}{subsection.5.1.2}%
+\contentsline {subsection}{\numberline {5.1.3}After BETs}{38}{subsection.5.1.3}%
+\contentsline {section}{\numberline {5.2}C.H.U.D.}{39}{section.5.2}%
+\contentsline {subsection}{\numberline {5.2.1}COSTs and HABITs}{39}{subsection.5.2.1}%
+\contentsline {subsection}{\numberline {5.2.2}UNKNOWNs and DOUBTs}{40}{subsection.5.2.2}%
+\contentsline {part}{II\hspace {1em}The I.B.C.}{41}{part.2}%
+\contentsline {chapter}{\numberline {6}Education}{43}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Intellectual Bootcamp}{43}{section.6.1}%
+\contentsline {subsection}{\numberline {6.1.1}Prompt 1}{43}{subsection.6.1.1}%
+\contentsline {subsection}{\numberline {6.1.2}Admissions}{43}{subsection.6.1.2}%
+\contentsline {subsection}{\numberline {6.1.3}Challenge yourself}{43}{subsection.6.1.3}%
+\contentsline {section}{\numberline {6.2}Student}{44}{section.6.2}%
+\contentsline {subsection}{\numberline {6.2.1}Student GOAL}{44}{subsection.6.2.1}%
+\contentsline {subsection}{\numberline {6.2.2}Agreement-1}{44}{subsection.6.2.2}%
+\contentsline {subsection}{\numberline {6.2.3}Student PLAN}{45}{subsection.6.2.3}%
+\contentsline {subsection}{\numberline {6.2.4}Course Content}{45}{subsection.6.2.4}%
+\contentsline {section}{\numberline {6.3}Roles}{45}{section.6.3}%
+\contentsline {subsection}{\numberline {6.3.1}Think}{45}{subsection.6.3.1}%
+\contentsline {subsection}{\numberline {6.3.2}READ}{45}{subsection.6.3.2}%
+\contentsline {subsection}{\numberline {6.3.3}How to Read}{46}{subsection.6.3.3}%
+\contentsline {subsection}{\numberline {6.3.4}READ PITCH}{46}{subsection.6.3.4}%
+\contentsline {subsection}{\numberline {6.3.5}Write PITCH}{47}{subsection.6.3.5}%
+\contentsline {subsection}{\numberline {6.3.6}WRITE PLAN}{47}{subsection.6.3.6}%
+\contentsline {subsection}{\numberline {6.3.7}Instructor}{48}{subsection.6.3.7}%
+\contentsline {section}{\numberline {6.4}Book of Answers}{48}{section.6.4}%
+\contentsline {chapter}{\numberline {7}WORDS}{49}{chapter.7}%
+\contentsline {section}{\numberline {7.1}Cognition}{49}{section.7.1}%
+\contentsline {subsection}{\numberline {7.1.1}PITCH}{49}{subsection.7.1.1}%
+\contentsline {subsection}{\numberline {7.1.2}Problem}{49}{subsection.7.1.2}%
+\contentsline {subsection}{\numberline {7.1.3}Kinds and Uses}{50}{subsection.7.1.3}%
+\contentsline {subsection}{\numberline {7.1.4}WORD as BET}{50}{subsection.7.1.4}%
+\contentsline {subsection}{\numberline {7.1.5}WORD as simulation}{50}{subsection.7.1.5}%
+\contentsline {subsection}{\numberline {7.1.6}WORD PLAN}{50}{subsection.7.1.6}%
+\contentsline {section}{\numberline {7.2}Speak/Write}{51}{section.7.2}%
+\contentsline {subsection}{\numberline {7.2.1}WRITE PLAN}{51}{subsection.7.2.1}%
+\contentsline {subsection}{\numberline {7.2.2}READ PLAN}{51}{subsection.7.2.2}%
+\contentsline {subsection}{\numberline {7.2.3}EXAMPLE and IDEA}{51}{subsection.7.2.3}%
+\contentsline {subsection}{\numberline {7.2.4}ROLE Scientist}{52}{subsection.7.2.4}%
+\contentsline {chapter}{\numberline {8}Revisions}{53}{chapter.8}%
+\contentsline {section}{\numberline {8.1}Skilled Reflection}{53}{section.8.1}%
+\contentsline {subsection}{\numberline {8.1.1}Session}{53}{subsection.8.1.1}%
+\contentsline {subsection}{\numberline {8.1.2}Prompts}{53}{subsection.8.1.2}%
+\contentsline {subsection}{\numberline {8.1.3}Word Limits}{54}{subsection.8.1.3}%
+\contentsline {subsection}{\numberline {8.1.4}Time Limits}{54}{subsection.8.1.4}%
+\contentsline {subsection}{\numberline {8.1.5}LESSONs}{54}{subsection.8.1.5}%
+\contentsline {section}{\numberline {8.2}Revision}{54}{section.8.2}%
+\contentsline {subsection}{\numberline {8.2.1}REVISE}{54}{subsection.8.2.1}%
+\contentsline {subsubsection}{\numberline {8.2.1.1}v1}{55}{subsubsection.8.2.1.1}%
+\contentsline {subsubsection}{\numberline {8.2.1.2}v2}{55}{subsubsection.8.2.1.2}%
+\contentsline {subsubsection}{\numberline {8.2.1.3}v3}{55}{subsubsection.8.2.1.3}%
+\contentsline {subsection}{\numberline {8.2.2}ctd.}{55}{subsection.8.2.2}%
+\contentsline {subsection}{\numberline {8.2.3}Revision PLAN}{55}{subsection.8.2.3}%
+\contentsline {subsection}{\numberline {8.2.4}NOTES and PEERs}{56}{subsection.8.2.4}%
+\contentsline {subsection}{\numberline {8.2.5}DOC types}{56}{subsection.8.2.5}%
+\contentsline {chapter}{\numberline {9}Communication}{57}{chapter.9}%
+\contentsline {section}{\numberline {9.1}STYLE}{57}{section.9.1}%
+\contentsline {subsection}{\numberline {9.1.1}Goal}{57}{subsection.9.1.1}%
+\contentsline {subsection}{\numberline {9.1.2}COMM problem}{57}{subsection.9.1.2}%
+\contentsline {subsection}{\numberline {9.1.3}PRIs differ}{58}{subsection.9.1.3}%
+\contentsline {subsection}{\numberline {9.1.4}NORMs STYLE}{58}{subsection.9.1.4}%
+\contentsline {section}{\numberline {9.2}Library}{59}{section.9.2}%
+\contentsline {subsection}{\numberline {9.2.1}Def}{59}{subsection.9.2.1}%
+\contentsline {subsection}{\numberline {9.2.2}LIB as PRI}{59}{subsection.9.2.2}%
+\contentsline {subsection}{\numberline {9.2.3}Reference system}{60}{subsection.9.2.3}%
+\contentsline {subsection}{\numberline {9.2.4}The Answerword}{60}{subsection.9.2.4}%
+\contentsline {section}{\numberline {9.3}Outtakes}{60}{section.9.3}%
+\contentsline {subsection}{\numberline {9.3.1}Your Calling, Part II}{60}{subsection.9.3.1}%
+\contentsline {subsection}{\numberline {9.3.2}Instructor 0 to Instructors (SR.v1)}{60}{subsection.9.3.2}%
+\contentsline {chapter}{\numberline {A}Zero or One}{63}{appendix.A}%
+\contentsline {chapter}{\numberline {B}Define Yourself}{65}{appendix.B}%
+\contentsline {section}{\numberline {B.1}Routine and Ideal}{65}{section.B.1}%
+\contentsline {subsection}{\numberline {B.1.1}SELF-750}{65}{subsection.B.1.1}%
+\contentsline {subsubsection}{\numberline {B.1.1.1}SELF-past}{66}{subsubsection.B.1.1.1}%
+\contentsline {subsubsection}{\numberline {B.1.1.2}SELF-future}{66}{subsubsection.B.1.1.2}%
+\contentsline {subsubsection}{\numberline {B.1.1.3}SELF-now}{66}{subsubsection.B.1.1.3}%
+\contentsline {chapter}{\numberline {C}Student in School}{67}{appendix.C}%
+\contentsline {section}{\numberline {C.1}Part 1: 10 year plan}{67}{section.C.1}%
+\contentsline {subsection}{\numberline {C.1.1}\textbf {Task 1. 3m, 40w.}}{67}{subsection.C.1.1}%
+\contentsline {subsection}{\numberline {C.1.2}\textbf {Task 2. 3m, 40w.}}{67}{subsection.C.1.2}%
+\contentsline {subsection}{\numberline {C.1.3}\textbf {Task 3. 5m, 50w.}}{68}{subsection.C.1.3}%
+\contentsline {subsection}{\numberline {C.1.4}\textbf {Task 4. 15m, 100w.}}{68}{subsection.C.1.4}%
+\contentsline {subsection}{\numberline {C.1.5}\textbf {Task 5. 15m, 50w.}}{68}{subsection.C.1.5}%
+\contentsline {section}{\numberline {C.2}Part 2: Two week plan}{68}{section.C.2}%
+\contentsline {chapter}{\numberline {D}DOUBT}{71}{appendix.D}%
+\contentsline {section}{\numberline {D.1}Task 1. 4m, 40w.}{71}{section.D.1}%
+\contentsline {section}{\numberline {D.2}Task 3. 15m, 200w.}{71}{section.D.2}%
+\contentsline {section}{\numberline {D.3}Task 5. 15m, 0w.}{72}{section.D.3}%
+\contentsline {chapter}{\numberline {E}``Self-testing''}{73}{appendix.E}%
+\contentsline {section}{\numberline {E.1}SELF-exp-e}{74}{section.E.1}%
+\contentsline {section}{\numberline {E.2}PPL-The world}{74}{section.E.2}%
