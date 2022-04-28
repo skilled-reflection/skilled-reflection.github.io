@@ -13,12 +13,27 @@ version: 2.15
 ---
 
 
-# Abstract {-}
+# Preface {-}
 
 ![](G:/Dropbox/theory/website/figs/sr_gray_transp.png)
 
 
 Skilled Reflection is a framework to help you make objective sense of your subjective reality. 
+
+## You and I  
+
+- **Chapter 1: Introduction.** This book is centered on you, the specific reader that you are aware is currently reading. I am the one writing.
+- **Chapter 2: SELF.** For now you need only worry about applying the words I'm saying to your actual self, and determining exactly what or who that is.
+- **Chapter 3: PRI.** This is the good "worry", because the fact is you may as well [identify and own yourself before you die][Priorities].
+- **Chapter 4: PPL.** You are not all the other imagined readers. Perhaps they are [PPL][PPL]. You will be too, but not yet.
+- **Chapter 5: BET.** First you'll [BET][BET] about who you (think you) are, until you get sick of losing.
+- **Chapter 6: Education.** At that point you should become [a STUDENT][Education] of better methods.
+- **Chapter 7: WORDs.** As a STUDENT you'll simulate methods efficiently with [WORDs][WORDS]. 
+- **Chapter 8: Revision.** We all ask, "Will I ever do it? Will I ever tell him? What next? Is this it?" [Revise][Revisions] these WORDs so they are yours.
+- **Chapter 9: COMM.** Then try to [communicate][COMM] how you are and are not PPL.
+
+Until then, the null hypothesis is that you and I and they are all the same.
+
 
 ## Questions  
 1.  You.  How am I and what do I need?
@@ -30,10 +45,6 @@ Skilled Reflection is a framework to help you make objective sense of your subje
 7.	Words. What are they good for?  
 8.	Revision. What would your life look like on paper? 
 9.  Communication. How can we help each other?
-
-## Author's Note  
-
-This is an early copy of Skilled Reflection, and much of it is still in development. Thank you for your patience. I welcome any and all constructive feedback. Check back later for a revised and updated version.
 
 ## Index of Definitions  
 This book attempts to balance convention and new ideas. They are foregrounded right here for convenience, however they will make the most sense within the narrative context of this book. Links to those primary contexts follow each definition. Keep in mind that because this list is statically generated, there will be slight discrepancies with definitions in main text as sections become updated. (Last revised: v2.15).
@@ -82,6 +93,9 @@ This book attempts to balance convention and new ideas. They are foregrounded ri
 -	A PLAN for a DOC is an earlier VERSION of the (same) final DOC.  ([**c9.62.**][PRIs differ])  
 -	PITCH is DOC STYLE for why to READ.   ([**c9.65.**][NORMs STYLE])  
 
+## Author's Note  
+
+This is an early copy of Skilled Reflection, and much of it is still in development. Thank you for your patience. I welcome any and all constructive feedback. Check back later for a revised and updated version.
 
 
 
