@@ -1,23 +1,23 @@
-\contentsline {chapter}{Abstract}{7}{chapter*.2}%
-\contentsline {section}{\numberline {0.1}Questions}{7}{section.0.1}%
-\contentsline {section}{\numberline {0.2}Author's Note}{8}{section.0.2}%
+\contentsline {chapter}{Preface}{7}{chapter*.2}%
+\contentsline {section}{\numberline {0.1}You and I}{7}{section.0.1}%
+\contentsline {section}{\numberline {0.2}Questions}{8}{section.0.2}%
 \contentsline {section}{\numberline {0.3}Index of Definitions}{8}{section.0.3}%
+\contentsline {section}{\numberline {0.4}Author's Note}{11}{section.0.4}%
 \contentsline {chapter}{\numberline {1}Introduction}{13}{chapter.1}%
 \contentsline {section}{\numberline {1.1}Dear me,}{13}{section.1.1}%
 \contentsline {subsection}{\numberline {1.1.1}Your life}{13}{subsection.1.1.1}%
 \contentsline {subsection}{\numberline {1.1.2}is}{13}{subsection.1.1.2}%
 \contentsline {subsection}{\numberline {1.1.3}a game.}{13}{subsection.1.1.3}%
-\contentsline {section}{\numberline {1.2}you and me}{14}{section.1.2}%
-\contentsline {section}{\numberline {1.3}Go Camping}{15}{section.1.3}%
-\contentsline {subsection}{\numberline {1.3.1}in two worlds}{15}{subsection.1.3.1}%
-\contentsline {subsection}{\numberline {1.3.2}or eat right.}{15}{subsection.1.3.2}%
-\contentsline {section}{\numberline {1.4}Be homeless}{16}{section.1.4}%
-\contentsline {subsection}{\numberline {1.4.1}Do, don't think.}{16}{subsection.1.4.1}%
-\contentsline {subsection}{\numberline {1.4.2}Or like it.}{16}{subsection.1.4.2}%
-\contentsline {subsection}{\numberline {1.4.3}TIME changes}{16}{subsection.1.4.3}%
-\contentsline {section}{\numberline {1.5}The Garden}{16}{section.1.5}%
-\contentsline {section}{\numberline {1.6}LESSONs}{17}{section.1.6}%
-\contentsline {section}{\numberline {1.7}This book's FOOD.}{17}{section.1.7}%
+\contentsline {section}{\numberline {1.2}Go Camping}{14}{section.1.2}%
+\contentsline {subsection}{\numberline {1.2.1}in two worlds}{14}{subsection.1.2.1}%
+\contentsline {subsection}{\numberline {1.2.2}or eat right.}{15}{subsection.1.2.2}%
+\contentsline {section}{\numberline {1.3}Be homeless}{15}{section.1.3}%
+\contentsline {subsection}{\numberline {1.3.1}Do, don't think.}{15}{subsection.1.3.1}%
+\contentsline {subsection}{\numberline {1.3.2}Or like it.}{15}{subsection.1.3.2}%
+\contentsline {subsection}{\numberline {1.3.3}TIME changes}{15}{subsection.1.3.3}%
+\contentsline {section}{\numberline {1.4}The Garden}{16}{section.1.4}%
+\contentsline {section}{\numberline {1.5}LESSONs}{16}{section.1.5}%
+\contentsline {section}{\numberline {1.6}This book's FOOD.}{16}{section.1.6}%
 \contentsline {part}{I\hspace {1em}The Garden}{19}{part.1}%
 \contentsline {chapter}{\numberline {2}SELF}{21}{chapter.2}%
 \contentsline {section}{\numberline {2.1}Your Garden}{21}{section.2.1}%
