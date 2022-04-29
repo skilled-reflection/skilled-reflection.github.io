@@ -22,17 +22,17 @@ Skilled Reflection is a framework to help you make objective sense of your subje
 
 ## You and I  
 
-- **Chapter 1: Introduction.** This book is centered on you, the specific reader that you are aware is currently reading. I am the one writing.
-- **Chapter 2: SELF.** For now you need only worry about applying the words I'm saying to your actual self, and determining exactly what or who that is.
-- **Chapter 3: PRI.** This is the good "worry", because the fact is you may as well [identify and own yourself before you die][Priorities].
-- **Chapter 4: PPL.** You are not all the other imagined readers. Perhaps they are [PPL][PPL]. You will be too, but not yet.
-- **Chapter 5: BET.** First you'll [BET][BET] about who you (think you) are, until you get sick of losing.
-- **Chapter 6: Education.** At that point you should become [a STUDENT][Education] of better methods.
-- **Chapter 7: WORDs.** As a STUDENT you'll simulate methods efficiently with [WORDs][WORDS]. 
-- **Chapter 8: Revision.** We all ask, "Will I ever do it? Will I ever tell him? What next? Is this it?" [Revise][Revisions] these WORDs so they are yours.
-- **Chapter 9: COMM.** Then try to [communicate][COMM] how you are and are not PPL.
+1. **Introduction.** This book is centered on you, the specific reader that you are aware is currently reading. I am the one writing.
+2. **SELF.** For now you need only worry about applying the words I'm saying to your actual self, and determining exactly what or who that is.
+3. **PRI.** This is the good "worry", because the fact is you may as well [identify and own yourself before you die][Priorities].
+4. **PPL.** You are not all the other imagined readers. Perhaps they are [PPL][PPL]. You will be too, but not yet.
+5. **BET.** First you'll [BET][BET] about who you (think you) are, until you get sick of losing.
+6. **Education.** At that point you should become [a STUDENT][Education] of better methods.
+7. **WORDs.** As a STUDENT you'll simulate methods efficiently with [WORDs][WORDS]. 
+8. **Revision.** You want an answer to the same questions (below) as the rest. [Revise][Revisions] your WORDs until they are uniquely you.
+9. **COMM.** Then you may contextualize and [communicate][Communication] who you are among PPL.
 
-Until then, the null hypothesis is that you and I and they are all the same.
+Until then, you and I and they are all the same.
 
 
 ## Questions  
@@ -43,11 +43,11 @@ Until then, the null hypothesis is that you and I and they are all the same.
 5.	Bet. How do I take action?   
 6.	Learn. How do I figure out a better plan for my life?    
 7.	Words. What are they good for?  
-8.	Revision. What would your life look like on paper? 
-9.  Communication. How can we help each other?
+8.	Revision. What would my life look like on paper? 
+9.  Communication. How do I relate to or help others?
 
 ## Index of Definitions  
-This book attempts to balance convention and new ideas. They are foregrounded right here for convenience, however they will make the most sense within the narrative context of this book. Links to those primary contexts follow each definition. Keep in mind that because this list is statically generated, there will be slight discrepancies with definitions in main text as sections become updated. (Last revised: v2.15).
+This book attempts to balance convention and new ideas. The core ideas are foregrounded right here for convenience, however they will make the most sense within the narrative context of this book. Links to those primary contexts follow each definition. Note that, because this list is statically generated, there will be slight discrepancies with definitions in main text as sections become updated. (Last revised: v2.15).
 
 -	A GOAL names an ideal future outcome, and requires a PLAN to intentionally achieve it.  ([**c2.38.**][Core Concepts])  
 -	A PLAN comprises WORDS that facilitate your GOAL.   ([**c2.44.**][Core Concepts])  
