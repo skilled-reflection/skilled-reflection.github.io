@@ -1,4 +1,6 @@
+you-and-i
 questions
+index-of-definitions
 authors-note
 introduction
 dear-me
@@ -18,6 +20,7 @@ this-books-food.
 self
 your-garden
 core-concepts
+goals
 self-1
 home
 priorities
@@ -27,9 +30,13 @@ death-and-sickness
 bad-days
 attention-and-time
 ppl
-who-are-ppl
+places
+gateway-to-pris
 work
+mental-work
+ppls-gardens
 the-classroom
+bet
 a-parable
 a-stranger-comes-to-town.
 what-to-bet
@@ -37,6 +44,8 @@ after-bets
 c.h.u.d.
 costs-and-habits
 unknowns-and-doubts
+nevermind
+a-letter-to-yourself.
 education
 intellectual-bootcamp
 prompt-1
@@ -99,7 +108,7 @@ the-answerword
 outtakes
 your-calling-part-ii
 instructor-0-to-instructors-sr.v1
-index-of-definitions
+zero-or-one
 define-yourself
 routine-and-ideal
 self-750
@@ -117,4 +126,11 @@ part-2-two-week-plan
 doubt
 task-1.-4m-40w.
 task-3.-15m-200w.
+task-4.-2m-your-name.
+task-5.-15m-0w.
 self-testing
+appendix-open-letters.
+dear-scientist-whole-chapter
+dear-artist
+self-exp-e
+ppl-the-world
