@@ -35,7 +35,6 @@ gateway-to-pris
 work
 mental-work
 ppls-gardens
-the-classroom
 bet
 a-parable
 a-stranger-comes-to-town.
@@ -47,6 +46,7 @@ unknowns-and-doubts
 nevermind
 a-letter-to-yourself.
 education
+the-classroom
 intellectual-bootcamp
 prompt-1
 admissions
