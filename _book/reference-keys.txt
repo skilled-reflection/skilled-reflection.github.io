@@ -129,8 +129,3 @@ task-3.-15m-200w.
 task-4.-2m-your-name.
 task-5.-15m-0w.
 self-testing
-appendix-open-letters.
-dear-scientist-whole-chapter
-dear-artist
-self-exp-e
-ppl-the-world
