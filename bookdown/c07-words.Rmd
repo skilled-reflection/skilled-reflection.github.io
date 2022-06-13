@@ -4,70 +4,42 @@
 
 ## Cognition 
 ### PITCH  
-1.	Like any book, this book uses WORDS to describe the world and its 
-conditions.
-2.	This chapter is about the act of describing, itself.
-3.	This chapter can be reduced to the following problem and solution. 
-4.	WORDS said (out loud or written) and understood (heard or read) are 
-not usually what PPL mean. 
-5.	They do not reflect what PPL want or need.
-6.	By engaging the gap between WORDS and reality, you increase SELF-
-awareness (BET).
-7.	Better WORDS mean more practical understanding and expectations, 
-more complete desires, and 
-8.	the capacity to make a concrete PLAN for achieving your GOALS. 
-9.	This will naturally include healthier communication and more 
-rewarding relationships.
-10.	A community with better WORDS has clearer idea sharing, 
+1.	WORDS describe the world and its conditions.
+2.	This chapter is about issues and solutions regarding the act of describing, itself.
+    1.	WORDS said do not usually reflect what PPL want or need.
+    2.	By engaging the gap between WORDS and reality, you increase SELF-awareness (BET).
+    3.	Better WORDS mean more practical understanding and expectations, more complete desires, and 
+    4.	the capacity to make a concrete PLAN for achieving your GOALS. 
+    5.	This will include healthier COMM and RLTPs.
+    6.	A community with better WORDS has clearer idea sharing, 
 synthesizing, developing, teaching and learning.
 
 ### Problem  
 
-11.	Speaking your mind is difficult.
+11.	Speaking your mind is difficult to do accurately.
 12.	A memory system dealing with language is tasked to translate 
-thoughts into the right WORDS from thousands. 
-13.	It is prone to inaccuracies.
-14.	Similarly, a listener focused on comprehending, is not likely to monitor 
-all the incidental priming effects of WORDS on a memory system. 
-15.	WORDS said and heard impact both parties' beliefs and behaviors.
-16.	These effects are each discussed in terms of how WORDS can be used 
-for the better or worse.
-
-### Kinds and Uses  
-17.	Saying WORDS is a very small physical action, to describe real actions 
-and consequences. 
-18.	Hearing and understanding a WORD are also a small action, that 
-engages with WORDS-- a description about the real world.
-19.	The issue is that descriptions can be more and less right, more and less 
-helpful, and we have little guidance on how to use them.
+thoughts into the right WORDS from tens of thousands.	It is prone to inaccuracies.
+13.	Similarly, a listener focused on comprehending, is not likely to monitor all the incidental priming effects of WORDS on a memory system. 
+14.	WORDS said and heard impact both parties' beliefs and behaviors. 
+15.	Saying WORDs or Hearing and understanding a WORD is a very small physical action, to describe real actions and consequences.
+16.	The issue is that WORDs can be more and less right, more and less helpful, and without intervention, it is very difficult to know how much this is true in any example of WORD USE.
+27.	Bad WORDS keep CHUD expensive and waste TIME.
+28.	The COST of an individual WORD is tiny, but we say tens of thousands per day (Levelt). 
 
 ### WORD as BET  
 
 20.	Every WORD itself is a BET on hypotheticals, which can be true (reality) or false (fantasy).
-21.	You can think through far more situations with WORDS, than you can 
-(or should) act out. 
-22.	Your GOALS can be described in WORDS, and WORDS can be easily 
-crossed out and revised.
-23.	A PLAN is a BET on a winning arrangement of WORDS that result in the 
-GOAL.
+21.	You can think through far more situations with WORDS, than you can (or should) act out. 
+22.	Your GOALS can be described in WORDS, and WORDS can be easily crossed out and revised.
+23.	A PLAN is a BET on a winning arrangement of WORDS that result in the GOAL.
+29.	Reading, thinking, saying, and writing a WORD perpetuates that WORD's IDEA over others, either moving you toward a GOAL, or your HABIT.
 
 ### WORD as simulation  
 24.	WORDS efficiently simulate possible worlds. 
 25.	Good WORDS maximize productivity of thought, move you beyond 
-pitfalls of CHUD, direct attention to PRIS, and predict reality; improve 
-decisions and make you smarter.
-
-### WORD PLAN  
-26.	By thinking about all WORDS you experience (LIB), you can take 
-control to limit your WORD use toward more productive ones, 
-improving READ and WRITE decisions, increasing focus and TIME for 
-GOALS.
-27.	Bad WORDS keep CHUD expensive, and waste TIME.
-28.	The COST of an individual WORD is tiny, but we say tens of thousands 
-per day (Levelt). 
-29.	Reading, thinking, saying, and writing a WORD perpetuates that 
-WORD's IDEA over others, either moving you toward a GOAL, or your 
-HABIT.
+pitfalls of CHUD, direct attention to PRIS, and predict reality; improve decisions and make you smarter.
+26.	By thinking about all WORDS you experience (LIB), you can take control to limit your WORD use toward more productive ones, 
+improving READ and WRITE decisions, increasing focus and TIME for GOALS.
 
 ## Speak/Write
 ### WRITE PLAN  
@@ -93,23 +65,163 @@ mind.
 43.	Remove / ignore style. 
 44.	Assert boundaries against exaggerated WORDS or unreliable ones.
 
+## WORD USE
+a description of the kinds of simulation a word can make, and the kinds to prioritize.
+
 ### EXAMPLE and IDEA
 
-45.	An EXAMPLE is an individual, particular event or object, of reality. An 
-example with consequence is a USE-CASE. An example in-principle is a 
-HYPE (hypothetical/hype).
+45.	An EXAMPLE is an individual, particular event or object, of reality. 
+    1. An example with consequence is a USE-CASE. 
+    2. An example in-principle is a HYPE (hypothetical/hype). 
+    3. In COMM, EXAMPLES are described per the criteria that might support a USE of an EXAMPLE.
+    
 46.	WORDS are one of two types:
-46.1.	LINKS: WORDS that give relationship between EXAMPLES, IDEAS, 
-describe ACTIONS, ROLES, and transformations
-46.2.	IDEAS: WORDS that refer to EXAMPLES.
-46.3.	An IDEA is a set of criteria that LINK EXAMPLES as similar (vs not).
-46.4.	The most basic IDEA classifies EXAMPLES as A or not-A. "blue" is 
+    1.	LINKS: WORDS that give relationship between EXAMPLES, IDEAS, describe ACTIONS, ROLES, and transformations.
+    2.	IDEAS: WORDS that refer to EXAMPLES.
+    3.	An IDEA is a set of criteria that LINK EXAMPLES as similar (vs not).
+    4.	The most basic IDEA classifies EXAMPLES as A or not-A. "blue" is 
 an IDEA that certain colored things are BLUE (A), and all other 
 colors are not BLUE.
-46.5.	Good IDEAS group EXAMPLES in a way that directs attention 
+    5.	Good IDEAS group EXAMPLES in a way that directs attention
 toward PLANS and GOALS. Bad IDEAS distract.
-46.6.	The right LINK between ideas is the foundation of every thought, 
-recipe or terrible calculation.
+    6.	The right LINK between ideas is the foundation of every thought, RECIPE or terrible calculation.
+
+### Types
+47. HYPE vs USE-CASE guides what and if to write. A GOAL is a named HYPE. GOOD HYPE are worthwhile GOALs, sub-GOALs, or ALT PLAN ACTIONs to consider. Don't WRITE HYPE without a BET.
+48. As all words should be toward PRIs, there are three general modes of PRI WORDs: 
+    1. h0 = history. HABIT is to history as action is to DOC. GOOD history is structured data of your HABIT, expressly for the purpose of revising future actions.
+    2. h1 = plan (pri.txt, proj_doc.txt)
+    3. h2 = doubt especially for bet. 
+
+49.f. ALTs are any IDEA which measurably deviates a PLAN, and are defined directly with respect to the target IDEA. For example, BAD is an ALT to GOOD, as in "GOOD-vs-BAD".
+
+50. Any other valid modes, if at all, are in support of maximal revision in these primary ones. 
+
+51. A PLAN comprises: 
+    1.the decided action,
+    2.the best bet on it,
+    3.alternative actions, 
+    4.the goal,
+    5.the relevant CHUD.
+
+52. GOOD GOALs and their PLANs are supported by USEs from your own history (SELF-H), and next best is NORM or OTHERS' USE or DATA that generalizes. For example, a plan for a similar goal has previously succeeded.
+
+### Letters
+Add tags as a prefix to the dash 
+to assert the kind of LINK between ideas.
+(Prefixes are not exhaustive or mutually exclusive.)
+  
+1.  `f` define; function  
+2.  `i` synonym, sense, "i.e.", "as in",  
+3.  `e` example, data-point, untested data  
+4.  `h` history (implied h0)
+5.  `h1` claim, thesis. vs h0 or h2.
+
+6.  `x` Cross-references, xref  
+7.  `d` Data or evidence, summary
+
+8.  `v` version / revise  
+9.  `vs` an alternative, sibling of a shared parent category.
+
+
+Abbreviations I use less often.
+11.  `a` assumption or attribute  
+         x-[link-f]  
+         x-(pri-lesson-chess life 2021-03-07.txt)  
+12.  `w` write (verb)
+13.  `n` next task  
+15.  `t` theory, rationale, frame
+
+### NOTEs 2
+Good NOTES help distinguish 
+supporting vs main BETS of an IDEA.
+
+
+1. a syntactic tree, where  
+2. [newline] is the right path in a fork,  
+3. first indent (" -") is the left path in a fork,  
+   - trailing "-" denotes all subsequent lines 
+     in section are equal childs.   
+4. subsequent newline indents or in-line "--" are siblings  
+5. left to right are siblings  
+6. double linebreak ends the local tree.  
+  
+when word order is a left-to-right walk of 
+a right-branching syntactic tree, 
+sentence can be written in lines of random lengths, and 
+read equally as unambiguously. 
+
+
+
+## NOTES and DOCs  
+
+35.	NOTES are REVISION PLANs.
+36. What follows is illustrative (not exhaustive) of GOOD NOTES. More detail available on request.
+
+37. Follow a RECIPE format to preserve the value of insights.
+
+### RECIPE
+
+35.	A Recipe is one of the best ways to arrange PLANS.
+36.	Lessons and instructions use a RECIPE format. 
+37.	The RECIPE format highlights the IDEAS and LINKS of your point and minimizes excessive STYLE.
+    1.	List key IDEAS.
+    2.	Describe actions and transformations (LINKS).
+38.	Given an IDEA, estimate relevance to PRIS, problems, undeveloped PLANS, and SELF-MAINTENANCE.
+39.	Keep docs short enough that the title and CONTENT address only one 
+thing.
+40.	Save selectively and
+41.	delete frequently.
+
+### 1. A word is a doc
+when it is saved 
+with a name, at least once.
+2. Word is to a GOOD DOC (for example, a resume),
+as action is to goal.
+3. To a BAD DOC, a word (for example a diary entry)
+is to an unnecessary purchase at a tupperware party.
+
+links to named pris
+- notes: words for comm
+- lib: what words to save
+- revision: words for pris
+
+### 2. introduce ideas in unambiguous terms.
+- introducing a new topic, provide a succinct, distinctive illustration of the point or merit, *in the verbiage you will most likely understand*.
+- then describe the link with a taxonomic reference, as follows, where each idea read left to right is a type of or label for the preceding category, implying alternatives at each level.
+  e-psych-teach-2021-unit4-hw-methods_report-intro 
+    "For this assignment, consider your grandparents."
+
+### 3. Illustrate the link 
+At a micro-scale, every dash itself is a link.
+for example, in the taxonomy, 
+"Psych-teach-2021-unit4" the three latter IDEAS qualify the topic, PSYCH. The order of terms from left to right should closely correspond to the order of relevant conditional differences that determine:
+1) the pri for the reader. answer: what are the fewest words to help a reader know a topic is irrelevant or truly beneficial?
+2) the most similar and relevant concepts to most distinct, rare, and particular to what is being described. 
+  1. the left-most word will be either implied or actual chapter headings. All science that is not directly relevant elsewhere, will fall under PPL-WORK or SELF-HOME. The remaining chapters deal with modes on these basic sources: PRI and ED concern optimizing life. (What about WORD, REVISION, COMM?)
+In the example above, PSYCH might fall under SELF-BODY, SELF-HOME, PPL, PPL-WORK. 
+Here, we are talking about defining links for purposes of reducing ambiguity. 
+The link is the decision of the sentence that requires the most care. It is simply a bridge, and as such has a basic and plain function. 
+Named links are ACTIONS.
+
+Over-spelling the IDEAs leaves an empty link, e-"do...(the trash)"
+consider what is the manner of spending time, if an action, to ascribing your link.
+Consider the specific change being undertaken.
+Some ACTIONS:
+TAKE, GIVE, MAKE, BUY, SELL, 
+USE/EAT, WORK, WRITE, READ.
+- Notice these are all verbs of transfer.
+
+In instr, the link comes last, and it describes a step in revision.
+
+### 4. Contextualize with an alternative
+a plan should inherit or give definitions of new terms.
+new definitions should especially be accompanied by a true use-case,
+to protect against a false problem.
+a pri is the motive for life, and itself is only a named spending of time.
+a developed pri is an instruction.
+one generalized is a lesson.
+
 
 ### ROLE Scientist
 

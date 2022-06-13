@@ -2,7 +2,9 @@
 title: "Skilled Reflection"
 author: "Student0"
 date: "`r Sys.Date()`"
-output: pdf_document
+output:
+  word_document: default
+  pdf_document: default
 site: bookdown::bookdown_site
 documentclass: book
 bibliography:
@@ -38,11 +40,11 @@ Until then, you and I and they are all the same.
 ## Questions  
 1.  You.  How am I and what do I need?
 2.	Self. What must I do to have it? 
-3.  Priorities. What actions maximize cake in my life?    
-4.	Others. What are people?   
-5.	Bet. How do I take action?   
-6.	Learn. How do I figure out a better plan for my life?    
-7.	Words. What are they good for?  
+3.  Priorities. What actions maximize cake in my life?
+4.	Others. What are people?
+5.	Bet. How do I take action?
+6.	Learn. How do I figure out a better plan for my life? 
+7.	Words. What are they good for?
 8.	Revision. What would my life look like on paper? 
 9.  Communication. How do I relate to or help others?
 
