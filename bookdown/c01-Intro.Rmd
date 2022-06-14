@@ -109,3 +109,6 @@ slightly from conventional use.
 52. Each chapter deals with a distinct perspective or dimension of life and the GOALs related to it. What is said is what can be simplified for generalizable guidance. 
 53. Like FOOD vs CAKE, the HABITs relevant to your GOALs can be closer to FOOD, or excessive like CAKE.
 54. In the context of definitions, they will be referred to instead, as "good" and "bad" (For example, [c9.60][PRIs Differ]).
+
+55. BOD. benefit of doubt. assumptions of use that help apprehend a maximized GOAL.
+(vnext- "BAD BOD" instead of BAD vs GOOD)

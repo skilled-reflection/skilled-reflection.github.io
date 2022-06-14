@@ -1,5 +1,6 @@
 
 # Priorities
+## PRI 1
 
 ## Your Calling, Part I
 
@@ -23,7 +24,51 @@ I'll tell you your DOUBTs.
 your life will be regimented  
 to afford your calling.
 
+## PRI-SR
+### q-self 
+what is food, 
+what i must do in order to have cake, 
+what i most want?
 
+a-food is health: maximum physical energy (fit) and mental energy (wit). 
+cake is motivation, meaning and will to live (pri).
+
+### q-pri 
+
+what actions maximize cake in my life?
+a-efficient fit and wit maximally used, before death (plan).
+
+### q-bet
+
+what actions result in cake?
+a-steps taken now according to my plan (bets) and revision according to bet wins, and failures (CHUD).
+
+### q-ppl 
+
+what are ppl?
+a-parallel universes dealing with the identical problem set.
+
+
+### q-ed 
+what now?
+a-learn all your answers (student), along with other ppl (peers): go to school (ibc).
+
+### q-words 
+what do i study?
+a-how to minimize the difference between your pri (words) and data (reality).
+
+(a-how to increase bet wins, and minimize their failures over your time as a student (data).)
+
+### q-revision 
+when am i done?
+a-when your plan for bets is according to pris, prepared for CHUD is good enough to bet on (revision): as soon as possible (blitz).
+
+### q-epilogue 
+what is wrong with this book?
+a-it is mostly about idealized productivity, because it is written by one instructor obsessed with discipline and science fiction.
+
+what 10 items best complete ppl?
+what 10 items best complete pri?
 ## Cake of Cakes  
 
 1. In your garden you have the seeds and sprouts of the best you could want, and the most important of what you need.
@@ -123,3 +168,74 @@ away from a GOAL.
 46.	ALIGNMENT is when NORM or natural FORCE causes your GOAL to be more likely.
     1.	To ALIGN is to adjust your GOAL to be more like another force, usually one acting against your GOAL. 
     2.	Study how forces WORK against you. 
+moment
+
+## Now is the only Time 
+### NOW
+now is the only use-case
+of shared space, in time.
+
+### MOMENT
+any now that is not the latest.
+- either future or past.
+
+bod-
+universal viewpoint
+future relevance.
+
+
+### moment-f2
+a record of now becomes past 'nows'
+of variable use-case(1).
+
+we might reflect on the previous
+nows that we shared.
+
+in seeing passage,
+we might speculate on future
+nows to be shared.
+
+the discourse of past or future
+is always at least partially hype,
+but real (use) when bet on.
+
+
+(1)though initially use-cases,
+mis-replayed, misunderstood, 
+permanently changed now-pri
+degrades them to hype.
+
+## Toward Time 
+You still ask, "Why a garden?" To see one more sense of value, consider what uses the following suggestion has for you. If still it leaves you unsatisfied, you should know enough to give up this book.
+Let's pretend your garden is the size of a football field. On one side of your garden instead of yardlines: 0 yards near one goalpost is when you wake, and the opponent's goalpost is when you sleep. Each of your priorities occupies a tiny strip of this span, from endline to endline, so that all your priorities make for a rectangle of long strips. Assuming you MUST move from wake to sleep, how many times during the day, the week, your life, do you dart from strip to strip, juggling 5, 12 priorities, and pretending you are "multi-tasking"? How much time is merely the management of this juggling, let alone whatever successes you gain from being IN the respective priority's plot on your garden? If you are ready to work, study your calendar, and figure out how to make blocks of time for each priority more systematic, routine, and thus less juggling and wasted management of task-switching.
+
+### calendar
+When the focus to what helps you achieve your goals is an object that facilitates action, and not your ability to do an action per se, we might as well just talk about that thing: a tool. This includes a hammer and a calendar. At its core, a calendar is a journal with specific expectations about what you include. Those specifics are up to you to adhere to, but doing so is a great benefit to your PRIs.
+How much time it takes to complete goals is part of every bet. A calendar can be a record of every BET. A calendar improves the more you rely on it. Like your HOME, keep your calendar clean.
+What goes on a calendar?
+1.	Events you plan to attend.
+2.	Events you haven’t decided on yet, such as invitations.
+3.	Deadlines, such as R.S.V.P.s
+4.	Eating time.
+5.	“Maybe” events.
+6.	Tasks with details like duration and people involved.
+7.	Every action associated with a time or range of times.
+
+### Risk. 
+So what-q 
+Without a calendar you grossly underestimate the amount of time needed for your GOALS.You forget to prepare for an action, recover from an action and/or transition to another action. For example, going to the grocery store requires time to get (and make) a list, putting on coat and shoes, assembling travel gear (keys or bike helmet), time to put away groceries, and transition.
+Consolidate. Use one organized calendar with a system to differentiate classes of BETS (SELF, PPL, WORK, VALUES), just as a HOME handles many actions in different rooms.
+
+### Table of Time
+GOAL	SUB	Energy	Pan	Dot	details
+Self	sleep	Low	8.5	7.5	incl sleepless
+Self	Eat	Low	2	3	shop, prep, eat, clean
+Self	Care	High	0.75	.5	meditate, run
+Self	groom	Low	0.75	.75	shit, shower, shave, hair, dress
+Self	home	Ave	0.75	.5	clean, fix
+Self	health	Ave	0.5	1	therapy, doc, dental, vision
+Ppl	Work	Ave	2.75	3	adjusted from 5 days/week
+Ppl	Work	High	1.5	.5	Apply for a raise
+Ppl	Ppl	Ave	2	2.25	text, social media, hang out
+Value	Hobby	High	3	2	Make tool, learn skill
+Value	Hobby	Low	1.5	3	Watch show, nap, surf web
