@@ -132,7 +132,7 @@ Abbreviations I use less often.
 13.  `n` next task  
 15.  `t` theory, rationale, frame
 
-### NOTEs 2
+## NOTEs 2
 Good NOTES help distinguish 
 supporting vs main BETS of an IDEA.
 
@@ -151,7 +151,31 @@ a right-branching syntactic tree,
 sentence can be written in lines of random lengths, and 
 read equally as unambiguously. 
 
+### goals
+reference and vocabulary
+- restrict to simple or plain english to reduce amibiguity
+v-syntopicon
 
+### names
+make folder and file names
+i-goals
+as transparent as possible
+- imply or reveal its (hidden) members.
+  i-iconicity
+
+promote (i-consolidate; 2 -> 1)
+- only-childs
+- esp hf ones
+
+example
+- ppl-work -> work
+- self-home -> home
+
+xref
+- lang-prod-abstract labels' 
+  - systematicity does, can adhere to this.
+  - when creating or reusing a word for new applications, this principle should be a factor
+  - filenames are an everyday example of this.
 
 ## NOTES and DOCs  
 
