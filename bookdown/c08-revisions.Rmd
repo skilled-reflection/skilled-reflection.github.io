@@ -1,6 +1,67 @@
 
 
-# Revisions 
+# Change 
+
+## Revision 
+
+
+25.	Neutrally, a WORD may be replaced by another. As a process which takes effort, do so to improve, and we will call it REVISION. REVISION is the change of WORDS to improve actions of yourself or others.
+26.	REVISION is how we know reflection is happening, described here in VERSIONS (v#) of a response.
+
+27.	For example, consider the following revisions (v1-3) describing this 
+brief argument: 
+
+    1: "Nobody follows doctors' orders."
+    2: "My parents do, religiously."
+    1: "They're the exception."
+    2: "You're not exposed to minorities." 
+    
+v1  
+a)	1 makes a false generalization.
+b)	2 illustrates a counterpoint, and 1 gets mad.
+c)	1 dismisses it, and 2 gets mad. 
+
+v2  
+a)	1 generalizes from WORK experience.
+b)	2 argues with parents' experience, and 1 gets mad.
+c)	1 dismisses and 2 get mad. 
+
+v3  
+a)	1 argues outside 2's experience.
+b)	2 uses personal experience, thinking it's impenetrable.
+c)	Failing and hurt, 2 insults.
+
+28.	The example aims to illustrate revisions which increase the amount of 
+responsibility, control, and preventable future behavior on part of the 
+writer, without much change in WORD count.
+
+### Revision PLAN  
+
+29.	Good revisions better describe what we know to have happened, and 
+predict what will happen (again). 
+30.	Reality is what determines whether each version is better.
+31.	Revise prior prompt responses only to help your current prompt 
+response.
+32.	If your GOAL deals with different assumptions about the truth, change 
+the prompt to whatever gets you to write the most helpful WORDS for your GOAL. 
+    1.	For example, a prompt referring to University student 
+experiences should be adapted for your non-University 
+experiences.
+    2.	A common (problematic) assumption is that you are emotionally 
+ready to be SELF-critical.
+     3.	Do not change the prompt so you can be lazy. 
+
+### REVISE to "Think!"
+
+or, "The eternal question precedes death of questions."
+
+1. Elsewhere, we will establish variations on ultimate questions.
+2. One variant is the superlative presupposition, which becomes an imperative (PLAN). 
+3. For illustration, all questions presuppose and command, "Think!"
+4. As compliment, all WORDs can be seen as an answer to this question (GOOD or BAD).
+5. supposing just as questions can be revised to their superlatives,
+we don't bother to ask them, and focus on the superlative of answers.
+6. Thus is an example basis of GOOD revision: to bring the particular apprehension to a universally relevant call to action, responding to the implied imperative of all questions, "Think."
 
 ## Skilled Reflection 
 
@@ -59,57 +120,8 @@ They ask for names of IDEAS.
 between your warm-up IDEAS. Done right, you will face some new 
 truths.
 
-## Revision 
 
-### REVISE {.tabset} 
-
-25.	Revise WORDS to improve actions of yourself or others is REVISION.
-26.	REVISION is how we know reflection is happening, described here in VERSIONS (v#) of a response.
-
-27.	For example, consider the following revisions (v1-3) describing this 
-brief argument: 
-
-    1: "Nobody follows doctors' orders."
-    2: "My parents do, religiously."
-    1: "They're the exception."
-    2: "You're not exposed to minorities." 
-    
-v1  
-a)	1 makes a false generalization.
-b)	2 illustrates a counterpoint, and 1 gets mad.
-c)	1 dismisses it, and 2 gets mad. 
-
-v2  
-a)	1 generalizes from WORK experience.
-b)	2 argues with parents' experience, and 1 gets mad.
-c)	1 dismisses and 2 get mad. 
-
-v3  
-a)	1 argues outside 2's experience.
-b)	2 uses personal experience, thinking it's impenetrable.
-c)	Failing and hurt, 2 insults.
-
-28.	The example aims to illustrate revisions which increase the amount of 
-responsibility, control, and preventable future behavior on part of the 
-writer, without much change in WORD count.
-
-### Revision PLAN  
-
-29.	Good revisions better describe what we know to have happened, and 
-predict what will happen (again). 
-30.	Reality is what determines whether each version is better.
-31.	Revise prior prompt responses only to help your current prompt 
-response.
-32.	If your GOAL deals with different assumptions about the truth, change 
-the prompt to whatever gets you to write the most helpful WORDS for your GOAL. 
-    1.	For example, a prompt referring to University student 
-experiences should be adapted for your non-University 
-experiences.
-    2.	A common (problematic) assumption is that you are emotionally 
-ready to be SELF-critical.
-     3.	Do not change the prompt so you can be lazy. 
-
-### PEERs
+## PEER REVISION
 
 34.	Peer revision is a powerful learning tool. Get answers from others.
 34.1.	Forget who provides REVISION and how much. 
@@ -117,7 +129,8 @@ ready to be SELF-critical.
 employ Truth, however "harsh".
 
 
-## More PITCH
+## SR-VERSIONS
+(PITCH)
 
 ### academic
 Skilled reflection is a framework for reflection-based writing that aims to foreground cognitive dissonance for a person's subjectively defined goals and plans. It assumes that desirable outcomes emerge from reflecting while adhering to a few imposed, general cognitive constraints:
