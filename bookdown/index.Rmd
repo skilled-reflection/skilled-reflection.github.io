@@ -100,6 +100,19 @@ A book that does not redefine terms is a book by nobody for nobody in particular
 This is an early copy of Skilled Reflection, and much of it is still in development. Thank you for your patience. I welcome any and all constructive feedback (skilledreflection@gmail.com). Check back later for a revised and updated version.
 
 
+## Foreward to Version 2.
+when i first set out to write SR as a book i quickly realized a problem could hang me up forever, both simple and superficial.  
+It is the problem of framing CONTENT (STYLE), as basic as knowing what order to present the information, so as to maximally reveal the value.
+For illustration, this is at least the 15th unique thesis for a preface, and even as i write it I know i am woefully failing.
+Left unaddressed, the consequence is a poverty of readership and intellectual engagement, and the inevitable death of SR. 
+
+in version one of this book, i deliberately set aside this problem, for the personally more desparate issue, of attempting to name and contain a system, at all. while i succeeded my decided priority, i failed the known order issue
+i must say, as i issue the 2nd version, the consequence of the problem, has crippled me. 
+version 2 takes the first step in remediation by streamlining all essential terms and links of the system into a shared frame, called "the garden" (introduced in version one, as concept, but not integrated in practice). Even still, in this respect version 2 is proto, at best.
+
+
+i pen this Foreward to the 2nd Version at the advent of having spelled out critical details, via example, of the problem, namely, spelling out my process of revising *away* STYLE from CONTENT. the spelling should show you in backward fashion why and how i write the way i do.
+i hope that for those who fell off the previous train, you find renewed interest to ride again.
 
 ```{r include=FALSE}
 # automatically create a bib database for R packages
