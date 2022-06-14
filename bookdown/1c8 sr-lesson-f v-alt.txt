@@ -1,0 +1,14 @@
+2020-09-28-1751
+
+## preface
+this is a skilled reflection 'session'. the purpose of this session is to facilitate critical thinking that benefits you. the session provides particulars and makes assumptions. it is up to you to translate these assumptions into ones that fit your circumstance. your goal is simply to write with some seriousness. if the shoe fits, wear it. if it doesn't, make a small modification so that you can wear it.
+
+below is a transcript that is typically used in a small group setting, where an organizer reads the context and descriptions, and keeps time for the tasks. overall it should take about an hour to complete, and you should be able to follow on your own. 
+
+here are some notes about the formatting of the document, and abbreviations. there are topic themes in h2 headers (##), and three types of content. 
+
+most topics contain a context h3 (###), which would be read aloud by a session leader - and is meant to create a frame of mind, and introduce some critical assumptions. It is also the place to check whether such assumptions will work for you, and begin translating, if your situation is slightly different. 
+
+More importantly are the next two sections in each topic. The second subtopic is "task description" which overviews what you're going to do. This blends somewhat with "task instruction", the third subset, which gives the explicit rules, but also gives an example and more description, sometimes. in the instructions section will always be two numbers - a duration (for example, 10m = 10 minutes of writing allowed) and a word count (40w = do not write more than 40 words). the duration is more strict, the word count is a suggestion, but one that is in your best interest. the combination provide cognitive constraints and guidance on how "heavily" you should think about and revise your words vs whether it's just more important to sketch them out quickly.
+
+with that, i think you've got all you need. good luck!
