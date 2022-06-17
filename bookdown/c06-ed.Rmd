@@ -7,9 +7,28 @@ output:
 
 
 #	(PART) The I.B.C. {-}
-# Education
-## The Classroom  
+# Education 
 
+## The Classroom  
+### PITCH
+Assume an applicant has not earned a job-required degree, 
+but presents all requisite skills.
+Are they eligible?
+Is there any alternative to make up for the requisite degree?
+Would you check if their degree was counterfeit?
+
+ H---P(H)
+   |
+H0-v-H1
+   q
+
+
+IRL, a degree is a BAD PLAN, a weak promise for WIT.
+To require a BAD PLAN is to require STYLE. To meet the requirement by WRITING STYLE is hardly counterfeit.
+Producing a "fradulent" degree, when the abilities that degree represents are present, is not fraudulent.
+(This is like "ends justify the means", except that the "means", a PLAN, is not itself anything but IRL-HYPE. Rather, this is insisting on clarity in the ends.)
+
+### Main
 38. A CLASSROOM is a special case of MARKET and WORK; the direct and shared exchange of mental work, for the purpose of improving individual PRIs.
 40.	No one chose to be born. Everyone begins life with their own unnamed and unanswered problems.
 41.	Books are an author's answers; they can only tell a student what the answer is not (quite).
