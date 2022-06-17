@@ -293,7 +293,12 @@ and utility.
 - utility in contributing to itself however it sees fit,
 - but especially in its allocation of finite resources.
 
-### THEORY
+### THEORY 
+
+$$ H1  
+where P = Cognition,
+GOOD.P = P(WIT.GOAL.SORT|PRI) $$
+
 cognitive acts should be engaged in as a pyramid of levels (like food pyramid),
 number of tasks (width of level),
 e-base of 4 height of 4 (levels)=4 topics on bottom level, 3 on 2nd, 2 on 3rd and 1 on 4th.
