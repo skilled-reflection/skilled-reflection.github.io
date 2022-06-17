@@ -5,7 +5,7 @@
 ## Cognition 
 ### PITCH  
 1.	WORDS describe the world and its conditions.
-2.	This chapter is about issues and solutions regarding the act of describing, itself.
+2.	This chapter is about issues and solutions regarding the ACT of describing, itself.
     1.	WORDS said do not usually reflect what PPL want or need.
     2.	By engaging the gap between WORDS and reality, you increase SELF-awareness (BET).
     3.	Better WORDS mean more practical understanding and expectations, more complete desires, and 
@@ -28,18 +28,19 @@ thoughts into the right WORDS from tens of thousands.	It is prone to inaccuracie
 
 ### WORD as BET  
 
-20.	Every WORD itself is a BET on hypotheticals, which can be true (reality) or false (fantasy).
-21.	You can think through far more situations with WORDS, than you can (or should) act out. 
-22.	Your GOALS can be described in WORDS, and WORDS can be easily crossed out and revised.
-23.	A PLAN is a BET on a winning arrangement of WORDS that result in the GOAL.
-29.	Reading, thinking, saying, and writing a WORD perpetuates that WORD's IDEA over others, either moving you toward a GOAL, or your HABIT.
+20.	A GOOD general BET about WORDs is to begin assuming every WORD is a BET on hypotheticals, which can be true (reality) or false (fantasy/lie).
+21.	A PLAN is a BET on a winning arrangement of WORDS that result in the GOAL.
+22.	Reading, thinking, saying, and writing a WORD perpetuates that WORD's IDEA over others, either moving you toward a GOAL, or your HABIT.
 
-### WORD as simulation  
-24.	WORDS efficiently simulate possible worlds. 
+### SIM
+23.	WORDS efficiently simulate possible worlds. You can think through far more situations with WORDS, than you can (or should) act out. 
+24.	Your GOALS can be described in WORDS, and WORDS can be easily crossed out and revised.
 25.	Good WORDS maximize productivity of thought, move you beyond 
 pitfalls of CHUD, direct attention to PRIS, and predict reality; improve decisions and make you smarter.
 26.	By thinking about all WORDS you experience (LIB), you can take control to limit your WORD use toward more productive ones, 
 improving READ and WRITE decisions, increasing focus and TIME for GOALS.
+27. SIM (F-ACT) is the act of iterating between WRITE and READ, to evoke and NAME the optimal, held BET. Tour SIM is not constrained by IRL, but your picture of IRL, and your SIM GOAL is to capture the picture true to your CHUD estimate.
+
 
 ## Speak/Write
 ### WRITE PLAN  
@@ -65,7 +66,7 @@ mind.
 43.	Remove / ignore style. 
 44.	Assert boundaries against exaggerated WORDS or unreliable ones.
 
-## WORD USE
+## Types
 a description of the kinds of simulation a word can make, and the kinds to prioritize.
 
 ### EXAMPLE and IDEA
@@ -133,18 +134,20 @@ Abbreviations I use less often.
 15.  `t` theory, rationale, frame
 
 ## NOTEs 2
-Good NOTES help distinguish 
-supporting vs main BETS of an IDEA.
+Good NOTES clarify PRI (CONTENT) within BETS from secondary ones (I-STYLE) 
 
+### PAR
+In a DOC, PAR is a GROUPED set of WORDs roughly equivalent to a complex sentence. It has a primary subject and predicate, and includes any immediately relevant branches from either. In practice it is between 1 and 4 clauses.
 
-1. a syntactic tree, where  
-2. [newline] is the right path in a fork,  
-3. first indent (" -") is the left path in a fork,  
-   - trailing "-" denotes all subsequent lines 
-     in section are equal childs.   
-4. subsequent newline indents or in-line "--" are siblings  
-5. left to right are siblings  
-6. double linebreak ends the local tree.  
+GOOD PAR successfully denotes a LINK between two IDEAs, with the following FORM: 
+    1. a syntactic tree, where  
+    2. [newline] is the right path in a fork,  
+    3. first indent (" -") is the left path in a fork,  
+       - trailing "-" denotes all subsequent lines 
+         in section are equal childs.   
+    4. subsequent newline indents or in-line "--" are siblings  
+    5. left to right are siblings  
+    6. double linebreak ends the local tree.  
   
 when word order is a left-to-right walk of 
 a right-branching syntactic tree, 
@@ -258,3 +261,70 @@ professional writer, evaluated on two metrics:
 48.	A scientist-researcher is a WRITER, a data-collector and hypothesis tester. 
 
 49.	A scientist-scholar is a READER, curating toward theory development and COMM.
+
+More will be said about SCIENTIST more broadly. Here we focus strictly on the aspect of a scientist which is to develop the description of the world, properly. 
+
+## T-WIT ACT-Types 
+A general framework for testing a "cognitive unit". 
+NEXT: Thread through SR constraints, against PRI.
+
+What metric can be used to compare and test BETs on WORDs?
+Such a metric requires a general framework for cognition 
+
+FRAMEWORK (FRAME) is a cluster of definitions.
+
+### PITCH
+just as a child learns skills
+from put it in the box
+to put it together, 
+and you need to solve
+the problem you creatively set up
+to solve the impossible,
+
+so too
+the highest cognitive function
+--these days a cooperative one
+beyond the speed or control
+of any individual--
+deserves treatment
+of its abilities and applications
+in order of processing difficulty
+and utility.
+- utility in contributing to itself however it sees fit,
+- but especially in its allocation of finite resources.
+
+### THEORY
+cognitive acts should be engaged in as a pyramid of levels (like food pyramid),
+number of tasks (width of level),
+e-base of 4 height of 4 (levels)=4 topics on bottom level, 3 on 2nd, 2 on 3rd and 1 on 4th.
+where the bottom level is the simplest of tasks, such as
+name and or bin,
+the next is between order and sort, 
+then between measure and assemble, 
+finally between test and use, 
+until it leaves the pyramid as habit, extinguished, or tasks revised. 
+
+For example, assuming a GOAL, make an action plan (BLITZ) constrained by number of tasks by type as follows: 
+    5. SORT
+    4. NAME, DEF, or MEASURE,
+    3. MAKE (minimum viable)
+    2. TEST (EDIT, SIM, REVISE)
+    1. USE  (reliable, helpful)
+
+additional tasks must "wait" to be addressed until a task of the same level becomes complete and removed from the pyramid, leaving a slot to be replaced. 
+
+this is a frame that gives a starting point for assessing how and what optimal capacity and boundaries exist for a human as a cognitive being.
+
+
+### GOOD SIM EXAMPLE 
+The IRL test is a BET. Above is a proposed initial BET, arrived at by SIM. 
+GOOD SIM step 
+1. NAME a PRI-scope of IRL-events. 
+2. For example, tasks may differ in how hard and many times actions at various levels need be done; 
+3. The following properties can be varied by SIM. 
+    1-TASK type definitions, pyramid level definitions.
+    2.TASK-LEVEL and TASK-COUNT
+    3. For example, 3 levels starting at 10-count, reducing by 2 (10,8,6), or 5 levels start at 25 reducing by 6 (25,19,13,7,1).
+4. The GOAL of SIM is to maximize a BET you take (e.g., vs defining relevant PRIs).
+    
+
