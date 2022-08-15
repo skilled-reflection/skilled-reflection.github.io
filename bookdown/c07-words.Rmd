@@ -41,14 +41,70 @@ pitfalls of CHUD, direct attention to PRIS, and predict reality; improve decisio
 improving READ and WRITE decisions, increasing focus and TIME for GOALS.
 27. SIM (F-ACT) is the act of iterating between WRITE and READ, to evoke and NAME the optimal, held BET. Tour SIM is not constrained by IRL, but your picture of IRL, and your SIM GOAL is to capture the picture true to your CHUD estimate.
 
+Given the premise of WORD as GOAL, this is how to use WORDS better.
+i-GOOD-REF--f-WORD-PRI-1.
+
+REF-f
+(et-reference)
+1-what it is you want to name
+2-what others already name it (and who).
+
+## it
+It caused you to NAME in the first place.
+This cause is "IT".
+GOOD-REF is giving the best NAME for our desired COMM.
+
+For example, take these background facts, which contains the basis of our desired REF.
+1- I woke at 8:30AM
+2- I wanted to sleep until 9:30AM.
+3- In my 9:00AM appointment with you, as you are talking, I yawn. 
+4- You say, "I must be boring you."
+5- I want to hear what you were going to say (COMM-PRI).
+
+Each of these (below) are slightly different REFs based on the facts (above), ranked by GOOD-REF:
+1-You're not, please continue.
+2-No, I'm tired.
+3-No, I woke early.
+4-Don't make assumptions.
+5-I'm not.
+6-"I woke at 8:30AM, but wanted to sleep until 9:30AM, so I think I yawned because I am tired."
+7-"I yawned because I am tired. I can see why you thought I was bored, and I'm sorry."
+x-[Nothing]
+
+All of the REFs above combined suggest the "IT" you want to convey. A GOOD-REF is the one that uses truth to focus and advance the COMM-PRI. Below are the REF attributes that make each choice unique (and less GOOD).
+1-Give a simple reason to return to the COMM-PRI (example 1 above).
+2-Does not add to COMM-PRI nor return to it.
+3-'early' may not be true.
+4-Focus on others' mistake and issue a command.
+5-Begs the question.
+6-Focus on the distraction.
+7-Focus on the distraction AND makes the same kind of REF which the other did and which caused the confusion. 
+x-This can be anywhere in the list including 1, depending on what you DO or SAY next.
+  1-If you or the other return to COMM-PRI without ever returning to this interruption.
+  4-If it reduces the number of words said before returning to COMM-PRI.
+  8-If the distraction is remembered, and mentioned again, later.
+
+LET this characterize the problem and approach, and I will end with a few primary objectives, besides.
+
+1.GOOD-REF is a plain IDEA or LINK.
+2.If "GOOD-REF", the IDEA, crosses your mind while considering what to say, likely that it is a LINK. 
+3.DECIDE and SAY REF within a few seconds, rather than THINKING more, unless the BET is obvious and worthwhile. BEST-REF is possible, but requires extra THINKING to know the valuable cause. This is not practical, so we go for conservative GOOD-REF. 
+4.In USE, this means quickly NAME the relevant LINKs, and estimate the central or critical LINK between them. 
+
+In our example of the facts, above,
+1. 1 is not obvious and adds little to 3.
+2. 5 is the COMM-PRI, and 4 is the cause, but not IT in what you say.
+3. 2 and 3 are IT, and specifically, the LINK between them.
+
+5. Unless you are a RECRUIT, to go any further will usually not be worth the COST. To go further is to specify what kind of link is between the two. WANT is HYPE, etc.
+6. GOOD-REF is "NEW" vs GIVEN.
 
 ## Speak/Write
 ### WRITE PLAN  
 
 30.	Speak, write, initiate or respond only in limited duration and WORDS 
 dictated by intended outcome. 
-31.	Use WORDS empirically, with a comparison group (vs) and quantity in 
-mind.
+31.	Use WORDS empirically, with a comparison group (vs) and quantity in mind.
 32.	Ideas are more important than authorship. 
 33.	Do not use a WORD that is more of a Lie. 
 34.	Say the truth or be quiet. 
@@ -179,6 +235,26 @@ xref
   - systematicity does, can adhere to this.
   - when creating or reusing a word for new applications, this principle should be a factor
   - filenames are an everyday example of this.
+
+### MNEMO, MEMO, NEMO
+et-(f-etymology)
+mnemonic
+i-reductio_ad_absurdum
+
+NOTE-PRI, toward 2-4d LANG, i-ASL
+
+#### N(f-now)-vs
+HP = (PAST)HISTORY
+H0 = (NOW) DATA, FACT
+H1 = (FUT) HYPOTHETICAL
+
+#### BRACT-verb
+bracket, i-military "cloze-width to destroy"
+
+#### FORCES(i-COSTS)-vs
+1.MAT (materials)
+2.FIT (physical actions)
+3.WIT (mental actions)
 
 ## NOTES and DOCs  
 
