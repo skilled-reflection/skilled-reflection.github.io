@@ -1,17 +1,16 @@
 
 # Introduction
 
+Dear me, 
 
-## Dear me,  
-
-### Your life 
+## Dear
 1.	Read this book because you're ready to.
 2.	You are going to die someday. This book is for you if there is something in the 
 meantime worth maximizing.
 3.	Please engage your life. 
 This book is meant to help you understand and take action, starting right now.
 
-### is  
+## Test
 4.	Please get a pencil and note the date and TIME, right now: ____________. 
 5.	The WORDS in this book are meaningful only when you apply them to your life.
 6.	If you wrote the date and time as requested in step 4, you have proven enough to yourself that you are open to trying 
@@ -21,7 +20,7 @@ will be right when you complete the task.
 8.	Either write the TIME above or stop reading, and take a better action to improve 
 your life, right now.
 
-### a game.
+## Game
 9.	From now on, every WORD you (or I) say is a PLAN for action.
 10. That PLAN is meaningless until you take that action, whether GOOD or BAD. 
 11.	Therefore, spend less time worrying about why this WORD or that PLAN.
@@ -30,7 +29,7 @@ your life, right now.
 13. Sincerely, student0
 
 
-## Go Camping  
+## Camp  
 
 13.	This book presents plain and obvious facts of life as the antidote to modern complexities of life.
 14.	In  most cases, the relevance can be seen more clearly if you [simulate][WORDS] the experience being described, or explicitly consider it in your life (See [Role of Reading][READ]). Let's practice. For example, consider going on a camping trip. 
@@ -41,7 +40,7 @@ your life, right now.
 16. My guess is you are very likely late to your own life. 
 17. The games we (PPL, SCIENTISTs, etc.) play to explain away this fact, end with this book.
 
-### in two worlds
+## Pitch
 18.	To understand this book will require you to find and repair the disconnect between your mind's image of TIME, and the one you are physically bound to. 
 19.	If you fail, you will die in two worlds, the world you imagine you could have 
 lived, and the one you did. 
@@ -50,7 +49,7 @@ lived, and the one you did.
 21. Part one of this book (The Garden) gives you all the general answers, and the basic tools for finding the answers particular to you.
 22. Part two teaches you how to (re)build your tools.
 
-### or eat right.
+## Eat
 23. The one thing up to you that this book will not do is draw the line between need and want.
 22.	In this book, FOOD refers to needs and CAKE refers to wants.
 23. You must practice discerning which is which for you, until it is second-nature.
@@ -60,14 +59,13 @@ lived, and the one you did.
     3. If time, eat or prepare CAKE.
 25. Beware of thinking CAKE is FOOD.
 
-## Be homeless  
+## Homeless  
 
-### Do, don't think. 
-26.	Likely at this point you have slipped into thinking this is a book discussing a philosophy, but it is not. 
+26. Do, don't think. Likely at this point you have slipped into thinking this is a book discussing a philosophy, but it is not. 
 27. FOOD vs CAKE is not understood and solved as a mental exercise in your living room, but by experiencing and paying attention. 
-28. What's more, if you don't have a living room, CAKE can be painfully obvious.
+28. What's more, if you don't have a living room, CAKE can be painfully obvious. Be homeless.
 
-### Or like it.
+## Food
 29.	The odds are you aren't homeless and will avoid becoming so.
 30. As with any hypothetical, practice finding the nearest analogous, personally meaningful experience: 
     1. You couldn't find your car in the middle of winter. 
@@ -75,7 +73,6 @@ lived, and the one you did.
     3. For weeks your shower only produced ice cold water.
     4. You were isolated in your house for most of two years during a global pandemic. 
 
-### TIME changes 
 31.	Whatever the circumstance, your HABIT protests for a change in PLANS.
 32.	However small or profound the suffering or its threat:
 33. There is initially terror, frustration and suffering. 
@@ -83,21 +80,12 @@ lived, and the one you did.
 35. You will need far less FOOD than you thought, giving more time and quality CAKE you really desire.
 
 
-## The Garden
+## Plan
 36.	In the first half of this book is a conceptual metaphor described as a Garden. 
 37.	It is a mental model of reality, designed to bring clarity. 
 38.	Your Garden is your GOALS put on key IDEAS of this book.
 39.	You need the Garden to combat the idealistic side of your mind, inclined to ignore TIME and your SELF, which sets you up for failure and suffering.
 40.	The second half of these chapters elaborates explicitly on the key IDEAs.
-
-- SELF, PPL, and PRI are each dimensions of ways to move in the world
-which are essential to existing NOW. 
-- Read these movements with ATTN to ACTs, not WORDs.
-- In SELF, you must deal with a BODY and its persistent need for FOOD until you die. 
-- In PPL, you must deal with all other SELFs, and the strong NEEDs imposed on you as long as you share physical space. 
-- In PRI, you must deal with the fact that you can only be in one place at a time, doing one thing, until you die. 
-- BET is the dawn of WORDs; what's necessary to alter your ACTs, and to know that you have done so truly. To ALTER is the first basic property of the general CLASS of ACTs called using WORDs. 
-As you can literally apprehend and name objects under the sun, every WORD instantly affords new power, yet every WORD also has a shadow. 
 
 ## LESSONs
 41. At the end of the book are a series of [LESSONs][Zero or One] for identifying what matters, what's wrong, and what's next in your life.
@@ -105,7 +93,7 @@ As you can literally apprehend and name objects under the sun, every WORD instan
 43. Don't wait to finish the book to try one out, because they are pivotal to Skilled Reflection.
 44. However, don't do too many of them before at least reading the relevant section that explains the format of [Skilled Reflection][Skilled Reflection].
 
-## This book's FOOD.  
+## Definitions  
 
 45.	WORDS in all capital letters are IDEAS that have specific definitions that differ 
 slightly from conventional use. 
@@ -119,6 +107,3 @@ slightly from conventional use.
 52. Each chapter deals with a distinct perspective or dimension of life and the GOALs related to it. What is said is what can be simplified for generalizable guidance. 
 53. Like FOOD vs CAKE, the HABITs relevant to your GOALs can be closer to FOOD, or excessive like CAKE.
 54. In the context of definitions, they will be referred to instead, as "good" and "bad" (For example, [c9.60][PRIs Differ]).
-
-55. BOD. benefit of doubt. assumptions of use that help apprehend a maximized GOAL.
-(vnext- "BAD BOD" instead of BAD vs GOOD)

@@ -5,7 +5,7 @@ output:
   html_document: default
 ---
 
-#	BET  
+#	Bet  
 
 1.	You can't help but think how to make your life better.
 2.	You can take control of your life, or you can let the world BET for you. 
@@ -20,113 +20,97 @@ leave it to chance to have better life.
 dreams might fit in.
 9.	How real will your dreams get before you die?
 
-## A parable 
-### A stranger comes to town.  
+## Stranger
 
-10.	A stranger comes to your garden at the end of a long day, which you realize only when you hear him chopping his 
-jaw at you. You look up.
-11.	"No really, consider it, right now. Imagine the most realistic, 
-attainable, best life you could have. 
-12.	Imagine taking the first step and then stay with the thought. Listen to 
-the fear that surfaces. 
+10.	A stranger comes to your garden at the end of a long day, which you realize only when you hear him chopping his jaw at you. You look up.
+11.	"No really, consider it, right now. Imagine the most realistic, attainable, best life you could have. 
+12.	Imagine taking the first step and then stay with the thought. Listen to the fear that surfaces. 
 13.	For the moment, never mind how the world has gotten in your way. 
 14.	How are you in your own way?"
 15.	He seems to be in your way. He's staring past your wet forehead.
 16.	"See your DOUBTs with curiosity. Now BET on what you tell yourself 
 you believe. BET on overcoming them."
-17.	But you mostly only think of frustration and say, "I appreciate the 
-suggestion."
-18.	"Let's both BET. Name what you believe you can accomplish 
-tomorrow, in terms of what you think holds you back most. 
-19.	If you make it happen before sun-up, you'll be over the most daunting 
-hurdle between you and your outcome. 
-20.	And I'll give you the equivalent of your harvest, today. If you fail, you 
-leave me today's harvest."
+17.	But you mostly only think of frustration and say, "I appreciate the suggestion."
+18.	"Let's both BET. Name what you believe you can accomplish tomorrow, in terms of what you think holds you back most. 
+19.	If you make it happen before sun-up, you'll be over the most daunting hurdle between you and your outcome. 
+20.	And I'll give you the equivalent of your harvest, today. If you fail, you leave me today's harvest."
 21.	"Okay," you say. You'll show him.
-22.	"The rocks on the far field. They're on a slippery slope. To build the 
-home I want, I need those rocks, but I'm afraid of falling. I've collected 
-every rock on my land and I need those rocks. Tomorrow I'll finish my 
-foundation with rocks from the slippery slope."
+22.	"The rocks on the far field. They're on a slippery slope. To build the home I want, I need those rocks, but I'm afraid of falling. I've collected every rock on my land and I need those rocks. Tomorrow I'll finish my foundation with rocks from the slippery slope."
+23. The stranger and you have set up a bet, a type of belief.
 
-### What to BET  
-
-23.	A BET is a PLAN template for reconciling REALITY with CHUD, to 
-accomplish GOALS.
-24.	Betting is confronting COSTs, HABITs, UNKNOWNs and DOUBTs that 
-stand in the way of your wants and dreams. 
-25.	The TIME that passes and the status of your GOAL when it runs out are 
-an intersection of reality: the world and you. To name them, is to shed 
-CHUD.
-26.	Every IDEA you hold is a BET with a rolling deadline, idiosyncratic 
-successes, and revisions.
-27.	BET wins shorten your PLAN, and the distance to your GOAL. 
-Losses should guide revisions to your CHUD.
-28.	To BET, name:  
+## BET  
+24.	A BET is a PLAN template for reconciling REALITY with CHUD, to accomplish GOALS.
+25.	Betting is confronting COSTs, HABITs, UNKNOWNs and DOUBTs that stand in the way of your wants and dreams. 
+26.	The TIME that passes and the status of your GOAL when it runs out are an intersection of reality: the world and you. To name them, is to shed CHUD.
+27.	Every IDEA you hold is a BET with a rolling deadline, idiosyncratic successes, and revisions.
+28.	BET wins shorten your PLAN, and the distance to your GOAL. Losses should guide revisions to your CHUD.
+29.	To BET, name:  
     1.	a step in your PLAN, 
     2.	a deadline to achieve it, and 
     3.	the C.H.U.D. for that duration.
-29. Blitz to revise and win, and log your actions.
-30. When the deadline arrives, take stock.  
+30. Blitz to revise and win, and log your actions.
+31. When the deadline arrives, take stock.  
     1.	Compare your action log to your PLAN. 
     2.	Identify CHUD factors that best explain discrepancies.
     3.	Revise PLAN, updated with CHUD factor predictions.
     4.	(Record TIME to do the next BET or GOAL, Revise, etc.)
     5.	Start the next BET or GOAL.
 
-### After BETs
+## After
 
-31.	The next morning you woke to a field in disarray and a letter. You had 
+32.	The next morning you woke to a field in disarray and a letter. You had 
 worked harder than you planned, and still fell short of your GOAL. 
-32.	"If you did more than you would have without the BET, you won 
+33.	"If you did more than you would have without the BET, you won 
 something, including evidence that there is some commitment in you 
 to make your dreams come true."
-33.	The biggest reward is not positive: accept you failed, 
-34.	and partly due to a miscalculation. 
-35.	Therefore, likely other parts of your PLAN are misguided, and your 
+34.	The biggest reward is not positive: accept you failed, 
+35.	and partly due to a miscalculation. 
+36.	Therefore, likely other parts of your PLAN are misguided, and your 
 GOAL is further than you estimate.
-36.	If you disagree, let's BET again. First, take a minute to learn from your 
+37.	If you disagree, let's BET again. First, take a minute to learn from your 
 planning mistake.
 
 ## C.H.U.D. 
 
-37.	Even if you make a PLAN and BET on it, you can fail.
-38.	Why don't we achieve our GOALS?
-39.	Here are the four critical aspects of success, 
-40.	and, by extension, clues for why we fail.
-41.	CHUD encompasses the changes in you, the world, and your GOAL for 
+38.	Even if you make a PLAN and BET on it, you can fail.
+39.	Why don't we achieve our GOALS?
+40.	Here are the four critical aspects of success, 
+41.	and, by extension, clues for why we fail.
+42.	CHUD encompasses the changes in you, the world, and your GOAL for 
 you to achieve it.
 
-### COSTs and HABITs
-42. COSTs ([c2.51][SELF]) and HABITs are knowable facts. 
-43. Observers could independently note and agree on your COSTS and HABITS. 
-44. COSTS are the unadjusted record of transactions in your life.
-45. Referring to COST is referring to typical transactions for a GOAL.
-46. For example, a relationship with an alcoholic poses a RISK of violence.
+## COST 
+43. COSTs ([c2.51][SELF]) and HABITs are knowable facts. 
+44. Observers could independently note and agree on your COSTS and HABITS. 
+45. COSTS are the unadjusted record of transactions in your life.
+46. Referring to COST is referring to typical transactions for a GOAL.
+47. For example, a relationship with an alcoholic poses a RISK of violence.
 
-47. The unadjusted, plain record of everything you have physically done, is your HABIT.
-48. Referring to HABIT is referring to patterns of behavior. 
-49. For example, I eat every morning before 9 AM.
+## HABIT
+48. The unadjusted, plain record of everything you have physically done, is your HABIT.
+49. Referring to HABIT is referring to patterns of behavior. 
+50. For example, I eat every morning before 9 AM.
     1.	HABITS are your most likely and reliable FOOD or CAKE actions.
     2.	Bad HABITS are FORCES working against your GOALS. 
     3.	Good HABITS are ALIGNED with GOALS.
 
-### UNKNOWNs and DOUBTs
-
-50. UNKNOWNS and DOUBTS are the gap between your real and perceived COSTs and HABITs.  
-51.	If you have not arrived at the GOAL, there are UNKNOWNs. 
-52. UNKNOWNs are all that are fully out of your control (analogous to statistical 'error'). 
-53.	For example, a train might stop you from arriving on TIME.
-54. UNKNOWNs are reduced by estimating causes of failure.
-55. For example:
+## UNKNOWN
+51. UNKNOWNS and DOUBTS are the gap between your real and perceived COSTs and HABITs.  
+52.	If you have not arrived at the GOAL, there are UNKNOWNs. 
+53. UNKNOWNs are all that are fully out of your control (analogous to statistical 'error'). 
+54.	For example, a train might stop you from arriving on TIME.
+55. UNKNOWNs are reduced by estimating causes of failure.
+56. For example:
     1. I will die, but not know how or when. The cause is UNKNOWN. 
     2. I will die due to a natural disaster or cancer. The cause is named, and the UNKNOWN is pushed to those things' underlying causes.
-56. DOUBTs are misperceptions caused or perpetuated by your HABIT. 
-57. Like COSTs, DOUBTs are the patterns of UNKNOWN. 
-58. DOUBT is any systematic error that is possible to be addressed by another human of equal ability and resources.
-59. For example, "self-fulfilled prophesies", irrational fear or anxiety.  
 
-60.	Good DOUBTS temper an optimistic PLAN. 
-61.	Otherwise (Bad) DOUBTS:
+## DOUBT 
+57. DOUBTs are misperceptions caused or perpetuated by your HABIT. 
+58. Like COSTs, DOUBTs are the patterns of UNKNOWN. 
+59. DOUBT is any systematic error that is possible to be addressed by another human of equal ability and resources.
+60. For example, "self-fulfilled prophesies", irrational fear or anxiety.  
+61.	Good DOUBTS temper an optimistic PLAN. 
+62.	Otherwise (Bad) DOUBTS:
     1. fuel bad HABITs and fantasies.
     2. Like Fear, anxiety, and jealousy, reflect overestimations. 
    	3. Like narrow-mindedness, reflect underestimations.
@@ -135,60 +119,7 @@ you to achieve it.
         2.	discomfort toward present reality. 
         3.	distrust in your past.
 
-62.	Most of these issues, if deep enough, require therapy. 
-63.	Or the [Intellectual Bootcamp].
-
-## Nevermind
-All of you is part DOUBT.
-
-Inside, you feel: 
-*PPL look at me and anger looks back.*
-*I don't need this, I'm fine.* 
-*Isolate me like a pandemic.*
-*I have looked in each direction.* 
-`Why` *looks back.*
-
-Do you live during a pandemic?
-*Then never this much before have I been no where but home.*
-
-DOUBTs check FANTASY, but
-unchecked DOUBTS are vile. 
-Find and rid of those DOUBTS. 
-
-It is you, angry.
-It is you who must change.
-<!-- Sincerely, -->
-<!-- me -->
-
-## A letter to yourself.
-Dear why,
-
-What are you?  
-*Curiosity.*
-
-Who invited you?
-*I did.* 
-
-What do you want?  
-*Think.*
-
-What do you need?  
-*Why play?*
-*Why love?*
-*Why work?*
-*Why try or give up?*
-
-Ask again, but pay more attention.
-What `Why` won't say:
-*I am lost time. While made, I am unsatisfied.*
-
-Why me?
-*Yes.*
-
-Wh --
-*No.*
-
-*Answer without why.*  
-*Think. Yes. I.*  
+63.	Most of these issues, if deep enough, require therapy. 
+64.	Or the [Intellectual Bootcamp].
 
 

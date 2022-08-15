@@ -1,305 +1,103 @@
+# Change
 
+## Revision
 
-# Change 
+1.  Neutrally, a WORD may be replaced by another. As a process which takes effort, do so to improve, and we will call it REVISION. REVISION is the change of WORDS to improve actions of yourself or others.
 
-## Revision 
+2.  REVISION is how we know reflection is happening, described here in VERSIONS (v#) of a response.
 
+3.  For example, consider the following revisions (v1-3) describing this brief argument:
 
-25.	Neutrally, a WORD may be replaced by another. As a process which takes effort, do so to improve, and we will call it REVISION. REVISION is the change of WORDS to improve actions of yourself or others.
-26.	REVISION is how we know reflection is happening, described here in VERSIONS (v#) of a response.
+    1.  1: "Nobody follows doctors' orders."\
+        2: "My parents do, religiously."\
+        1: "They're the exception."\
+        2: "You're not exposed to minorities."
 
-27.	For example, consider the following revisions (v1-3) describing this 
-brief argument: 
+    2.  v1
 
-    1: "Nobody follows doctors' orders."
-    2: "My parents do, religiously."
-    1: "They're the exception."
-    2: "You're not exposed to minorities." 
-    
-v1  
-a)	1 makes a false generalization.
-b)	2 illustrates a counterpoint, and 1 gets mad.
-c)	1 dismisses it, and 2 gets mad. 
+        a)  1 makes a false generalization.
+        b)  2 illustrates a counterpoint, and 1 gets mad.
+        c)  1 dismisses it, and 2 gets mad.
 
-v2  
-a)	1 generalizes from WORK experience.
-b)	2 argues with parents' experience, and 1 gets mad.
-c)	1 dismisses and 2 get mad. 
+    3.  v2
 
-v3  
-a)	1 argues outside 2's experience.
-b)	2 uses personal experience, thinking it's impenetrable.
-c)	Failing and hurt, 2 insults.
+        a)  1 generalizes from WORK experience.
+        b)  2 argues with parents' experience, and 1 gets mad.
+        c)  1 dismisses and 2 get mad.
 
-28.	The example aims to illustrate revisions which increase the amount of 
-responsibility, control, and preventable future behavior on part of the 
-writer, without much change in WORD count.
+    4.  v3
 
-### Revision PLAN  
+        a)  1 argues outside 2's experience.
+        b)  2 uses personal experience, thinking it's impenetrable.
+        c)  Failing and hurt, 2 insults.
 
-29.	Good revisions better describe what we know to have happened, and 
-predict what will happen (again). 
-30.	Reality is what determines whether each version is better.
-31.	Revise prior prompt responses only to help your current prompt 
-response.
-32.	If your GOAL deals with different assumptions about the truth, change 
-the prompt to whatever gets you to write the most helpful WORDS for your GOAL. 
-    1.	For example, a prompt referring to University student 
-experiences should be adapted for your non-University 
-experiences.
-    2.	A common (problematic) assumption is that you are emotionally 
-ready to be SELF-critical.
-     3.	Do not change the prompt so you can be lazy. 
+4.  The example aims to illustrate revisions which increase the amount of responsibility, control, and preventable future behavior on part of the writer, without much change in WORD count.
 
-### REVISE to "Think!"
+## Plan
 
-or, "The eternal question precedes death of questions."
+5.  Good revisions better describe what we know to have happened, and predict what will happen (again).
+6.  Reality is what determines whether each version is better.
+7.  Revise prior prompt responses only to help your current prompt response.
+8.  If your GOAL deals with different assumptions about the truth, change the prompt to whatever gets you to write the most helpful WORDS for your GOAL.
+    1.  For example, a prompt referring to University student experiences should be adapted for your non-University experiences.
+    2.  A common (problematic) assumption is that you are emotionally ready to be SELF-critical.
+    3.  Do not change the prompt so you can be lazy.
 
-1. Elsewhere, we will establish variations on ultimate questions.
-2. One variant is the superlative presupposition, which becomes an imperative (PLAN). 
-3. For illustration, all questions presuppose and command, "Think!"
-4. As compliment, all WORDs can be seen as an answer to this question (GOOD or BAD).
-5. supposing just as questions can be revised to their superlatives,
-we don't bother to ask them, and focus on the superlative of answers.
-6. Thus is an example basis of GOOD revision: to bring the particular apprehension to a universally relevant call to action, responding to the implied imperative of all questions, "Think."
+## Think!
 
-## Skilled Reflection 
+9.  Elsewhere, we will establish variations on ultimate questions.
+10. One variant is the superlative presupposition, which becomes an imperative (PLAN).
+11. For illustration, all questions presuppose and command, "Think!"
+12. As compliment, all WORDs can be seen as an answer to this question (GOOD or BAD).
+13. Supposing just as questions can be revised to their superlatives, we don't bother to ask them, and focus on the superlative of answers.
+14. Thus is an example basis of GOOD revision: to bring the particular apprehension to a universally relevant call to action, responding to the implied imperative of all questions, "Think."
 
-### Session 
+## Plan
 
-1.	The GOAL of WORDS is to express ideas of  maximum CAKE tomorrow. 
-2.	Since few WORDS meet these criteria, start by revising toward fewer WORDS.
-3.	Make IDEAS clear and concrete. 
-4.	Provide just enough CONTEXT to remember the basis of the key ideas.
-5.	Precision depends on purpose. 
-    1.	LIST. Name relevant ideas for GOAL.
-    2.	WRITE a PLAN, (ordered LINKS).
-    3.	DOUBT. Assert the strongest rebuttal to the PLAN.
-    4.	BET. Improve IDEAS and LINKS by addressing weakness and clarity. 
-    5.	READ. Wager its CAKE (e.g., Relative to another PLAN).
-6.	When reflecting, reflect only on "how can I help my future SELF?" And 
-impose TIME and WORD limits.
-7.	A bad doc is  stream-of-consciousness.
+15. The GOAL of WORDS is to express ideas of maximum CAKE tomorrow.
+16. Since few WORDS meet these criteria, start by revising toward fewer WORDS.
+17. Make IDEAS clear and concrete.
+18. Provide just enough CONTEXT to remember the basis of the key ideas.
+19. Precision depends on purpose.
+    1.  LIST. Name relevant ideas for GOAL.
+    2.  WRITE a PLAN, (ordered LINKS).
+    3.  DOUBT. Assert the strongest rebuttal to the PLAN.
+    4.  BET. Improve IDEAS and LINKS by addressing weakness and clarity.
+    5.  READ. Wager its CAKE (e.g., Relative to another PLAN).
+20. When reflecting, reflect only on "how can I help my future SELF?" And impose TIME and WORD limits.
+21. A bad doc is stream-of-consciousness.
 
-### Prompts  
-8.	Prompts elicit conflicts (truth) between SELF and NORM, to improve 
-PLANS for your GOALS. 
-9.	TIME and WORD limits WORK together to encourage a balance 
-between reflecting on truth and describing it.
+## Prompts
 
-### Word Limits  
-10.	WORD limits combat needless WORDS and distracting tangents. A 
-WORD limit keeps your attention.
-11.	A WORD limit is a proxy for a prompt's complexity.
-12.	Try to write the exact number of WORDS. 
-13.	Good WORD limits require cutting out unhelpful WORDS, change 
-figurative WORDS to concrete, ideally assertive and falsifiable.
-14.	For every PLAN you make: Assert a WORD limit before writing
-to be reminded of your initial intentions, and 
-be challenged to express ideas clearly. 
-Become skilled at using only the fewest WORDS necessary, to 
-reveal and clarify CAKE.
-15.	If you exceed the limit and there is no end in sight, stop and reassess.
+22. Prompts elicit conflicts (truth) between SELF and NORM, to improve PLANS for your GOALS.
+23. TIME and WORD limits WORK together to encourage a balance between reflecting on truth and describing it.
 
-### Time Limits  
-16.	The TIME limit dictates how precise your WORDS should be. 
-17.	Use extra TIME to improve WORD choice. 
-18.	For example, given a 50-WORD limit, 1 minute (1m, 50w) encourages 
-free writing with minimal restrictions on quality of thought, while 4 minutes encourages more careful selection of WORDS.
+## Word Limit
 
-### LESSONs  
-19.	LESSONS are an ordered set of prompts, usually three to four, up to 60 minutes and 250 WORDS. 
-A prompt's WORD count is the number of 
-WORDS to be added to your document.
-20.	Lessons target inconsistencies between reality and PRIS.
-21.	They are designed to be revisited and revised repeatedly.
-22.	A 0w prompt means revise, but do not increase the WORD total.
-23.	The first prompts in LESSONS are warm-ups to direct your attention. 
-They ask for names of IDEAS.
-24.	The remaining prompts are for thinking, requiring you to make LINKS 
-between your warm-up IDEAS. Done right, you will face some new 
-truths.
+24. WORD limits combat needless WORDS and distracting tangents. A WORD limit keeps your attention.
+25. A WORD limit is a proxy for a prompt's complexity.
+26. Try to write the exact number of WORDS.
+27. Good WORD limits require cutting out unhelpful WORDS, change figurative WORDS to concrete, ideally assertive and falsifiable.
+28. For every PLAN you make: Assert a WORD limit before writing to be reminded of your initial intentions, and be challenged to express ideas clearly. Become skilled at using only the fewest WORDS necessary, to reveal and clarify CAKE.
+29. If you exceed the limit and there is no end in sight, stop and reassess.
 
+## Time Limit
 
-## PEER REVISION
+30. The TIME limit dictates how precise your WORDS should be.
+31. Use extra TIME to improve WORD choice.
+32. For example, given a 50-WORD limit, 1 minute (1m, 50w) encourages free writing with minimal restrictions on quality of thought, while 4 minutes encourages more careful selection of WORDS.
 
-34.	Peer revision is a powerful learning tool. Get answers from others.
-34.1.	Forget who provides REVISION and how much. 
-34.2.	The peer WRITER has uncompromised objectivity, and liberty to 
-employ Truth, however "harsh".
+## LESSONs
 
+33. LESSONS are an ordered set of prompts, usually three to four, up to 60 minutes and 250 WORDS. A prompt's WORD count is the number of WORDS to be added to your document.
+34. Lessons target inconsistencies between reality and PRIS.
+35. They are designed to be revisited and revised repeatedly.
+36. A 0w prompt means revise, but do not increase the WORD total.
+37. The first prompts in LESSONS are warm-ups to direct your attention. They ask for names of IDEAS.
+38. The remaining prompts are for thinking, requiring you to make LINKS between your warm-up IDEAS. Done right, you will face some new truths.
 
-## SR-VERSIONS
-(PITCH)
+## PEER-REVISION
 
-### academic
-Skilled reflection is a framework for reflection-based writing that aims to foreground cognitive dissonance for a person's subjectively defined goals and plans. It assumes that desirable outcomes emerge from reflecting while adhering to a few imposed, general cognitive constraints:
-
-1. multiple, ordered prompts. Variation in prompt focus offers opportunities to recognize complexity, and potential incompatibilities in the conception and application of personal goals. To reconcile cognitive dissonance, 
-    1. Prompt 1 elicits reference to a stated goal
-    2. Prompt 2 elicits reference to a perceived problem. 
-    3. Prompts 3+ elicit integrating goal and problem as inseparable from self, reality, and fantasy. 
-    
-While such may not be the True state of affairs, the practice of doing this is more good than harm. All writing strives for acceptance and immediate action.
-
-2. word and time limits. The joint combination of which imposes expectations of cognitive effort, and protects against distraction from the writing task.
-
-### Dear Zeitgeist,
-
-This is a letter, because it best conveys my audience. or if none, 
-then at least which way I'm looking.
-
-I've built a kind of form with many default values and
-instructions for describing individual experience.
-
-This is a standardization with the goal of resolving many of the problems of communication we take for granted.
-
-We call it subjectivity, and celebrate it, but subjectivity is also the name for the most crippling social problems, too.
-
-Sincerely,
-Student0
-
-### QnA
-#### q-student is not a learner 
-classrooms fail to educate when a student doesn't know/have a purpose to learn.
-
-the student is learning for 
-- at best: unknown purposes
-- at worst: personally undesired purposes (i.e. resistance)
-
-ans  
-ibc argues that teaching ought to occur only when the learner is between
-- known purposes
-- desired purposes
-
-a document formalizes this relationship
-
-amount of learning is proportional to the desirability and known quantity of *purpose* of new material.
-
-#### q-I don't need SR
-here is the best reason for 
-my to not be here:
-i already know exactly what 
-i want out of life,
-and how to get it.
-in fact, i have it already.
-i've had it forever.
-
-ans
-yes, and it's true for me and everyone else.
-only tricky part is i'm not sure what *it's* called.
-
-money, love, fame, peace.
-the right friends, knowledge. sanity.
-
-but if the following is true
-you're not a student:
-
-i honestly don't want to 
-- think about myself.
-- consider what i could be doing better.
-
-#### q-unrealized private welfare  
-technology has boomed, and implications are still rippling outward. a late bloomer is the private benefit.
-
-object of study and insight is to serve the elite.
-
-great reveal of ivory tower:
-- "humans do not behave rationally",
-
-ans
-market of popular thought.
-- generation-1-e-Wikipedia
-
-ibc is the call to action in response.
-- weaponizes insights from various disciplines.
-
-#### q-lang is inefficient  
-language is inefficient
-- users are imprecise and irrational
-consequence-we do not
-- know 
-  - each other
-  - what there is to know about quality of living.
-- efficiently transmit, share information; learn
-  - the longform is absurd
-  
-ans
-minimize steps for accomplishing shared reference
-use plain language
-find intuitive routes to understanding.
-- by-product: learning and education.
-
-
-### take up time  
-why am i taking up your time. 
-i’m not. 
-i’m not even here. 
-Well I want to be an idea in your head 
-instead of some imposing stranger. 
-So for the next 5 minutes, 
-if it helps you be more comfortable 
-when you think, 
-feel free to close your eyes.
-the idea that’s popping into your head, 
-is that a journal club might help you 
-get more time in your life back. 
-
-#### what is SR? 
-
-Skilled Reflection is a journal club, 
-but it’s different from journaling 
-- about your day or 
-- thoughts, we’re journaling about the link between 
-- personal aspirations, and 
-- helpful actions that we’re ready to take. 
-All it takes is a mindset 
-for focusing on yourself. 
-
-
-#### for everyone  
-
-There are two kinds of people in this room. 
-To the first kind of person, 
-Skilled Reflection is the place 
-where you are encouraged
-to embrace yourself, 
-- privately, honestly, and seriously; 
-to critically reflect, 
-and by doing so, 
-strengthen your grounding in this world.
-To the second kind of person, 
-Skilled Reflection is 
-- how spend begin to your time 
-- more effectively, and 
-- get more of it, regardless of 
-- what effective means, or 
-- what you’d do with more time. 
-
-#### is this for you ? 
-All of you are in different places in your lives. 
-Think deeply about yourself, and 
-be honest is an intimidating thing. 
-- you are scared to do it all the time, for a million reasons. 
-- it’s a personal decision, commitment and risk.
-Now you’re asking yourself: 
-Is there a better version of me? 
-Am I capable of moving toward it? 
-(trust) Am I ready to? (motivation)
-These answers should give you an idea of whether 
-Skilled Reflection will be for you. 
-And that’s the last of the intrusive thoughts, 
-for now. 
-You can open your eyes. 
-If you happened to say yes to those questions, 
-however, 
-Consider taking the first step, 
-by coming to our first Skilled Reflection Session, 
-next tuesday.
-
-
-#### afterword  
-there are two types of people in you,
-the dumb one and the smart one.
-you have two types of ears,
-a fearful one and a curious one.
+39. Peer revision is a powerful learning tool. Get answers from others. 
+40. Forget who provides REVISION and how much. 
+41. The peer WRITER has uncompromised objectivity, and liberty to employ Truth, however "harsh".
