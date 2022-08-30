@@ -48,12 +48,12 @@ Skilled Reflection is a framework to help you make objective sense of your subje
     8.  Revision. What would my life look like on paper?
     9.  Communication. How do I relate to or help others?
 
-## Words
+## Scope
 
 4.  A book with defined terms is a book for humans.
-5.  Below are key terms and their definitions, to distinguish you and me.
-6.  Links to those primary contexts follow each definition.
-7.  Note that, because this list is statically generated, there will be slight discrepancies with definitions in main text as sections become updated. (Last revised: v2.15).
+5.  The following list describes the critical concepts that this book deals with and by impliciation, what it does not deal with.
+6.  After each definition is a link to its primary context in the book.
+7.  Note that there may be slight discrepancies with definitions in main text as sections become updated. (Last revised: v2.15).
 
 -   A GOAL names an ideal future outcome, and requires a PLAN to intentionally achieve it. ([**c2.38**][Core Concepts])\
 -   A PLAN comprises WORDS that facilitate your GOAL. ([**c2.44**][Core Concepts])\
