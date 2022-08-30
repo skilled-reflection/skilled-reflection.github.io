@@ -1,6 +1,7 @@
 # Student in School
 
-## Part 1: 10 year plan
+## Part 1: 10 year plan 
+
 This is a lesson in curriculum writing.
 Imagine a perfect course exists,
 designed to teach you

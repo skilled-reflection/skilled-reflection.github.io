@@ -1,6 +1,5 @@
-2022-06-01-0938
 
-I also welcome any additional feedback if you’d like to share or discuss, afterward.
+# Self-Guided Lesson 
 
 ## Expectations
 This is a subset of the lessons, re-ordered to make for an intense, abridged introduction to the (already abridged) philosophy.

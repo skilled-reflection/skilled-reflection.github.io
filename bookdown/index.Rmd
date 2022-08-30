@@ -1,7 +1,5 @@
 ---
 title: "Skilled Reflection"
-author: "Student0"
-date: "`r Sys.Date()`"
 output:
   word_document: default
   pdf_document: default
@@ -11,42 +9,42 @@ bibliography:
 - book.bib
 - packages.bib
 link-citations: yes
-version: 2.15
+version: 2.16
 ---
 
 # Preface {.unnumbered}
 
-![](G:/Dropbox/theory/website/figs/sr_gray_transp.png)
-
-Skilled Reflection is a framework to help you make objective sense of your subjective reality.
+```{r, echo = FALSE, fig.align='center'}
+knitr::include_graphics("figs/sr_gray_transp.png")
+```
 
 ## You
 
 1.  You and I:
-    1.  **Introduction.** This book is centered on you, the specific reader that you are aware is currently reading. I am the one writing.
-    2.  **SELF.** For now, focus on applying these words to your actual [SELF][SELF], and determining exactly what or who that is.
-    3.  **PRI.** Identify and own your [PRIs][Priorities] before you die.
-    4.  **PPL.** You are not all the other imagined readers. Perhaps they are [PPL][PPL]. You will be too, but not yet.
-    5.  **BET.** First you'll [BET][BET] about who you (think you) are, until you get sick of losing.
-    6.  **Education.** At that point you should become [a STUDENT][Education] of better methods.
-    7.  **WORDs.** As a STUDENT you'll simulate methods efficiently with [WORDs].
-    8.  **Revision.** You want an answer to the same questions (below) as the rest. [Revise][Revisions] your WORDs until they are uniquely you.
-    9.  **COMM.** Then you may contextualize and [communicate][Communication] who you are among PPL.
+    0.  **Introduction.** This book is centered on you, the specific reader that you are aware is currently reading. I am the one writing.
+    1.  **SELF.** For now, focus on applying these words to your actual [SELF][SELF], and determining exactly what or who that is.
+    2.  **PRI.** Identify and own your [PRIs][Priorities] before you die.
+    3.  **PPL.** You are not all the other imagined readers. Perhaps they are [PPL][PPL]. You will be too, but not yet.
+    4.  **BET.** First you'll [BET][BET] about who you (think you) are, until you get sick of losing.
+    5.  **Education.** At that point you should become [a STUDENT][Education] of better methods.
+    6.  **WORDs.** As a STUDENT you'll simulate methods efficiently with [WORDs].
+    7.  **Revision.** You want an answer to the same questions (below) as the rest. [Revise][Revisions] your WORDs until they are uniquely you.
+    8.  **COMM.** Then you may contextualize and [communicate][Communication] who you are among PPL.
 2.  Until then, you and I and they are all the same.
 
 ## Questions
 
-3.  
+3.  Any questions?
 
-    1.  You. How am I and what do I need?
-    2.  Self. What must I do to have it?
-    3.  Priorities. What actions maximize cake in my life?
-    4.  Others. What are people?
-    5.  Bet. How do I take action?
-    6.  Learn. How do I figure out a better plan for my life?
-    7.  Words. What are they good for?
-    8.  Revision. What would my life look like on paper?
-    9.  Communication. How do I relate to or help others?
+    0.  You. How am I and what do I need?
+    1.  Self. What must I do to have it?
+    2.  Priorities. What actions maximize my life?
+    3.  Others. What are people?
+    4.  Bet. How do I take action?
+    5.  Learn. How do I figure out a better plan for my life?
+    6.  Words. What are they good for?
+    7.  Revision. What would my life look like on paper?
+    8.  Communication. How do I relate to or help others?
 
 ## Scope
 
@@ -105,23 +103,15 @@ Skilled Reflection is a framework to help you make objective sense of your subje
 
 ## Version
 
-9.  When I first set out to write SR as a book I quickly realized a problem could hang me up forever, both simple and superficial.\
+9.  When I first set out to write SR as a book I quickly realized a problem could hang me up forever, both simple and superficial.
 
-10. It is the problem of framing CONTENT (STYLE), as basic as knowing what order to present the information, so as to maximally reveal the value.
+10. It is the problem of what order to present the information, so that its truth is easily learnable and most evident.
 
-11. For illustration, this is at least the 15th unique thesis for a preface, and even as i write it I know i am woefully failing.
+11. In Version 1 of this book, I deliberately set aside this problem, in order to name and contain the system of thinking.
 
-12. Left unaddressed, the consequence is a poverty of readership and intellectual engagement, and the inevitable death of SR.
+12. Version 2 takes the first step in remediation by streamlining all essential terms and links of the system into a shared frame, called "the Garden" (introduced in version one). Even still, in this respect version 2 is only a working prototype at best.
 
-13. In version one of this book, i deliberately set aside this problem, for the personally more desparate issue, of attempting to name and contain a system, at all. while i succeeded my decided priority, i failed the known order issue
-
-14. I must say, as i issue the 2nd version, the consequence of the problem, has crippled me.
-
-15. Version 2 takes the first step in remediation by streamlining all essential terms and links of the system into a shared frame, called "the garden" (introduced in version one, as concept, but not integrated in practice). Even still, in this respect version 2 is proto, at best.
-
-16. I pen this Foreward to the 2nd Version at the advent of having spelled out critical details, via example, of the problem, namely, spelling out my process of revising *away* STYLE from CONTENT. the spelling should show you in backward fashion why and how i write the way i do.
-
-17. I hope that for those who fell off the previous train, you find renewed interest to ride again.
+13. I pen this Forward at the advent of betting my life on Version 3 (2022-08-30). I cannot promise if / when it will surface, but if you are curious, do not wait. You can find Version 3 already here, between the lines and at their intersections.
 
 ```{r include=FALSE}
 # automatically create a bib database for R packages

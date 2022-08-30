@@ -4,15 +4,15 @@ bookdown::gitbook:
     toc:
       collapse: section
       before: |
-        <li><a href="./">S.R. v2.15</a></li>
+        <li><a href="./">S.R. v2.16</a></li>
       after: |
         <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
-    edit: https://github.com/USERNAME/REPO/edit/BRANCH/%s
+    edit: https://github.com/skilled-reflection/website/edit/master/bookdown/%s
     download: ["pdf", "epub"]
     fontsettings:
       theme: night
       family: serif
-      size: 3
+      size: 2
 bookdown::pdf_book:
   documentclass: book
   includes:
