@@ -1351,7 +1351,7 @@ id,h1,h2,ct,word,n,fn,x
 1405,0-dex,scope,7,-   pitch is doc style for why to read. ([**c9.65**][norms style]),li,,
 1406,0-dex,draft,4,draft,h2,,
 1407,0-dex,draft,8,"this is an early copy of skilled reflection, and much of it is still in development. thank you for your patience. i welcome any and all constructive feedback ([skilledreflection\@gmail.com](mailto:skilledreflection@gmail.com){.email}). check back later for a revised and updated version.",li,,
-1408,0-dex,version,5,version,h2,,
+1408,0-dex,version,5,version,h2,tst-change-detect,
 1409,0-dex,version,9,"when i first set out to write sr as a book i quickly realized a problem could hang me up forever, both simple and superficial.",li,,
 1410,0-dex,version,10,"it is the problem of what order to present the information, so that its truth is easily learnable and most evident.",li,,
 1411,0-dex,version,11,"in version 1 of this book, i deliberately set aside this problem, in order to name and contain the system of thinking.",li,,
