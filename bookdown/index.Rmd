@@ -18,6 +18,7 @@ version: 2.16
 knitr::include_graphics("figs/sr_gray_transp.png")
 ```
 
+
 ## You
 
 1.  You and I:
@@ -112,6 +113,21 @@ knitr::include_graphics("figs/sr_gray_transp.png")
 12. Version 2 takes the first step in remediation by streamlining all essential terms and links of the system into a shared frame, called "the Garden" (introduced in version one). Even still, in this respect version 2 is only a working prototype at best.
 
 13. I pen this Forward at the advent of betting my life on Version 3 (2022-08-30). I cannot promise if / when it will surface, but if you are curious, do not wait. You can find Version 3 already here, between the lines and at their intersections.
+
+### Preview
+The following are some concepts of v3, as in "between the lines", above. Extensive notes are available on request, and will be incorporated on this branch.
+
+1. Fit. A parent category for cost and habit. The body persists in the world for a duration from birth to death. This material "event" is the body's fit in the world, a self-evident matter. 
+
+2. Wit. A revision of word and parent category of unknown and doubt. All cognition associated with a body. Any and all actions or part of actions that are not usefully explained in physical terms. For example, Of interest are the bets that affect fit. Many bets do not. 
+
+3. Point. A revision of content. The focus and objective of revision is to act (bet), and so the best words are the fewest needed; ideally a single referent. Maximum benefit-of-doubt assumes all content can be reduced in a way that amplifies, not decreases meaning (_reductio-ad-absurdum_).  All revisions can take the question: "What is the point?"
+
+4. Awe. A revision of bet-alt and benefit-of-doubt, referring to the content of or pursuit of the point. All points tend to have the character of awe. The answer to all questions is the awe of the referent being investigated. Awe is the opposite of doubt (i-cause of inaction).
+
+5. Coin and compass. A format (standard) for definition-making that is scalable, reducable, transparent and functional. Contrasted with a map (plans, examples), and IRL (self bets). Still under construction.
+
+6. Time. Always more important to understand.
 
 ```{r include=FALSE}
 # automatically create a bib database for R packages
