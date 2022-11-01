@@ -1,0 +1,671 @@
+---
+title: "tmp"
+author: "mark koranda"
+date: "12/21/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# libraries
+
+
+```{r}
+library(tidyverse)
+library(tidytext)
+library(topicmodels)
+library(tidyr)
+library(reshape2)
+library(stringi)
+```
+
+## prep
+### read  files (rmd dir)
+
+```{r}
+setwd("C:/Users/Public/Dropbox/2-theory/1_skilled_reflection/website/")
+x <- read_csv("ch1_8.csv") %>% 
+  select(-h_name)
+
+y <- read_csv("ch1_8_h12.csv") %>% 
+  select(-h_name,-ch_name) 
+  # group_by(ch_i) %>% 
+  mutate(h_i = ch_i, #row_number()
+         ch_i = p_i ) %>%
+  # ungroup 
+  View
+z  <- read_csv("f.csv") %>% 
+  mutate(key = str_to_lower(key))
+
+
+kwargs_list <- function(stringlet){
+        key_matches  <- list()
+        for (w in z$key) {
+        if (str_detect(stringlet,w)){
+          key_matches  <- c(key_matches, w)
+        }
+      }
+  return(key_matches)
+      }
+
+a <- left_join(x,y) 
+
+# test fn
+stringle <- a$word[5]
+s2 <- kwargs_list(stringle)
+
+a <- a %>% 
+  mutate(
+    # f_name = str_detect(word,z$key[1]),
+         jname = kwargs_list(word),
+         word = str_to_sentence(.$word))
+
+
+write.csv(z, file = "ch1_8.csv",
+          row.names = FALSE)
+
+```
+
+
+### read  files (rmd dir)
+
+```{r}
+# files  <- dir( "/" ) 
+setwd("C:/Users/Owner/Dropbox/2-theory/1_skilled_reflection/website/bookdown/")
+files <- dir(full.names=TRUE,pattern = ".Rmd")
+# 2022-06-12-2129
+
+```
+
+select_files
+```{r}
+files <- files %>% 
+  as.data.frame()  
+colnames(files) <- "files"
+files <- files %>% 
+  mutate(files=as.character(files)) %>% 
+  filter(!grepl("txt",files),
+           grepl("md",files),
+         !grepl("compile",files),
+         !grepl("ls",files),) 
+```
+
+make df and header
+- this feels cloojy but i've done it and it works.
+```{r}
+
+read_dir_txt <- function(files) {
+  df <-readChar(files[1], 
+                file.info(files[1])$size) %>% 
+  data_frame(txt=.,title=files[1])
+  
+  for (name in files){
+    a <- readChar(name, file.info(name)$size) %>% 
+    data_frame(txt=.,title=name)
+    df <- rbind(df,a)
+  }
+  return(df)
+}
+```
+
+
+now loop it.
+```{r}
+df <- read_dir_txt(files$files) %>% unique
+
+```
+
+
+## parse
+for each token size, a df is made, "df_TOKEN"
+the token count per title is computed and returned to the original df with the following code
+
+```{r}
+count_in_file <-  . %>% 
+  count(title, sort = TRUE) %>% 
+    left_join(df,.,by="title")
+
+```
+
+### by word
+```{r}
+df_word <- df %>% 
+  unnest_tokens(word,txt) %>% 
+  mutate(id.word=c(1:length(word)))
+
+df <- df_word %>% 
+  count_in_file %>% 
+  rename(wordC = n) 
+```
+
+```{r}
+df_wordns <- df_word %>% 
+  anti_join(get_stopwords()) 
+
+df <- df_wordns %>% 
+  count_in_file %>% 
+  rename(noStopC = n)
+
+```
+
+```{r}
+df_stops <- df_word %>% 
+  inner_join(get_stopwords())
+
+df <- df_stops %>% 
+  count_in_file %>% 
+  rename(StopC = n)
+```
+
+
+### by line
+```{r}
+df_line <- df %>% 
+  unnest_tokens(word,txt,token="lines") %>% 
+  mutate(id.line=c(1:length(word))) 
+
+df <- df_line %>% 
+  count_in_file %>% 
+  rename(lineC = n) 
+```
+
+get numbered sentence numbers as sep column.
+
+## line parsing
+```{r}
+
+df_line2 <- df_line %>% 
+  mutate(verse= stri_extract_first_regex(word,"^[0-9][0-9]?"),
+         enum = stri_extract_first_regex(word,"^ ? ? ? ? ? ? ? ?  ?[0-9][0-9]?"),
+         h1 = str_sub(title,5,-5),
+         h2 = stri_extract_first_regex(word,"^## .*$"),
+         verse = as.numeric(verse),
+         enum = as.numeric(str_remove(enum,"^  ? ? ? ? ? ? ?")),
+         h2 = str_remove(h2,"^## "),
+         word = str_remove(word,"^## "),
+         word = str_trim(word),
+         word = str_remove(word,"^[0-9][0-9]?.[0-9]? ?"),
+         word = str_trim(word)
+         ) %>%
+  group_by(h1) %>% 
+  fill(h2,verse) %>%
+  mutate(verse = if_else(!is.na(enum),verse + (enum/10),verse),
+         # verse = ifelse(h2==word,"h2",verse)
+         ) %>% 
+  select(id.line,h1,h2,verse,word) %>% 
+  ungroup
+
+  # filter(!word=="")
+
+```
+
+## Inspecting h2's
+```{r}
+df_line2 %>% 
+  select(h1,h2) %>% 
+  unique %>% 
+  na.omit %>% 
+  count(h2) %>% 
+  arrange(-n) %>% 
+  View
+```
+plan, lessons, problem occur more than once.
+
+```{r}
+df_line2 %>% 
+  select(h1,h2) %>% 
+  unique %>% 
+  filter(h2=="plan"|h2=="lessons"|h2=="problem") %>% View
+```
+
+```{r}
+write.csv(df_line2,file="sr_bylines.csv",row.names=FALSE)
+```
+
+
+```{r}
+
+df  <- df_line2 %>% 
+  count(h1,h2)  %>% 
+  count(h1) %>%  
+  rename(h2 = n) %>% 
+  left_join(
+    select(df_line,-h2),.) %>% 
+  count(h1,h2,h3) %>% 
+  count(h1,h2) %>% 
+  rename(h3=n) %>% 
+  left_join(df,.)
+
+write_csv(df,file = "sr_df_h23.csv")
+
+```
+
+```{r}
+df_line %>% 
+  select(title,h2) %>% 
+  unique %>% 
+  write_csv(file = "srdf_h2names.csv")
+```
+
+
+
+
+
+### by sent
+
+```{r}
+
+df_sent <- df %>% 
+  unnest_tokens(word,txt,token="sentences") %>% 
+  mutate(id.sent=c(1:length(word))) 
+
+df <- df_sent %>% 
+  count_in_file %>% 
+  rename(sentC = n) 
+```
+
+# 2. (loaded data) inspect 
+
+```{r}
+df_wordns %>% 
+  count(word,sort=TRUE) %>% 
+  View
+```
+
+
+```{r}
+
+df_wordns %>% 
+  count(title,word, sort = TRUE) %>% 
+  # ungroup %>% View
+  group_by(title) %>% 
+  mutate(wc=sum(n)) %>% 
+  mutate(p = n/wc) %>%  
+  group_by(title) %>% 
+  slice_max(p,n=25) %>% 
+  spread(key = word, value = p) %>% 
+  View
+```
+
+# 3.tf_idf dist
+
+```{r}
+tidf <- df_wordns %>% 
+  count(title,word, sort = TRUE) %>% 
+  bind_tf_idf(word,title,n) %>%
+  select(-n,-tf,-idf) %>% 
+  spread(key= word, value = tf_idf)
+
+
+distp <- tidf %>% 
+  dist(upper = TRUE) %>% 
+  as.matrix()
+
+View(distp)
+
+```
+
+didn't get the numnums for the rarecounts, so here gos
+```{r}
+tiddy_f  <- df_wordns %>% 
+  count(title,word, sort = TRUE) %>% 
+  bind_tf_idf(word,title,n) 
+```
+
+```{r}
+
+j_walk <- tiddy_f %>% 
+  group_by(title) %>% 
+  summarise(tf_idf = sum(tf_idf, na.rm=TRUE),
+            mifdf = mean(tf_idf, na.rm=TRUE))
+
+d2f <- j_walk %>% 
+    left_join(df,.,by="title")
+```
+
+# 4. lda
+
+```{r}
+
+dtm <- df_wordns %>% 
+  select(document = title,
+                term=word) 
+
+dtm1 <- cast_dtm(dtm,document,
+                term,
+         value = n)
+```
+
+```{r}
+df_lda10 <- LDA(dtm1,
+                k = 10,
+              control = list(seed = 1234))
+```
+
+## projection scripts
+
+```{r}
+
+lda_wordtop <- . %>% 
+  tidy(matrix = "beta")
+
+lda_doctop <-  . %>% 
+  tidy(matrix = "gamma")
+
+lda_main <-  . %>% 
+  tidy()
+
+top_10words <- . %>%
+  group_by(topic) %>%
+  slice_max(beta, n = 10) %>% 
+  ungroup() %>%
+  arrange(topic, -beta)
+
+top_10docs <- . %>%
+  group_by(topic) %>%
+  slice_max(gamma, n = 10) %>% 
+  ungroup() %>%
+  arrange(topic, -gamma)
+
+doc_wide <- . %>%
+  mutate(topic = paste0("topic", topic)) %>%
+  pivot_wider(names_from = topic, values_from = gamma) %>% 
+  filter(topic1 > .001 | topic2 > .001) %>%
+  mutate(log_rat21 = log2(topic2 / topic1),
+         log_rat31 = log2(topic3 / topic1))
+
+
+```
+
+## LDA 2tox
+
+```{r}
+df_lda2 <- LDA(dtm1, k = 2,
+              control = list(seed = 1234))
+
+```
+
+```{r}
+
+# lda2_word <- df_lda3 %>% lda_wordtop
+# lda2_words_top <- lda3_word %>% top_10words
+
+lda2_doc <- df_lda2 %>% lda_doctop
+lda2_doc_wide <- lda2_doc %>% 
+  mutate(topic = paste0("topic", topic)) %>%
+  pivot_wider(names_from = topic, values_from = gamma) %>% 
+  filter(topic1 > .001 | topic2 > .001)
+
+# lda3_main <- df_lda3 %>% lda_main
+```
+
+```{r}
+lda2_doc_wide %>% 
+  ggplot(aes(x=topic1,y=topic2)) +
+  geom_point(stat = "identity")
+```
+
+## LDA 3topics
+
+```{r}
+# set a seed so that the output of the model is predictable
+# takes DocumentTermMatrix
+df_lda3 <- LDA(dtm1, 
+              k = 3, 
+              control = list(seed = 1234))
+
+```
+
+docu topix
+
+
+### df projections
+
+```{r}
+
+lda3_word <- df_lda3 %>% lda_wordtop
+lda3_words_top <- lda3_word %>% top_10words
+
+lda3_doc <- df_lda3 %>% lda_doctop
+lda3_doc_wide <- lda3_doc %>% doc_wide
+
+lda3_main <- df_lda3 %>% lda_main
+```
+
+
+### gg
+```{r}
+lda3_doc_wide %>% 
+  ggplot(aes(x=log_rat21, y=topic3,size=topic3,fill=topic3))+
+  geom_point(aes(colour=topic2))
+```
+
+
+## LDA10 topcis
+```{r}
+df_lda10 <- LDA(dtm1,
+                k = 10,
+              control = list(seed = 1234))
+```
+
+### df projections
+
+```{r}
+
+lda10_word <- df_lda10 %>% lda_wordtop
+lda10_words_top <- lda10_word %>% top_10words
+
+lda10_doc <- df_lda10 %>% lda_doctop
+lda10_doc_wide <- lda10_doc %>% doc_wide
+lda10_docs_top <- lda10_doc %>% top_10docs
+
+
+lda10_main <- df_lda10 %>% lda_main
+
+
+View(lda10_docs_top)
+View(lda10_words_top)
+lda10_docs_top %>% count(document) %>% arrange(-n)
+```
+
+
+### push-clean nchar
+words top has annoying 1char words.
+```{r}
+tmp <- lda10_word %>% 
+  filter(nchar(term)>2)
+
+tmp <- tmp %>% top_10words
+```
+
+
+# CTM (wip)
+
+```{r}
+df_ctm4 <- CTM(dtm1, 4)
+eg_ctm10 <- build_graph(df_ctm10,0.991)
+```
+
+
+
+# Save
+
+
+```{r}
+save(df_lda3,
+     df_lda10,
+     dtm,
+     dtm1,
+     df_wordns,
+     df_ctm10,df_ctm4,
+     #fns
+     lda_wordtop,
+     lda_doctop, lda_main, top_10words, top_10docs, doc_wide,
+     
+     file = "lda.rda")
+
+
+```
+
+
+# 5.Outputs / Save
+
+## Basic compile
+```{r}
+save(
+  df,
+  df_word,
+  # df_wordns, 
+  df_stops,
+  df_line,
+  df_sent,
+  # df_titles,
+  file="compiled_texts.rda"
+)
+```
+
+## Book 1 prep
+
+```{r}
+files  <- dir() 
+```
+select_files
+```{r}
+files <- files %>% 
+  as.data.frame()  
+colnames(b) <- "files"
+files <- files %>% 
+  mutate(files=as.character(files)) %>% 
+  filter(grepl("txt",files)|
+           grepl("md",files)) 
+```
+
+make df and header
+- this feels cloojy but i've done it and it works.
+```{r}
+
+read_dir_txt <- function(files) {
+  df <-readChar(files[1], 
+                file.info(files[1])$size) %>% 
+  data_frame(txt=.,title=files[1])
+  
+  for (name in files){
+    a <- readChar(name, file.info(name)$size) %>% 
+    data_frame(txt=.,title=name)
+    df <- rbind(df,a)
+  }
+  return(df)
+}
+```
+
+```{r}
+book <- read_dir_txt("book v2.01.txt") %>% 
+  .[1,]
+```
+```{r}
+book_1 <- book %>% 
+  unnest_tokens(word,txt)
+book2 <- book_1 %>% 
+  anti_join(get_stopwords()) %>% 
+  count(word,sort = TRUE) %>% 
+  mutate(doc = "book")
+
+wons <- df_wordns %>% count(word,sort = TRUE) %>% 
+  mutate(doc="corpus")
+df_set <- rbind(book2,wons)
+df_tidf <- df_set %>% 
+  filter(n>1) %>% 
+  bind_tf_idf(word,doc,n) %>% 
+  filter(n>3)
+compare <- df_tidf %>% 
+  select(-n,-tf,-idf) %>% 
+  group_by(word) %>% 
+  mutate(cnt = length(doc)) %>% 
+  filter(cnt>1) %>% 
+  spread(key= "doc",value = "tf_idf")
+
+compare <- compare %>% 
+  mutate()
+  
+```
+
+## Book 2 prep
+
+currently a line breaks the csv 
+```{r}
+d2f %>% 
+  mutate(text_slc = str_sub(txt,start=1L,end = 250)) %>% 
+  select(-txt) %>% 
+  write.csv(file="csv_from_the_df.csv")
+```
+
+```{r}
+# make csv from the df
+
+dft <- df %>% 
+  mutate(txt = text) %>% 
+  rm_md_head
+
+df %>% 
+  mutate(txt = text) %>% 
+  mutate(text_slc = str_sub(txt,start=1L,end = 250)) %>% 
+  select(-txt,-text) %>% 
+  write.csv(file="csv_from_the_df.csv")
+
+```
+
+### in excel
+A. created 2 vars:
+
+```{r}
+df %>% 
+mutate(content_ratio = (wordcount_nonstop / wordcount)*100,
+       linewt = lines*content_ratio # less useful
+       linesize = wc / lines # new
+)
+
+```
+
+manually coded files into three types
+book 1 = 1
+book 2 = 2
+book 3 = 3
+
+### read in
+```{r}
+files_2 <- read_csv("_prod-folder design_book_subset.csv")
+```
+
+match my subset,
+filtering for book 2 (type==2).
+(currently uses older database, unupdated)
+
+```{r}
+df2 <- files_2 %>% 
+  select(title,
+         type) %>% 
+  left_join(df,.,by=c("title")) %>% 
+  filter(type==2) # book 2
+```
+
+### pretty for md output.
+```{r}
+rm_filetype <- . %>% 
+  filter(!grepl("md",title)) %>% 
+  mutate(title_md = str_replace_all(title, ".txt|.Rmd",""),
+         text = str_replace_all(text, "# ","### "))
+
+df2 <- df2 %>% 
+rm_filetype
+
+```
+
+
+### save
+for tmp_vars_to_md
+```{r}
+save(df2,file = "book2df.rda")
+```
+
