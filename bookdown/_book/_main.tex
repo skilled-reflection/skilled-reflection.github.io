@@ -6,8 +6,8 @@
 ]{book}
 \usepackage{amsmath,amssymb}
 \usepackage{lmodern}
-\usepackage{ifxetex,ifluatex}
-\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+\usepackage{iftex}
+\ifPDFTeX
   \usepackage[T1]{fontenc}
   \usepackage[utf8]{inputenc}
   \usepackage{textcomp} % provide euro and other symbols
@@ -33,14 +33,6 @@
   \KOMAoptions{parskip=half}}
 \makeatother
 \usepackage{xcolor}
-\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
-\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
-\hypersetup{
-  pdftitle={Skilled Reflection},
-  pdfauthor={Student0},
-  hidelinks,
-  pdfcreator={LaTeX via pandoc}}
-\urlstyle{same} % disable monospaced font for URLs
 \usepackage{longtable,booktabs,array}
 \usepackage{calc} % for calculating minipage widths
 % Correct order of tables after \paragraph or \subparagraph
@@ -69,15 +61,22 @@
   \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
 \setcounter{secnumdepth}{5}
 \usepackage{booktabs}
-\ifluatex
+\ifLuaTeX
   \usepackage{selnolig}  % disable illegal ligatures
 \fi
 \usepackage[]{natbib}
 \bibliographystyle{plainnat}
+\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\urlstyle{same} % disable monospaced font for URLs
+\hypersetup{
+  pdftitle={Skilled Reflection},
+  hidelinks,
+  pdfcreator={LaTeX via pandoc}}
 
 \title{Skilled Reflection}
-\author{Student0}
-\date{2022-04-28}
+\author{}
+\date{\vspace{-2.5em}}
 
 \begin{document}
 \maketitle
@@ -90,187 +89,236 @@
 \chapter*{Preface}\label{preface}}
 \addcontentsline{toc}{chapter}{Preface}
 
-\includegraphics{G:/Dropbox/theory/website/figs/sr_gray_transp.png}
+\begin{center}\includegraphics{figs/sr_gray_transp} \end{center}
 
-Skilled Reflection is a framework to help you make objective sense of your subjective reality.
+\hypertarget{you}{%
+\section{You}\label{you}}
 
-\hypertarget{you-and-i}{%
-\section{You and I}\label{you-and-i}}
-
-\begin{itemize}
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
 \tightlist
 \item
-  \textbf{Chapter 1: Introduction.} This book is centered on you, the specific reader that you are aware is currently reading. I am the one writing.
-\item
-  \textbf{Chapter 2: SELF.} For now you need only worry about applying the words I'm saying to your actual self, and determining exactly what or who that is.
-\item
-  \textbf{Chapter 3: PRI.} This is the good ``worry'', because the fact is you may as well \protect\hyperlink{priorities}{identify and own yourself before you die}.
-\item
-  \textbf{Chapter 4: PPL.} You are not all the other imagined readers. Perhaps they are \protect\hyperlink{ppl}{PPL}. You will be too, but not yet.
-\item
-  \textbf{Chapter 5: BET.} First you'll \protect\hyperlink{bet}{BET} about who you (think you) are, until you get sick of losing.
-\item
-  \textbf{Chapter 6: Education.} At that point you should become \protect\hyperlink{education}{a STUDENT} of better methods.
-\item
-  \textbf{Chapter 7: WORDs.} As a STUDENT you'll simulate methods efficiently with \protect\hyperlink{words}{WORDs}.
-\item
-  \textbf{Chapter 8: Revision.} We all ask, ``Will I ever do it? Will I ever tell him? What next? Is this it?'' \protect\hyperlink{revisions}{Revise} these WORDs so they are yours.
-\item
-  \textbf{Chapter 9: COMM.} Then try to {[}communicate{]}{[}COMM{]} how you are and are not PPL.
-\end{itemize}
+  You and I:
 
-Until then, the null hypothesis is that you and I and they are all the same.
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii}.}
+  \setcounter{enumii}{-1}
+  \tightlist
+  \item
+    \textbf{Introduction.} This book is centered on you, the specific reader that you are aware is currently reading. I am the one writing.
+  \item
+    \textbf{SELF.} For now, focus on applying these words to your actual \protect\hyperlink{self-1}{SELF}, and determining exactly what or who that is.
+  \item
+    \textbf{PRI.} Identify and own your \protect\hyperlink{priorities}{PRIs} before you die.
+  \item
+    \textbf{PPL.} You are not all the other imagined readers. Perhaps they are \protect\hyperlink{ppl}{PPL}. You will be too, but not yet.
+  \item
+    \textbf{BET.} First you'll \protect\hyperlink{bet-2}{BET} about who you (think you) are, until you get sick of losing.
+  \item
+    \textbf{Education.} At that point you should become \protect\hyperlink{education}{a STUDENT} of better methods.
+  \item
+    \textbf{WORDs.} As a STUDENT you'll simulate methods efficiently with \protect\hyperlink{words}{WORDs}.
+  \item
+    \textbf{Revision.} You want an answer to the same questions (below) as the rest. {[}Revise{]}{[}Revisions{]} your WORDs until they are uniquely you.
+  \item
+    \textbf{COMM.} Then you may contextualize and \protect\hyperlink{communication}{communicate} who you are among PPL.
+  \end{enumerate}
+\item
+  Until then, you and I and they are all the same.
+\end{enumerate}
 
 \hypertarget{questions}{%
 \section{Questions}\label{questions}}
 
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
-\tightlist
+\setcounter{enumi}{2}
 \item
-  You. How am I and what do I need?
-\item
-  Self. What must I do to have it?
-\item
-  Priorities. What actions maximize cake in my life?\\
-\item
-  Others. What are people?\\
-\item
-  Bet. How do I take action?\\
-\item
-  Learn. How do I figure out a better plan for my life?\\
-\item
-  Words. What are they good for?\\
-\item
-  Revision. What would your life look like on paper?
-\item
-  Communication. How can we help each other?
+  Any questions?
+
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii}.}
+  \setcounter{enumii}{-1}
+  \tightlist
+  \item
+    You. How am I and what do I need?
+  \item
+    Self. What must I do to have it?
+  \item
+    Priorities. What actions maximize my life?
+  \item
+    Others. What are people?
+  \item
+    Bet. How do I take action?
+  \item
+    Learn. How do I figure out a better plan for my life?
+  \item
+    Words. What are they good for?
+  \item
+    Revision. What would my life look like on paper?
+  \item
+    Communication. How do I relate to or help others?
+  \end{enumerate}
 \end{enumerate}
 
-\hypertarget{index-of-definitions}{%
-\section{Index of Definitions}\label{index-of-definitions}}
+\hypertarget{scope}{%
+\section{Scope}\label{scope}}
 
-This book attempts to balance convention and new ideas. They are foregrounded right here for convenience, however they will make the most sense within the narrative context of this book. Links to those primary contexts follow each definition. Keep in mind that because this list is statically generated, there will be slight discrepancies with definitions in main text as sections become updated. (Last revised: v2.15).
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{3}
+\tightlist
+\item
+  A book with defined terms is a book for humans.
+\item
+  The following list describes the critical concepts that this book deals with and by impliciation, what it does not deal with.
+\item
+  After each definition is a link to its primary context in the book.
+\item
+  Note that there may be slight discrepancies with definitions in main text as sections become updated. (Last revised: v2.15).
+\end{enumerate}
 
 \begin{itemize}
 \tightlist
 \item
-  A GOAL names an ideal future outcome, and requires a PLAN to intentionally achieve it. (\protect\hyperlink{core-concepts}{\textbf{c2.38.}})\\
+  A GOAL names an ideal future outcome, and requires a PLAN to intentionally achieve it. ({[}\textbf{c2.38}{]}{[}Core Concepts{]})\\
 \item
-  A PLAN comprises WORDS that facilitate your GOAL. (\protect\hyperlink{core-concepts}{\textbf{c2.44.}})\\
+  A PLAN comprises WORDS that facilitate your GOAL. ({[}\textbf{c2.44}{]}{[}Core Concepts{]})\\
 \item
-  A COST is what's materially required for GOALs--an amount and kind of FORCE. (\protect\hyperlink{core-concepts}{\textbf{c2.49.}})\\
+  A COST is what's materially required for GOALs--an amount and kind of FORCE. ({[}\textbf{c2.49}{]}{[}Core Concepts{]})\\
 \item
-  FOOD is the necessary and sufficient material to satisfy these needs. (\protect\hyperlink{self-1}{\textbf{c2.56.}})\\
+  FOOD is the necessary and sufficient material to satisfy these needs. (\protect\hyperlink{self-1}{\textbf{c2.56}})\\
 \item
-  CAKE is all non-FOOD GOALs. (\protect\hyperlink{self-1}{\textbf{c2.57.}})\\
+  CAKE is all non-FOOD GOALs. (\protect\hyperlink{self-1}{\textbf{c2.57}})\\
 \item
-  SELF is the GOAL to MAINTAIN HABIT, ideally to maximize BET outcomes. (\protect\hyperlink{self-1}{\textbf{c2.58.}})\\
+  SELF is the GOAL to MAINTAIN HABIT, ideally to maximize BET outcomes. (\protect\hyperlink{self-1}{\textbf{c2.58}})\\
 \item
-  HOME is the collection of tools, materials and money (which support HABITs). (\protect\hyperlink{home}{\textbf{c2.59.}})\\
+  HOME is the collection of tools, materials and money (which support HABITs). (\protect\hyperlink{home}{\textbf{c2.59}})\\
 \item
-  PRI is management of the GOALS in your life (and common themes therein). (\protect\hyperlink{attention-and-time}{\textbf{c3.33.}})\\
+  PRI is management of the GOALS in your life (and common themes therein). ({[}\textbf{c3.33}{]}{[}Attention and time{]})\\
 \item
-  PPL are different VERSIONs of each others' PRI (WRITER and READER are different, too).(\protect\hyperlink{ppl}{\textbf{c4.1.}})\\
+  PPL are different VERSIONs of each others' PRI (WRITER and READER are different, too).(\protect\hyperlink{ppl}{\textbf{c4.1}})\\
 \item
-  TIME is the constant (or denominator) for PRI and FORCES (LIB and MEMORY). (\protect\hyperlink{attention-and-time}{\textbf{c3.38.}})\\
+  TIME is the constant (or denominator) for PRI and FORCES (LIB and MEMORY). ({[}\textbf{c3.38}{]}{[}Attention and time{]})\\
 \item
-  MONEY is traded for maintenance of, or insurance for SELF and CAKE. (\protect\hyperlink{ppl}{\textbf{c4.09.}})\\
+  MONEY is traded for maintenance of, or insurance for SELF and CAKE. (\protect\hyperlink{ppl}{\textbf{c4.09}})\\
 \item
-  WORK is performing a specific task on a collective garden for MONEY. (\protect\hyperlink{work}{\textbf{c4.10.}})\\
+  WORK is performing a specific task on a collective garden for MONEY. (\protect\hyperlink{work}{\textbf{c4.10}})\\
 \item
-  NORMS are the ``average'' person's HABITs, including WORK and CHUD. (\protect\hyperlink{work}{\textbf{c4.13.}})\\
+  NORMS are the ``average'' person's HABITs, including WORK and CHUD. (\protect\hyperlink{work}{\textbf{c4.13}})\\
 \item
-  A FORCE is any cause of change including actions. (\protect\hyperlink{work}{\textbf{c4.20.}})\\
+  A FORCE is any cause of change including actions. (\protect\hyperlink{work}{\textbf{c4.20}})\\
 \item
-  MAINTENANCE is any recurring COST to neither move toward nor away from a GOAL. (\protect\hyperlink{work}{\textbf{c4.21.}})\\
+  MAINTENANCE is any recurring COST to neither move toward nor away from a GOAL. (\protect\hyperlink{work}{\textbf{c4.21}})\\
 \item
-  An ALIGNMENT is a reduced COST due to a FORCE shared between at least two GOALs. (\protect\hyperlink{work}{\textbf{c4.22.}})\\
+  An ALIGNMENT is a reduced COST due to a FORCE shared between at least two GOALs. (\protect\hyperlink{work}{\textbf{c4.22}})\\
 \item
-  A relationship (RLTP) is a GOAL about PPL. (\protect\hyperlink{work}{\textbf{c4.23.}})\\
+  A relationship (RLTP) is a GOAL about PPL. (\protect\hyperlink{work}{\textbf{c4.23}})\\
 \item
-  A BET is a PLAN template for reconciling REALITY with CHUD, to accomplish GOALS. (\protect\hyperlink{bet}{c5.28})\\
+  A BET is a PLAN that leverages TIME against CHUD to facilitate GOALs or a REALITY check. (\protect\hyperlink{bet-2}{c5.28})\\
 \item
-  CHUD is an acronym for assessing the reality of GOALs: COSTs, HABITs, UNKNOWNs and DOUBTs. (\protect\hyperlink{c.h.u.d.}{\textbf{c5.41.}})\\
+  CHUD is an acronym for assessing the reality of GOALs: COSTs, HABITs, UNKNOWNs and DOUBTs. (\protect\hyperlink{c.h.u.d.}{\textbf{c5.41}})\\
 \item
-  A HABIT is the historical average of your actions and their by-products.(\protect\hyperlink{costs-and-habits}{\textbf{c5.43.}})\\
+  A HABIT is the historical average of your actions and their by-products.({[}\textbf{c5.43}{]}{[}COSTs and HABITs{]})\\
 \item
-  An UNKNOWN is a FORCE (especially out of your CONTROL) that makes your PLAN wrong.(\protect\hyperlink{unknowns-and-doubts}{\textbf{c5.44.}})\\
+  An UNKNOWN is a FORCE (especially out of your CONTROL) that makes your PLAN wrong.({[}\textbf{c5.44}{]}{[}UNKNOWNs and DOUBTs{]})\\
 \item
-  A DOUBT is a source of predictable or nameable UNKNOWN, for example, ``denial'' or ``anxiety''. (\protect\hyperlink{unknowns-and-doubts}{\textbf{c5.48.}})\\
+  A DOUBT is a source of predictable or nameable UNKNOWN, for example, ``denial'' or ``anxiety''. ({[}\textbf{c5.48}{]}{[}UNKNOWNs and DOUBTs{]})\\
 \item
-  A STUDENT is a ROLE with IDEAS from EXPERIENCE toward selfish GOALS. (\protect\hyperlink{student}{\textbf{c6.15.}})\\
+  A STUDENT is a WRITER sacrificing TIME for concentrated REVISION of their PRIs. (\protect\hyperlink{student}{\textbf{c6.15}})\\
 \item
-  A READER hears a perspective to note their own reaction to its truth-value. (\protect\hyperlink{read}{\textbf{c6.39.}})\\
+  A READER is a WRITER studying their own reaction to and potential use of others' PLANs. (\protect\hyperlink{read}{\textbf{c6.39}})\\
 \item
-  A WRITER invests TIME and energy to map feelings onto WORDS. (\protect\hyperlink{write-plan-1}{\textbf{c6.64.}})\\
+  A WRITER invests TIME and energy to map feelings onto WORDS. ({[}\textbf{c6.64}{]}{[}WRITE PLAN{]})\\
 \item
-  An INSTRUCTOR is a READING ROLE, and enforcing BETs on STUDENTs' PLANs. (\protect\hyperlink{instructor}{\textbf{c6.73.}})\\
+  An INSTRUCTOR advises and enforces STUDENTs' BETs on PLANs (\protect\hyperlink{instructor}{\textbf{c6.73}})\\
 \item
-  A WORD is a BET for simulating (direct attention to) truth (reality) or falsehood (fantasy). (\protect\hyperlink{word-as-bet}{\textbf{c7.20.}})\\
+  A WORD is a BET for simulating (direct attention to) truth (reality) or falsehood (fantasy). ({[}\textbf{c7.20}{]}{[}WORD as BET{]})\\
 \item
-  An EXAMPLE is an individual, particular event or object of reality. (\protect\hyperlink{example-and-idea}{\textbf{c7.45}})\\
+  An EXAMPLE is an individual, particular event or object of reality. ({[}\textbf{c7.45}{]}{[}EXAMPLE and IDEA{]})\\
 \item
-  A USE-CASE is an EXAMPLE with consequence (vs HYPE). (\protect\hyperlink{example-and-idea}{\textbf{c7.45}})\\
+  A USE-CASE is an EXAMPLE with consequence (vs HYPE). ({[}\textbf{c7.45}{]}{[}EXAMPLE and IDEA{]})\\
 \item
-  A HYPE (hypothetical/hype) is an EXAMPLE in-principle (vs USE-CASE).(\protect\hyperlink{example-and-idea}{\textbf{c7.45}})\\
+  A HYPE (hypothetical/hype) is an EXAMPLE in-principle (vs USE-CASE).({[}\textbf{c7.45}{]}{[}EXAMPLE and IDEA{]})\\
 \item
-  A LINK is a WORD that relates at least two EXAMPLES, IDEAS, or describes ACTIONS, ROLES, and transformations. (\protect\hyperlink{example-and-idea}{\textbf{c7.46}})\\
+  A LINK is a WORD that relates at least two EXAMPLES, IDEAS, or describes ACTIONS, ROLES, and transformations. ({[}\textbf{c7.46}{]}{[}EXAMPLE and IDEA{]})\\
 \item
-  An IDEA is a set of criteria that LINKs EXAMPLEs as similar (vs not). (\protect\hyperlink{example-and-idea}{\textbf{c7.46}})\\
+  An IDEA is a set of criteria that LINKs EXAMPLEs as similar (vs not). ({[}\textbf{c7.46}{]}{[}EXAMPLE and IDEA{]})\\
 \item
-  A PLAN is a BET on a winning arrangement of WORDS that result in the GOAL. (\protect\hyperlink{word-as-bet}{\textbf{c7.23.}})\\
+  A PLAN is a BET on a winning arrangement of WORDS that result in the GOAL. ({[}\textbf{c7.23}{]}{[}WORD as BET{]})\\
 \item
-  A SCIENTIST BETs new CONTENT against the UNKNOWN, evaluated for their net gain for NORMs. (\protect\hyperlink{role-scientist}{\textbf{c7.47.}})\\
+  A SCIENTIST BETs new CONTENT against the UNKNOWN, evaluated for their net gain for NORMs. ({[}\textbf{c7.47}{]}{[}ROLE Scientist{]})\\
 \item
-  A RESEARCHER is a SCIENTIST WRITER, a data-collector and hypothesis tester. (\protect\hyperlink{role-scientist}{\textbf{c7.48.}})\\
+  A RESEARCHER is a SCIENTIST WRITER, a data-collector and hypothesis tester. ({[}\textbf{c7.48}{]}{[}ROLE Scientist{]})\\
 \item
-  A SCHOLAR is a SCIENTIST READER, curating toward theory development and COMM. (\protect\hyperlink{role-scientist}{\textbf{c7.49.}})\\
+  A SCHOLAR is a SCIENTIST READER, curating toward theory development and COMM. ({[}\textbf{c7.49}{]}{[}ROLE Scientist{]})\\
 \item
-  A LESSON is an ordered set of prompts, usually three to four, up to 60 minutes.(\protect\hyperlink{lessons-1}{\textbf{c8.19.}})\\
+  A LESSON is an ordered set of prompts, usually three to four, up to 60 minutes.(\protect\hyperlink{lessons-1}{\textbf{c8.19}})\\
 \item
-  A NOTE is a general PLAN for REVISION. (Available on request.) (\protect\hyperlink{notes-and-peers}{\textbf{c8.33.}})\\
+  A NOTE is a general PLAN for REVISION. (Available on request.) ({[}\textbf{c8.33}{]}{[}NOTES and PEERs{]})\\
 \item
-  A RECIPE is a DOC format that PRIs CONTENT (IDEAS and LINKS) over STYLE. (\protect\hyperlink{doc-types}{\textbf{c8.37.}})\\
+  A RECIPE is a DOC format that PRIs CONTENT (IDEAS and LINKS) over STYLE. ({[}\textbf{c8.37}{]}{[}DOC types{]})\\
 \item
-  COMM is the exchange of WORDS between PPL. (\protect\hyperlink{style}{\textbf{c9.45.}})\\
+  COMM is the exchange of WORDS between PPL. (\protect\hyperlink{style}{\textbf{c9.45}})\\
 \item
-  VERSIONs are variations of STYLE on a identical CONTENT, implicitly in temporal order. (\protect\hyperlink{pris-differ}{\textbf{c9.61.}})\\
+  VERSIONs are variations of STYLE on a identical CONTENT, implicitly in temporal order. ({[}\textbf{c9.61}{]}{[}PRIs differ{]})\\
 \item
-  A PLAN for a DOC is an earlier VERSION of the (same) final DOC. (\protect\hyperlink{pris-differ}{\textbf{c9.62.}})\\
+  A PLAN for a DOC is an earlier VERSION of the (same) final DOC. ({[}\textbf{c9.62}{]}{[}PRIs differ{]})\\
 \item
-  PITCH is DOC STYLE for why to READ. (\protect\hyperlink{norms-style}{\textbf{c9.65.}})
+  PITCH is DOC STYLE for why to READ. ({[}\textbf{c9.65}{]}{[}NORMs STYLE{]})
 \end{itemize}
 
-\hypertarget{authors-note}{%
-\section{Author's Note}\label{authors-note}}
+\hypertarget{draft}{%
+\section{Draft}\label{draft}}
 
-This is an early copy of Skilled Reflection, and much of it is still in development. Thank you for your patience. I welcome any and all constructive feedback. Check back later for a revised and updated version.
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{7}
+\tightlist
+\item
+  This is an early copy of Skilled Reflection, and much of it is still in development. Thank you for your patience. I welcome any and all constructive feedback (\href{mailto:skilledreflection@gmail.com}{\nolinkurl{skilledreflection@gmail.com}}). Check back later for a revised and updated version.
+\end{enumerate}
+
+\hypertarget{version}{%
+\section{Version}\label{version}}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{8}
+\item
+  When I first set out to write SR as a book I quickly realized a problem could hang me up forever, both simple and superficial.
+\item
+  It is the problem of what order to present the information, so that its truth is easily learnable and most evident.
+\item
+  In Version 1 of this book, I deliberately set aside this problem, in order to name and contain the system of thinking.
+\item
+  Version 2 takes the first step in remediation by streamlining all essential terms and links of the system into a shared frame, called ``the Garden'' (introduced in version one). Even still, in this respect version 2 is only a working prototype at best.
+\item
+  I pen this Forward at the advent of betting my life on Version 3 (2022-08-30). I cannot promise if / when it will surface, but if you are curious, do not wait. You can find Version 3 already here, between the lines and at their intersections.
+\end{enumerate}
 
 \hypertarget{introduction}{%
-\chapter{Introduction}\label{introduction}}
+\chapter*{Introduction}\label{introduction}}
+\addcontentsline{toc}{chapter}{Introduction}
 
-\hypertarget{dear-me}{%
-\section{Dear me,}\label{dear-me}}
+Dear me,
 
-\hypertarget{your-life}{%
-\subsection{Your life}\label{your-life}}
+\hypertarget{dear}{%
+\section{Dear}\label{dear}}
 
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
 \tightlist
 \item
-  Read this book because you're ready to.
+  Dear, Read this book because you're ready to.
 \item
-  You are going to die someday. This book is for you if there is something in the
-  meantime worth maximizing.
+  You are going to die someday. This book is for you if there is something in the meantime worth maximizing.
 \item
-  Please engage your life.
-  This book is meant to help you understand and take action, starting right now.
+  Please engage your life. This book is meant to help you understand and take action, starting right now.
 \end{enumerate}
 
-\hypertarget{is}{%
-\subsection{is}\label{is}}
+\hypertarget{test}{%
+\section{Test}\label{test}}
 
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
@@ -281,18 +329,15 @@ This is an early copy of Skilled Reflection, and much of it is still in developm
 \item
   The WORDS in this book are meaningful only when you apply them to your life.
 \item
-  If you wrote the date and time as requested in step 4, you have proven enough to yourself that you are open to trying
-  new ideas. You are prepared to grow and continue reading.
+  If you wrote the date and time as requested in step 4, you have proven enough to yourself that you are open to trying new ideas. You are prepared to grow and continue reading.
 \item
-  If you left the line blank, you might tell yourself you are open to new ideas. You
-  will be right when you complete the task.
+  If you left the line blank, you might tell yourself you are open to new ideas. You will be right when you complete the task.
 \item
-  Either write the TIME above or stop reading, and take a better action to improve
-  your life, right now.
+  Either write the TIME above or stop reading, and take a better action to improve your life, right now.
 \end{enumerate}
 
-\hypertarget{a-game.}{%
-\subsection{a game.}\label{a-game.}}
+\hypertarget{game}{%
+\section{Game}\label{game}}
 
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
@@ -306,11 +351,11 @@ This is an early copy of Skilled Reflection, and much of it is still in developm
 \item
   Spend more time deciding which will be the next moves in your game of life.
 \item
-  Sincerely, student0
+  Sincerely, Another
 \end{enumerate}
 
-\hypertarget{go-camping}{%
-\section{Go Camping}\label{go-camping}}
+\hypertarget{camp}{%
+\section{Camp}\label{camp}}
 
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
@@ -339,8 +384,8 @@ This is an early copy of Skilled Reflection, and much of it is still in developm
   The games we (PPL, SCIENTISTs, etc.) play to explain away this fact, end with this book.
 \end{enumerate}
 
-\hypertarget{in-two-worlds}{%
-\subsection{in two worlds}\label{in-two-worlds}}
+\hypertarget{pitch}{%
+\section{Pitch}\label{pitch}}
 
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
@@ -358,8 +403,8 @@ This is an early copy of Skilled Reflection, and much of it is still in developm
   Part two teaches you how to (re)build your tools.
 \end{enumerate}
 
-\hypertarget{or-eat-right.}{%
-\subsection{or eat right.}\label{or-eat-right.}}
+\hypertarget{eat}{%
+\section{Eat}\label{eat}}
 
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
@@ -388,26 +433,23 @@ This is an early copy of Skilled Reflection, and much of it is still in developm
   Beware of thinking CAKE is FOOD.
 \end{enumerate}
 
-\hypertarget{be-homeless}{%
-\section{Be homeless}\label{be-homeless}}
-
-\hypertarget{do-dont-think.}{%
-\subsection{Do, don't think.}\label{do-dont-think.}}
+\hypertarget{homeless}{%
+\section{Homeless}\label{homeless}}
 
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
 \setcounter{enumi}{25}
 \tightlist
 \item
-  Likely at this point you have slipped into thinking this is a book discussing a philosophy, but it is not.
+  Do, don't think. Likely at this point you have slipped into thinking this is a book discussing a philosophy, but it is not.
 \item
   FOOD vs CAKE is not understood and solved as a mental exercise in your living room, but by experiencing and paying attention.
 \item
-  What's more, if you don't have a living room, CAKE can be painfully obvious.
+  What's more, if you don't have a living room, CAKE can be painfully obvious. Be homeless.
 \end{enumerate}
 
-\hypertarget{or-like-it.}{%
-\subsection{Or like it.}\label{or-like-it.}}
+\hypertarget{food}{%
+\section{Food}\label{food}}
 
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
@@ -430,15 +472,6 @@ This is an early copy of Skilled Reflection, and much of it is still in developm
   \item
     You were isolated in your house for most of two years during a global pandemic.
   \end{enumerate}
-\end{enumerate}
-
-\hypertarget{time-changes}{%
-\subsection{TIME changes}\label{time-changes}}
-
-\begin{enumerate}
-\def\labelenumi{\arabic{enumi}.}
-\setcounter{enumi}{30}
-\tightlist
 \item
   Whatever the circumstance, your HABIT protests for a change in PLANS.
 \item
@@ -451,8 +484,8 @@ This is an early copy of Skilled Reflection, and much of it is still in developm
   You will need far less FOOD than you thought, giving more time and quality CAKE you really desire.
 \end{enumerate}
 
-\hypertarget{the-garden}{%
-\section{The Garden}\label{the-garden}}
+\hypertarget{plan}{%
+\section{Plan}\label{plan}}
 
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
@@ -484,16 +517,15 @@ This is an early copy of Skilled Reflection, and much of it is still in developm
 \item
   Don't wait to finish the book to try one out, because they are pivotal to Skilled Reflection.
 \item
-  However, don't do too many of them before at least reading the relevant section that explains the format of \protect\hyperlink{skilled-reflection}{Skilled Reflection}.
+  However, don't do too many of them before at least reading the relevant section that explains the format of {[}Skilled Reflection{]}{[}Skilled Reflection{]}.
 \end{enumerate}
 
-\hypertarget{this-books-food.}{%
-\section{This book's FOOD.}\label{this-books-food.}}
+\hypertarget{definitions}{%
+\section{Definitions}\label{definitions}}
 
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
 \setcounter{enumi}{44}
-\tightlist
 \item
   WORDS in all capital letters are IDEAS that have specific definitions that differ
   slightly from conventional use.
@@ -502,7 +534,7 @@ This is an early copy of Skilled Reflection, and much of it is still in developm
 \item
   Do not overlook the nuances for these terms, they are the result of careful decisions about the FOOD and CAKE of the IDEAs.
 \item
-  You can find a list of the key ideas in the \protect\hyperlink{index-of-definitions}{Index of Definitions}.
+  You can find a list of the key ideas in the {[}Index of Definitions{]}{[}Index of Definitions{]}.
 \item
   \textless- Use the enumeration of ideas to cross-reference.
 \item
@@ -514,20 +546,22 @@ This is an early copy of Skilled Reflection, and much of it is still in developm
 \item
   Like FOOD vs CAKE, the HABITs relevant to your GOALs can be closer to FOOD, or excessive like CAKE.
 \item
-  In the context of definitions, they will be referred to instead, as ``good'' and ``bad'' (For example, \protect\hyperlink{pris-differ}{c9.60}).
+  In the context of definitions, they will be referred to instead, as ``good'' and ``bad'' (For example, {[}c9.60{]}{[}PRIs Differ{]}).
 \end{enumerate}
 
-\hypertarget{part-the-garden}{%
-\part{The Garden}\label{part-the-garden}}
+\hypertarget{the-garden}{%
+\chapter*{The Garden}\label{the-garden}}
+\addcontentsline{toc}{chapter}{The Garden}
 
 \hypertarget{self}{%
-\chapter{SELF}\label{self}}
+\chapter{Self}\label{self}}
 
-\hypertarget{your-garden}{%
-\section{Your Garden}\label{your-garden}}
+\hypertarget{garden}{%
+\section{Garden}\label{garden}}
 
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
+\tightlist
 \item
   Imagine your life takes place in a garden.
 \item
@@ -572,10 +606,25 @@ This is an early copy of Skilled Reflection, and much of it is still in developm
 \item
   Thus, in the garden you are still a normal human bound to a normal space and
   time, capable of:
-  18.1. acting according to bodily need,
-  18.2. moving about space, and
-  18.3. gardening.
-  Today
+
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii}.}
+  \tightlist
+  \item
+    acting according to bodily need,
+  \item
+    moving about space, and
+  \item
+    gardening.
+  \end{enumerate}
+\end{enumerate}
+
+\hypertarget{today}{%
+\section{Today}\label{today}}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{18}
 \item
   Today, you are looking out across the entire garden.
 \item
@@ -624,23 +673,14 @@ This is an early copy of Skilled Reflection, and much of it is still in developm
   and attention.
 \end{enumerate}
 
-\hypertarget{core-concepts}{%
-\section{Core Concepts}\label{core-concepts}}
+\hypertarget{goal}{%
+\section{Goal}\label{goal}}
 
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
 \setcounter{enumi}{36}
-\tightlist
 \item
   The following are core concepts for application beyond the Garden.
-\end{enumerate}
-
-\hypertarget{goals}{%
-\subsection{GOALS}\label{goals}}
-
-\begin{enumerate}
-\def\labelenumi{\arabic{enumi}.}
-\setcounter{enumi}{37}
 \item
   A GOAL names an ideal future reality, comprises a PLAN to increase its
   likelihood, associated with CHUD.
@@ -652,6 +692,14 @@ This is an early copy of Skilled Reflection, and much of it is still in developm
   It is \emph{your} GOAL if you aim to increase its probability of being true.
 \item
   A GOAL can be finite or persistent, singular or recurring, or realistic or not.
+\end{enumerate}
+
+\hypertarget{plan-1}{%
+\section{Plan}\label{plan-1}}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{42}
 \item
   If you will need to do something before it is in your hand, it requires a PLAN.
 \item
@@ -682,7 +730,7 @@ This is an early copy of Skilled Reflection, and much of it is still in developm
 \end{enumerate}
 
 \hypertarget{self-1}{%
-\subsection{SELF}\label{self-1}}
+\section{SELF}\label{self-1}}
 
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
@@ -698,17 +746,25 @@ This is an early copy of Skilled Reflection, and much of it is still in developm
 \item
   CAKE is anything (else) fulfilling, that you are inclined to pursue, including the reason for living.
 \item
-  The GOALS of SELF are what's necessary and sufficient to obtain and manage FOOD and maximize BET outcomes (\protect\hyperlink{bet}{c5.28}).
-  58.1. Separate FOOD from CAKE.
-  58.2. Be careful not to mislabel CAKE as FOOD. CAKE may appear sufficient but
-  ask yourself if it is necessary.
-  58.3. Build routines for health and fitness, physical safety (shelter), a sound
-  mind, healthy relationships.
-  58.4. Master the SELF (survive well).
+  The GOALS of SELF are what's necessary and sufficient to obtain and manage FOOD and maximize BET outcomes (\protect\hyperlink{bet-2}{c5.28}).
+
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii}.}
+  \tightlist
+  \item
+    Separate FOOD from CAKE.
+  \item
+    Be careful not to mislabel CAKE as FOOD. CAKE may appear sufficient but ask yourself if it is necessary.
+  \item
+    Build routines for health and fitness, physical safety (shelter), a sound
+    mind, healthy relationships.
+  \item
+    Master the SELF (survive well).
+  \end{enumerate}
 \end{enumerate}
 
 \hypertarget{home}{%
-\subsection{Home}\label{home}}
+\section{Home}\label{home}}
 
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
@@ -739,38 +795,29 @@ This is an early copy of Skilled Reflection, and much of it is still in developm
 \hypertarget{priorities}{%
 \chapter{Priorities}\label{priorities}}
 
-\hypertarget{your-calling-part-i}{%
-\section{Your Calling, Part I}\label{your-calling-part-i}}
+\hypertarget{calling}{%
+\section{Calling}\label{calling}}
 
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
 \item
-  Your calling,\\
-  your highest priority,\\
-  is yours to name.
+  Your calling--your highest priority--is yours to name.
 \item
-  If you overcome your DOUBTs,\\
-  and see reality plainly,\\
-  you will want peace.
+  If you overcome your DOUBTs and see reality plainly, you will want peace.\\
 \item
-  But we all have DOUBTs, so\\
-  you want some form of\\
-  dignity and affirmation.
+  But we all have DOUBTs, so you want some form of dignity and affirmation.
 \item
-  Tell me your calling, student,\\
-  and subtracting from peace,\\
-  I'll tell you your DOUBTs.
+  Tell me your calling, student, and subtracting from peace, I'll tell you your DOUBTs.
 \item
-  On mastering my book\\
-  your life will be regimented\\
-  to afford your calling.
+  On mastering my book your life will be regimented to afford your calling.
 \end{enumerate}
 
-\hypertarget{cake-of-cakes}{%
-\section{Cake of Cakes}\label{cake-of-cakes}}
+\hypertarget{cakes}{%
+\section{Cakes}\label{cakes}}
 
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{5}
 \tightlist
 \item
   In your garden you have the seeds and sprouts of the best you could want, and the most important of what you need.
@@ -820,12 +867,12 @@ This is an early copy of Skilled Reflection, and much of it is still in developm
   Leave time in your life to achieve the next GOAL.
 \end{enumerate}
 
-\hypertarget{death-and-sickness}{%
-\section{Death and Sickness}\label{death-and-sickness}}
+\hypertarget{death}{%
+\section{Death}\label{death}}
 
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
-\setcounter{enumi}{18}
+\setcounter{enumi}{25}
 \tightlist
 \item
   Many PPL believe in seeds with special powers, like true love, or winning the
@@ -840,12 +887,12 @@ This is an early copy of Skilled Reflection, and much of it is still in developm
   Think about this, but don't dwell on it.
 \end{enumerate}
 
-\hypertarget{bad-days}{%
-\section{Bad days}\label{bad-days}}
+\hypertarget{sick}{%
+\section{Sick}\label{sick}}
 
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
-\setcounter{enumi}{22}
+\setcounter{enumi}{29}
 \tightlist
 \item
   Maybe you are sick, down or depressed.
@@ -869,8 +916,8 @@ This is an early copy of Skilled Reflection, and much of it is still in developm
   come in unfortunate forms, at inconvenient times.
 \end{enumerate}
 
-\hypertarget{attention-and-time}{%
-\section{Attention and time}\label{attention-and-time}}
+\hypertarget{attention}{%
+\section{Attention}\label{attention}}
 
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
@@ -905,12 +952,11 @@ This is an early copy of Skilled Reflection, and much of it is still in developm
   \end{enumerate}
 \end{enumerate}
 
-\includegraphics{G:/Dropbox/theory/website/figs/group.png}
+\includegraphics{C:/Users/Public/Dropbox/2-theory/1_skilled_reflection/website/figs/group.png}
 
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
 \setcounter{enumi}{35}
-\tightlist
 \item
   Ask what it would take to change (if possible), and whether change is worth it.
 \item
@@ -947,173 +993,128 @@ This is an early copy of Skilled Reflection, and much of it is still in developm
 \item
   What is happening in your life, and what is in your control if these are unclear?
 \item
-  If you are not reflecting on your life, your garden is a foggy labyrinth, and you
-  are a drunk gardener wearing oven-mitts.
+  If you are not reflecting on your life, your garden is a foggy labyrinth, and you are a drunk gardener wearing oven-mitts.
+\item
+  You are pushed like a sail by any wind, the FORCES of reality.
+\item
+  A FORCE is any cause of change.
+\item
+  A FORCE underlies every action involved in a GOAL, yours or otherwise.
+\item
+  There are forces within your control, and forces outside.
+\item
+  MAINTENANCE is the COST of FORCE to neither move toward nor
+  away from a GOAL.
+\item
+  ALIGNMENT is when NORM or natural FORCE causes your GOAL to be more likely.
+
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii}.}
+  \tightlist
+  \item
+    To ALIGN is to adjust your GOAL to be more like another force, usually one acting against your GOAL.
+  \item
+    Study how forces WORK against you.
+    moment
+  \end{enumerate}
+\end{enumerate}
+
+\hypertarget{now}{%
+\section{Now}\label{now}}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{46}
+\tightlist
+\item
+  Now is the only use-case of shared space, in time.
+\item
+  A MOMENT is any now that is not the latest, either future or past.
+\item
+  A record of now becomes past `nows' of variable use-case.
+
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii}.}
+  \tightlist
+  \item
+    That is, we might reflect on the previous nows that we shared.
+  \item
+    Note that past nows do not maintain the same level of rigor. They are degraded to hype when mis-replayed, misunderstood, or accessed under changed priorities.
+  \item
+    In seeing passage, we might speculate on future nows to be shared.
+  \item
+    The discourse of past or future is always at least partially hype, but real (use) when bet on.
+  \end{enumerate}
 \end{enumerate}
 
 \hypertarget{ppl}{%
 \chapter{PPL}\label{ppl}}
 
-\hypertarget{pushed-in-new-work}{%
-\section{pushed in new work}\label{pushed-in-new-work}}
-
-\hypertarget{intro}{%
-\subsection{intro}\label{intro}}
-
-Now is the time for you to see
-what you probably expected to.
-Every time you read an email,
-look at social media or text,
-you are at least at the perimeter of your garden
-looking elsewhere,
-but hopefully at least there-there
-
-that's one side of
-relationship
-BETs.
-(The better bets on the world;
-In a rltp, one is the better and
-the other is the bet and bet on.
-
-the other side
-is all we do for you
-that you need.
-for so much of your
-day, living awareness,
-and dreams,
-you are outside your garden
-looking for a GOOD
-for you.
-Whether to keep you alive,
-made and prepared food,
-shelter,
-you are gone.
-
-(for most of us,
-however,)
-you're gone for most of the time
-to WORK.
-
-\hypertarget{first-intermission}{%
-\subsection{first intermission}\label{first-intermission}}
-
-you have three places of life.
-the first is on your garden
-making your life and meeting your needs.
-the second is away from your garden,
-getting something someone else made,
-for your needs.
-the third is making something
-at a job,
-to get money so you can pay
-for those things others made
-that you want.
-
-the simple equation
-that each of us solves
-is this one;
-what proportion
-of time,
-and for what goods,
-do we spend at each of the three locations?
-
-from these datum alone
-we have all we need to know
-as a psychological baseline
-for each individual difference.
-
-if you don't like
-working for goods,
-the good news is
-you can go back to your garden
-at any time.*
-you will have to figure out what to do there,
-but you're welcome to it.
-stay in your house,
-or plant something.
-you'll need to learn a lot to make it worthwhile.
-
-resolved:
-come up with a planned ratio of time
-spent at each.
-
-spend only as much time needed
-to work to
-earn only enough time learning
-how to spend the least time needed
-to make it real.
-
-\hypertarget{part-two-rules-of-work}{%
-\subsection{part two: rules of work}\label{part-two-rules-of-work}}
-
-the first rule of work
-is what brought you here:
-money.
-you are here for it,
-and in exchange you will
-do something that at least one person
-wants you do to.
-if its a company, many people want it.
-
-you can think of this simpler,
-like a communist.
-what you do is for another,
-just like the basic cute way
-you first imagined what it might mean
-to go ``visit'' another's garden.
-
-\hypertarget{part-three-shared-thinking}{%
-\subsection{part three: shared thinking}\label{part-three-shared-thinking}}
-
-if you have a job
-that pays you to think,
-- (an analysis or coding or writing job for example)
-then pay mind something most don't:
-you are work for hire.
-even if your subject-matter is reality
-(which it usually should be to a good degree,
-and also obscured by capitalist goals)
-it is your job to
-understand the shared terms of reality
-and speak from it.
-this is the opposite of
-understanding reality from yourself.
-of course it means starting
-with your own understanding,
-and then yet translating it
-as you understand needs be
-to speak what most know
-the identical experience as.
-
-let this section be the prequel
-to peer-review
-in education.
-
-\hypertarget{who-are-ppl}{%
-\section{Who are PPL}\label{who-are-ppl}}
-
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
-\tightlist
 \item
-  Just like you, others are trying to figure out what goes in their garden.* PPL are different VERSIONs of each others' PRI (\protect\hyperlink{norms-style}{see also c9.70}).
+  Just like you, others are trying to figure out what goes on in their own garden.* PPL are different VERSIONs of each others' PRI ({[}see also c9.70{]}{[}NORMs STYLE{]}).
+\item
+  Amid the goals and forces of this chapter, none of what is described includes using WORDs. Reader, you will begin to understand their nature in the next chapter, BET, but as it pertains WORDs that PPL use with each other, not until the last chapter, COMM.
 \end{enumerate}
 
-* \textbf{You could think of people as seeds in your garden, but this is an over-application of seeds; and its unnecessary.}
-2. Maybe they are your friend, and need help with some unruly vines, or
-maybe you just like their apples.
-3. Sometimes, PPL will contribute to your goals, as if bringing water to crops you didn't recognize need them. 4. Sometimes PPL will try to water your crops when they don't need watering.
-5. Sometimes visiting their garden will bring up your morale, or get you a bag of apples to take home.
-6. Sometimes you'll need to water some crops that need to be watered, because the sight of their neglect cannot be ignored.
-7. Keep in mind that the challenges that sometimes overwhelm you are the same kind others deal with, but not always the same amount and at the same time.
-8. How are PPL affecting your garden?
-
-\hypertarget{work}{%
-\section{WORK}\label{work}}
+\hypertarget{places}{%
+\section{Places}\label{places}}
 
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
-\setcounter{enumi}{5}
+\setcounter{enumi}{2}
+\tightlist
+\item
+  Consider PPL in terms of the four places of your life:
+
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii}.}
+  \tightlist
+  \item
+    on your garden dealing with your SELF.
+  \item
+    on someone else's garden.
+  \item
+    at WORK making something for others for money.
+  \item
+    getting something someone else made (MARKET).
+  \end{enumerate}
+\item
+  Sometimes you are at your garden's edge
+  looking elsewhere.
+  For example, when you read an email or social media feed,
+  as if looking across your neighbor's plot,
+  studying how to bring your lettuce back to life,
+  or celebrating your friend's successful pumpkin patch.
+\end{enumerate}
+
+\hypertarget{gate}{%
+\section{Gate}\label{gate}}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{4}
+\tightlist
+\item
+  Despite garden-based PRIs, most of your time
+  is spent outside your garden, and mostly for WORK (about 80,000 hours in your life).
+\item
+  Acknowledge the PPL in your PRIs, yet don't let them distract.
+\item
+  Notice how long you leave your garden and to where.
+\item
+  Spend only as much time needed away for your PRIs.
+\item
+  For example, most time on others' gardens, and any more than the minimum at WORK or MARKET is CAKE. When in doubt, go HOME and stare at your plants. At least that CAKE is free.
+\end{enumerate}
+
+\hypertarget{work}{%
+\section{Work}\label{work}}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{9}
 \item
   Where do you get seeds for FOOD from and how did you know to plant them?
 \item
@@ -1123,43 +1124,29 @@ maybe you just like their apples.
 \item
   Money is traded for maintenance of, or insurance for SELF and CAKE, like apples, miracle medical procedures, and a toilet to take your poop somewhere else.
 \item
-  WORK is performing a specific task on a collective garden, like an institution's in exchange for money.
-\item
-  You'll WORK about 80,000 hours in your life.
+  WORK is performing a specific task on a collective garden, like an institution's in exchange for money. It is a pre-arranged visit to another garden for a specified time.
 \item
   Whether or not you like it, or it directly fulfills garden needs, WORK is made to serve NORMS, not you.
 \item
-  NORMS are all actions assumed of (or about) the ``average'' person. They are the web of FORCES of all actions of all PPL, including
-  WORK, religion, popular attitudes, and DOUBTS.
+  NORMS are all actions assumed of (or about) the ``average'' person. They are the web of FORCES of all actions of all PPL, including WORK, religion, popular attitudes, and DOUBTS.
+\end{enumerate}
+
+\hypertarget{analysis}{%
+\section{Analysis}\label{analysis}}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{16}
 \item
-  Relatedly, NORMS assume you will WORK for money for goods.
+  If you have a job that pays you to think, your mind is hired to make NORMS products real.
+\item
+  Instead of your reality, your WORK is to translate NORMS's reality, CHUD-adjusted.
+\item
+  NORMS assume you will WORK for money for goods.
 \item
   Language, agreed usage of WORDS, is made from NORMS.
 \item
   NORMS push against individuality (except where it provides a lucrative job opportunity).
-\item
-  A FORCE is any cause of change.
-\item
-  A FORCE underlies every action involved in a GOAL, yours or
-  otherwise.
-\item
-  There are forces within your control, and forces outside.
-\item
-  MAINTENANCE is the COST of FORCE to neither move toward nor
-  away from a GOAL.
-\item
-  ALIGNMENT is when NORM or natural FORCE causes your GOAL to be
-  more likely.
-
-  \begin{enumerate}
-  \def\labelenumii{\arabic{enumii}.}
-  \tightlist
-  \item
-    To ALIGN is to adjust your GOAL to be more like another force,
-    usually one acting against your GOAL.
-  \item
-    Study how forces WORK against you.
-  \end{enumerate}
 \item
   Relationships (RLTP) are GOALS about PPL (PPL).
 \item
@@ -1167,89 +1154,43 @@ maybe you just like their apples.
 \item
   Bad ones COST more.
 \item
-  A RLTP is a reciprocal pair of BETS, yours of them, and vice versa.
+  A RLTP is a reciprocal pair of BETS, yours of them, and vice versa. One is the better and the other is the bet and bet on.
 \item
   RLTPS, especially family members, coordinate many GOALS for SAVINGS.
-\item
-  Pick WORK and RLTP that maximize your other PRIS including possibly
-  one that maximizes TIME and money to apply to other PRIS.
-\item
-  Pick friends the same way.
-\item
-  Consider your actions and choices about PPL carefully.
-\item
-  Maximally ALIGN with NORMS with least compromise to PRIS.
-\item
-  ALIGN (get along) with PPL.
 \end{enumerate}
 
-\hypertarget{the-classroom}{%
-\section{The Classroom}\label{the-classroom}}
-
-\textbf{Note: If this section is confusing, revisit it after ``Ed''.}
+\hypertarget{others}{%
+\section{Others}\label{others}}
 
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
-\setcounter{enumi}{32}
+\setcounter{enumi}{26}
 \item
-  (No one chose to be born.)
+  Maybe they are your friend, and need help with some unruly vines, or maybe you just like their apples.
 \item
-  Everyone begins life with their own unnamed and unanswered
-  problems.
+  Sometimes, PPL will contribute to your goals, as if bringing water to crops you didn't recognize need them. 4. Sometimes PPL will try to water your crops when they don't need watering.
 \item
-  Books can only tell a student what the answer is not (quite).
+  Sometimes you'll return with higher morale or a bag of apples.
 \item
-  The gap between problem and book answers is left for the student to
-  ``apply''.
+  Sometimes you'll need to water some crops that need to be watered, because the sight of their neglect cannot be ignored.
 \item
-  A better approach would be to let the student define the problem
-  through their reality and life GOALS.
+  The challenges that overwhelm you are the same for others, just not always the same amount nor at the same time.
 \item
-  Let them write the PLAN and teach them only what is needed to
-  succeed.
+  The place, duration and impact on your PRIs are the basic measurements of a RLTP.
 \item
-  Imagine a perfect course exists, designed to teach you to fulfill your
-  specific ambitions.
+  Pick WORK and RLTPs, including friends, that maximize your other PRIS including possibly one that maximizes TIME and money to apply to other PRIS.
 \item
-  Every aspect of what you NEED to know, that is known and
-  communicable, is the only thing written.
+  Maximally ALIGN with NORMS with least compromise to PRIs. Get along with PPL.
 \item
-  Everything that cannot be known but must be discovered or practiced,
-  is laid out as a set of instructions, described in the WORDS that
-  maximize the learning opportunity, and your progress.
+  PPL are the part of PRIs that require the most care, and fewest words.
 \item
-  Rather than a course in a classroom, the perfect class is a manual to
-  reference as you live your life, or at least until you've internalized its
-  contents:
+  A GOOD RLTP is a CONTRACT of the reciprocated actions (USE) between two PPL.
 \item
-  when to take a break to strategize your decisions, lessons on what
-  opportunities to watch for and resist, and so on.
-\item
-  Any social role you wish to take on, artist, engineer, therapist,
-  insurance salesperson, reliable partner, is customized intimately,
-  curated perfectly for what you need.
-\item
-  Any relationship or interpersonal skill that is realistically possible for
-  you is preceded with the guidance and education that prepares you
-  emotionally to choose the right experiences that set you up to be
-  most likely to find and make the most of opportunities to share
-  yourself with another.
-\item
-  People, are the part of a theory of life that require the most care, and least words.
-\item
-  Unlike the nature of our actions which play unconsciously and imply bets,
-\item
-  Common, bad people activity is the habit of over-emphasizing mutual bets, and
-\item
-  which fall out of alignment with actions.
-\item
-  Instead, consider a relationship to be only the actions that are reciprocated;
-\item
-  and call this the relationship `contract.'
+  A BAD RLTP is HYPED mutual BETs (unaligned with actions), that waste time.
 \end{enumerate}
 
 \hypertarget{bet}{%
-\chapter{BET}\label{bet}}
+\chapter{Bet}\label{bet}}
 
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
@@ -1277,78 +1218,61 @@ maybe you just like their apples.
   How real will your dreams get before you die?
 \end{enumerate}
 
-\hypertarget{a-parable}{%
-\section{A parable}\label{a-parable}}
-
-\hypertarget{a-stranger-comes-to-town.}{%
-\subsection{A stranger comes to town.}\label{a-stranger-comes-to-town.}}
+\hypertarget{stranger}{%
+\section{Stranger}\label{stranger}}
 
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
 \setcounter{enumi}{9}
 \tightlist
 \item
-  A stranger comes to your garden at the end of a long day, which you realize only when you hear him chopping his
-  jaw at you. You look up.
+  A stranger comes to your garden at the end of a long day, which you realize only when you hear him chopping his jaw at you. You look up.
 \item
-  "No really, consider it, right now. Imagine the most realistic,
-  attainable, best life you could have.
+  ``No really, consider it, right now. Imagine the most realistic, attainable, best life you could have.
 \item
-  Imagine taking the first step and then stay with the thought. Listen to
-  the fear that surfaces.
+  Imagine taking the first step and then stay with the thought. Listen to the fear that surfaces.
 \item
   For the moment, never mind how the world has gotten in your way.
 \item
-  How are you in your own way?"
+  How are you in your own way?''
 \item
   He seems to be in your way. He's staring past your wet forehead.
 \item
   ``See your DOUBTs with curiosity. Now BET on what you tell yourself
   you believe. BET on overcoming them.''
 \item
-  But you mostly only think of frustration and say, ``I appreciate the
-  suggestion.''
+  But you mostly only think of frustration and say, ``I appreciate the suggestion.''
 \item
-  "Let's both BET. Name what you believe you can accomplish
-  tomorrow, in terms of what you think holds you back most.
+  ``Let's both BET. Name what you believe you can accomplish tomorrow, in terms of what you think holds you back most.
 \item
-  If you make it happen before sun-up, you'll be over the most daunting
-  hurdle between you and your outcome.
+  If you make it happen before sun-up, you'll be over the most daunting hurdle between you and your outcome.
 \item
-  And I'll give you the equivalent of your harvest, today. If you fail, you
-  leave me today's harvest."
+  And I'll give you the equivalent of your harvest, today. If you fail, you leave me today's harvest.''
 \item
   ``Okay,'' you say. You'll show him.
 \item
-  ``The rocks on the far field. They're on a slippery slope. To build the
-  home I want, I need those rocks, but I'm afraid of falling. I've collected
-  every rock on my land and I need those rocks. Tomorrow I'll finish my
-  foundation with rocks from the slippery slope.''
+  ``The rocks on the far field. They're on a slippery slope. To build the home I want, I need those rocks, but I'm afraid of falling. I've collected every rock on my land and I need those rocks. Tomorrow I'll finish my foundation with rocks from the slippery slope.''
+\item
+  The stranger and you have set up a bet, a type of belief.
 \end{enumerate}
 
-\hypertarget{what-to-bet}{%
-\subsection{What to BET}\label{what-to-bet}}
+\hypertarget{bet-1}{%
+\section{BET}\label{bet-1}}
 
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
-\setcounter{enumi}{22}
+\setcounter{enumi}{23}
 \tightlist
 \item
-  A BET is a PLAN template for reconciling REALITY with CHUD, to
-  accomplish GOALS.
+  A BET is a PLAN template for reconciling REALITY with CHUD, to accomplish GOALS.
 \item
-  Betting is confronting COSTs, HABITs, UNKNOWNs and DOUBTs that
-  stand in the way of your wants and dreams.
+  Betting is confronting COSTs, HABITs, UNKNOWNs and DOUBTs that stand in the way of your wants and dreams.
 \item
-  The TIME that passes and the status of your GOAL when it runs out are
-  an intersection of reality: the world and you. To name them, is to shed
-  CHUD.
+  The TIME that passes and the status of your GOAL when it runs out are an intersection of reality: the world and you. To name them, is to shed CHUD.
 \item
-  Every IDEA you hold is a BET with a rolling deadline, idiosyncratic
-  successes, and revisions.
+  Every IDEA you hold is a BET with a rolling deadline, idiosyncratic successes, and revisions.
 \item
-  BET wins shorten your PLAN, and the distance to your GOAL.
-  Losses should guide revisions to your CHUD.
+  BET wins shorten your PLAN, and the distance to your GOAL. Losses should guide revisions to your CHUD.
 \item
   To BET, name:
 
@@ -1383,12 +1307,12 @@ maybe you just like their apples.
   \end{enumerate}
 \end{enumerate}
 
-\hypertarget{after-bets}{%
-\subsection{After BETs}\label{after-bets}}
+\hypertarget{after}{%
+\section{After}\label{after}}
 
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
-\setcounter{enumi}{30}
+\setcounter{enumi}{31}
 \tightlist
 \item
   The next morning you woke to a field in disarray and a letter. You had
@@ -1414,7 +1338,7 @@ maybe you just like their apples.
 
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
-\setcounter{enumi}{36}
+\setcounter{enumi}{37}
 \tightlist
 \item
   Even if you make a PLAN and BET on it, you can fail.
@@ -1429,12 +1353,13 @@ maybe you just like their apples.
   you to achieve it.
 \end{enumerate}
 
-\hypertarget{costs-and-habits}{%
-\subsection{COSTs and HABITs}\label{costs-and-habits}}
+\hypertarget{cost}{%
+\section{COST}\label{cost}}
 
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
-\setcounter{enumi}{41}
+\setcounter{enumi}{42}
+\tightlist
 \item
   COSTs (\protect\hyperlink{self-1}{c2.51}) and HABITs are knowable facts.
 \item
@@ -1445,6 +1370,15 @@ maybe you just like their apples.
   Referring to COST is referring to typical transactions for a GOAL.
 \item
   For example, a relationship with an alcoholic poses a RISK of violence.
+\end{enumerate}
+
+\hypertarget{habit}{%
+\section{HABIT}\label{habit}}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{47}
+\tightlist
 \item
   The unadjusted, plain record of everything you have physically done, is your HABIT.
 \item
@@ -1464,12 +1398,13 @@ maybe you just like their apples.
   \end{enumerate}
 \end{enumerate}
 
-\hypertarget{unknowns-and-doubts}{%
-\subsection{UNKNOWNs and DOUBTs}\label{unknowns-and-doubts}}
+\hypertarget{unknown}{%
+\section{UNKNOWN}\label{unknown}}
 
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
-\setcounter{enumi}{49}
+\setcounter{enumi}{50}
+\tightlist
 \item
   UNKNOWNS and DOUBTS are the gap between your real and perceived COSTs and HABITs.\\
 \item
@@ -1491,6 +1426,15 @@ maybe you just like their apples.
   \item
     I will die due to a natural disaster or cancer. The cause is named, and the UNKNOWN is pushed to those things' underlying causes.
   \end{enumerate}
+\end{enumerate}
+
+\hypertarget{doubt}{%
+\section{DOUBT}\label{doubt}}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{56}
+\tightlist
 \item
   DOUBTs are misperceptions caused or perpetuated by your HABIT.
 \item
@@ -1498,7 +1442,7 @@ maybe you just like their apples.
 \item
   DOUBT is any systematic error that is possible to be addressed by another human of equal ability and resources.
 \item
-  For example, ``self-fulfilled prophesies'', irrational fear or anxiety.
+  For example, ``self-fulfilled prophesies'', irrational fear or anxiety.\\
 \item
   Good DOUBTS temper an optimistic PLAN.
 \item
@@ -1530,100 +1474,155 @@ maybe you just like their apples.
 \item
   Most of these issues, if deep enough, require therapy.
 \item
-  Or the \protect\hyperlink{intellectual-bootcamp}{Intellectual Bootcamp}.
+  Or the {[}Intellectual Bootcamp{]}.
 \end{enumerate}
 
-\hypertarget{part-the-i.b.c.}{%
-\part{The I.B.C.}\label{part-the-i.b.c.}}
+\hypertarget{the-i.b.c.}{%
+\chapter*{The I.B.C.}\label{the-i.b.c.}}
+\addcontentsline{toc}{chapter}{The I.B.C.}
 
 \hypertarget{education}{%
 \chapter{Education}\label{education}}
 
-\hypertarget{intellectual-bootcamp}{%
-\section{Intellectual Bootcamp}\label{intellectual-bootcamp}}
-
-\hypertarget{prompt-1}{%
-\subsection{Prompt 1}\label{prompt-1}}
+\hypertarget{the-classroom}{%
+\section{The Classroom}\label{the-classroom}}
 
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
 \tightlist
 \item
-  On the computer screen:
-  Consent and Commitment
+  A CLASSROOM is a special case of MARKET and WORK; the direct and
+  shared exchange of mental work, for the purpose of improving
+  individual PRIs.
 \item
-  Hi.
-  2.1. Is there a better version of you?
-  2.2. Are you capable of moving toward it?
-  2.3. Are you ready?
+  No one chose to be born. Everyone begins life with their own unnamed
+  and unanswered problems.
 \item
-  If your answers are yes, then you are a student.
+  Books are an author's answers; they can only tell a student what the
+  answer is not (quite).
 \item
-  To live a better life, you will commit to change your actions.
+  Instead of teaching how to read between the lines, let the student
+  define the problem through their reality and life GOALS.
+\item
+  Let them write the PLAN and teach them only what is needed to
+  succeed.
+\item
+  Imagine a perfect course exists, designed to teach you to fulfill
+  your specific ambitions.
+\item
+  Every aspect of what you NEED to know, that is known and
+  communicable, is the only thing written.
+\item
+  Everything that cannot be known but must be discovered or practiced,
+  is laid out as a set of instructions, described in the WORDS that
+  maximize the learning opportunity, and your progress.
+\item
+  Rather than a course in a classroom, the perfect class is a manual
+  to reference as you live your life, or at least until you've
+  internalized its contents:
+\item
+  when to take a break to strategize your decisions, lessons on what
+  opportunities to watch for and resist, and so on.
+\item
+  Any social role you wish to take on, artist, engineer, therapist,
+  insurance salesperson, reliable partner, is customized intimately,
+  curated perfectly for what you need.
+\item
+  Any RLTP or interpersonal skill that is realistically possible for
+  you is preceded with the guidance and education that prepares you
+  emotionally to choose the right experiences that set you up to be
+  most likely to find and make the most of opportunities to share
+  yourself with another.
+\end{enumerate}
+
+\hypertarget{prompt}{%
+\section{Prompt}\label{prompt}}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{12}
+\tightlist
+\item
+  Is there a better version of you?
+\item
+  Are you capable of moving toward it?
+\item
+  Are you ready?
+\item
+  If your answers are yes, then you are a student. To live a better
+  life, you will commit to change your actions.
 \item
   First, you will learn what changes are needed.
 \end{enumerate}
 
 \hypertarget{admissions}{%
-\subsection{Admissions}\label{admissions}}
+\section{Admissions}\label{admissions}}
 
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
-\setcounter{enumi}{5}
+\setcounter{enumi}{17}
 \tightlist
 \item
   This is a boot camp whose purpose is
-  6.1. to train adults to think harder, clearer and more effectively.
-  6.2. to produce intelligent solutions for personal and social puzzles.
-  6.3. to have a higher cognitive discipline.
-  6.4. to instill shared CAKE about reason, thinking and discourse.
-  6.5. to empower.
+
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii}.}
+  \tightlist
+  \item
+    to train adults to think harder, clearer and more effectively.
+  \item
+    to produce intelligent solutions for personal and social
+    puzzles.
+  \item
+    to have a higher cognitive discipline.
+  \item
+    to instill shared CAKE about reason, thinking and discourse.
+  \item
+    to empower.
+  \end{enumerate}
 \item
-  It is a training program designed to break down bad habits of thought, and build
-  good ones while immersed here, a culture of rational thinking isolated from the
-  outside world.
+  It is a training program designed to break down bad habits of
+  thought, and build good ones while immersed here, a culture of
+  rational thinking isolated from the outside world.
 \end{enumerate}
 
-\hypertarget{challenge-yourself}{%
-\subsection{Challenge yourself}\label{challenge-yourself}}
+\hypertarget{challenge}{%
+\section{Challenge}\label{challenge}}
 
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
-\setcounter{enumi}{7}
+\setcounter{enumi}{19}
 \tightlist
 \item
-  Here you will relentlessly confront your ideas about the world, with instructors
-  drilling intellectual skills (writing essays, arguing for ideas, and developing
-  proposals for action).
+  Here you will relentlessly confront your ideas about the world, with
+  instructors drilling intellectual skills (writing essays, arguing
+  for ideas, and developing proposals for action).
 \item
-  You will be trained to move toward your GOALS with focus, even in the face of
-  perceptual, physical, or emotional distractions.
+  You will be trained to move toward your GOALS with focus, even in
+  the face of perceptual, physical, or emotional distractions.
 \item
-  Over TIME, students could expect to cultivate a sharper focus on cognitive
-  objectives, resilience to distractions and challenges.
+  Over TIME, students could expect to cultivate a sharper focus on
+  cognitive objectives, resilience to distractions and challenges.
 \item
-  If you graduate, it will be with the ability to identify, develop, and communicate
-  ideal critical, rational arguments, positions or PLANS (orally or written) given the
-  available knowledge, finite TIME, and resources at hand (reference material,
-  teamwork).
+  If you graduate, it will be with the ability to identify, develop,
+  and communicate ideal critical, rational arguments, positions or
+  PLANS (orally or written) given the available knowledge, finite
+  TIME, and resources at hand (reference material, teamwork).
 \item
   you will also learn a code of behavior for being a community leader,
 \item
   collaborating or competing with an irrational world.
 \item
-  The central requirement for applicants will be a commitment to better
-  understand the SELF and world.
+  The central requirement for applicants will be a commitment to
+  better understand the SELF and world.
 \end{enumerate}
 
 \hypertarget{student}{%
 \section{Student}\label{student}}
 
-\hypertarget{student-goal}{%
-\subsection{Student GOAL}\label{student-goal}}
-
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
-\setcounter{enumi}{14}
+\setcounter{enumi}{26}
 \tightlist
 \item
   Students are PPL with IDEAS from EXPERIENCE toward selfish GOALS.
@@ -1631,99 +1630,126 @@ maybe you just like their apples.
   Lessons depend on students' prior knowledge.
 \item
   A STUDENT
-  17.1. has a GOAL that can be better named and planned.
-  17.2. requires TIME away from BETTING.
-  17.3. admits not knowing but capable.
+
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii}.}
+  \tightlist
+  \item
+    has a GOAL that can be better named and planned.
+  \item
+    requires TIME away from BETTING.
+  \item
+    admits not knowing but capable.
+  \end{enumerate}
 \item
-  Students learn to represent their knowledge in WORDS; to prefer better,
-  alternative WORDS. A student sees the impersonal as more reliable both for
-  selfish GOALS and social ones.
+  Students learn to represent their knowledge in WORDS; to prefer
+  better, alternative WORDS. A student sees the impersonal as more
+  reliable both for selfish GOALS and social ones.
 \item
   A bad student studies to avoid action, or for its own sake.
 \item
   A Student WRITES IDEAs and GOALS to their INSTRUCTOR.
 \item
-  Your GOAL is clear. You want
-  21.1. The strength needed to
-  21.1.1. take the right steps and
-  21.1.2. make a habit of it,
-  21.2. keen eyes to
-  21.2.1. estimate the destination and
-  21.2.2. correct course, and
-  21.3. a focused mind to steady the foot.
+  Your GOAL is clear. You want:
+
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii}.}
+  \tightlist
+  \item
+    The strength needed to take the right steps and make a habit of
+    it,
+  \item
+    keen eyes to estimate the destination and correct course, and
+  \item
+    a focused mind to steady the foot.
+  \end{enumerate}
 \end{enumerate}
 
-\hypertarget{agreement-1}{%
-\subsection{Agreement-1}\label{agreement-1}}
+\hypertarget{consent}{%
+\section{Consent}\label{consent}}
 
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
-\setcounter{enumi}{21}
+\setcounter{enumi}{33}
 \tightlist
 \item
   This is an in-person immersive experience.
 \item
-  You only really learn what you need to know to be who you really want. You
-  won't learn unless you cannot escape needing it; in a dedicated environment
-  that fosters acquisition, minimizes interference.
+  You only really learn what you need to know to be who you really
+  want. You won't learn unless you cannot escape needing it; in a
+  dedicated environment that fosters acquisition, minimizes
+  interference.
 \item
-  Whether you're here for the 7- or 30-day experience, you will WORK hard every
-  minute.
+  Whether you're here for the 7- or 30-day experience, you will WORK
+  hard every minute.
 \item
-  For every minute of lesson on my TIME, students are to provide two minutes of
-  writing, either toward others' learning or in direct application toward their GOAL.
+  For every minute of lesson on my TIME, students are to provide two
+  minutes of writing, either toward others' learning or in direct
+  application toward their GOAL.
 \end{enumerate}
 
-\hypertarget{student-plan}{%
-\subsection{Student PLAN}\label{student-plan}}
+\hypertarget{course}{%
+\section{Course}\label{course}}
 
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
-\setcounter{enumi}{25}
+\setcounter{enumi}{37}
 \tightlist
 \item
   Dedicate to identity growth. Be:
-  26.1. Quiet, except when tasks require verbal response.
-  26.2. Receptive to WORK and feedback provided by the instructor.
-  26.3. Committed to producing genuinely inspired ideas, working quickly, and seeking improvement.
-  26.4. Respectful that all are equal in voice, and aim to describe solutions with collective CAKE.
-  26.5. Receptive and responsive to prompts and observations (from peers and/or
-  instructors) especially CHUD, vague language, and cognitive bias.
-  26.6. Motivated to describe solutions that benefit others, when possible,
-  including peer-review.
-\end{enumerate}
 
-\hypertarget{course-content}{%
-\subsection{Course Content}\label{course-content}}
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii}.}
+  \tightlist
+  \item
+    Quiet, except when tasks require verbal response.
+  \item
+    Receptive to WORK and feedback provided by the instructor.
+  \item
+    Committed to producing genuinely inspired ideas, working
+    quickly, and seeking improvement.
+  \item
+    Respectful that all are equal in voice, and aim to describe
+    solutions with collective CAKE.
+  \item
+    Receptive and responsive to prompts and observations (from peers
+    and/or instructors) especially CHUD, vague language, and
+    cognitive bias.
+  \item
+    Motivated to describe solutions that benefit others, when
+    possible, including peer-review.
+  \end{enumerate}
+\item
+  Learn:
 
-\begin{enumerate}
-\def\labelenumi{\arabic{enumi}.}
-\setcounter{enumi}{26}
-\tightlist
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii}.}
+  \tightlist
+  \item
+    Precisely and only what is needed to trust a clear picture of
+    what your life is.
+  \item
+    First, how to make a PLAN, a map of who you are, and who you
+    want to be;
+  \item
+    Repeat Part one of this book, until your PLAN is good enough to
+    be wrong, and truthful enough to hurt.
+  \end{enumerate}
 \item
-  Now, what is it you'll learn?
-  27.1. Precisely and only what is needed to trust a clear picture of what your life
-  is.
-  27.2. First, how to make a PLAN, a map of who you are, and who you want to be;
-  27.3. Repeat Part one of this book, until your PLAN is good enough to be wrong,
-  and truthful enough to hurt.
-\item
-  This will be the beginning of change, and the first test of your commitment.
+  This will be the beginning of change, and the first test of your
+  commitment.
 \item
   Your performance is evaluated simply: whether or not you
 \item
   end up eating, sleeping, thinking, talking, and acting differently.
 \end{enumerate}
 
-\hypertarget{roles}{%
-\section{Roles}\label{roles}}
-
 \hypertarget{think}{%
-\subsection{Think}\label{think}}
+\section{Think}\label{think}}
 
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
-\setcounter{enumi}{30}
+\setcounter{enumi}{42}
 \tightlist
 \item
   Think, student.
@@ -1736,17 +1762,18 @@ maybe you just like their apples.
 \item
   Our GOAL here is thinking. Thinking happens in your heads.
 \item
-  Right now your job is to think about the truth you see in what i say.
+  Right now your job is to think about the truth you see in what i
+  say.
 \item
   A student has two roles to think in: Reader and Writer.
 \end{enumerate}
 
 \hypertarget{read}{%
-\subsection{READ}\label{read}}
+\section{READ}\label{read}}
 
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
-\setcounter{enumi}{37}
+\setcounter{enumi}{49}
 \tightlist
 \item
   Read, student.
@@ -1755,126 +1782,181 @@ maybe you just like their apples.
 \item
   Reading is the same as listening to an instructor,
 \item
-  except that the speaking pace doesn't determine how fast you have to think, or
-  remind you to
+  except that the speaking pace doesn't determine how fast you have to
+  think, or remind you to
 \item
   pay attention!
-  42.1. Your attention cannot be trusted on its own,
-  42.2. so lose distractions
-  42.3. like your smart phone.
-  42.4. You will befriend the simplest scientific instrument, a clock.
-  42.5. The clock is a cue to think.
-  42.6. When it goes off, get back on task.
-  42.7. The clock will babysit your unreliable attention.
+
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii}.}
+  \tightlist
+  \item
+    Your attention cannot be trusted on its own,
+  \item
+    so lose distractions
+  \item
+    like your smart phone.
+  \item
+    You will befriend the simplest scientific instrument, a clock.
+  \item
+    The clock is a cue to think.
+  \item
+    When it goes off, get back on task.
+  \item
+    The clock will babysit your unreliable attention.
+  \end{enumerate}
 \end{enumerate}
 
-\hypertarget{how-to-read}{%
-\subsection{How to Read}\label{how-to-read}}
+\hypertarget{truth}{%
+\section{Truth}\label{truth}}
 
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
-\setcounter{enumi}{42}
+\setcounter{enumi}{54}
+\tightlist
 \item
   Your GOAL in reading is to isolate the truth from the lie.
-  43.1. Try reading this sentence:
-  43.2. ``Everyone is best off running weekly until they die.''
-  43.3. You're thinking, ``this can't be true for everyone, so it's a lie.''
-  43.4. Not so fast.
-  43.5. There are many components to this idea, and likely many that you believe
-  are truthful.
-  43.6. Often a lie becomes true just by changing the pronouns in the text.
-  43.7. Consider this revision: ``I am best off running weekly until I die.''
-  43.8. Perhaps now the WORDS are more truthful to you.
+
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii}.}
+  \tightlist
+  \item
+    Try reading this sentence:
+  \item
+    ``Everyone is best off running weekly until they die.''
+  \item
+    You're thinking, ``this can't be true for everyone, so it's a
+    lie.''
+  \item
+    Not so fast.
+  \item
+    There are many components to this idea, and likely many that you
+    believe are truthful.
+  \item
+    Often a lie becomes true just by changing the pronouns in the
+    text.
+  \item
+    Consider this revision: ``I am best off running weekly until I
+    die.''
+  \item
+    Perhaps now the WORDS are more truthful to you.
+  \end{enumerate}
 \item
-  Doing this makes a clear relationship between your belief and the author's.
+  Doing this makes a clear relationship between your belief and the
+  author's.
 \item
-  Becoming smart is the discipline of understanding how you relate to others.
+  Becoming smart is the discipline of understanding how you relate to
+  others.
 \item
-  When reading, dismiss only what you fully believe is an intentional lie.
+  When reading, dismiss only what you fully believe is an intentional
+  lie.
 \item
-  More generally, read to assess your BET on the WORDS reflecting TRUTH.
+  More generally, read to assess your BET on the WORDS reflecting
+  TRUTH.
 \item
   Whether to a single WORD, a line, chapter, or book.
 \item
   Assign WEIGHTs (0 to 9) to what you read, to complete this prompt:
 \item
   I BET this is true for:
-  50.1. 0 = not even the author.
-  50.2. 1 = only the author.
-  50.3. 2 = the author, me, and a few others.
-  50.4. 3 = Us and 30\% of everyone else.
-  50.5. :
-  50.6. 9 = Us and about 90\% of everyone else.
+
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii}.}
+  \tightlist
+  \item
+    0 = not even the author.
+  \item
+    1 = only the author.
+  \item
+    2 = the author, me, and a few others.
+  \item
+    3 = Us and 30\% of everyone else.
+  \item
+    9 = Us and about 90\% of everyone else.
+  \end{enumerate}
 \item
-  For every assertion and assumption you read, begin assuming it is a ``9'', working
-  backwards according to evidence you hold.
+  For every assertion and assumption you read, begin assuming it is a
+  ``9'', working backwards according to evidence you hold.
 \end{enumerate}
 
-\hypertarget{read-pitch}{%
-\subsection{READ PITCH}\label{read-pitch}}
-
-\begin{enumerate}
-\def\labelenumi{\arabic{enumi}.}
-\setcounter{enumi}{51}
-\item
-  The following mini lesson illustrates the risk at hand--involuntary
-  comprehension, and the benefit at stake from deliberate reading.
-\item
-  Consider the following quote, ``Change your thoughts to change your life.''
-\item
-  Comprehension is involuntary.
-  54.1. You cannot help but recognize meaning when you read.
-  54.2. This means that you likely thought the quote was largely unrealistic.
-\item
-  Reading as proposed here, is strongly voluntary.
-\item
-  For example, reread the quote, this TIME assuming it is reasonable, serious, and
-  valuable.
-\item
-  The statement is the core assumption to this book, and any psychological
-  theory.
-\item
-  For example, Freud's talk therapy was, in his TIME, the radical idea that WORDS could fix PPL.
-\item
-  Therefore, do not waste the opportunity to consider a truth that could change
-  your life by failing to entertain a simple assumption.
-\end{enumerate}
-
-\hypertarget{write-pitch}{%
-\subsection{Write PITCH}\label{write-pitch}}
-
-\begin{enumerate}
-\def\labelenumi{\arabic{enumi}.}
-\setcounter{enumi}{59}
-\tightlist
-\item
-  How will your life look if you put it on paper? Like a bunch of WORDS.
-\item
-  How do you change it? By deleting the WORDS with lies, and replacing them
-  with better WORDS.
-\item
-  The right WORDS will change your actions and your life. To live a better life,
-  starts with your WORDS.
-\item
-  In order to do something about thoughts, we need to think on
-  paper. {[}You'll write a lot. You'll delete a lot. You'll get good at writing.{]}
-\end{enumerate}
-
-\hypertarget{write-plan}{%
-\subsection{WRITE PLAN}\label{write-plan}}
+\hypertarget{lesson}{%
+\section{Lesson}\label{lesson}}
 
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
 \setcounter{enumi}{63}
+\item
+  The following mini lesson illustrates the risk at hand--involuntary
+  comprehension, and the benefit at stake from deliberate reading.
+\item
+  Consider the following quote, ``Change your thoughts to change your
+  life.''
+\item
+  Comprehension is involuntary.
+
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii}.}
+  \tightlist
+  \item
+    You cannot help but recognize meaning when you read.
+  \item
+    This means that you likely thought the quote was largely
+    unrealistic.
+  \end{enumerate}
+\item
+  Reading as proposed here, is strongly voluntary.
+\item
+  For example, reread the quote, this TIME assuming it is reasonable,
+  serious, and valuable.
+\item
+  The statement is the core assumption to this book, and any
+  psychological theory.
+\item
+  For example, Freud's talk therapy was, in his TIME, the radical idea
+  that WORDS could fix PPL.
+\item
+  Therefore, do not waste the opportunity to consider a truth that
+  could change your life by failing to entertain a simple assumption.
+\end{enumerate}
+
+\hypertarget{say}{%
+\section{Say}\label{say}}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{71}
 \tightlist
 \item
-  BET on WORDS. A writer invests TIME and energy to map feelings onto WORDS.
+  How will your life look if you put it on paper? Like a bunch of
+  WORDS.
 \item
-  Good writing is discovering, curating, and applying insight.
-  Bad WRITING has an author; ad hominem
+  How do you change it? By deleting the WORDS with lies, and replacing
+  them with better WORDS.
 \item
-  Revisions also make you a WRITER. When you revise WORDS (yours or others')
-  to maximize your BET, you are a writer.
+  The right WORDS will change your actions and your life. To live a
+  better life, starts with your WORDS.
+\item
+  In order to do something about thoughts, we need to think on paper.
+  {[}You'll write a lot. You'll delete a lot. You'll get good at
+  writing.{]}
+\end{enumerate}
+
+\hypertarget{write}{%
+\section{WRITE}\label{write}}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{75}
+\tightlist
+\item
+  BET on WORDS. A writer invests TIME and energy to map feelings onto
+  WORDS.
+\item
+  Good writing is discovering, curating, and applying insight. Bad
+  WRITING has an author; ad hominem.
+\item
+  Revisions also make you a WRITER. When you revise WORDS (yours or
+  others') to maximize your BET, you are a writer.
 \item
   Separate thought and SELF (author), by BETTING explicitly.
 \item
@@ -1882,54 +1964,90 @@ maybe you just like their apples.
 \item
   Replace ``I am.'' with tag WORDS.
 \item
-  Strive for COMM-CONTENT and brevity; Write only valuable BETs, or WORDS
-  that manifest valuable BETs. Prioritize understanding over original writing.
+  Strive for COMM-CONTENT and brevity; Write only valuable BETs, or
+  WORDS that manifest valuable BETs. Prioritize understanding over
+  original writing.
 \item
-  WRITING for LIB-PPL, relatable, depersonalized, objective WORDS, minimizes rot, maximizes PLAN utility.
+  WRITING for LIB-PPL, relatable, depersonalized, objective WORDS,
+  minimizes rot, maximizes PLAN utility.
 \end{enumerate}
 
 \hypertarget{instructor}{%
-\subsection{Instructor}\label{instructor}}
+\section{Instructor}\label{instructor}}
 
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
-\setcounter{enumi}{71}
+\setcounter{enumi}{83}
 \tightlist
 \item
-  I am an instructor, a guardian of true IDEAs and WRITER of a general PLAN (this book).
+  I am an instructor, a guardian of true IDEAs and WRITER of a general
+  PLAN (this book).
 \item
   An instructor READS, and enforces BETs on LINKs toward a PLAN.
 \item
   My GOALS are to
-  74.1. Minimize student effort and TIME to write.
-  74.2. READ for cognitive biases, illogical appeals, and imprecise language, and
-  WRITE feedback that is dispassionate and neutral, yet invested and True.
-  74.3. Reward arguments based on (Truth:) REALITY, SELF, and CAKE.
-  74.4. Reward IDEAS shared (vs kept).
+
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii}.}
+  \tightlist
+  \item
+    Minimize student effort and TIME to write.
+  \item
+    READ for cognitive biases, illogical appeals, and imprecise
+    language, and WRITE feedback that is dispassionate and neutral,
+    yet invested and True.
+  \item
+    Reward arguments based on (Truth:) REALITY, SELF, and CAKE.
+  \item
+    Reward IDEAS shared (vs kept).
+  \end{enumerate}
 \end{enumerate}
 
-\hypertarget{book-of-answers}{%
-\section{Book of Answers}\label{book-of-answers}}
+\hypertarget{answers}{%
+\section{Answers}\label{answers}}
 
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{86}
 \item
-  Which lines from this book would you \protect\hyperlink{how-to-read}{BET on}, written as-is, or revised for you?
+  Which lines from this book would you {[}BET on{]}{[}How to Read{]}, written
+  as-is, or revised for you?
 \item
-  Assign 100 dollars (total) to those lines according to their relative impact, and you are an IBC student; an author of shared truth.
+  Assign 100 dollars (total) to those lines according to their
+  relative impact, and you are an IBC student; an author of shared
+  truth.
 \item
-  Suppose a representative set of PPL did the same thing. Here's a game to help imagine.
-  3.1. Each student's bets go to a general pool.
-  3.2. When bets on a line reach a critical mass, the pool of sub-par bets is split among winners.
-  3.3. Cash is divided.
-  3.4. Also, points are recorded, to incentivize a deeper purpose:
-  3.5. A game, where the prize is
-  3.6. the collective revision and authorship of this book.
-  3.7. After x wins, your name appears on the title.
-  3.8. High scores are on the acknowledgements page.
-  3.9. This is the process and meaning of READER and WRITER; bound directly to material and action, IRL.
+  Suppose a representative set of PPL did the same thing. Here's a
+  game to help imagine.
+
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii}.}
+  \tightlist
+  \item
+    Each student's bets go to a general pool.
+  \item
+    When bets on a line reach a critical mass, the pool of sub-par
+    bets is split among winners.
+  \item
+    Cash is divided.
+  \item
+    Also, points are recorded, to incentivize a deeper purpose:
+  \item
+    A game, where the prize is
+  \item
+    the collective revision and authorship of this book.
+  \item
+    After x wins, your name appears on the title.
+  \item
+    High scores are on the acknowledgements page.
+  \item
+    This is the process and meaning of READER and WRITER; bound
+    directly to material and action, IRL.
+  \end{enumerate}
 \item
-  Whereas the exchange of MONEY incentivizes the revision of truth, the CONTENT itself would be the premise to the next book, \protect\hyperlink{the-answerword}{the Answerword}.
+  Whereas the exchange of MONEY incentivizes the revision of truth,
+  the CONTENT itself would be the premise to the next book, {[}the
+  Answerword{]}{[}The Answerword{]}.
 \end{enumerate}
 
 \hypertarget{words}{%
@@ -1938,149 +2056,257 @@ maybe you just like their apples.
 \hypertarget{cognition}{%
 \section{Cognition}\label{cognition}}
 
-\hypertarget{pitch}{%
-\subsection{PITCH}\label{pitch}}
-
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
 \tightlist
 \item
-  Like any book, this book uses WORDS to describe the world and its
-  conditions.
+  WORDS describe the world and its conditions.
 \item
-  This chapter is about the act of describing, itself.
-\item
-  This chapter can be reduced to the following problem and solution.
-\item
-  WORDS said (out loud or written) and understood (heard or read) are
-  not usually what PPL mean.
-\item
-  They do not reflect what PPL want or need.
-\item
-  By engaging the gap between WORDS and reality, you increase SELF-
-  awareness (BET).
-\item
-  Better WORDS mean more practical understanding and expectations,
-  more complete desires, and
-\item
-  the capacity to make a concrete PLAN for achieving your GOALS.
-\item
-  This will naturally include healthier communication and more
-  rewarding relationships.
-\item
-  A community with better WORDS has clearer idea sharing,
-  synthesizing, developing, teaching and learning.
+  This chapter is about problems and answers regarding the ACT of
+  describing, itself:
+
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii}.}
+  \tightlist
+  \item
+    WORDS said do not usually reflect what PPL want or need.
+  \item
+    By engaging the gap between WORDS and reality, you increase
+    SELF-awareness (BET).
+  \item
+    Better WORDS mean more practical understanding and expectations,
+    more complete desires, and
+  \item
+    The capacity to make a concrete PLAN for achieving your GOALS.
+  \item
+    This will include healthier COMM and RLTPs.
+  \item
+    A community with better WORDS has clearer idea sharing,
+    synthesizing, developing, teaching and learning.
+  \end{enumerate}
 \end{enumerate}
 
 \hypertarget{problem}{%
-\subsection{Problem}\label{problem}}
+\section{Problem}\label{problem}}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{2}
+\tightlist
+\item
+  Speaking your mind is difficult to do accurately.
+\item
+  A memory system dealing with language is tasked to translate
+  thoughts into the right WORDS from tens of thousands. It is prone to
+  inaccuracies.
+\item
+  Similarly, a listener focused on comprehending, is not likely to
+  monitor all the incidental priming effects of WORDS on a memory
+  system.
+\item
+  WORDS said and heard impact both parties' beliefs and behaviors.
+\item
+  Saying WORDs or Hearing and understanding a WORD is a very small
+  physical action, to describe real actions and consequences.
+\item
+  The issue is that WORDs can be more and less right, more and less
+  helpful, and without intervention, it is very difficult to know how
+  much this is true in any example of WORD USE.
+\item
+  Bad WORDS keep CHUD expensive and waste TIME.
+\item
+  The COST of an individual WORD is tiny, but we say tens of thousands
+  per day (Levelt).
+\end{enumerate}
+
+\hypertarget{bet-2}{%
+\section{Bet}\label{bet-2}}
 
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
 \setcounter{enumi}{10}
-\tightlist
 \item
-  Speaking your mind is difficult.
-\item
-  A memory system dealing with language is tasked to translate
-  thoughts into the right WORDS from thousands.
-\item
-  It is prone to inaccuracies.
-\item
-  Similarly, a listener focused on comprehending, is not likely to monitor
-  all the incidental priming effects of WORDS on a memory system.
-\item
-  WORDS said and heard impact both parties' beliefs and behaviors.
-\item
-  These effects are each discussed in terms of how WORDS can be used
-  for the better or worse.
-\end{enumerate}
-
-\hypertarget{kinds-and-uses}{%
-\subsection{Kinds and Uses}\label{kinds-and-uses}}
-
-\begin{enumerate}
-\def\labelenumi{\arabic{enumi}.}
-\setcounter{enumi}{16}
-\tightlist
-\item
-  Saying WORDS is a very small physical action, to describe real actions
-  and consequences.
-\item
-  Hearing and understanding a WORD are also a small action, that
-  engages with WORDS-- a description about the real world.
-\item
-  The issue is that descriptions can be more and less right, more and less
-  helpful, and we have little guidance on how to use them.
-\end{enumerate}
-
-\hypertarget{word-as-bet}{%
-\subsection{WORD as BET}\label{word-as-bet}}
-
-\begin{enumerate}
-\def\labelenumi{\arabic{enumi}.}
-\setcounter{enumi}{19}
-\tightlist
-\item
-  Every WORD itself is a BET on hypotheticals, which can be true (reality) or false (fantasy).
-\item
-  You can think through far more situations with WORDS, than you can
-  (or should) act out.
-\item
-  Your GOALS can be described in WORDS, and WORDS can be easily
-  crossed out and revised.
+  A GOOD general BET about WORDs is to begin assuming every WORD is a
+  BET on hypotheticals, which can be true (reality) or false
+  (fantasy).
 \item
   A PLAN is a BET on a winning arrangement of WORDS that result in the
   GOAL.
-\end{enumerate}
-
-\hypertarget{word-as-simulation}{%
-\subsection{WORD as simulation}\label{word-as-simulation}}
-
-\begin{enumerate}
-\def\labelenumi{\arabic{enumi}.}
-\setcounter{enumi}{23}
-\tightlist
-\item
-  WORDS efficiently simulate possible worlds.
-\item
-  Good WORDS maximize productivity of thought, move you beyond
-  pitfalls of CHUD, direct attention to PRIS, and predict reality; improve
-  decisions and make you smarter.
-\end{enumerate}
-
-\hypertarget{word-plan}{%
-\subsection{WORD PLAN}\label{word-plan}}
-
-\begin{enumerate}
-\def\labelenumi{\arabic{enumi}.}
-\setcounter{enumi}{25}
-\tightlist
-\item
-  By thinking about all WORDS you experience (LIB), you can take
-  control to limit your WORD use toward more productive ones,
-  improving READ and WRITE decisions, increasing focus and TIME for
-  GOALS.
-\item
-  Bad WORDS keep CHUD expensive, and waste TIME.
-\item
-  The COST of an individual WORD is tiny, but we say tens of thousands
-  per day (Levelt).
 \item
   Reading, thinking, saying, and writing a WORD perpetuates that
   WORD's IDEA over others, either moving you toward a GOAL, or your
   HABIT.
 \end{enumerate}
 
-\hypertarget{speakwrite}{%
-\section{Speak/Write}\label{speakwrite}}
-
-\hypertarget{write-plan-1}{%
-\subsection{WRITE PLAN}\label{write-plan-1}}
+\hypertarget{simulation}{%
+\section{Simulation}\label{simulation}}
 
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
-\setcounter{enumi}{29}
+\setcounter{enumi}{13}
+\item
+  WORDS efficiently simulate possible worlds. You can think through
+  far more situations with WORDS, than you can (or should) act out.
+\item
+  Your GOALS can be described in WORDS, and WORDS can be easily
+  crossed out and revised.
+\item
+  Good WORDS maximize productivity of thought, move you beyond
+  pitfalls of CHUD, direct attention to PRIS, and predict reality;
+  improve decisions and make you smarter.
+\item
+  By thinking about all WORDS you experience (LIB), you can take
+  control to limit your WORD use toward more productive ones,
+  improving READ and WRITE decisions, increasing focus and TIME for
+  GOALS.
+\item
+  SIM (F-ACT) is the act of iterating between WRITE and READ, to evoke
+  and NAME the optimal, held BET. Tour SIM is not constrained by IRL,
+  but your picture of IRL, and your SIM GOAL is to capture the picture
+  true to your CHUD estimate.
+\end{enumerate}
+
+\hypertarget{it}{%
+\section{``It''}\label{it}}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{18}
+\item
+  It caused you to NAME in the first place. This cause is ``IT''.
+  GOOD-REF is giving the best NAME for our desired COMM.
+\item
+  For example, take these background facts, which contains the basis
+  of our desired REF.
+
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii}.}
+  \tightlist
+  \item
+    I woke at 8:30AM
+  \item
+    I wanted to sleep until 9:30AM.
+  \item
+    In my 9:00AM appointment with you, as you are talking, I yawn.
+  \item
+    You say, ``I must be boring you.''
+  \item
+    I want to hear what you were going to say (COMM-PRI).
+  \end{enumerate}
+\item
+  Each of these (below) are slightly different REFs based on the facts
+  (above), ranked by GOOD-REF:
+
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii}.}
+  \tightlist
+  \item
+    You're not, please continue.
+  \item
+    No, I'm tired.
+  \item
+    No, I woke early.
+  \item
+    Don't make assumptions.
+  \item
+    I'm not.
+  \item
+    ``I woke at 8:30AM, but wanted to sleep until 9:30AM, so I think
+    I yawned because I am tired.''
+  \item
+    ``I yawned because I am tired. I can see why you thought I was
+    bored, and I'm sorry.''
+  \item
+    {[}Nothing{]}
+  \end{enumerate}
+\item
+  All of the REFs above combined suggest the ``IT'' you want to convey.
+\item
+  A GOOD-REF is the one that uses truth to focus and advance the
+  COMM-PRI.
+\item
+  Below are the REF attributes that make each choice unique (and less
+  GOOD).
+\item
+  Give a simple reason to return to the COMM-PRI (example 1 above).
+\item
+  Does not add to COMM-PRI nor return to it. 3-`early' may not be
+  true.
+\item
+  Focus on others' mistake and issue a command.
+\item
+  Begs the question.
+\item
+  Focus on the distraction.
+\item
+  Focus on the distraction and makes the same kind of REF which the
+  other did and which caused the confusion.
+\item
+  This can be anywhere in the list including 1, depending on what you
+  DO or SAY next.
+
+  \begin{itemize}
+  \tightlist
+  \item
+    1: you or the other return to COMM-PRI without ever returning to
+    this interruption.
+  \item
+    4: it reduces the number of words said before returning to
+    COMM-PRI.
+  \item
+    8: the distraction is remembered, and mentioned again, later.
+  \end{itemize}
+\item
+  Let this characterize the problem and approach, and I will end with
+  a few primary objectives, besides.
+
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii}.}
+  \tightlist
+  \item
+    GOOD-REF is a plain IDEA or LINK.
+  \item
+    If ``GOOD-REF'', the IDEA, crosses your mind while considering
+    what to say, likely that it is a LINK.
+  \item
+    DECIDE and SAY REF within a few seconds, rather than THINKING
+    more, unless the BET is obvious and worthwhile.
+  \item
+    BEST-REF is possible, but requires extra THINKING to know the
+    valuable cause. This is not practical, so we go for conservative
+    GOOD-REF.
+  \item
+    In USE, this means quickly NAME the relevant LINKs, and estimate
+    the central or critical LINK between them.
+  \end{enumerate}
+\item
+  In our example of the facts, above,
+
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii}.}
+  \tightlist
+  \item
+    1 is not obvious and adds little to 3.
+  \item
+    5 is the COMM-PRI, and 4 is the cause, but not IT in what you
+    say.
+  \item
+    2 and 3 are IT, and specifically, the LINK between them.
+  \end{enumerate}
+\item
+  Unless you are a RECRUIT, to go any further will usually not be
+  worth the COST. To go further is to specify what kind of link is
+  between the two. WANT is HYPE, etc.
+\item
+  GOOD-REF is ``NEW'' vs GIVEN.
+\end{enumerate}
+
+\hypertarget{write-plan}{%
+\section{Write-Plan}\label{write-plan}}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{35}
 \tightlist
 \item
   Speak, write, initiate or respond only in limited duration and WORDS
@@ -2103,11 +2329,11 @@ maybe you just like their apples.
 \end{enumerate}
 
 \hypertarget{read-plan}{%
-\subsection{READ PLAN}\label{read-plan}}
+\section{Read-Plan}\label{read-plan}}
 
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
-\setcounter{enumi}{37}
+\setcounter{enumi}{45}
 \tightlist
 \item
   Listen / read when you need to learn / connect.
@@ -2125,314 +2351,235 @@ maybe you just like their apples.
   Assert boundaries against exaggerated WORDS or unreliable ones.
 \end{enumerate}
 
-\hypertarget{example-and-idea}{%
-\subsection{EXAMPLE and IDEA}\label{example-and-idea}}
+\hypertarget{types}{%
+\section{Types}\label{types}}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{46}
+\tightlist
+\item
+  A description of the kinds of simulation a word can make, and the
+  kinds to prioritize.
+\end{enumerate}
+
+\hypertarget{example}{%
+\section{EXAMPLE}\label{example}}
 
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
 \setcounter{enumi}{44}
 \tightlist
 \item
-  An EXAMPLE is an individual, particular event or object, of reality. An
-  example with consequence is a USE-CASE. An example in-principle is a
-  HYPE (hypothetical/hype).
+  An EXAMPLE is an individual, particular event or object, of reality.
+
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii}.}
+  \tightlist
+  \item
+    An example with consequence is a USE-CASE.
+  \item
+    An example in-principle is a HYPE (hypothetical/hype).
+  \item
+    In COMM, EXAMPLES are described per the criteria that might
+    support a USE of an EXAMPLE.
+  \end{enumerate}
 \item
   WORDS are one of two types:
-  46.1. LINKS: WORDS that give relationship between EXAMPLES, IDEAS,
-  describe ACTIONS, ROLES, and transformations
-  46.2. IDEAS: WORDS that refer to EXAMPLES.
-  46.3. An IDEA is a set of criteria that LINK EXAMPLES as similar (vs not).
-  46.4. The most basic IDEA classifies EXAMPLES as A or not-A. ``blue'' is
-  an IDEA that certain colored things are BLUE (A), and all other
-  colors are not BLUE.
-  46.5. Good IDEAS group EXAMPLES in a way that directs attention
-  toward PLANS and GOALS. Bad IDEAS distract.
-  46.6. The right LINK between ideas is the foundation of every thought,
-  recipe or terrible calculation.
+
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii}.}
+  \tightlist
+  \item
+    LINKS: WORDS that give relationship between EXAMPLES, IDEAS,
+    describe ACTIONS, ROLES, and transformations.
+  \item
+    IDEAS: WORDS that refer to EXAMPLES.
+  \item
+    An IDEA is a set of criteria that LINK EXAMPLES as similar (vs
+    not).
+  \item
+    The most basic IDEA classifies EXAMPLES as A or not-A. ``blue'' is
+    an IDEA that certain colored things are BLUE (A), and all other
+    colors are not BLUE.
+  \item
+    Good IDEAS group EXAMPLES in a way that directs attention toward
+    PLANS and GOALS. Bad IDEAS distract.
+  \item
+    The right LINK between ideas is the foundation of every thought,
+    RECIPE or terrible calculation.
+  \end{enumerate}
 \end{enumerate}
 
-\hypertarget{role-scientist}{%
-\subsection{ROLE Scientist}\label{role-scientist}}
+\hypertarget{hype}{%
+\section{HYPE}\label{hype}}
 
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
 \setcounter{enumi}{46}
+\tightlist
 \item
-  A scientist works to win BETS against the UNKNOWN. They are a
-  professional writer, evaluated on two metrics:
+  HYPE vs USE-CASE guides what and if to write. A GOAL is a named
+  HYPE. GOOD HYPE are worthwhile GOALs, sub-GOALs, or ALT PLAN ACTIONs
+  to consider. Don't WRITE HYPE without a BET.
+\item
+  As all words should be toward PRIs, there are three general modes of
+  PRI WORDs:
 
   \begin{enumerate}
   \def\labelenumii{\arabic{enumii}.}
   \tightlist
   \item
-    For their new CONTENT.
+    h0 = history. HABIT is to history as action is to DOC. GOOD
+    history is structured data of your HABIT, expressly for the
+    purpose of revising future actions.
   \item
-    The net benefit on GOAL outcomes.
+    h1 = plan (pri.txt, proj\_doc.txt)
+  \item
+    h2 = doubt especially for bet.
   \end{enumerate}
-\item
-  A scientist-researcher is a WRITER, a data-collector and hypothesis tester.
-\item
-  A scientist-scholar is a READER, curating toward theory development and COMM.
 \end{enumerate}
 
-\hypertarget{revisions}{%
-\chapter{Revisions}\label{revisions}}
+\hypertarget{alternatives}{%
+\section{Alternatives}\label{alternatives}}
 
-\hypertarget{skilled-reflection}{%
-\section{Skilled Reflection}\label{skilled-reflection}}
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{48}
+\item
+  ALTs are any IDEA which measurably deviates a PLAN, and are defined
+  directly with respect to the target IDEA.
+\item
+  For example, BAD is an ALT to GOOD, as in ``GOOD-vs-BAD''.
+\item
+  Any other valid modes, if at all, are in support of maximal revision
+  in these primary ones.
+\item
+  A PLAN comprises: 1.the decided action 2.the best bet on it
+  3.alternative actions 4.the goal 5.the relevant CHUD
+\item
+  GOOD GOALs and their PLANs are supported by USEs from your own
+  history (SELF-H), and next best is NORM or OTHERS' USE or DATA that
+  generalizes.
+\item
+  For example, a plan for a similar goal has previously succeeded.
+\end{enumerate}
 
-\hypertarget{session}{%
-\subsection{Session}\label{session}}
+\hypertarget{letters}{%
+\section{Letters}\label{letters}}
 
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
 \tightlist
 \item
-  {[}50,51,56,57{]} The GOAL of WORDS is to express ideas of maximum CAKE tomorrow.
+  Mnemonics are memory aids.
 \item
-  Since few WORDS meet these criteria, start by revising toward fewer WORDS.
+  Reducing a word to a letter increases cognitive efficiency, as long
+  as that letter stands for an idea you will frequently encounter.
 \item
-  Make IDEAS clear and concrete.
-\item
-  Provide just enough CONTEXT to remember the basis of the key ideas.
-\item
-  Precision depends on purpose.
+  These letters illustrate kinds of word usage (not exhaustive):
 
   \begin{enumerate}
   \def\labelenumii{\arabic{enumii}.}
   \tightlist
   \item
-    LIST. Name relevant ideas for GOAL.
+    \texttt{f} define; function\\
   \item
-    WRITE a PLAN, (ordered LINKS).
+    \texttt{i} synonym, sense, ``i.e.'', ``as in'',\\
   \item
-    DOUBT. Assert the strongest rebuttal to the PLAN.
+    \texttt{e} example, data-point, untested data\\
   \item
-    BET. Improve IDEAS and LINKS by addressing weakness and
-    clarity.
+    \texttt{h} history (implied h0)
   \item
-    READ. Wager its CAKE (e.g., Relative to another PLAN).
+    \texttt{h1} claim, thesis. vs h0 or h2.
+  \item
+    \texttt{x} Cross-references, xref\\
+  \item
+    \texttt{d} Data or evidence, summary
+  \item
+    \texttt{v} version / revise\\
+  \item
+    \texttt{vs} an alternative, sibling of a shared parent category.
   \end{enumerate}
-\item
-  When reflecting, reflect only on ``how can I help my future SELF?'' And
-  impose TIME and WORD limits.
-\item
-  A bad doc is stream-of-consciousness.
 \end{enumerate}
 
-\hypertarget{prompts}{%
-\subsection{Prompts}\label{prompts}}
+\hypertarget{notes}{%
+\section{NOTES}\label{notes}}
 
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
-\setcounter{enumi}{7}
-\tightlist
+\setcounter{enumi}{3}
 \item
-  Prompts elicit conflicts (truth) between SELF and NORM, to improve
-  PLANS for your GOALS.
+  Good NOTES clarify PRI (CONTENT) within BETS from secondary ones.
 \item
-  TIME and WORD limits WORK together to encourage a balance
-  between reflecting on truth and describing it.
-\end{enumerate}
-
-\hypertarget{word-limits}{%
-\subsection{Word Limits}\label{word-limits}}
-
-\begin{enumerate}
-\def\labelenumi{\arabic{enumi}.}
-\setcounter{enumi}{9}
-\tightlist
+  In a DOC, PAR is a GROUPED set of WORDs roughly equivalent to a
+  complex sentence.
 \item
-  WORD limits combat needless WORDS and distracting tangents. A
-  WORD limit keeps your attention.
+  It has a primary subject and predicate, and includes any immediately
+  relevant branches from either.
 \item
-  A WORD limit is a proxy for a prompt's complexity.
+  In practice it is between 1 and 4 clauses.
 \item
-  Try to write the exact number of WORDS.
-\item
-  Good WORD limits require cutting out unhelpful WORDS, change
-  figurative WORDS to concrete, ideally assertive and falsifiable.
-\item
-  For every PLAN you make: Assert a WORD limit before writing
-  to be reminded of your initial intentions, and
-  be challenged to express ideas clearly.
-  Become skilled at using only the fewest WORDS necessary, to
-  reveal and clarify CAKE.
-\item
-  If you exceed the limit and there is no end in sight, stop and reassess.
-\end{enumerate}
-
-\hypertarget{time-limits}{%
-\subsection{Time Limits}\label{time-limits}}
-
-\begin{enumerate}
-\def\labelenumi{\arabic{enumi}.}
-\setcounter{enumi}{15}
-\tightlist
-\item
-  The TIME limit dictates how precise your WORDS should be.
-\item
-  Use extra TIME to improve WORD choice.
-\item
-  For example, given a 50-WORD limit, 1 minute (1m, 50w) encourages
-  free writing with minimal restrictions on quality of thought, while 4 minutes encourages more careful selection of WORDS.
-\end{enumerate}
-
-\hypertarget{lessons-1}{%
-\subsection{LESSONs}\label{lessons-1}}
-
-\begin{enumerate}
-\def\labelenumi{\arabic{enumi}.}
-\setcounter{enumi}{18}
-\tightlist
-\item
-  LESSONS are an ordered set of prompts, usually three to four, up to 60 minutes and 250 WORDS.
-  A prompt's WORD count is the number of
-  WORDS to be added to your document.
-\item
-  Lessons target inconsistencies between reality and PRIS.
-\item
-  They are designed to be revisited and revised repeatedly.
-\item
-  A 0w prompt means revise, but do not increase the WORD total.
-\item
-  The first prompts in LESSONS are warm-ups to direct your attention.
-  They ask for names of IDEAS.
-\item
-  The remaining prompts are for thinking, requiring you to make LINKS
-  between your warm-up IDEAS. Done right, you will face some new
-  truths.
-\end{enumerate}
-
-\hypertarget{revision}{%
-\section{Revision}\label{revision}}
-
-\hypertarget{revise}{%
-\subsection{REVISE}\label{revise}}
-
-\begin{enumerate}
-\def\labelenumi{\arabic{enumi}.}
-\setcounter{enumi}{24}
-\item
-  Revise WORDS to improve actions of yourself or others is REVISION.
-\item
-  REVISION is how we know reflection is happening, described here in VERSIONS (v\#) of a response.
-\item
-  For example, consider the following revisions (v1-3) describing this
-  brief argument:
-
-  1: ``Nobody follows doctors' orders.''
-  2: ``My parents do, religiously.''
-  1: ``They're the exception.''
-  2: ``You're not exposed to minorities.''
-\end{enumerate}
-
-\hypertarget{v1}{%
-\subsubsection{v1}\label{v1}}
-
-\begin{enumerate}
-\def\labelenumi{\alph{enumi})}
-\tightlist
-\item
-  1 makes a false generalization.
-\item
-  2 illustrates a counterpoint, and 1 gets mad.
-\item
-  1 dismisses it, and 2 gets mad.
-\end{enumerate}
-
-\hypertarget{v2}{%
-\subsubsection{v2}\label{v2}}
-
-\begin{enumerate}
-\def\labelenumi{\alph{enumi})}
-\tightlist
-\item
-  1 generalizes from WORK experience.
-\item
-  2 argues with parents' experience, and 1 gets mad.
-\item
-  1 dismisses and 2 get mad.
-\end{enumerate}
-
-\hypertarget{v3}{%
-\subsubsection{v3}\label{v3}}
-
-\begin{enumerate}
-\def\labelenumi{\alph{enumi})}
-\tightlist
-\item
-  1 argues outside 2's experience.
-\item
-  2 uses personal experience, thinking it's impenetrable.
-\item
-  Failing and hurt, 2 insults.
-\end{enumerate}
-
-\hypertarget{ctd.}{%
-\subsection{ctd.}\label{ctd.}}
-
-\begin{enumerate}
-\def\labelenumi{\arabic{enumi}.}
-\setcounter{enumi}{27}
-\tightlist
-\item
-  The example aims to illustrate revisions which increase the amount of
-  responsibility, control, and preventable future behavior on part of the
-  writer, without much change in WORD count.
-\end{enumerate}
-
-\hypertarget{revision-plan}{%
-\subsection{Revision PLAN}\label{revision-plan}}
-
-\begin{enumerate}
-\def\labelenumi{\arabic{enumi}.}
-\setcounter{enumi}{28}
-\tightlist
-\item
-  Good revisions better describe what we know to have happened, and
-  predict what will happen (again).
-\item
-  Reality is what determines whether each version is better.
-\item
-  Revise prior prompt responses only to help your current prompt
-  response.
-\item
-  If your GOAL deals with different assumptions about the truth, change
-  the prompt to whatever gets you to write the most helpful WORDS for your GOAL.
+  GOOD PAR successfully denotes a LINK between two IDEAs, with the
+  following FORM:
 
   \begin{enumerate}
   \def\labelenumii{\arabic{enumii}.}
   \tightlist
   \item
-    For example, a prompt referring to University student
-    experiences should be adapted for your non-University
-    experiences.
+    a syntactic tree, where\\
   \item
-    A common (problematic) assumption is that you are emotionally
-    ready to be SELF-critical.
+    {[}newline{]} is the right path in a fork,\\
   \item
-    Do not change the prompt so you can be lazy.
+    first indent ('' -``) is the left path in a fork,\\
   \end{enumerate}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    trailing''-'' denotes all subsequent lines in section are equal
+    childs.\\
+  \end{itemize}
+
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii}.}
+  \setcounter{enumii}{3}
+  \tightlist
+  \item
+    subsequent newline indents or in-line ``--'' are siblings\\
+  \item
+    left to right are siblings\\
+  \item
+    double linebreak ends the local tree.
+  \end{enumerate}
+\item
+  When word order is a left-to-right walk of a right-branching
+  syntactic tree, sentence can be written in lines of random lengths,
+  and read equally as unambiguously.
+\item
+  Restrict reference and vocabulary to Simple- or Plain- English to
+  reduce amibiguity.
 \end{enumerate}
 
-\hypertarget{notes-and-peers}{%
-\subsection{NOTES and PEERs}\label{notes-and-peers}}
+\hypertarget{transparent}{%
+\section{Transparent}\label{transparent}}
 
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
-\setcounter{enumi}{32}
 \item
-  NOTES are general PLANS for REVISION. (A PLAN is available on request.)
+  Make folder and file names i-goals as transparent as possible imply
+  or reveal its (hidden) members.
 \item
-  Peer revision is a powerful learning tool. Get answers from others.
-  34.1. Forget who provides REVISION and how much.
-  34.2. The peer WRITER has uncompromised objectivity, and liberty to
-  employ Truth, however ``harsh''.
+  Promote or consolidate high frequency items or only-childs.
+\item
+  For example: \texttt{ppl-work\ -\textbackslash{}\textgreater{}\ work\ -\ self-home\ -\textbackslash{}\textgreater{}\ home}
+\item
+  When creating or reusing a word for new applications, this principle
+  should be a factor.
 \end{enumerate}
 
-\hypertarget{doc-types}{%
-\subsection{DOC types}\label{doc-types}}
+\hypertarget{recipe}{%
+\section{RECIPE}\label{recipe}}
 
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
@@ -2443,7 +2590,8 @@ maybe you just like their apples.
 \item
   Lessons and instructions use a RECIPE format.
 \item
-  The RECIPE format highlights the IDEAS and LINKS of your point and minimizes excessive STYLE.
+  The RECIPE format highlights the IDEAS and LINKS of your point and
+  minimizes excessive STYLE.
 
   \begin{enumerate}
   \def\labelenumii{\arabic{enumii}.}
@@ -2465,27 +2613,573 @@ maybe you just like their apples.
   delete frequently.
 \end{enumerate}
 
+\hypertarget{document}{%
+\section{Document}\label{document}}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\item
+  A word is a doc when it is saved with a name, at least once.
+
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii}.}
+  \tightlist
+  \item
+    Word is to a GOOD DOC (for example, a resume), as action is to
+    goal.
+  \item
+    To a BAD DOC, a word (for example a diary entry) is to an
+    unnecessary purchase at a tupperware party.
+
+    \begin{enumerate}
+    \def\labelenumiii{\arabic{enumiii}.}
+    \tightlist
+    \item
+      Notes are words for comm.
+    \item
+      Lib is what words to save.
+    \item
+      Revision is words for pris.
+    \end{enumerate}
+  \end{enumerate}
+\item
+  Introduce ideas in unambiguous terms.
+
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii}.}
+  \tightlist
+  \item
+    introducing a new topic, provide a succinct, distinctive
+    illustration of the point or merit, \emph{in the verbiage you will
+    most likely understand}.
+  \item
+    then describe the link with a taxonomic reference, as follows,
+    where each idea read left to right is a type of or label for the
+    preceding category, implying alternatives at each level.
+    e-psych-teach-2021-unit4-hw-methods\_report-intro ``For this
+    assignment, consider your grandparents.''
+  \end{enumerate}
+\item
+  Illustrate the link.
+
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii}.}
+  \tightlist
+  \item
+    At a micro-scale, every dash itself is a link.
+  \item
+    For example, in the taxonomy, ``Psych-teach-2021-unit4'' the three
+    latter IDEAS qualify the topic, PSYCH. The order of terms from
+    left to right should closely correspond to the order of relevant
+    conditional differences that determine:
+
+    \begin{enumerate}
+    \def\labelenumiii{\arabic{enumiii}.}
+    \tightlist
+    \item
+      the pri for the reader. answer: what are the fewest words to
+      help a reader know a topic is irrelevant or truly
+      beneficial?
+    \item
+      the most similar and relevant concepts to most distinct,
+      rare, and particular to what is being described.
+    \end{enumerate}
+  \item
+    the left-most word will be either implied or actual chapter
+    headings.
+  \item
+    All science that is not directly relevant elsewhere, will fall
+    under PPL-WORK or SELF-HOME.
+  \item
+    The remaining chapters deal with modes on these basic sources:
+    PRI and ED concern optimizing life. (What about WORD, REVISION,
+    COMM?)
+  \item
+    In the example above, PSYCH might fall under SELF-BODY,
+    SELF-HOME, PPL, PPL-WORK. Here, we are talking about defining
+    links for purposes of reducing ambiguity.
+  \item
+    The link is the decision of the sentence that requires the most
+    care. It is simply a bridge, and as such has a basic and plain
+    function.
+  \item
+    Named links are ACTIONS.
+  \item
+    Over-spelling the IDEAs leaves an empty link, e-``do\ldots(the
+    trash)'' consider what is the manner of spending time, if an
+    action, to ascribing your link. Consider the specific change
+    being undertaken. Some ACTIONS: TAKE, GIVE, MAKE, BUY, SELL,
+    USE/EAT, WORK, WRITE, READ. - Notice these are all verbs of
+    transfer.
+  \item
+    In instr, the link comes last, and it describes a step in
+    revision.
+  \end{enumerate}
+\item
+  Contextualize with an alternative
+
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii}.}
+  \tightlist
+  \item
+    A plan should inherit or give definitions of new terms.
+  \item
+    New definitions should especially be accompanied by a true
+    use-case, to protect against a false problem.
+  \item
+    A pri is the motive for life, and itself is only a named
+    spending of time.
+  \item
+    A developed pri is an instruction.
+  \item
+    One generalized is a lesson.
+  \end{enumerate}
+\end{enumerate}
+
+\hypertarget{scientist}{%
+\section{Scientist}\label{scientist}}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{46}
+\item
+  A scientist works to win BETS against the UNKNOWN. They are a
+  professional writer, evaluated on two metrics:
+
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii}.}
+  \tightlist
+  \item
+    For their new CONTENT.
+  \item
+    The net benefit on GOAL outcomes.
+  \end{enumerate}
+\item
+  A scientist-researcher is a WRITER, a data-collector and hypothesis
+  tester.
+\item
+  A scientist-scholar is a READER, curating toward theory development
+  and COMM.
+\item
+  More will be said about SCIENTIST more broadly. Here we focus
+  strictly on the aspect of a scientist which is to develop the
+  description of the world, properly.
+\end{enumerate}
+
+\hypertarget{framework}{%
+\section{Framework}\label{framework}}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{50}
+\item
+  FRAMEWORK (FRAME) is a cluster of definitions.
+\item
+  What metric can be used to compare and test BETs on WORDs?
+\item
+  Such a metric requires a general framework for cognition.
+\item
+  This is that general framework.
+\item
+  Just as a child learns skills from ``put it in the box'' to ``put it
+  together,'' and ``solve the problem you creatively set up to solve the
+  impossible,'' so too the highest cognitive function --these days a
+  cooperative one beyond the speed or control of any individual--
+  deserves treatment of its abilities and applications in order of
+  processing difficulty and utility; utility in contributing to itself
+  however it sees fit, but especially in its allocation of finite
+  resources.
+\end{enumerate}
+
+\hypertarget{theory}{%
+\section{THEORY}\label{theory}}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{55}
+\item
+  \[ H1  
+  where P = Cognition,
+  GOOD.P = P(WIT.GOAL.SORT|PRI) \]
+\item
+  Cognitive acts should be engaged in as a pyramid of levels (like
+  food pyramid), number of tasks (width of level).
+\item
+  For example, a base height of 4 (levels) = 4 topics on bottom level,
+  3 on 2nd, 2 on 3rd and 1 on 4th. where the bottom level is the
+  simplest of tasks, such as name and or bin, the next is between
+  order and sort, then between measure and assemble, finally between
+  test and use, until it leaves the pyramid as habit, extinguished, or
+  tasks revised.
+\item
+  For example, assuming a GOAL, make an action plan (BLITZ)
+  constrained by number of tasks by type as follows:
+
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii}.}
+  \tightlist
+  \item
+    SORT (base task)
+  \item
+    NAME, DEF, or MEASURE,
+  \item
+    MAKE (minimum viable)
+  \item
+    TEST (EDIT, SIM, REVISE)
+  \item
+    USE (reliable, helpful)
+  \end{enumerate}
+\item
+  Additional tasks must ``wait'' to be addressed until a task of the
+  same level becomes complete and removed from the pyramid, leaving a
+  slot to be replaced.
+\item
+  This is a frame that gives a starting point for assessing how and
+  what optimal capacity and boundaries exist for a human as a
+  cognitive being.
+\item
+  Above is a proposed initial BET, arrived at by SIM. Here's an
+  example GOOD SIM:
+
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii}.}
+  \tightlist
+  \item
+    NAME a PRI-scope of IRL-events.
+  \item
+    For example, tasks may differ in how hard and many times actions
+    at various levels need be done;
+  \item
+    The following properties can be varied by SIM. 1-TASK type
+    definitions, pyramid level definitions.
+  \item
+    TASK-LEVEL and TASK-COUNT
+  \item
+    For example, 3 levels starting at 10-count, reducing by 2
+    (10,8,6), or 5 levels start at 25 reducing by 6 (25,19,13,7,1).
+  \item
+    The GOAL of SIM is to maximize a BET you take (e.g., vs defining
+    relevant PRIs).
+  \end{enumerate}
+\end{enumerate}
+
+\hypertarget{change}{%
+\chapter{Change}\label{change}}
+
+\hypertarget{revision}{%
+\section{Revision}\label{revision}}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\item
+  Neutrally, a WORD may be replaced by another. As a process which takes effort, do so to improve, and we will call it REVISION. REVISION is the change of WORDS to improve actions of yourself or others.
+\item
+  REVISION is how we know reflection is happening, described here in VERSIONS (v\#) of a response.
+\item
+  For example, consider the following revisions (v1-3) describing this brief argument:
+
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii}.}
+  \item
+    1: ``Nobody follows doctors' orders.''\\
+    2: ``My parents do, religiously.''\\
+    1: ``They're the exception.''\\
+    2: ``You're not exposed to minorities.''
+  \item
+    v1
+
+    \begin{enumerate}
+    \def\labelenumiii{\alph{enumiii})}
+    \tightlist
+    \item
+      1 makes a false generalization.
+    \item
+      2 illustrates a counterpoint, and 1 gets mad.
+    \item
+      1 dismisses it, and 2 gets mad.
+    \end{enumerate}
+  \item
+    v2
+
+    \begin{enumerate}
+    \def\labelenumiii{\alph{enumiii})}
+    \tightlist
+    \item
+      1 generalizes from WORK experience.
+    \item
+      2 argues with parents' experience, and 1 gets mad.
+    \item
+      1 dismisses and 2 get mad.
+    \end{enumerate}
+  \item
+    v3
+
+    \begin{enumerate}
+    \def\labelenumiii{\alph{enumiii})}
+    \tightlist
+    \item
+      1 argues outside 2's experience.
+    \item
+      2 uses personal experience, thinking it's impenetrable.
+    \item
+      Failing and hurt, 2 insults.
+    \end{enumerate}
+  \end{enumerate}
+\item
+  The example aims to illustrate revisions which increase the amount of responsibility, control, and preventable future behavior on part of the writer, without much change in WORD count.
+\end{enumerate}
+
+\hypertarget{plan-2}{%
+\section{Plan}\label{plan-2}}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{4}
+\tightlist
+\item
+  Good revisions better describe what we know to have happened, and predict what will happen (again).
+\item
+  Reality is what determines whether each version is better.
+\item
+  Revise prior prompt responses only to help your current prompt response.
+\item
+  If your GOAL deals with different assumptions about the truth, change the prompt to whatever gets you to write the most helpful WORDS for your GOAL.
+
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii}.}
+  \tightlist
+  \item
+    For example, a prompt referring to University student experiences should be adapted for your non-University experiences.
+  \item
+    A common (problematic) assumption is that you are emotionally ready to be SELF-critical.
+  \item
+    Do not change the prompt so you can be lazy.
+  \end{enumerate}
+\end{enumerate}
+
+\hypertarget{think-1}{%
+\section{Think!}\label{think-1}}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{8}
+\tightlist
+\item
+  Elsewhere, we will establish variations on ultimate questions.
+\item
+  One variant is the superlative presupposition, which becomes an imperative (PLAN).
+\item
+  For illustration, all questions presuppose and command, ``Think!''
+\item
+  As compliment, all WORDs can be seen as an answer to this question (GOOD or BAD).
+\item
+  Supposing just as questions can be revised to their superlatives, we don't bother to ask them, and focus on the superlative of answers.
+\item
+  Thus is an example basis of GOOD revision: to bring the particular apprehension to a universally relevant call to action, responding to the implied imperative of all questions, ``Think.''
+\end{enumerate}
+
+\hypertarget{plan-3}{%
+\section{Plan}\label{plan-3}}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{14}
+\tightlist
+\item
+  The GOAL of WORDS is to express ideas of maximum CAKE tomorrow.
+\item
+  Since few WORDS meet these criteria, start by revising toward fewer WORDS.
+\item
+  Make IDEAS clear and concrete.
+\item
+  Provide just enough CONTEXT to remember the basis of the key ideas.
+\item
+  Precision depends on purpose.
+
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii}.}
+  \tightlist
+  \item
+    LIST. Name relevant ideas for GOAL.
+  \item
+    WRITE a PLAN, (ordered LINKS).
+  \item
+    DOUBT. Assert the strongest rebuttal to the PLAN.
+  \item
+    BET. Improve IDEAS and LINKS by addressing weakness and clarity.
+  \item
+    READ. Wager its CAKE (e.g., Relative to another PLAN).
+  \end{enumerate}
+\item
+  When reflecting, reflect only on ``how can I help my future SELF?'' And impose TIME and WORD limits.
+\item
+  A bad doc is stream-of-consciousness.
+\end{enumerate}
+
+\hypertarget{prompts}{%
+\section{Prompts}\label{prompts}}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{21}
+\tightlist
+\item
+  Prompts elicit conflicts (truth) between SELF and NORM, to improve PLANS for your GOALS.
+\item
+  TIME and WORD limits WORK together to encourage a balance between reflecting on truth and describing it.
+\end{enumerate}
+
+\hypertarget{word-limit}{%
+\section{Word Limit}\label{word-limit}}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{23}
+\tightlist
+\item
+  WORD limits combat needless WORDS and distracting tangents. A WORD limit keeps your attention.
+\item
+  A WORD limit is a proxy for a prompt's complexity.
+\item
+  Try to write the exact number of WORDS.
+\item
+  Good WORD limits require cutting out unhelpful WORDS, change figurative WORDS to concrete, ideally assertive and falsifiable.
+\item
+  For every PLAN you make: Assert a WORD limit before writing to be reminded of your initial intentions, and be challenged to express ideas clearly. Become skilled at using only the fewest WORDS necessary, to reveal and clarify CAKE.
+\item
+  If you exceed the limit and there is no end in sight, stop and reassess.
+\end{enumerate}
+
+\hypertarget{time-limit}{%
+\section{Time Limit}\label{time-limit}}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{29}
+\tightlist
+\item
+  The TIME limit dictates how precise your WORDS should be.
+\item
+  Use extra TIME to improve WORD choice.
+\item
+  For example, given a 50-WORD limit, 1 minute (1m, 50w) encourages free writing with minimal restrictions on quality of thought, while 4 minutes encourages more careful selection of WORDS.
+\end{enumerate}
+
+\hypertarget{lessons-1}{%
+\section{LESSONs}\label{lessons-1}}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{32}
+\tightlist
+\item
+  LESSONS are an ordered set of prompts, usually three to four, up to 60 minutes and 250 WORDS. A prompt's WORD count is the number of WORDS to be added to your document.
+\item
+  Lessons target inconsistencies between reality and PRIS.
+\item
+  They are designed to be revisited and revised repeatedly.
+\item
+  A 0w prompt means revise, but do not increase the WORD total.
+\item
+  The first prompts in LESSONS are warm-ups to direct your attention. They ask for names of IDEAS.
+\item
+  The remaining prompts are for thinking, requiring you to make LINKS between your warm-up IDEAS. Done right, you will face some new truths.
+\end{enumerate}
+
+\hypertarget{peer-revision}{%
+\section{PEER-REVISION}\label{peer-revision}}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{38}
+\tightlist
+\item
+  Peer revision is a powerful learning tool. Get answers from others.
+\item
+  Forget who provides REVISION and how much.
+\item
+  The peer WRITER has uncompromised objectivity, and liberty to employ Truth, however ``harsh''.
+\end{enumerate}
+
 \hypertarget{communication}{%
 \chapter{Communication}\label{communication}}
 
-(COMM)
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\item
+  Consider you meet someone in the woods, and have only 1m (approx.
+  250w) to say the most essential thing.
+\item
+  When you communicate (COMM), skip SELF and talk PRI. Convey the
+  greatest amount of relevant information with greatest likelihood of
+  understanding or convincing.
+\item
+  PRI-COMM is the difference between your and NORM-PRI, especially
+  that what your FOOD and CAKE are and why.
+\item
+  Say:
+
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii}.}
+  \tightlist
+  \item
+    properties of the answer, not knowing it,
+  \item
+    an answer for purposes of improving on it.
+  \end{enumerate}
+\item
+  These properties are the properties of {[}SR{]}{[}Skilled Reflection{]}:
+
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii}.}
+  \tightlist
+  \item
+    comparable constraints to establish a reliable subjective
+    experience.
+  \item
+    until we have a measurable SELF and variation, share the SELF
+    that is CAKE, in 250w.
+  \end{enumerate}
+\end{enumerate}
+
+\hypertarget{problem-1}{%
+\section{Problem}\label{problem-1}}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{5}
+\item
+  Communication happens from one being to another.
+\item
+  The function is to direct attention to a circumstance of high
+  importance: sharing information.
+\item
+  For example, the vervet screech that specifically means, ``snake''.
+\item
+  While the vervet makes or hears calls about threats of immediate,
+  nearby importance, the breadth of human communication can direct
+  attention to circumstances of distant places and times.
+\item
+  This is an echo of the breadth of attention and information humans
+  engage. for some reason entangled between information, sharing it,
+  there is subjectivity of importance.
+\item
+  The consequence is ambiguity in the value of a communicative act.
+\end{enumerate}
 
 \hypertarget{style}{%
 \section{STYLE}\label{style}}
 
-\hypertarget{goal}{%
-\subsection{Goal}\label{goal}}
-
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
-\setcounter{enumi}{41}
+\setcounter{enumi}{11}
 \tightlist
 \item
   RECOGNITION, reading familiar WORDS is easier than RETRIEVAL from
   memory, of WORDS to write. Is- savings on revision.
 \item
-  Only save docs that you BET will be useful enough later to save TIME,
-  overall.
+  Only save docs that you BET will be useful enough later to save
+  TIME, overall.
 \item
   Once saved, we assume a DOC will be READ later, and provide CAKE.
   This is the primary type of COMM we engage in.
@@ -2498,31 +3192,32 @@ maybe you just like their apples.
   inherent and practical problems that arise.
 \end{enumerate}
 
-\hypertarget{comm-problem}{%
-\subsection{COMM problem}\label{comm-problem}}
+\hypertarget{comm}{%
+\section{COMM}\label{comm}}
 
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
-\setcounter{enumi}{46}
+\setcounter{enumi}{16}
 \tightlist
 \item
   Writing a WORD creates a static record of a WORD.
 \item
   No person is identical with a future or past SELF, with any other
-  person, and all of these relationships are in part UNKNOWN. (\protect\hyperlink{ppl}{c4.1})
+  person, and all of these relationships are in part UNKNOWN.
+  (\protect\hyperlink{ppl}{c4.1})
 \item
-  The problem of COMM is the difference in meaning between READER
-  and WRITER of the same WORD.
+  The problem of COMM is the difference in meaning between READER and
+  WRITER of the same WORD.
 \item
   Even if you wrote the WORD, your later SELF may read a different
   meaning for that WORD.
 \item
   GOOD COMM attempts to systematically reconcile these issues.
 \item
-  BAD COMM takes advantage of them at the COST of clarity and
-  honesty.
+  BAD COMM takes advantage of them at the COST of clarity and honesty.
 \item
-  PPL vary in how they apprehend the world, and therefore they can vary in
+  PPL vary in how they apprehend the world, and therefore they can
+  vary in
 
   \begin{enumerate}
   \def\labelenumii{\arabic{enumii}.}
@@ -2541,7 +3236,8 @@ maybe you just like their apples.
   \def\labelenumii{\arabic{enumii}.}
   \tightlist
   \item
-    WORDS are never definite and certain in what they describe of the real world.
+    WORDS are never definite and certain in what they describe of
+    the real world.
   \item
     A WORD's definition is a generalization.
   \end{enumerate}
@@ -2560,12 +3256,12 @@ maybe you just like their apples.
   To improve COMM, study the difference between CONTENT and STYLE.
 \end{enumerate}
 
-\hypertarget{pris-differ}{%
-\subsection{PRIs differ}\label{pris-differ}}
+\hypertarget{difference}{%
+\section{Difference}\label{difference}}
 
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
-\setcounter{enumi}{57}
+\setcounter{enumi}{27}
 \tightlist
 \item
   PRIS between PPL (WRITER and READER) differ.
@@ -2575,19 +3271,20 @@ maybe you just like their apples.
   Good STYLE is change in WORDS to minimize change in ideas between
   READER and WRITER.
 \item
-  Versions describe identical CONTENT with difference in STYLE between them.
+  Versions describe identical CONTENT with difference in STYLE between
+  them.
 \item
   A PLAN for a DOC is an earlier VERSION of the (same) final DOC.
 \item
   For example, you today vs you in five years.
 \end{enumerate}
 
-\hypertarget{norms-style}{%
-\subsection{NORMs STYLE}\label{norms-style}}
+\hypertarget{norms}{%
+\section{NORMs}\label{norms}}
 
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
-\setcounter{enumi}{63}
+\setcounter{enumi}{33}
 \tightlist
 \item
   COMM NORMs assume READING and WRITING have no intrinsic GOALS.
@@ -2605,60 +3302,50 @@ maybe you just like their apples.
     framing attacks as agreeable observations.
   \end{enumerate}
 \item
-  The maximum common SELF-PRIS across PPL are the optimal
-  arguments for PITCH. E-FOOD vs.~CAKE.
+  The maximum common SELF-PRIS across PPL are the optimal arguments
+  for PITCH. E-FOOD vs.~CAKE.
 \item
   BRAND is PITCH that distorts truth, a form of bad STYLE.
 \item
-  For example, consider the GOAL of describing the properties of \textbf{apples } with the purpose of selling them:
+  For example, consider the GOAL of describing the properties of
+  \textbf{apples} with the purpose of selling them:
 
   \begin{enumerate}
   \def\labelenumii{\arabic{enumii}.}
   \tightlist
   \item
-    CONTENT: \textbf{Apples are healthy but sugary. }\\
+    CONTENT: \textbf{Apples are healthy but sugary.}\\
   \item
-    STYLE: \textbf{Apples are tasty and nutritious. }\\
+    STYLE: \textbf{Apples are tasty and nutritious.}\\
   \item
     BRAND: \textbf{Apples are healthy.}\\
   \end{enumerate}
 \item
-  PPL who do not distinguish FOOD from CAKE will be persuaded by BRAND more than PITCH.
+  PPL who do not distinguish FOOD from CAKE will be persuaded by BRAND
+  more than PITCH.
 \end{enumerate}
 
 \hypertarget{library}{%
 \section{Library}\label{library}}
 
-\hypertarget{def}{%
-\subsection{Def}\label{def}}
-
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
-\setcounter{enumi}{70}
+\setcounter{enumi}{38}
 \tightlist
 \item
-  LIB is the explicit effort to maximize the use of what you WRITE, SAVE,
-  and READ, by organizing it for best application, and providing feedback
-  to help your future decisions to WRITE, SAVE, and READ.
+  LIB is the explicit effort to maximize the use of what you WRITE,
+  SAVE, and READ, by organizing it for best application, and providing
+  feedback to help your future decisions to WRITE, SAVE, and READ.
 \item
   The scope of LIB is the collection of your WORDS over a lifetime.
 \item
   is post-WRITING cache to facilitate future production.
 \item
   LIB is to docs as HOME is to possessions.
-\end{enumerate}
-
-\hypertarget{lib-as-pri}{%
-\subsection{LIB as PRI}\label{lib-as-pri}}
-
-\begin{enumerate}
-\def\labelenumi{\arabic{enumi}.}
-\setcounter{enumi}{74}
-\tightlist
 \item
-  LIB aims to maximize the CAKE of WORDS you save, and ideally,
-  reduce future efforts to PLAN and accomplish PRIS, through making
-  the best of your thoughts easy to find.
+  LIB aims to maximize the CAKE of WORDS you save, and ideally, reduce
+  future efforts to PLAN and accomplish PRIS, through making the best
+  of your thoughts easy to find.
 \item
   A bad LIB is the sum of your WORDS, void of curation, none of which
   helped PLANS.
@@ -2669,24 +3356,31 @@ maybe you just like their apples.
 \item
   For learning what you don't know you don't know.
 \item
-  Potential risks include
-  80.1. writing, saving, and finding bad docs.
-  80.2. failure to save or find good docs.
+  Potential risks include 40.1. writing, saving, and finding bad docs.
+  40.2. failure to save or find good docs.
 \item
   Studying links will improve ideas.
 \item
   PLANS, and anything else you write down, should be part of a PRI.
 \item
   Facilitate RETRIEVAL:
-  83.1. Index (list) docs worth rereading.
-  83.2. Assign a number that indicates its relative importance (abs or
-  relative weight).
-  83.3. Add tags and metadata for easier sorting.
-  83.4. Make and revise only for high-PRI GOAL(s). Record and study LIB
-  RETRIEVAL patterns.
+
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii}.}
+  \tightlist
+  \item
+    Index (list) docs worth rereading.
+  \item
+    Assign a number that indicates its relative importance (abs or
+    relative weight).
+  \item
+    Add tags and metadata for easier sorting.
+  \item
+    Make and revise only for high-PRI GOAL(s). Record and study LIB
+    RETRIEVAL patterns.
+  \end{enumerate}
 \item
-  Note the TIME and date now, as you did in the introduction.
-  Graduate
+  Note the TIME and date now, as you did in the introduction. Graduate
 \item
   This is the end of the book.
 \item
@@ -2696,90 +3390,83 @@ maybe you just like their apples.
 \end{enumerate}
 
 \hypertarget{reference-system}{%
-\subsection{Reference system}\label{reference-system}}
+\section{Reference system}\label{reference-system}}
 
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
-\setcounter{enumi}{87}
-\tightlist
+\setcounter{enumi}{55}
 \item
-  Well, what LIB would be complete without
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii}.}
+  \tightlist
+  \item
+    Space: this book's chapter and line numbering.
+  \item
+    Time: v2.14 the current book version.
+  \end{enumerate}
 \item
-  a reference index?
+  For example, a document that elaborates about Trump would begin
+  titled ``c4.23 v2.14''.
 \item
-  The equivalent of the Dewey system
+  In version 2.14 of SR, 4 is the chapter PPL, and number 23 is the
+  definition of RLTP. Trump, the article topic, is an example.
 \item
-  mine is a reference of space-and-time:
-  91.1. Space: this book's chapter and line numbering, and
-  91.2. Time: v2.14 the current book version.
-\item
-  For example, a document that elaborates about trump would begin titled ``c4.23 v2.14''.
-\item
-  In version 2.14 of SR, 4 is the chapter PPL, and number 23 is the definition of RLTP. Trump, the article topic, is an example.
-\item
-  this is the header format for any subsequent document of an idea I write.
+  This is the header format for any subsequent document of an idea I
+  write.
 \end{enumerate}
 
-\hypertarget{the-answerword}{%
-\subsection{The Answerword}\label{the-answerword}}
+\hypertarget{answerword}{%
+\section{Answerword}\label{answerword}}
 
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
-\setcounter{enumi}{94}
+\setcounter{enumi}{59}
 \item
-  The complete set of PPL's LIBs is sufficiently exhaustive to describe all that matters in each and all lives.
+  The complete set of PPL's LIBs is sufficiently exhaustive to
+  describe all that matters in each and all lives.
 \item
-  The efficiently compressed content of this LIB produces a distribution of variation along a median LIB.
+  The efficiently compressed content of this LIB produces a
+  distribution of variation along a median LIB.
 \item
   This is the content of the next book, ``Answerword.''
 \item
-  In that book, STYLE is any further optimization to maximize learning.
+  In that book, STYLE is any further optimization to maximize
+  learning.
 \item
-  Book 3, ``Afterword'', is the DARPA for thought when the Answerword is muscle-memory.
+  Book 3, ``Afterword'', is the DARPA for thought when the Answerword is
+  muscle-memory.
 \end{enumerate}
 
-\hypertarget{outtakes}{%
-\section{Outtakes}\label{outtakes}}
+\hypertarget{zero}{%
+\section{Zero}\label{zero}}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{64}
+\tightlist
+\item
+  Suppose you don't share the same language. What conventions of
+  gesture, an international gesture meaning, might we have?
+
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii}.}
+  \tightlist
+  \item
+    An object pointed to means: There it is; It is/will be mine; I
+    want it; You want it;
+  \end{enumerate}
+\end{enumerate}
 
 \hypertarget{your-calling-part-ii}{%
-\subsection{Your Calling, Part II}\label{your-calling-part-ii}}
+\section{Your Calling, Part II}\label{your-calling-part-ii}}
 
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
-\setcounter{enumi}{3}
+\setcounter{enumi}{65}
 \tightlist
 \item
-  Tell me the missing chapter
-  that gives peace instead of regimen,
-  so that I may find mine.
-\end{enumerate}
-
-\hypertarget{instructor-0-to-instructors-sr.v1}{%
-\subsection{Instructor 0 to Instructors (SR.v1)}\label{instructor-0-to-instructors-sr.v1}}
-
-\begin{enumerate}
-\def\labelenumi{\arabic{enumi}.}
-\setcounter{enumi}{4}
-\tightlist
-\item
-  Listen up, you vibrating sacks of meat.
-\item
-  A teacher and student conspire in a radical co-dependency, mutually betting on
-  the student's ability.
-\item
-  It is my job to sniff out why on Earth you are interested in this.
-\item
-  You are crazy for wanting to be a teacher.
-\item
-  Until you are, you have only one thing to teach:
-\item
-  You must teach me to believe you.
-\item
-  You will do everything to put the truth in front of me.
-\item
-  If I find out you withhold the truth, I will punish you with it.
-\item
-  You are a teacher when your students pay for both your lost TIME with BET winnings.
+  Tell me the missing chapter that gives peace instead of regimen, so
+  that I may find mine.
 \end{enumerate}
 
 \hypertarget{appendix-lessons}{%
@@ -3159,12 +3846,11 @@ Add up to 50 words, and revise.
   incorporated.
 \end{enumerate}
 
-\hypertarget{doubt}{%
-\chapter{DOUBT}\label{doubt}}
+\hypertarget{lesson-doubt}{%
+\chapter{Lesson: DOUBT}\label{lesson-doubt}}
 
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
-\setcounter{enumi}{56}
 \tightlist
 \item
   Imagine receiving the perfect email that meets your needs; addresses
@@ -3177,38 +3863,46 @@ Add up to 50 words, and revise.
 
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
-\setcounter{enumi}{57}
+\setcounter{enumi}{1}
 \tightlist
 \item
-  List things the email should include feelings, tangible
-  things, states, WORDS of wisdom, anything you need to hear.
+  List things the email should include feelings, tangible things,
+  states, WORDS of wisdom, anything you need to hear.
 \end{enumerate}
 
 Task 2. 4m, author name, revise.\\
-59. Consider who could write this: a
-boss, a best friend, a stranger. Add an author and revise as needed.
+3. Consider who could write this: a boss, a best friend, a stranger. Add
+an author and revise as needed.
 
 \hypertarget{task-3.-15m-200w.}{%
 \section{Task 3. 15m, 200w.}\label{task-3.-15m-200w.}}
 
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
-\setcounter{enumi}{59}
+\setcounter{enumi}{3}
 \tightlist
 \item
-  Now write that email. Don't worry about how or
-  why ``they would say this.'' Focus on making sure the letter covers the
-  things you NEED to hear.
+  Now write that email. Don't worry about how or why ``they would say
+  this.'' Focus on making sure the letter covers the things you NEED to
+  hear.
+\end{enumerate}
+
+\hypertarget{task-4.-2m-your-name.}{%
+\section{Task 4. 2m, ``your name''.}\label{task-4.-2m-your-name.}}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{4}
+\tightlist
 \item
-  Task 4. 2m, ``your name''. Plot twist. Russia sends long range missiles
-  that take out U.S. infrastructure including the internet. The
-  government issues a full lockdown, and you're home alone without
-  Netflix.
+  Plot twist. Russia sends long range missiles that take out U.S.
+  infrastructure including the internet. The government issues a full
+  lockdown, and you're home alone without Netflix.\\
 \item
   Two days in, an email appears on your computer.
 \item
-  It's the letter! How is this possible? Slowly you realize, you must have
-  written this letter. You did!
+  It's the letter! How is this possible? Slowly you realize, you must
+  have written this letter. You did!
 \item
   Add these WORDS at the bottom of your letter:
 \item
@@ -3222,21 +3916,21 @@ boss, a best friend, a stranger. Add an author and revise as needed.
 
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
-\setcounter{enumi}{66}
+\setcounter{enumi}{10}
 \tightlist
 \item
-  Your original author may have had the authority,
-  resources, or information you don't. For example, ``Here's 20 thousand
-  dollars to build your classroom.''
+  Your original author may have had the authority, resources, or
+  information you don't. For example, ``Here's 20 thousand dollars to
+  build your classroom.''
 \item
   Revise to make the letter practical.
 \item
-  Tip 1: For resources you don't have-- money, TIME, influence-- accept
-  that indeed, you do not have power over these things, give up
+  Tip 1: For resources you don't have-- money, TIME, influence--
+  accept that indeed, you do not have power over these things, give up
   attempts to control, and welcome your feelings.
 \item
-  Tip 2: For guiding your behavior--decisions, actions, confidence-- give
-  permission to take action.
+  Tip 2: For guiding your behavior--decisions, actions, confidence--
+  give permission to take action.
 \end{enumerate}
 
 \hypertarget{self-testing}{%
@@ -3289,43 +3983,6 @@ Add word and time limits for each question.
 \textbf{Task 5. 20-25m.}
 
 Take your quiz.
-
-Appendix/aggregates.
-1. FIT PLAN.
-2. WIT PLAN.
-3. Good vs Bad
-e-Good PLANs are ones that\ldots{}
-
-\hypertarget{self-exp-e}{%
-\section{SELF-exp-e}\label{self-exp-e}}
-
-exp-running-vs-meditation
-- 2019-07-18-1735\\
-- time on task\\
-- work = words per day\\
-\emph{predictions}\\
-- running is linearly correlated with writing\\
-- meditation is u-shaped curve
-
-\hypertarget{ppl-the-world}{%
-\section{PPL-The world}\label{ppl-the-world}}
-
-\begin{enumerate}
-\def\labelenumi{\alph{enumi}.}
-\tightlist
-\item
-  Localist (political `position'; representation; problem of tokenization)
-\item
-  Distributed (population average)
-\end{enumerate}
-
-\begin{enumerate}
-\def\labelenumi{\arabic{enumi}.}
-\setcounter{enumi}{2}
-\tightlist
-\item
-  The world's CHUD
-\end{enumerate}
 
   \bibliography{book.bib,packages.bib}
 
