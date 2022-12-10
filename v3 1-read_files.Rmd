@@ -1,0 +1,265 @@
+---
+title: "read_files"
+output: html_document
+date: '2022-11-04'
+---
+
+NLP work is scattered, advanced through the 3 courses i taught, and RAs in between, from 2020--2022. The most recent implementations were consolidated for SR in 'v2...Rmd'.
+That file, ballooning, is now split into 3, as v3:
+v3 1-read_files.Rmd
+v3 2-nlp.Rmd
+v3 3-write_files.Rmd
+
+## verion
+3.01 raw split, main.R in 3-...Rmd
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+must manually run if this is not source.
+
+```{r eval = FALSE}
+library(tidyverse)
+library(tidytext)
+library(topicmodels)
+library(tidyr)
+library(reshape2)
+library(stringi)
+```
+
+## prep
+### read  files (csv)
+
+```{r}
+setwd("C:/Users/Public/Dropbox/2-theory/1_skilled_reflection/website/")
+x <- read_csv("ch1_8.csv") %>% 
+  select(-h_name)
+
+y <- read_csv("ch1_8_h12.csv") %>% 
+  select(-h_name,-ch_name) 
+  # group_by(ch_i) %>% 
+  mutate(h_i = ch_i, #row_number()
+         ch_i = p_i ) %>%
+  # ungroup 
+  View
+z  <- read_csv("f.csv") %>% 
+  mutate(key = str_to_lower(key))
+
+
+a <- left_join(x,y) 
+
+
+```
+
+### read  files (rmd dir)
+
+```{r}
+# files  <- dir( "/" ) 
+setwd("C:/Users/Owner/Dropbox/2-theory/1_skilled_reflection/website/bookdown/")
+files <- dir(full.names=TRUE,pattern = ".Rmd")
+# 2022-06-12-2129
+
+```
+
+select_files
+```{r}
+files <- files %>% 
+  as.data.frame()  
+colnames(files) <- "files"
+files <- files %>% 
+  mutate(files=as.character(files)) %>% 
+  filter(!grepl("txt",files),
+           grepl("md",files),
+         !grepl("compile",files),
+         !grepl("ls",files),) 
+```
+
+make df and header
+- this feels cloojy but i've done it and it works.
+```{r}
+
+read_dir_txt <- function(files) {
+  df <-readChar(files[1], 
+                file.info(files[1])$size) %>% 
+  data_frame(txt=.,title=files[1])
+  
+  for (name in files){
+    a <- readChar(name, file.info(name)$size) %>% 
+    data_frame(txt=.,title=name)
+    df <- rbind(df,a)
+  }
+  return(df)
+}
+```
+
+
+now loop it.
+```{r}
+df <- read_dir_txt(files$files) %>% unique
+
+```
+
+
+## parse
+for each token size, a df is made, "df_TOKEN"
+the token count per title is computed and returned to the original df with the following code
+
+```{r}
+count_in_file <-  . %>% 
+  count(title, sort = TRUE) %>% 
+    left_join(df,.,by="title")
+
+```
+
+### by word
+```{r}
+df_word <- df %>% 
+  unnest_tokens(word,txt) %>% 
+  mutate(id.word=c(1:length(word)))
+
+df <- df_word %>% 
+  count_in_file %>% 
+  rename(wordC = n) 
+```
+
+```{r}
+df_wordns <- df_word %>% 
+  anti_join(get_stopwords()) 
+
+df <- df_wordns %>% 
+  count_in_file %>% 
+  rename(noStopC = n)
+
+```
+
+```{r}
+df_stops <- df_word %>% 
+  inner_join(get_stopwords())
+
+df <- df_stops %>% 
+  count_in_file %>% 
+  rename(StopC = n)
+```
+
+
+### by line
+```{r}
+df_line <- df %>% 
+  unnest_tokens(word,txt,token="lines") %>% 
+  mutate(id.line=c(1:length(word))) 
+
+df <- df_line %>% 
+  count_in_file %>% 
+  rename(lineC = n) 
+```
+
+get numbered sentence numbers as sep column.
+
+## line parsing
+```{r}
+
+df_line2 <- df_line %>% 
+  mutate(verse= stri_extract_first_regex(word,"^[0-9][0-9]?"),
+         enum = stri_extract_first_regex(word,"^ ? ? ? ? ? ? ? ?  ?[0-9][0-9]?"),
+         h1 = str_sub(title,5,-5),
+         h2 = stri_extract_first_regex(word,"^## .*$"),
+         verse = as.numeric(verse),
+         enum = as.numeric(str_remove(enum,"^  ? ? ? ? ? ? ?")),
+         h2 = str_remove(h2,"^## "),
+         word = str_remove(word,"^## "),
+         word = str_trim(word),
+         word = str_remove(word,"^[0-9][0-9]?.[0-9]? ?"),
+         word = str_trim(word)
+         ) %>%
+  group_by(h1) %>% 
+  fill(h2,verse) %>%
+  mutate(verse = if_else(!is.na(enum),verse + (enum/10),verse),
+         # verse = ifelse(h2==word,"h2",verse)
+         ) %>% 
+  select(id.line,h1,h2,verse,word) %>% 
+  ungroup
+
+  # filter(!word=="")
+
+```
+
+## Inspecting h2's
+```{r}
+df_line2 %>% 
+  select(h1,h2) %>% 
+  unique %>% 
+  na.omit %>% 
+  count(h2) %>% 
+  arrange(-n) %>% 
+  View
+```
+plan, lessons, problem occur more than once.
+
+```{r}
+df_line2 %>% 
+  select(h1,h2) %>% 
+  unique %>% 
+  filter(h2=="plan"|h2=="lessons"|h2=="problem") %>% View
+```
+
+```{r}
+write.csv(df_line2,file="sr_bylines.csv",row.names=FALSE)
+```
+
+
+```{r}
+
+df  <- df_line2 %>% 
+  count(h1,h2)  %>% 
+  count(h1) %>%  
+  rename(h2 = n) %>% 
+  left_join(
+    select(df_line,-h2),.) %>% 
+  count(h1,h2,h3) %>% 
+  count(h1,h2) %>% 
+  rename(h3=n) %>% 
+  left_join(df,.)
+
+write_csv(df,file = "sr_df_h23.csv")
+
+```
+
+```{r}
+df_line %>% 
+  select(title,h2) %>% 
+  unique %>% 
+  write_csv(file = "srdf_h2names.csv")
+```
+
+
+
+### by sent
+
+```{r}
+
+df_sent <- df %>% 
+  unnest_tokens(word,txt,token="sentences") %>% 
+  mutate(id.sent=c(1:length(word))) 
+
+df <- df_sent %>% 
+  count_in_file %>% 
+  rename(sentC = n) 
+```
+
+
+
+
+## Basic compile
+```{r}
+save(
+  df,
+  df_word,
+  # df_wordns, 
+  df_stops,
+  df_line,
+  df_sent,
+  # df_titles,
+  file="compiled_texts.rda"
+)
+```
