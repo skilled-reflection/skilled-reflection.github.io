@@ -4,468 +4,222 @@ editor_options:
     wrap: 72
 ---
 
-# WORDS
+# Words
 
 ## Cognition
+Words describe the world and its conditions.
+This chapter is about problems and answers regarding the act of describing, itself:
+Words said do not usually reflect what ppl want or need.
+By engaging the gap between words and reality, you increase
+Better words mean more practical understanding and expectations,
+The capacity to make a concrete plan for achieving your goals.
+This will include healthier comm and rltps.
+A community with better words has clearer idea sharing,
+
+## Problem {bet-problem}  
+Speaking your mind is difficult to do accurately.
+A memory system dealing with language is tasked to translate thoughts into the right words from tens of thousands. it is prone to inaccuracies.
+Similarly, a listener focused on comprehending, is not likely to monitor all the incidental priming effects of words on a memory system.
+Words said and heard impact both parties' beliefs and behaviors.
+Saying words or hearing and understanding a word is a very small physical action, to describe real actions and consequences.
+The issue is that words can be more and less right, more and less helpful, and without intervention, it is very difficult to know how much this is true in any example of word use.
+Bad words keep chud expensive and waste time.
+The cost of an individual word is tiny, but we say tens of thousands per day (levelt).
+## Bet  
+A good general bet about words is to begin assuming every word is a bet on hypotheticals, which can be true (reality) or false (fantasy).
+A plan is a bet on a winning arrangement of words that result in the goal.
+Reading, thinking, saying, and writing a word perpetuates that word's idea over others, either moving you toward a goal, or your habit.  
+## Simulation  
+Words efficiently simulate possible worlds. you can think through far more situations with words, than you can (or should) act out.
+Your goals can be described in words, and words can be easily crossed out and revised.
+Good words maximize productivity of thought, move you beyond pitfalls of chud, direct attention to pris, and predict reality; improve decisions and make you smarter.
+By thinking about all words you experience (lib), you can take control to limit your word use toward more productive ones, improving read and write decisions, increasing focus and time for goals.
+Sim (f-act) is the act of iterating between write and read, to evoke and name the optimal, held bet. tour sim is not constrained by irl, but your picture of irl, and your sim goal is to capture the picture true to your chud estimate.  
+## It  
+It caused you to name in the first place. this cause is "it". good-ref is giving the best name for our desired comm.
+For example, consider that during my 9:00am appointment with you, I yawn while you are talking.  
+You say, "I must be boring you."
+"it" is the following circumstance I want to convey: 
+I woke at 8:30 A.M., 
+I wanted to sleep until 9:30 A.M., and
+I want to hear what you were going to say. <!-- (comm-pri) -->
+Each of these (below) are slightly different refs, ways to say "it", ranked from most to least awe:  
+1. You're not, please continue.  
+2. No, I'm tired.  
+3. No, I woke early.  
+4. Don't make assumptions.  
+5. I'm not.  
+6. "I woke at 8:30am, but wanted to sleep until 9:30am, so I think  
+7. "I yawned because I am tired. I can see why you thought I was   
+8. (Nothing)   
+All of the refs above combined suggest the "it" you want to convey.
+A good-ref is the one that uses truth to focus and advance communication.
+Below are the ref attributes that make each choice unique (and less good).
+Give a simple reason to return to communicating (example 1 above).
+Does not add to comm-pri nor return to it. 3-'early' may not be true.
+Focus on others' mistake and issue a command.
+Begs the question.
+Focus on the distraction.
+Focus on the distraction and makes the same kind of ref which the other did and which caused the confusion.
+This can be anywhere in the list including 1, depending on what you do or say next. -   1: you or the other return to comm-pri without ever returning to this interruption. -   4: it reduces the number of words said before returning to comm-pri. -   8: the distraction is remembered, and mentioned again, later.
+Let this characterize the problem and approach, and i will end with a few primary objectives, besides.
+Good-ref is a plain idea or link.
+If "good-ref", the idea, crosses your mind while considering
+Decide and say ref within a few seconds, rather than thinking
+Best-ref is possible, but requires extra thinking to know the
+In use, this means quickly name the relevant links, and estimate
+In our example of the facts, above,
+1 is not obvious and adds little to 3.
+5 is the comm-pri, and 4 is the cause, but not it in what you
+2 and 3 are it, and specifically, the link between them.
+Unless you are a recruit, to go any further will usually not be worth the cost. to go further is to specify what kind of link is between the two. want is hype, etc.
+Good-ref is "new" vs given.  
+## Write Plan {write-plan}  
+Speak, write, initiate or respond only in limited duration and words dictated by intended outcome.
+Use words empirically, with a comparison group (vs) and quantity in mind.
+Ideas are more important than authorship.
+Do not use a word that is more of a lie.
+Say the truth or be quiet.
+Use words for decisions, not emotions.
+Use words to facilitate pris. do not write plans you won't follow.
+Stop talking when action (or listening) is needed.  
+## Read Plan {read-plan}  
+Listen / read when you need to learn / connect.
+Limit duration/words needed to assess consent.
+Distrust ego, and take nothing personally
+Investigate the empirical cake of words.
+Revise to believe, and revise plans into ones you'd follow.
+Remove / ignore style.
+Assert boundaries against exaggerated words or unreliable ones.  
+## Example  
+A description of the kinds of simulation a word can make, and the kinds to prioritize.
+An example is an individual, particular event or object, of reality.
+An example with consequence is a use-case.
+An example in-principle is a hype (hypothetical/hype).
+In comm, examples are described per the criteria that might
+Words are one of two types:
+Links: words that give relationship between examples, ideas,
+Ideas: words that refer to examples.
+An idea is a set of criteria that link examples as similar (vs
+The most basic idea classifies examples as a or not-a. "blue" is
+Good ideas group examples in a way that directs attention toward
+The right link between ideas is the foundation of every thought,  
+## Hype  
+Hype vs use-case guides what and if to write. a goal is a named hype. good hype are worthwhile goals, sub-goals, or alt plan actions to consider. don't write hype without a bet.
+As all words should be toward pris, there are three general modes of pri words:
+H0 = history. habit is to history as action is to doc. good
+H1 = plan (pri.txt, proj_doc.txt)
+H2 = doubt especially for bet.  
+## Alternatives  
+Alts are any idea which measurably deviates a plan, and are defined directly with respect to the target idea.
+For example, bad is an alt to good, as in "good-vs-bad".
+Any other valid modes, if at all, are in support of maximal revision in these primary ones.
+A plan comprises: 1.the decided action 2.the best bet on it
+Alternative actions 4.the goal 5.the relevant chud
+Good goals and their plans are supported by uses from your own history (self-h), and next best is norm or others' use or data that generalizes.
+For example, a plan for a similar goal has previously succeeded.
+## Letters  
+Mnemonics are letter memory aids.
+Reducing a word to a letter increases cognitive efficiency, as long as that letter stands for an idea you will frequently encounter.
+These letters illustrate kinds of word usage (not exhaustive):  
+`f` define; function\
+`i` synonym, sense, "i.e.", "as in",\
+`e` example, data-point, untested data\
+`h` history (implied h0)
+`h1` claim, thesis. vs h0 or h2.
+`x` cross-references, xref\
+`d` data or evidence, summary
+`v` version / revise\
+`vs` an alternative, sibling of a shared parent category.  
+## Notes  
+Good notes clarify pri (content) within bets from secondary ones.
+In a doc, par is a grouped set of words roughly equivalent to a complex sentence.
+It has a primary subject and predicate, and includes any immediately relevant branches from either.
+In practice it is between 1 and 4 clauses.
+Good par successfully denotes a link between two ideas, with the following form:
+A syntactic tree, where\
+[Newline] is the right path in a fork,\
+First indent (" -") is the left path in a fork,\
+Subsequent newline indents or in-line "--" are siblings\
+Left to right are siblings\
+Double linebreak ends the local tree.
+When word order is a left-to-right walk of a right-branching syntactic tree, sentence can be written in lines of random lengths, and read equally as unambiguously.
+Restrict reference and vocabulary to simple- or plain- english to reduce amibiguity.  
+## Transparency  
+Make folder and file names i-goals as transparent as possible imply or reveal its (hidden) members.
+Promote or consolidate high frequency items or only-childs.
+For example: `ppl-work -\> work - self-home -\> home`
+When creating or reusing a word for new applications, this principle should be a factor.  
+## Recipe  
+A recipe is one of the best ways to arrange plans.
+Lessons and instructions use a recipe format.
+The recipe format highlights the ideas and links of your point and minimizes excessive style.
+List key ideas.
+Describe actions and transformations (links).
+Given an idea, estimate relevance to pris, problems, undeveloped plans, and self-maintenance.
+Keep docs short enough that the title and content address only one thing.
+Save selectively and
+delete frequently.  
+## Document  
+A word is a doc when it is saved with a name, at least once.
+Word is to a good doc (for example, a resume), as action is to
+Notes are words for comm.
+To a bad doc, a word (for example a diary entry) is to an
+Lib is what words to save.
+Revision is words for pris.
+Introduce ideas in unambiguous terms.
+Introducing a new topic, provide a succinct, distinctive
+Then describe the link with a taxonomic reference, as follows,
+Illustrate the link.
+At a micro-scale, every dash itself is a link.
+The pri for the reader. answer: what are the fewest words to
+For example, in the taxonomy, "psych-teach-2021-unit4" the three
+The most similar and relevant concepts to most distinct,
+The left-most word will be either implied or actual chapter
+All science that is not directly relevant elsewhere, will fall
+The remaining chapters deal with modes on these basic sources:
+In the example above, psych might fall under self-body,
+The link is the decision of the sentence that requires the most
+Named links are actions.
+Over-spelling the ideas leaves an empty link, e-"do...(the
+In instr, the link comes last, and it describes a step in
+Contextualize with an alternative
+A plan should inherit or give definitions of new terms.
+New definitions should especially be accompanied by a true
+A pri is the motive for life, and itself is only a named
+A developed pri is an instruction.
+One generalized is a lesson.  
+## Scientist  
+A scientist works to win bets against the unknown. they are a professional writer, evaluated on two metrics:
+For their new content.
+The net benefit on goal outcomes.
+A scientist-researcher is a writer, a data-collector and hypothesis tester.
+A scientist-scholar is a reader, curating toward theory development and comm.
+More will be said about scientist more broadly. here we focus strictly on the aspect of a scientist which is to develop the description of the world, properly.  
+## Framework  
+Framework (frame) is a cluster of definitions.
+What metric can be used to compare and test bets on words?
+Such a metric requires a general framework for cognition.
+This is that general framework.
+Just as a child learns skills from "put it in the box" to "put it together," and "solve the problem you creatively set up to solve the impossible," so too the highest cognitive function --these days a cooperative one beyond the speed or control of any individual-- deserves treatment of its abilities and applications in order of processing difficulty and utility; utility in contributing to itself however it sees fit, but especially in its allocation of finite resources.  
+## Theory  
+$$ h1 where p = cognition, good.p = p(wit.goal.sort|pri) $$
+Cognitive acts should be engaged in as a pyramid of levels (like food pyramid), number of tasks (width of level).
+For example, a base height of 4 (levels) = 4 topics on bottom level,
+On 2nd, 2 on 3rd and 1 on 4th. where the bottom level is the
+For example, assuming a goal, make an action plan (blitz) constrained by number of tasks by type as follows:
+Sort (base task)
+Name, def, or measure,
+Make (minimum viable)
+Test (edit, sim, revise)
+Use (reliable, helpful)
+Additional tasks must "wait" to be addressed until a task of the same level becomes complete and removed from the pyramid, leaving a slot to be replaced.
+This is a frame that gives a starting point for assessing how and what optimal capacity and boundaries exist for a human as a cognitive being.
+Above is a proposed initial bet, arrived at by sim. here's an example good sim:
+Name a pri-scope of irl-events.
+For example, tasks may differ in how hard and many times actions
+The following properties can be varied by sim. 1-task type
+Task-level and task-count
+For example, 3 levels starting at 10-count, reducing by 2
+The goal of sim is to maximize a bet you take (e.g., vs defining
 
-1.  WORDS describe the world and its conditions.
-2.  This chapter is about problems and answers regarding the ACT of
-    describing, itself:
-    1.  WORDS said do not usually reflect what PPL want or need.
-    2.  By engaging the gap between WORDS and reality, you increase
-        SELF-awareness (BET).
-    3.  Better WORDS mean more practical understanding and expectations,
-        more complete desires, and
-    4.  The capacity to make a concrete PLAN for achieving your GOALS.
-    5.  This will include healthier COMM and RLTPs.
-    6.  A community with better WORDS has clearer idea sharing,
-        synthesizing, developing, teaching and learning.
-
-## Problem
-
-3.  Speaking your mind is difficult to do accurately.
-4.  A memory system dealing with language is tasked to translate
-    thoughts into the right WORDS from tens of thousands. It is prone to
-    inaccuracies.
-5.  Similarly, a listener focused on comprehending, is not likely to
-    monitor all the incidental priming effects of WORDS on a memory
-    system.
-6.  WORDS said and heard impact both parties' beliefs and behaviors.
-7.  Saying WORDs or Hearing and understanding a WORD is a very small
-    physical action, to describe real actions and consequences.
-8.  The issue is that WORDs can be more and less right, more and less
-    helpful, and without intervention, it is very difficult to know how
-    much this is true in any example of WORD USE.
-9.  Bad WORDS keep CHUD expensive and waste TIME.
-10. The COST of an individual WORD is tiny, but we say tens of thousands
-    per day (Levelt).
-
-## Bet
-
-11. A GOOD general BET about WORDs is to begin assuming every WORD is a
-    BET on hypotheticals, which can be true (reality) or false
-    (fantasy).
-
-12. A PLAN is a BET on a winning arrangement of WORDS that result in the
-    GOAL.
-
-13. Reading, thinking, saying, and writing a WORD perpetuates that
-    WORD's IDEA over others, either moving you toward a GOAL, or your
-    HABIT.
-
-## Simulation
-
-14. WORDS efficiently simulate possible worlds. You can think through
-    far more situations with WORDS, than you can (or should) act out.
-
-15. Your GOALS can be described in WORDS, and WORDS can be easily
-    crossed out and revised.
-
-16. Good WORDS maximize productivity of thought, move you beyond
-    pitfalls of CHUD, direct attention to PRIS, and predict reality;
-    improve decisions and make you smarter.
-
-17. By thinking about all WORDS you experience (LIB), you can take
-    control to limit your WORD use toward more productive ones,
-    improving READ and WRITE decisions, increasing focus and TIME for
-    GOALS.
-
-18. SIM (F-ACT) is the act of iterating between WRITE and READ, to evoke
-    and NAME the optimal, held BET. Tour SIM is not constrained by IRL,
-    but your picture of IRL, and your SIM GOAL is to capture the picture
-    true to your CHUD estimate.
-
-## "It"
-
-19. It caused you to NAME in the first place. This cause is "IT".
-    GOOD-REF is giving the best NAME for our desired COMM.
-
-20. For example, take these background facts, which contains the basis
-    of our desired REF.
-
-    1.  I woke at 8:30AM
-    2.  I wanted to sleep until 9:30AM.
-    3.  In my 9:00AM appointment with you, as you are talking, I yawn.
-    4.  You say, "I must be boring you."
-    5.  I want to hear what you were going to say (COMM-PRI).
-
-21. Each of these (below) are slightly different REFs based on the facts
-    (above), ranked by GOOD-REF:
-
-    1.  You're not, please continue.
-    2.  No, I'm tired.
-    3.  No, I woke early.
-    4.  Don't make assumptions.
-    5.  I'm not.
-    6.  "I woke at 8:30AM, but wanted to sleep until 9:30AM, so I think
-        I yawned because I am tired."
-    7.  "I yawned because I am tired. I can see why you thought I was
-        bored, and I'm sorry."
-    8.  [Nothing]
-
-22. All of the REFs above combined suggest the "IT" you want to convey.
-
-23. A GOOD-REF is the one that uses truth to focus and advance the
-    COMM-PRI.
-
-24. Below are the REF attributes that make each choice unique (and less
-    GOOD).
-
-25. Give a simple reason to return to the COMM-PRI (example 1 above).
-
-26. Does not add to COMM-PRI nor return to it. 3-'early' may not be
-    true.
-
-27. Focus on others' mistake and issue a command.
-
-28. Begs the question.
-
-29. Focus on the distraction.
-
-30. Focus on the distraction and makes the same kind of REF which the
-    other did and which caused the confusion.
-
-31. This can be anywhere in the list including 1, depending on what you
-    DO or SAY next.
-
-    -   1: you or the other return to COMM-PRI without ever returning to
-        this interruption.
-    -   4: it reduces the number of words said before returning to
-        COMM-PRI.
-    -   8: the distraction is remembered, and mentioned again, later.
-
-32. Let this characterize the problem and approach, and I will end with
-    a few primary objectives, besides.
-
-    1.  GOOD-REF is a plain IDEA or LINK.
-    2.  If "GOOD-REF", the IDEA, crosses your mind while considering
-        what to say, likely that it is a LINK.
-    3.  DECIDE and SAY REF within a few seconds, rather than THINKING
-        more, unless the BET is obvious and worthwhile.
-    4.  BEST-REF is possible, but requires extra THINKING to know the
-        valuable cause. This is not practical, so we go for conservative
-        GOOD-REF.
-    5.  In USE, this means quickly NAME the relevant LINKs, and estimate
-        the central or critical LINK between them.
-
-33. In our example of the facts, above,
-
-    1.  1 is not obvious and adds little to 3.
-    2.  5 is the COMM-PRI, and 4 is the cause, but not IT in what you
-        say.
-    3.  2 and 3 are IT, and specifically, the LINK between them.
-
-34. Unless you are a RECRUIT, to go any further will usually not be
-    worth the COST. To go further is to specify what kind of link is
-    between the two. WANT is HYPE, etc.
-
-35. GOOD-REF is "NEW" vs GIVEN.
-
-## Write-Plan
-
-36. Speak, write, initiate or respond only in limited duration and WORDS
-    dictated by intended outcome.
-37. Use WORDS empirically, with a comparison group (vs) and quantity in
-    mind.
-38. Ideas are more important than authorship.
-39. Do not use a WORD that is more of a Lie.
-40. Say the truth or be quiet.
-41. Use WORDS for decisions, not emotions.
-42. Use WORDS to facilitate PRIS. Do not write PLANS you won't follow.
-43. Stop talking when action (or listening) is needed.
-
-## Read-Plan
-
-46. Listen / read when you need to learn / connect.
-47. Limit duration/WORDS needed to assess consent.
-48. Distrust ego, and take nothing personally
-49. Investigate the empirical CAKE of WORDS.
-50. Revise to believe, and revise PLANS into ones you'd follow.
-51. Remove / ignore style.
-52. Assert boundaries against exaggerated WORDS or unreliable ones.
-
-## Types
-
-47. A description of the kinds of simulation a word can make, and the
-    kinds to prioritize.
-
-## EXAMPLE
-
-45. An EXAMPLE is an individual, particular event or object, of reality.
-    1.  An example with consequence is a USE-CASE.
-    2.  An example in-principle is a HYPE (hypothetical/hype).
-    3.  In COMM, EXAMPLES are described per the criteria that might
-        support a USE of an EXAMPLE.
-46. WORDS are one of two types:
-    1.  LINKS: WORDS that give relationship between EXAMPLES, IDEAS,
-        describe ACTIONS, ROLES, and transformations.
-    2.  IDEAS: WORDS that refer to EXAMPLES.
-    3.  An IDEA is a set of criteria that LINK EXAMPLES as similar (vs
-        not).
-    4.  The most basic IDEA classifies EXAMPLES as A or not-A. "blue" is
-        an IDEA that certain colored things are BLUE (A), and all other
-        colors are not BLUE.
-    5.  Good IDEAS group EXAMPLES in a way that directs attention toward
-        PLANS and GOALS. Bad IDEAS distract.
-    6.  The right LINK between ideas is the foundation of every thought,
-        RECIPE or terrible calculation.
-
-## HYPE
-
-47. HYPE vs USE-CASE guides what and if to write. A GOAL is a named
-    HYPE. GOOD HYPE are worthwhile GOALs, sub-GOALs, or ALT PLAN ACTIONs
-    to consider. Don't WRITE HYPE without a BET.
-48. As all words should be toward PRIs, there are three general modes of
-    PRI WORDs:
-    1.  h0 = history. HABIT is to history as action is to DOC. GOOD
-        history is structured data of your HABIT, expressly for the
-        purpose of revising future actions.
-    2.  h1 = plan (pri.txt, proj_doc.txt)
-    3.  h2 = doubt especially for bet.
-
-## Alternatives
-
-49. ALTs are any IDEA which measurably deviates a PLAN, and are defined
-    directly with respect to the target IDEA.
-
-50. For example, BAD is an ALT to GOOD, as in "GOOD-vs-BAD".
-
-51. Any other valid modes, if at all, are in support of maximal revision
-    in these primary ones.
-
-52. A PLAN comprises: 1.the decided action 2.the best bet on it
-    3.alternative actions 4.the goal 5.the relevant CHUD
-
-53. GOOD GOALs and their PLANs are supported by USEs from your own
-    history (SELF-H), and next best is NORM or OTHERS' USE or DATA that
-    generalizes.
-
-54. For example, a plan for a similar goal has previously succeeded.
-
-## Letters
-
-1.  Mnemonics are memory aids.
-2.  Reducing a word to a letter increases cognitive efficiency, as long
-    as that letter stands for an idea you will frequently encounter.
-3.  These letters illustrate kinds of word usage (not exhaustive):
-    1.  `f` define; function\
-    2.  `i` synonym, sense, "i.e.", "as in",\
-    3.  `e` example, data-point, untested data\
-    4.  `h` history (implied h0)
-    5.  `h1` claim, thesis. vs h0 or h2.
-    6.  `x` Cross-references, xref\
-    7.  `d` Data or evidence, summary
-    8.  `v` version / revise\
-    9.  `vs` an alternative, sibling of a shared parent category.
-
-## NOTES
-
-4.  Good NOTES clarify PRI (CONTENT) within BETS from secondary ones.
-
-5.  In a DOC, PAR is a GROUPED set of WORDs roughly equivalent to a
-    complex sentence.
-
-6.  It has a primary subject and predicate, and includes any immediately
-    relevant branches from either.
-
-7.  In practice it is between 1 and 4 clauses.
-
-8.  GOOD PAR successfully denotes a LINK between two IDEAs, with the
-    following FORM:
-
-    1.  a syntactic tree, where\
-    2.  [newline] is the right path in a fork,\
-    3.  first indent (" -") is the left path in a fork,\
-
-    -   trailing"-" denotes all subsequent lines in section are equal
-        childs.\
-
-    4.  subsequent newline indents or in-line "--" are siblings\
-    5.  left to right are siblings\
-    6.  double linebreak ends the local tree.
-
-9.  When word order is a left-to-right walk of a right-branching
-    syntactic tree, sentence can be written in lines of random lengths,
-    and read equally as unambiguously.
-
-10. Restrict reference and vocabulary to Simple- or Plain- English to
-    reduce amibiguity.
-
-## Transparent
-
-1.  Make folder and file names i-goals as transparent as possible imply
-    or reveal its (hidden) members.
-
-2.  Promote or consolidate high frequency items or only-childs.
-
-3.  For example: `ppl-work -\> work - self-home -\> home`
-
-4.  When creating or reusing a word for new applications, this principle
-    should be a factor.
-
-## RECIPE
-
-35. A Recipe is one of the best ways to arrange PLANS.
-36. Lessons and instructions use a RECIPE format.
-37. The RECIPE format highlights the IDEAS and LINKS of your point and
-    minimizes excessive STYLE.
-    1.  List key IDEAS.
-    2.  Describe actions and transformations (LINKS).
-38. Given an IDEA, estimate relevance to PRIS, problems, undeveloped
-    PLANS, and SELF-MAINTENANCE.
-39. Keep docs short enough that the title and CONTENT address only one
-    thing.
-40. Save selectively and
-41. delete frequently.
-
-## Document
-
-1.  A word is a doc when it is saved with a name, at least once.
-
-    1.  Word is to a GOOD DOC (for example, a resume), as action is to
-        goal.
-    2.  To a BAD DOC, a word (for example a diary entry) is to an
-        unnecessary purchase at a tupperware party.
-        1.  Notes are words for comm.
-        2.  Lib is what words to save.
-        3.  Revision is words for pris.
-
-2.  Introduce ideas in unambiguous terms.
-
-    1.  introducing a new topic, provide a succinct, distinctive
-        illustration of the point or merit, *in the verbiage you will
-        most likely understand*.
-    2.  then describe the link with a taxonomic reference, as follows,
-        where each idea read left to right is a type of or label for the
-        preceding category, implying alternatives at each level.
-        e-psych-teach-2021-unit4-hw-methods_report-intro "For this
-        assignment, consider your grandparents."
-
-3.  Illustrate the link.
-
-    1.  At a micro-scale, every dash itself is a link.
-    2.  For example, in the taxonomy, "Psych-teach-2021-unit4" the three
-        latter IDEAS qualify the topic, PSYCH. The order of terms from
-        left to right should closely correspond to the order of relevant
-        conditional differences that determine:
-        1.  the pri for the reader. answer: what are the fewest words to
-            help a reader know a topic is irrelevant or truly
-            beneficial?
-        2.  the most similar and relevant concepts to most distinct,
-            rare, and particular to what is being described.
-    3.  the left-most word will be either implied or actual chapter
-        headings.
-    4.  All science that is not directly relevant elsewhere, will fall
-        under PPL-WORK or SELF-HOME.
-    5.  The remaining chapters deal with modes on these basic sources:
-        PRI and ED concern optimizing life. (What about WORD, REVISION,
-        COMM?)
-    6.  In the example above, PSYCH might fall under SELF-BODY,
-        SELF-HOME, PPL, PPL-WORK. Here, we are talking about defining
-        links for purposes of reducing ambiguity.
-    7.  The link is the decision of the sentence that requires the most
-        care. It is simply a bridge, and as such has a basic and plain
-        function.
-    8.  Named links are ACTIONS.
-    9.  Over-spelling the IDEAs leaves an empty link, e-"do...(the
-        trash)" consider what is the manner of spending time, if an
-        action, to ascribing your link. Consider the specific change
-        being undertaken. Some ACTIONS: TAKE, GIVE, MAKE, BUY, SELL,
-        USE/EAT, WORK, WRITE, READ. - Notice these are all verbs of
-        transfer.
-    10. In instr, the link comes last, and it describes a step in
-        revision.
-
-4.  Contextualize with an alternative
-
-    1.  A plan should inherit or give definitions of new terms.
-    2.  New definitions should especially be accompanied by a true
-        use-case, to protect against a false problem.
-    3.  A pri is the motive for life, and itself is only a named
-        spending of time.
-    4.  A developed pri is an instruction.
-    5.  One generalized is a lesson.
-
-## Scientist
-
-47. A scientist works to win BETS against the UNKNOWN. They are a
-    professional writer, evaluated on two metrics:
-
-    1.  For their new CONTENT.
-    2.  The net benefit on GOAL outcomes.
-
-48. A scientist-researcher is a WRITER, a data-collector and hypothesis
-    tester.
-
-49. A scientist-scholar is a READER, curating toward theory development
-    and COMM.
-
-50. More will be said about SCIENTIST more broadly. Here we focus
-    strictly on the aspect of a scientist which is to develop the
-    description of the world, properly.
-
-## Framework
-
-51. FRAMEWORK (FRAME) is a cluster of definitions.
-
-52. What metric can be used to compare and test BETs on WORDs?
-
-53. Such a metric requires a general framework for cognition.
-
-54. This is that general framework.
-
-55. Just as a child learns skills from "put it in the box" to "put it
-    together," and "solve the problem you creatively set up to solve the
-    impossible," so too the highest cognitive function --these days a
-    cooperative one beyond the speed or control of any individual--
-    deserves treatment of its abilities and applications in order of
-    processing difficulty and utility; utility in contributing to itself
-    however it sees fit, but especially in its allocation of finite
-    resources.
-
-## THEORY
-
-56. $$ H1  
-    where P = Cognition,
-    GOOD.P = P(WIT.GOAL.SORT|PRI) $$
-
-57. Cognitive acts should be engaged in as a pyramid of levels (like
-    food pyramid), number of tasks (width of level).
-
-58. For example, a base height of 4 (levels) = 4 topics on bottom level,
-    3 on 2nd, 2 on 3rd and 1 on 4th. where the bottom level is the
-    simplest of tasks, such as name and or bin, the next is between
-    order and sort, then between measure and assemble, finally between
-    test and use, until it leaves the pyramid as habit, extinguished, or
-    tasks revised.
-
-59. For example, assuming a GOAL, make an action plan (BLITZ)
-    constrained by number of tasks by type as follows:
-
-    1.  SORT (base task)
-    2.  NAME, DEF, or MEASURE,
-    3.  MAKE (minimum viable)
-    4.  TEST (EDIT, SIM, REVISE)
-    5.  USE (reliable, helpful)
-
-60. Additional tasks must "wait" to be addressed until a task of the
-    same level becomes complete and removed from the pyramid, leaving a
-    slot to be replaced.
-
-61. This is a frame that gives a starting point for assessing how and
-    what optimal capacity and boundaries exist for a human as a
-    cognitive being.
-
-62. Above is a proposed initial BET, arrived at by SIM. Here's an
-    example GOOD SIM:
-
-    1.  NAME a PRI-scope of IRL-events.
-    2.  For example, tasks may differ in how hard and many times actions
-        at various levels need be done;
-    3.  The following properties can be varied by SIM. 1-TASK type
-        definitions, pyramid level definitions.
-    4.  TASK-LEVEL and TASK-COUNT
-    5.  For example, 3 levels starting at 10-count, reducing by 2
-        (10,8,6), or 5 levels start at 25 reducing by 6 (25,19,13,7,1).
-    6.  The GOAL of SIM is to maximize a BET you take (e.g., vs defining
-        relevant PRIs).
