@@ -21,59 +21,79 @@ For example, consider the following revisions (v1-3) describing this brief argum
         a)  1 argues outside 2's experience.
         b)  2 uses personal experience, thinking it's impenetrable.
         c)  Failing and hurt, 2 insults.  
+
 The example aims to illustrate revisions which increase the amount of responsibility, control, and preventable future behavior on part of the writer, without much change in WORD count.  
+
 ## Plan  
+
 Good revisions better describe what we know to have happened, and predict what will happen (again).
 Reality is what determines whether each version is better.
 Revise prior prompt responses only to help your current prompt response.
 If your goal deals with different assumptions about the truth, change the prompt to whatever gets you to write the most helpful words for your goal.  
+
     1.  For example, a prompt referring to University student experiences can be re-framed for non-University experiences.
     2.  A common (problematic) assumption is that you are emotionally ready to be SELF-critical.
     3.  Do not change the prompt so you can be lazy.
   
+
 ## Think  
+
 Elsewhere, we will establish variations on ultimate questions.
 One variant is the superlative presupposition, which becomes an imperative (plan).
 For illustration, all questions presuppose and command, "think!"
 As compliment, all words can be seen as an answer to this question (good or bad).
 Supposing just as questions can be revised to their superlatives, we don't bother to ask them, and focus on the superlative of answers.
 Thus is an example basis of good revision: to bring the particular apprehension to a universally relevant call to action, responding to the implied imperative of all questions, "think."  
+
 ## Plan  
+
 The goal of words is to express ideas of maximum cake tomorrow.
 Since few words meet these criteria, start by revising toward fewer words.
 Make ideas clear and concrete.
 Provide just enough context to remember the basis of the key ideas.
 Precision depends on purpose.
+
     1.  List. Name relevant ideas for goal.
     2.  Write a plan, (ordered links).
     3.  Doubt. Assert the strongest rebuttal to the plan.
     4.  Bet. Improve ideas and links by addressing weakness and clarity.
     5.  Read. Wager its cake (e.g., Relative to another plan).
+
 When reflecting, reflect only on "how can i help my future self?" And impose time and word limits.
 A bad doc is stream-of-consciousness.  
 
+
 ## Prompts  
+
 Prompts elicit conflicts (truth) between self and norm, to improve plans for your goals.
 Time and word limits work together to encourage a balance between reflecting on truth and describing it.  
+
 ## Word Limit  
+
 Word limits combat needless words and distracting tangents. a word limit keeps your attention.
 A word limit is a proxy for a prompt's complexity.
 Try to write the exact number of words.
 Good word limits require cutting out unhelpful words, change figurative words to concrete, ideally assertive and falsifiable.
 For every plan you make: assert a word limit before writing to be reminded of your initial intentions, and be challenged to express ideas clearly. become skilled at using only the fewest words necessary, to reveal and clarify cake.
 If you exceed the limit and there is no end in sight, stop and reassess.  
+
 ## Time Limit  
+
 Combined with the word limit, the time limit dictates how precise your words should be.
 Use extra time to improve word choice.
 For example, given a 50-word limit, 1 minute (1m, 50w) encourages free writing with minimal restrictions on quality of thought, while 4 minutes encourages more careful selection of words.  
+
 ## Lessons  
+
 Lessons are an ordered set of prompts, usually three to four, up to 60 minutes and 250 words. a prompt's word count is the number of words to be added to your document.
 Lessons target inconsistencies between reality and pris.
 They are designed to be revisited and revised repeatedly.
 A 0w prompt means revise, but do not increase the word total.
 The first prompts in lessons are warm-ups to direct your attention. they ask for names of ideas.
 The remaining prompts are for thinking, requiring you to make links between your warm-up ideas. done right, you will face some new truths.  
+
 ## Peer  
+
 Peer revision is a powerful learning tool. get answers from others.
 Forget who provides revision and how much.
 The peer writer has uncompromised objectivity, and liberty to employ truth, however "harsh".

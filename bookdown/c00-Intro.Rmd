@@ -4,6 +4,7 @@
 ## You
 
 You and I:
+
     0.  **Introduction.** This book is centered on you, the specific reader that you are aware is currently reading. I am the one writing.
     1.  **SELF.** For now, focus on applying these words to your actual [SELF][SELF], and determining exactly what or who that is.
     2.  **PRI.** Identify and own your [PRIs][Priorities] before you die.
@@ -19,6 +20,7 @@ Until then, you and I and they are all the same.
 ## Questions  
 
 Any questions?  
+
     0.  You. How am I and what do I need?
     1.  Self. What must I do to have it?
     2.  Priorities. What actions maximize my life?
@@ -29,7 +31,9 @@ Any questions?
     7.  Revision. What would my life look like on paper?
     8.  Communication. How do I relate to or help others?  
 
+
 ## Scope  
+
 A book with defined terms is a book for humans.
 The following list describes the critical concepts that this book deals with and by impliciation, what it does not deal with.
 After each definition is a link to its primary context in the book.
@@ -79,10 +83,14 @@ Note that there may be slight discrepancies with definitions in main text as sec
 -   A PLAN for a DOC is an earlier VERSION of the (same) final DOC. ([**c9.62**][PRIs differ])\
 -   PITCH is DOC STYLE for why to READ. ([**c9.65**][NORMs STYLE])
 
+
 ## Draft  
+
 This is an early copy of Skilled Reflection, and much of it is still in development. Thank you for your patience. I welcome any and all constructive feedback ([skilledreflection\@gmail.com](mailto:skilledreflection@gmail.com){.email}). Check back later for a revised and updated version.
 
+
 ## Version  
+
 When I first set out to write SR as a book I quickly realized a problem could hang me up forever, both simple and superficial.
 It is the problem of what order to present the information, so that its truth is easily learnable and most evident.
 In Version 1 of this book, I deliberately set aside this problem, in order to name and contain the system of thinking.
@@ -95,74 +103,101 @@ Dear, read this book because you're ready to.
 You are going to die someday. This book is for you if there is something in the meantime worth maximizing.
 Please engage your life. This book is meant to help you understand and take action, starting right now.
 
+
 ## Test  
+
 Please get a pencil and note the date and time, right now: ____________.
 The words in this book are meaningful only when you apply them to your life.
 If you wrote the date and time as requested, you have proven enough to yourself that you are open to trying new ideas. you are prepared to grow and continue reading.
 If you left the line blank, you might tell yourself you are open to new ideas. You will be right when you complete the task.
 Either write the time above or stop reading, and take a better action to improve your life, right now.  
+
 ## Game  
+
 From now on, every word you (or i) say is a plan for action.
 That plan is meaningless until you take that action, whether good or bad.
 Therefore, spend less time worrying about why this word or that plan.
 Spend more time deciding which will be the next moves in your game of life.  
 Sincerely, An0ther  
+
 ## Camp  
+
 This book presents plain and obvious facts of life as the antidote to modern complexities of life.
 In most cases, the relevance can be seen more clearly if you [simulate][words] the experience being described, or explicitly consider it in your life (see [role of reading][read]). Let's practice. For example, consider going on a camping trip.  
-  1. Look at the clock and determine when you should expect to arrive.
-  2. Whatever that time, when you arrive, you will likely be over- prepared, under-prepared, or 1-3 hours late.
-  3. or you might be an experienced camper.
+
+    1. Look at the clock and determine when you should expect to arrive.
+    2. Whatever that time, when you arrive, you will likely be over- prepared, under-prepared, or 1-3 hours late.
+    3. or you might be an experienced camper.
+  
 Either way, this is your only shot at a lifelong camping trip for yourself on earth.
 My guess is you are very likely late to your own life.
 The games we (people, scientists, etc.) play to explain away this fact, end with this book.  
+
 ## Pitch  
+
 To understand this book will require you to find and repair the disconnect between your mind's image of time, and the one you are physically bound to.
 If you fail, you will die in two worlds, the world you imagine you could have lived, and the one you did.
 You, however, would like to ace your own life.
 Part one of this book (the garden) gives you all the general answers, and the basic tools for finding the answers particular to you.
 Part two teaches you how to (re)build your tools.  
 
+
 ## Eat  
+
 The one thing up to you that this book will not do is draw the line between need and want.
 In this book, food refers to needs and cake refers to wants.
 You must practice discerning which is which for you, until it is second-nature.
 Then, all decisions can be made as follows:  
-  1. If hungry, eat food.
-  2. If full, prepare and pack food.
-  3. If time, eat or prepare cake.
+
+    1. If hungry, eat food.
+    2. If full, prepare and pack food.
+    3. If time, eat or prepare cake.
+
 Beware of thinking cake is food.  
 
+
 ## Homeless  
+
 Do, don't think. likely at this point you have slipped into thinking this is a book discussing a philosophy, but it is not.
 The difference between food and cake is not understood and solved as a mental exercise in your living room, but by experiencing and paying attention.
 What's more, if you don't have a living room, cake can be painfully obvious. be homeless.  
 
+
 ## Food  
+
 The odds are you aren't homeless and will avoid becoming so.
 As with any hypothetical, practice finding the nearest analogous, personally meaningful experience:  
-  1. You couldn't find your car in the middle of winter.
-  2. You went camping without waterproof gear and it rained.
-  3. For weeks your shower only produced ice cold water.
-  4. You were isolated in your house for most of two years during a global pandemic.  
+
+    1. You couldn't find your car in the middle of winter.
+    2. You went camping without waterproof gear and it rained.
+    3. For weeks your shower only produced ice cold water.
+    4. You were isolated in your house for most of two years during a global pandemic.  
+
 Whatever the circumstance, your habit protests for a change in plans.
 However small or profound the suffering or its threat:  
-  1. There is initially terror, frustration and suffering.
-  2. Enduring, what you consider suffering will change.
-  3. You will need far less food than you thought, giving more time and quality cake you really desire.   
+
+    1. There is initially terror, frustration and suffering.
+    2. Enduring, what you consider suffering will change.
+    3. You will need far less food than you thought, giving more time and quality cake you really desire.   
   
+
 ## Plan  
+
 In the first half of this book is a conceptual metaphor described as a garden.
 It is a mental model of reality, designed to bring clarity.
 Your garden is your goals put on key ideas of this book.
 You need the garden to combat the idealistic side of your mind, inclined to ignore time and your self, which sets you up for failure and suffering.
 The second half of these chapters elaborates explicitly on the key ideas.  
+
 ## Lessons  
+
 At the end of the book are a series of [lessons][zero or one] for identifying what matters, what's wrong, and what's next in your life.
 They are designed to be useful at any time, and especially repeatedly.
 Don't wait to finish the book to try one out, because they are pivotal to skilled reflection.
 However, don't do too many of them before at least reading the relevant section that explains the format of [skilled reflection][skilled reflection].  
+
 ## Definitions  
+
 Pay attention to how words are defined, as it often differs slightly from conventional use.
 For example, "work" is an idea referring to "careers", but not 'yard work'.
 These nuances are the result of careful decisions about the food and cake of the ideas.

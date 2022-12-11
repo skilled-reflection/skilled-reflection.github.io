@@ -6,7 +6,9 @@ output:
 ---
 
 #	Bet  
+
 ## Real
+
 You can't help but think how to make your life better.
 You can take control of your life, or you can let the world bet for you. you can commit yourself to finding out which thoughts are right or you can commit yourself to finding out which thoughts are right or leave it to chance to have better life.
 Leave it to chance to have better life. betting is a protocol to guide you to reality, and, if you're lucky, your
@@ -18,7 +20,9 @@ Winning means your reality is one step toward your goal.
 Losing is the wake-up call to be more realistic.
 Betting is a protocol to guide you to reality, and, if you're lucky, your dreams might fit in.
 How real will your dreams get before you die?  
+
 ## Stranger  
+
 A stranger comes to your garden at the end of a long day, which you realize only when you hear him chopping his jaw at you. you look up.
 "No really, consider it, right now. imagine the most realistic, attainable, best life you could have.
 Imagine taking the first step and then stay with the thought. listen to the fear that surfaces.
@@ -33,7 +37,9 @@ And i'll give you the equivalent of your harvest, today. if you fail, you leave 
 "Okay," you say. you'll show him.
 "The rocks on the far field. they're on a slippery slope. to build the home i want, i need those rocks, but i'm afraid of falling. i've collected every rock on my land and i need those rocks. tomorrow i'll finish my foundation with rocks from the slippery slope."
 The stranger and you have set up a bet, a type of belief.  
+
 ## Bet  
+
 A bet is a plan template for reconciling reality with chud, to accomplish goals.
 Betting is confronting costs, habits, unknowns and doubts that stand in the way of your wants and dreams.
 The time that passes and the status of your goal when it runs out are an intersection of reality: the world and you. to name them, is to shed chud.
@@ -50,20 +56,26 @@ Identify chud factors that best explain discrepancies.
 Revise plan, updated with chud factor predictions.
 (Record time to do the next bet or goal, revise, etc.)
 Start the next bet or goal.  
+
 ## After  
+
 The next morning you woke to a field in disarray and a letter. you had worked harder than you planned, and still fell short of your goal.
 "If you did more than you would have without the bet, you won something, including evidence that there is some commitment in you to make your dreams come true."
 The biggest reward is not positive: accept you failed,
 And partly due to a miscalculation.
 Therefore, likely other parts of your plan are misguided, and your goal is further than you estimate.
 If you disagree, let's bet again. first, take a minute to learn from your planning mistake.  
+
 ## C.H.U.D.  
+
 Even if you make a plan and bet on it, you can fail.
 Why don't we achieve our goals?
 Here are the four critical aspects of success,
 And, by extension, clues for why we fail.
 Chud encompasses the changes in you, the world, and your goal for you to achieve it.  
+
 ## Cost  
+
 Costs ([c2.51][self]) and habits are knowable facts.
 Observers could independently note and agree on your costs and habits.
 Costs are the unadjusted record of transactions in your life.
@@ -72,20 +84,27 @@ For example, a relationship with an alcoholic poses a risk of violence.
 The unadjusted, plain record of everything you have physically done, is your habit.
 Referring to habit is referring to patterns of behavior.
 For example, i eat every morning before 9 am.
+
 ## Habits  
+
 Habits are your most likely and reliable food or cake actions.
 Bad habits are forces working against your goals.
 Good habits are aligned with goals.  
+
 ## Unknowns  
+
 Unknowns and doubts are the gap between your real and perceived costs and habits.
 If you have not arrived at the goal, there are unknowns.
 Unknowns are all that are fully out of your control (analogous to statistical 'error').
 For example, a train might stop you from arriving on time.
 Unknowns are reduced by estimating causes of failure.
 For example:  
+
 - I will die, but not know how or when. The cause is unknown.  
 - I will die due to a natural disaster or cancer. The cause is named, and the unknown is pushed to those things' underlying causes.  
+
 ## Doubt  
+
 Doubts are misperceptions caused or perpetuated by your habit.
 Like costs, doubts are the patterns of unknown.
 Doubt is any systematic error that is possible to be addressed by another human of equal ability and resources.

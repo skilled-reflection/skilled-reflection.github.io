@@ -10,7 +10,9 @@ editor_options:
 
 # The I.B.C. {.unnumbered}  
 # Education  
+
 ## Classroom  
+
 A classroom is a special case of market and work; the direct and shared exchange of mental work, for the purpose of improving individual pris.
 No one chose to be born. everyone begins life with their own unnamed and unanswered problems.
 Books are an author's answers; they can only tell a student what the answer is not (quite).
@@ -23,13 +25,17 @@ Rather than a course in a classroom, the perfect class is a manual to reference 
 When to take a break to strategize your decisions, lessons on what opportunities to watch for and resist, and so on.
 Any social role you wish to take on, artist, engineer, therapist, insurance salesperson, reliable partner, is customized intimately, curated perfectly for what you need.
 Any rltp or interpersonal skill that is realistically possible for you is preceded with the guidance and education that prepares you emotionally to choose the right experiences that set you up to be most likely to find and make the most of opportunities to share yourself with another.  
+
 ## Prompt  
+
 Is there a better version of you?
 Are you capable of moving toward it?
 Are you ready?
 If your answers are yes, then you are a student. to live a better life, you will commit to change your actions.
 First, you will learn what changes are needed.  
+
 ## Admission  
+
 This is a boot camp whose purpose is
 To train adults to think harder, clearer and more effectively.
 To produce intelligent solutions for personal and social puzzles.
@@ -37,7 +43,9 @@ To have a higher cognitive discipline.
 To instill shared cake about reason, thinking and discourse.
 To empower.
 It is a training program designed to break down bad habits of thought, and build good ones while immersed here, a culture of rational thinking isolated from the outside world.  
+
 ## Challenge  
+
 Here you will relentlessly confront your ideas about the world, with instructors drilling intellectual skills (writing essays, arguing for ideas, and developing proposals for action).
 You will be trained to move toward your goals with focus, even in the face of perceptual, physical, or emotional distractions.
 Over time, students could expect to cultivate a sharper focus on cognitive objectives, resilience to distractions and challenges.
@@ -45,7 +53,9 @@ If you graduate, it will be with the ability to identify, develop, and communica
 You will also learn a code of behavior for being a community leader,
 Collaborating or competing with an irrational world.
 The central requirement for applicants will be a commitment to better understand the self and world.  
+
 ## Student  
+
 Students are ppl with ideas from experience toward selfish goals.
 Lessons depend on students' prior knowledge.
 A student
@@ -59,27 +69,36 @@ Your goal is clear. you want:
 The strength needed to take the right steps and make a habit of
 Keen eyes to estimate the destination and correct course, and
 A focused mind to steady the foot.  
+
 ## Consent  
+
 This is an in-person immersive experience.
 You only really learn what you need to know to be who you really want. you won't learn unless you cannot escape needing it; in a dedicated environment that fosters acquisition, minimizes interference.
 Whether you're here for the 7- or 30-day experience, you will work hard every minute.
 For every minute of lesson on my time, students are to provide two minutes of writing, either toward others' learning or in direct application toward their goal.  
+
 ## Course  
+
 Dedicate to identity growth. Be:  
-1. Quiet, except when tasks require verbal response.
-2. Receptive to work and feedback provided by the instructor.
-3. Committed to producing genuinely inspired ideas, working
-4. Respectful that all are equal in voice, and aim to describe
-5. Receptive and responsive to prompts and observations (from peers
-6. Motivated to describe solutions that benefit others, when
-Learn:  
-1. Precisely and only what is needed to trust a clear picture of  
-2. First, how to make a plan, a map of who you are, and who you  
-3. Repeat part one of this book, until your plan is good enough to  
+
+    1. Quiet, except when tasks require verbal response.
+    2. Receptive to work and feedback provided by the instructor.
+    3. Committed to producing genuinely inspired ideas, working
+    4. Respectful that all are equal in voice, and aim to describe
+    5. Receptive and responsive to prompts and observations (from peers
+    6. Motivated to describe solutions that benefit others, when
+    Learn:  
+        1. Precisely and only what is needed to trust a clear picture of  
+        2. First, how to make a plan, a map of who you are, and who you  
+        3. Repeat part one of this book, until your plan is good enough to act on. 
+
+
 This will be the beginning of change, and the first test of your commitment.
 Your performance is evaluated simply: whether or not you
 end up eating, sleeping, thinking, talking, and acting differently.
+
 ## Think  
+
 Think, student.
 Do not take notes, simply pay attention.
 Everything i say is meant plainly.
@@ -87,7 +106,9 @@ If you get confused, forget it, and pay attention to right now.
 Our goal here is thinking. thinking happens in your heads.
 Right now your job is to think about the truth you see in what i say.
 A student has two actions to think: read and write.  
+
 ## Read  
+
 Read, student.
 A reader is a listener and observer.
 Reading is the same as listening to an instructor,
@@ -100,7 +121,9 @@ You will befriend the simplest scientific instrument, a clock.
 The clock is a cue to think.
 When it goes off, get back on task.
 The clock will babysit your unreliable attention.
+
 ## Truth  
+
 Your goal in reading is to isolate the truth from the lie.
 Try reading this sentence:
 "Everyone is best off running weekly until they die."
@@ -123,7 +146,9 @@ I bet this is true for:
 3 = us and 30% of everyone else.  
 9 = us and about 90% of everyone else.  
 For every assertion and assumption you read, begin assuming it is a "9", working backwards according to evidence you hold.  
+
 ## Lesson  
+
 The following mini lesson illustrates the risk at hand--involuntary comprehension, and the benefit at stake from deliberate reading.
 Consider the following quote, "change your thoughts to change your life."
 Comprehension is involuntary.
@@ -134,12 +159,16 @@ For example, reread the quote, this time assuming it is reasonable, serious, and
 The statement is the core assumption to this book, and any psychological theory.
 For example, freud's talk therapy was, in his time, the radical idea that words could fix ppl.
 Therefore, do not waste the opportunity to consider a truth that could change your life by failing to entertain a simple assumption.  
+
 ## Say  
+
 How will your life look if you put it on paper? Like a bunch of words.
 How do you change it? By deleting the words with lies, and replacing them with better words.
 The right words will change your actions and your life. to live a better life, starts with your words.
 In order to do something about thoughts, we need to think on paper. [you'll write a lot. you'll delete a lot. you'll get good at writing.]  
+
 ## Write  
+
 Bet on words. a writer invests time and energy to map feelings onto words.
 Good writing is discovering, curating, and applying insight. bad writing has an author; ad hominem.
 Revisions also make you a writer. when you revise words (yours or others') to maximize your bet, you are a writer.
@@ -148,7 +177,9 @@ State your assumptions, do not justify them. -is-style-bad
 Replace "i am." with tag words.
 Strive for comm-content and brevity; write only valuable bets, or words that manifest valuable bets. prioritize understanding over original writing.
 Writing for lib-ppl, relatable, depersonalized, objective words, minimizes rot, maximizes plan utility.  
+
 ## Instructor  
+
 I am an instructor, a guardian of true ideas and writer of a general plan (this book).
 An instructor reads, and enforces bets on links toward a plan.
 My goals are to
@@ -156,7 +187,9 @@ Minimize student effort and time to write.
 Read for cognitive biases, illogical appeals, and imprecise
 Reward arguments based on (truth:) reality, self, and cake.
 Reward ideas shared (vs kept).  
+
 ## Answer  
+
 Which lines from this book would you [bet on][how to read], written as-is, or revised for you?
 Assign 100 dollars (total) to those lines according to their relative impact, and you are an ibc student; an author of shared truth.
 Suppose a representative set of ppl did the same thing. here's a game to help imagine.

@@ -7,6 +7,7 @@ editor_options:
 # Words
 
 ## Cognition
+
 Words describe the world and its conditions.
 This chapter is about problems and answers regarding the act of describing, itself:
 Words said do not usually reflect what ppl want or need.
@@ -16,7 +17,8 @@ The capacity to make a concrete plan for achieving your goals.
 This will include healthier comm and rltps.
 A community with better words has clearer idea sharing,
 
-## Problem {bet-problem}  
+## Problem {#bet-problem}  
+
 Speaking your mind is difficult to do accurately.
 A memory system dealing with language is tasked to translate thoughts into the right words from tens of thousands. it is prone to inaccuracies.
 Similarly, a listener focused on comprehending, is not likely to monitor all the incidental priming effects of words on a memory system.
@@ -25,17 +27,23 @@ Saying words or hearing and understanding a word is a very small physical action
 The issue is that words can be more and less right, more and less helpful, and without intervention, it is very difficult to know how much this is true in any example of word use.
 Bad words keep chud expensive and waste time.
 The cost of an individual word is tiny, but we say tens of thousands per day (levelt).
+
 ## Bet  
+
 A good general bet about words is to begin assuming every word is a bet on hypotheticals, which can be true (reality) or false (fantasy).
 A plan is a bet on a winning arrangement of words that result in the goal.
 Reading, thinking, saying, and writing a word perpetuates that word's idea over others, either moving you toward a goal, or your habit.  
+
 ## Simulation  
+
 Words efficiently simulate possible worlds. you can think through far more situations with words, than you can (or should) act out.
 Your goals can be described in words, and words can be easily crossed out and revised.
 Good words maximize productivity of thought, move you beyond pitfalls of chud, direct attention to pris, and predict reality; improve decisions and make you smarter.
 By thinking about all words you experience (lib), you can take control to limit your word use toward more productive ones, improving read and write decisions, increasing focus and time for goals.
-Sim (f-act) is the act of iterating between write and read, to evoke and name the optimal, held bet. tour sim is not constrained by irl, but your picture of irl, and your sim goal is to capture the picture true to your chud estimate.  
+Sim is the act of iterating between write and read, to evoke and name the optimal, held bet. tour sim is not constrained by irl, but your picture of irl, and your sim goal is to capture the picture true to your chud estimate.  
+
 ## It  
+
 It caused you to name in the first place. this cause is "it". good-ref is giving the best name for our desired comm.
 For example, consider that during my 9:00am appointment with you, I yawn while you are talking.  
 You say, "I must be boring you."
@@ -44,14 +52,16 @@ I woke at 8:30 A.M.,
 I wanted to sleep until 9:30 A.M., and
 I want to hear what you were going to say. <!-- (comm-pri) -->
 Each of these (below) are slightly different refs, ways to say "it", ranked from most to least awe:  
-1. You're not, please continue.  
-2. No, I'm tired.  
-3. No, I woke early.  
-4. Don't make assumptions.  
-5. I'm not.  
-6. "I woke at 8:30am, but wanted to sleep until 9:30am, so I think  
-7. "I yawned because I am tired. I can see why you thought I was   
-8. (Nothing)   
+
+    1. You're not, please continue.  
+    2. No, I'm tired.  
+    3. No, I woke early.  
+    4. Don't make assumptions.  
+    5. I'm not.  
+    6. "I woke at 8:30am, but wanted to sleep until 9:30am, so I think  
+    7. "I yawned because I am tired. I can see why you thought I was   
+    8. (Nothing)  
+    
 All of the refs above combined suggest the "it" you want to convey.
 A good-ref is the one that uses truth to focus and advance communication.
 Below are the ref attributes that make each choice unique (and less good).
@@ -61,7 +71,12 @@ Focus on others' mistake and issue a command.
 Begs the question.
 Focus on the distraction.
 Focus on the distraction and makes the same kind of ref which the other did and which caused the confusion.
-This can be anywhere in the list including 1, depending on what you do or say next. -   1: you or the other return to comm-pri without ever returning to this interruption. -   4: it reduces the number of words said before returning to comm-pri. -   8: the distraction is remembered, and mentioned again, later.
+This can be anywhere in the list including 1, depending on what you do or say next. 
+
+-   1: you or the other return to comm-pri without ever returning to this interruption. 
+-   4: it reduces the number of words said before returning to comm-pri. 
+-   8: the distraction is remembered, and mentioned again, later.
+
 Let this characterize the problem and approach, and i will end with a few primary objectives, besides.
 Good-ref is a plain idea or link.
 If "good-ref", the idea, crosses your mind while considering
@@ -74,7 +89,9 @@ In our example of the facts, above,
 2 and 3 are it, and specifically, the link between them.
 Unless you are a recruit, to go any further will usually not be worth the cost. to go further is to specify what kind of link is between the two. want is hype, etc.
 Good-ref is "new" vs given.  
+
 ## Write Plan {write-plan}  
+
 Speak, write, initiate or respond only in limited duration and words dictated by intended outcome.
 Use words empirically, with a comparison group (vs) and quantity in mind.
 Ideas are more important than authorship.
@@ -83,15 +100,19 @@ Say the truth or be quiet.
 Use words for decisions, not emotions.
 Use words to facilitate pris. do not write plans you won't follow.
 Stop talking when action (or listening) is needed.  
+
 ## Read Plan {read-plan}  
-Listen / read when you need to learn / connect.
+
+Read when you need to learn or connect.
 Limit duration/words needed to assess consent.
 Distrust ego, and take nothing personally
 Investigate the empirical cake of words.
 Revise to believe, and revise plans into ones you'd follow.
 Remove / ignore style.
 Assert boundaries against exaggerated words or unreliable ones.  
+
 ## Example  
+
 A description of the kinds of simulation a word can make, and the kinds to prioritize.
 An example is an individual, particular event or object, of reality.
 An example with consequence is a use-case.
@@ -104,13 +125,17 @@ An idea is a set of criteria that link examples as similar (vs
 The most basic idea classifies examples as a or not-a. "blue" is
 Good ideas group examples in a way that directs attention toward
 The right link between ideas is the foundation of every thought,  
+
 ## Hype  
+
 Hype vs use-case guides what and if to write. a goal is a named hype. good hype are worthwhile goals, sub-goals, or alt plan actions to consider. don't write hype without a bet.
 As all words should be toward pris, there are three general modes of pri words:
 H0 = history. habit is to history as action is to doc. good
 H1 = plan (pri.txt, proj_doc.txt)
 H2 = doubt especially for bet.  
+
 ## Alternatives  
+
 Alts are any idea which measurably deviates a plan, and are defined directly with respect to the target idea.
 For example, bad is an alt to good, as in "good-vs-bad".
 Any other valid modes, if at all, are in support of maximal revision in these primary ones.
@@ -118,10 +143,13 @@ A plan comprises: 1.the decided action 2.the best bet on it
 Alternative actions 4.the goal 5.the relevant chud
 Good goals and their plans are supported by uses from your own history (self-h), and next best is norm or others' use or data that generalizes.
 For example, a plan for a similar goal has previously succeeded.
+
 ## Letters  
+
 Mnemonics are letter memory aids.
 Reducing a word to a letter increases cognitive efficiency, as long as that letter stands for an idea you will frequently encounter.
 These letters illustrate kinds of word usage (not exhaustive):  
+
 `f` define; function\
 `i` synonym, sense, "i.e.", "as in",\
 `e` example, data-point, untested data\
@@ -131,7 +159,9 @@ These letters illustrate kinds of word usage (not exhaustive):
 `d` data or evidence, summary
 `v` version / revise\
 `vs` an alternative, sibling of a shared parent category.  
+
 ## Notes  
+
 Good notes clarify pri (content) within bets from secondary ones.
 In a doc, par is a grouped set of words roughly equivalent to a complex sentence.
 It has a primary subject and predicate, and includes any immediately relevant branches from either.
@@ -145,12 +175,16 @@ Left to right are siblings\
 Double linebreak ends the local tree.
 When word order is a left-to-right walk of a right-branching syntactic tree, sentence can be written in lines of random lengths, and read equally as unambiguously.
 Restrict reference and vocabulary to simple- or plain- english to reduce amibiguity.  
+
 ## Transparency  
+
 Make folder and file names i-goals as transparent as possible imply or reveal its (hidden) members.
 Promote or consolidate high frequency items or only-childs.
 For example: `ppl-work -\> work - self-home -\> home`
 When creating or reusing a word for new applications, this principle should be a factor.  
+
 ## Recipe  
+
 A recipe is one of the best ways to arrange plans.
 Lessons and instructions use a recipe format.
 The recipe format highlights the ideas and links of your point and minimizes excessive style.
@@ -158,9 +192,10 @@ List key ideas.
 Describe actions and transformations (links).
 Given an idea, estimate relevance to pris, problems, undeveloped plans, and self-maintenance.
 Keep docs short enough that the title and content address only one thing.
-Save selectively and
-delete frequently.  
+Save selectively and delete frequently.  
+
 ## Document  
+
 A word is a doc when it is saved with a name, at least once.
 Word is to a good doc (for example, a resume), as action is to
 Notes are words for comm.
@@ -189,20 +224,26 @@ New definitions should especially be accompanied by a true
 A pri is the motive for life, and itself is only a named
 A developed pri is an instruction.
 One generalized is a lesson.  
+
 ## Scientist  
+
 A scientist works to win bets against the unknown. they are a professional writer, evaluated on two metrics:
 For their new content.
 The net benefit on goal outcomes.
 A scientist-researcher is a writer, a data-collector and hypothesis tester.
 A scientist-scholar is a reader, curating toward theory development and comm.
 More will be said about scientist more broadly. here we focus strictly on the aspect of a scientist which is to develop the description of the world, properly.  
+
 ## Framework  
+
 Framework (frame) is a cluster of definitions.
 What metric can be used to compare and test bets on words?
 Such a metric requires a general framework for cognition.
 This is that general framework.
 Just as a child learns skills from "put it in the box" to "put it together," and "solve the problem you creatively set up to solve the impossible," so too the highest cognitive function --these days a cooperative one beyond the speed or control of any individual-- deserves treatment of its abilities and applications in order of processing difficulty and utility; utility in contributing to itself however it sees fit, but especially in its allocation of finite resources.  
+
 ## Theory  
+
 $$ h1 where p = cognition, good.p = p(wit.goal.sort|pri) $$
 Cognitive acts should be engaged in as a pyramid of levels (like food pyramid), number of tasks (width of level).
 For example, a base height of 4 (levels) = 4 topics on bottom level,
