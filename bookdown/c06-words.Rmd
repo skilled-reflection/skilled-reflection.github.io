@@ -28,7 +28,7 @@ The issue is that words can be more and less right, more and less helpful, and w
 Bad words keep chud expensive and waste time.
 The cost of an individual word is tiny, but we say tens of thousands per day (levelt).
 
-## Bet  
+## Bet  {#word-bet}
 
 A good general bet about words is to begin assuming every word is a bet on hypotheticals, which can be true (reality) or false (fantasy).
 A plan is a bet on a winning arrangement of words that result in the goal.
@@ -90,7 +90,7 @@ In our example of the facts, above,
 Unless you are a recruit, to go any further will usually not be worth the cost. to go further is to specify what kind of link is between the two. want is hype, etc.
 Good-ref is "new" vs given.  
 
-## Write Plan {write-plan}  
+## Write {#word-write}  
 
 Speak, write, initiate or respond only in limited duration and words dictated by intended outcome.
 Use words empirically, with a comparison group (vs) and quantity in mind.
@@ -101,7 +101,7 @@ Use words for decisions, not emotions.
 Use words to facilitate pris. do not write plans you won't follow.
 Stop talking when action (or listening) is needed.  
 
-## Read Plan {read-plan}  
+## Read {#word-read}  
 
 Read when you need to learn or connect.
 Limit duration/words needed to assess consent.
@@ -111,7 +111,7 @@ Revise to believe, and revise plans into ones you'd follow.
 Remove / ignore style.
 Assert boundaries against exaggerated words or unreliable ones.  
 
-## Example  
+## Example  {#word-example}
 
 A description of the kinds of simulation a word can make, and the kinds to prioritize.
 An example is an individual, particular event or object, of reality.
@@ -134,7 +134,7 @@ H0 = history. habit is to history as action is to doc. good
 H1 = plan (pri.txt, proj_doc.txt)
 H2 = doubt especially for bet.  
 
-## Alternatives  
+## Alternatives  {#word-alternatives}
 
 Alts are any idea which measurably deviates a plan, and are defined directly with respect to the target idea.
 For example, bad is an alt to good, as in "good-vs-bad".
@@ -242,7 +242,7 @@ Such a metric requires a general framework for cognition.
 This is that general framework.
 Just as a child learns skills from "put it in the box" to "put it together," and "solve the problem you creatively set up to solve the impossible," so too the highest cognitive function --these days a cooperative one beyond the speed or control of any individual-- deserves treatment of its abilities and applications in order of processing difficulty and utility; utility in contributing to itself however it sees fit, but especially in its allocation of finite resources.  
 
-## Theory  
+## Theory  {#word-theory}
 
 $$ h1 where p = cognition, good.p = p(wit.goal.sort|pri) $$
 Cognitive acts should be engaged in as a pyramid of levels (like food pyramid), number of tasks (width of level).

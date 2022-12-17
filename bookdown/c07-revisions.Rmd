@@ -1,6 +1,7 @@
 # Change
 
-## Revision
+## Revision  
+
 Neutrally, a WORD may be replaced by another. As a process which takes effort, do so to improve, and we will call it REVISION. REVISION is the change of WORDS to improve actions of yourself or others.
 REVISION is how we know reflection is happening, described here in VERSIONS (v#) of a response.
 For example, consider the following revisions (v1-3) describing this brief argument:
@@ -24,7 +25,7 @@ For example, consider the following revisions (v1-3) describing this brief argum
 
 The example aims to illustrate revisions which increase the amount of responsibility, control, and preventable future behavior on part of the writer, without much change in WORD count.  
 
-## Plan  
+## Plan  {#change-plan}
 
 Good revisions better describe what we know to have happened, and predict what will happen (again).
 Reality is what determines whether each version is better.
@@ -45,7 +46,7 @@ As compliment, all words can be seen as an answer to this question (good or bad)
 Supposing just as questions can be revised to their superlatives, we don't bother to ask them, and focus on the superlative of answers.
 Thus is an example basis of good revision: to bring the particular apprehension to a universally relevant call to action, responding to the implied imperative of all questions, "think."  
 
-## Plan  
+## Plan  {#change-plan2}
 
 The goal of words is to express ideas of maximum cake tomorrow.
 Since few words meet these criteria, start by revising toward fewer words.

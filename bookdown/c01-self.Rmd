@@ -53,7 +53,7 @@ Call anything that could be true, but isn't right now, a goal, and any effort in
 It is *your* goal if you aim to increase its probability of being true.
 A goal can be finite or persistent, singular or recurring, or realistic or not.
 
-## Plan
+## Plan  
 
 If you will need to do something before it is in your hand, it requires a plan.
 A plan is any combination of words where the writing or reading of them aims to improve the chance or decrease the cost of achieving your goal.
@@ -67,7 +67,7 @@ Cost is any action that has a direct exchange.
 Costs often are secondary objectives within a plan.
 For example, you might buy a tool (cost).  
 
-## Self  
+## Self  {#self-self}
 
 Every day, as a human, you spend time and attention just meeting basic needs: eating, drinking, pooping, and sleeping.
 These actions are subgoals of maintaining self, the category of basic human goals.

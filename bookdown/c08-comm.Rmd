@@ -6,7 +6,7 @@ editor_options:
 
 # Communication  
 
-## Pitch  
+## Pitch  {#comm-pitch}
 
 Consider you meet someone in the woods, and have only 1m (approx.
 Pri-comm is the difference between your and norm-pri, especially that what your food and cake are and why.
@@ -21,7 +21,7 @@ These properties are the properties of [sr][skilled reflection]:
         that is CAKE, in 250w.
 
 
-## Problem  
+## Problem  {#comm-problem}
 
 Communication happens from one being to another.
 The function is to direct attention to a circumstance of high importance: sharing information.
@@ -38,7 +38,7 @@ Once saved, we assume a doc will be read later, and provide cake. this is the pr
 Comm is the exchange of words from oneself to another. other examples include a traffic sign, something you wrote and are rereading, a carefully crafted party invite, or a lease agreement.
 The goal of comm is to maximize that likelihood, by engaging in the inherent and practical problems that arise. 
 
-## Comm  
+## Comm  {#comm-comm}
 
 Writing a word creates a static record of a word.
 No person is identical with a future or past self, with any other person, and all of these relationships are in part unknown. ([c4.1][ppl])
@@ -73,7 +73,7 @@ Versions describe identical content with difference in style between them.
 A plan for a doc is an earlier version of the (same) final doc.
 For example, you today vs you in five years.  
 
-## NORMs  
+## Norms  {#comm-norm}
 
 Comm norms assume reading and writing have no intrinsic goals.
 A doc's arguments for why to read it are a style called pitch.

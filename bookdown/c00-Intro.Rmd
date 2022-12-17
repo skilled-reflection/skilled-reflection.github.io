@@ -32,7 +32,7 @@ Any questions?
     8.  Communication. How do I relate to or help others?  
 
 
-## Scope  
+## Terms  
 
 A book with defined terms is a book for humans.
 The following list describes the critical concepts that this book deals with and by impliciation, what it does not deal with.
@@ -133,7 +133,7 @@ Either way, this is your only shot at a lifelong camping trip for yourself on ea
 My guess is you are very likely late to your own life.
 The games we (people, scientists, etc.) play to explain away this fact, end with this book.  
 
-## Pitch  
+## Pitch  {#intro-pitch}
 
 To understand this book will require you to find and repair the disconnect between your mind's image of time, and the one you are physically bound to.
 If you fail, you will die in two worlds, the world you imagine you could have lived, and the one you did.
@@ -181,7 +181,7 @@ However small or profound the suffering or its threat:
     3. You will need far less food than you thought, giving more time and quality cake you really desire.   
   
 
-## Plan  
+## Plan  {#intro-plan}
 
 In the first half of this book is a conceptual metaphor described as a garden.
 It is a mental model of reality, designed to bring clarity.
@@ -189,7 +189,7 @@ Your garden is your goals put on key ideas of this book.
 You need the garden to combat the idealistic side of your mind, inclined to ignore time and your self, which sets you up for failure and suffering.
 The second half of these chapters elaborates explicitly on the key ideas.  
 
-## Lessons  
+## Lessons  {#intro-lessons}
 
 At the end of the book are a series of [lessons][zero or one] for identifying what matters, what's wrong, and what's next in your life.
 They are designed to be useful at any time, and especially repeatedly.
