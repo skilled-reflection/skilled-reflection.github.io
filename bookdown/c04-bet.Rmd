@@ -9,55 +9,36 @@ output:
 
 ## Reality
 
-You can take control of your life, or you can let the world bet for you. 
-Perfect betting is "rational behavior," something rare for humans.
-
-Betting is a protocol to keep you close to reality, and keep your goals relevant.
-To be better at betting is the safest universal bet on yourself.
-How real will your dreams get before you die?  
-
-Betting is a plan to confront costs, habits, unknowns and doubts (CHUD) that contrast with your priorities.
-The passing time and the status of your goal are an intersection of the world and you. 
-Every idea you hold is a bet with a rolling deadline, idiosyncratic successes, and revisions.
-
-## Act  
-
-Do it.
-
-## Win
-
-If you make it happen before sun-up, you'll be over the most daunting hurdle between you and your outcome.
-you have changed your habit as promised.
-You advance your plan, and reduce distance to your goal. 
-
-
-## Lose
-
-Any attempt at least validates your interest from being a complete lie. 
-Still, the key value of losing is a wake-up call to be more realistic.
-you have lost a day of your life.
+Life is choices over time.
+Each commitment is a bet. 
+Are you moving toward your priorities?
+Will you arrive before you die?
 
 ## Bet  {#bet-bet}  
+A good bet aligns reality and priorities.
 
 To bet, name:
 
-1. A step in your plan,
-2. A deadline to achieve it, and
-3. The CHUD for that duration.
-4. Act to win, and note your actions.
+1. A step toward your priorities.
+2. Estimate the CHUD (see below)
+3. Set a deadline.
+4. Take the step.
 
-## After  
+## Win-Lose  
 
-compare where you are, and where you need to go next.
-Update your next bet according to the successes and failures of this one.
-repeat.
+You win if:  
 
-When the deadline arrives, take stock.
-1. Compare your action log to your plan.
-2. Identify CHUD factors that best explain discrepancies.
-3. Revise plan, updated with CHUD factor predictions.
-4. (Record time to do the next bet or goal, revise, etc.)
-5. Start the next bet or goal.  
+1. You achieve your step before your deadline.
+2. You are closer to or have more of your priorities. 
+
+Otherwise, you lost time.
+
+In both cases, study to improve your next bet.
+
+1. Compare your action to your priorities.
+2. Compare your estimated and actual CHUD.
+3. Revise your priorities.
+4. Start the next bet.  
 
 ## Cost  
 
@@ -66,7 +47,7 @@ You must be in a certain place, take action, and often give up something.
 For example, physical effort or money. 
 
 Self is the basic cost of living your life.
-Costs are not bad unless they are against your priorities.
+Costs against your priorities are the only bad ones.
 
 Costs only pertain to what actually happens. 
 To bet requires estimating costs.
@@ -95,6 +76,7 @@ Bet to learn them.
 
 
 ## Doubts  
+
 Imagine achieving all your priorities, right now.
 When considering the costs, note to the fears that surface.
 Never mind the world, how are you in your own way?
