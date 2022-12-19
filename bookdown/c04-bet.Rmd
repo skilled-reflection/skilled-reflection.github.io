@@ -7,109 +7,106 @@ output:
 
 #	Bet  
 
-## Real
+## Reality
 
-You can't help but think how to make your life better.
-You can take control of your life, or you can let the world bet for you. you can commit yourself to finding out which thoughts are right or you can commit yourself to finding out which thoughts are right or leave it to chance to have better life.
-Leave it to chance to have better life. betting is a protocol to guide you to reality, and, if you're lucky, your
-A commitment is the first step, but far from the last.
+You can take control of your life, or you can let the world bet for you. 
+Perfect betting is "rational behavior," something rare for humans.
 
-If you want your dreams to become real, listen to your doubts.
-Then test them.
-Winning means your reality is one step toward your goal.
-Losing is the wake-up call to be more realistic.
-Betting is a protocol to guide you to reality, and, if you're lucky, your dreams might fit in.
+Betting is a protocol to keep you close to reality, and keep your goals relevant.
+To be better at betting is the safest universal bet on yourself.
 How real will your dreams get before you die?  
 
-## Stranger  
-
-A stranger comes to your garden at the end of a long day, which you realize only when you hear him chopping his jaw at you. you look up.
-"No really, consider it, right now. imagine the most realistic, attainable, best life you could have.
-Imagine taking the first step and then stay with the thought. listen to the fear that surfaces.
-For the moment, never mind how the world has gotten in your way.
-How are you in your own way?"
-He seems to be in your way. he's staring past your wet forehead.
-"See your doubts with curiosity. now bet on what you tell yourself you believe. bet on overcoming them."
-But you mostly only think of frustration and say, "i appreciate the suggestion."
-"Let's both bet. name what you believe you can accomplish tomorrow, in terms of what you think holds you back most.
-If you make it happen before sun-up, you'll be over the most daunting hurdle between you and your outcome.
-And i'll give you the equivalent of your harvest, today. if you fail, you leave me today's harvest."
-"Okay," you say. you'll show him.
-"The rocks on the far field. they're on a slippery slope. to build the home i want, i need those rocks, but i'm afraid of falling. i've collected every rock on my land and i need those rocks. tomorrow i'll finish my foundation with rocks from the slippery slope."
-The stranger and you have set up a bet, a type of belief.  
-
-## Bet  
-
-A bet is a plan template for reconciling reality with chud, to accomplish goals.
-Betting is confronting costs, habits, unknowns and doubts that stand in the way of your wants and dreams.
-The time that passes and the status of your goal when it runs out are an intersection of reality: the world and you. to name them, is to shed chud.
+Betting is a plan to confront costs, habits, unknowns and doubts (CHUD) that contrast with your priorities.
+The passing time and the status of your goal are an intersection of the world and you. 
 Every idea you hold is a bet with a rolling deadline, idiosyncratic successes, and revisions.
-Bet wins shorten your plan, and the distance to your goal. losses should guide revisions to your chud.
+
+## Act  
+
+Do it.
+
+## Win
+
+If you make it happen before sun-up, you'll be over the most daunting hurdle between you and your outcome.
+you have changed your habit as promised.
+You advance your plan, and reduce distance to your goal. 
+
+
+## Lose
+
+Any attempt at least validates your interest from being a complete lie. 
+Still, the key value of losing is a wake-up call to be more realistic.
+you have lost a day of your life.
+
+## Bet  {#bet-bet}  
+
 To bet, name:
-A step in your plan,
-A deadline to achieve it, and
-The c.h.u.d. for that duration.
-Blitz to revise and win, and log your actions.
-When the deadline arrives, take stock.
-Compare your action log to your plan.
-Identify chud factors that best explain discrepancies.
-Revise plan, updated with chud factor predictions.
-(Record time to do the next bet or goal, revise, etc.)
-Start the next bet or goal.  
+
+1. A step in your plan,
+2. A deadline to achieve it, and
+3. The CHUD for that duration.
+4. Act to win, and note your actions.
 
 ## After  
 
-The next morning you woke to a field in disarray and a letter. you had worked harder than you planned, and still fell short of your goal.
-"If you did more than you would have without the bet, you won something, including evidence that there is some commitment in you to make your dreams come true."
-The biggest reward is not positive: accept you failed,
-And partly due to a miscalculation.
-Therefore, likely other parts of your plan are misguided, and your goal is further than you estimate.
-If you disagree, let's bet again. first, take a minute to learn from your planning mistake.  
+compare where you are, and where you need to go next.
+Update your next bet according to the successes and failures of this one.
+repeat.
 
-## C.H.U.D.  
-
-Even if you make a plan and bet on it, you can fail.
-Why don't we achieve our goals?
-Here are the four critical aspects of success,
-And, by extension, clues for why we fail.
-Chud encompasses the changes in you, the world, and your goal for you to achieve it.  
+When the deadline arrives, take stock.
+1. Compare your action log to your plan.
+2. Identify CHUD factors that best explain discrepancies.
+3. Revise plan, updated with CHUD factor predictions.
+4. (Record time to do the next bet or goal, revise, etc.)
+5. Start the next bet or goal.  
 
 ## Cost  
 
-Costs ([c2.51][self]) and habits are knowable facts.
-Observers could independently note and agree on your costs and habits.
-Costs are the unadjusted record of transactions in your life.
-Referring to cost is referring to typical transactions for a goal.
-For example, a relationship with an alcoholic poses a risk of violence.
-The unadjusted, plain record of everything you have physically done, is your habit.
-Referring to habit is referring to patterns of behavior.
-For example, i eat every morning before 9 am.
+Everything in life costs time or effort.
+You must be in a certain place, take action, and often give up something.
+For example, physical effort or money. 
+
+Self is the basic cost of living your life.
+Costs are not bad unless they are against your priorities.
+
+Costs only pertain to what actually happens. 
+To bet requires estimating costs.
 
 ## Habits  
 
-Habits are your most likely and reliable food or cake actions.
-Bad habits are forces working against your goals.
-Good habits are aligned with goals.  
+Habit is the basic pattern of actions you have taken, 
+whether toward your priorities or toward suffering.
+Habit is the rational, descriptive summary of your history.
+Habit serves as the rational prediction of your bet outcomes.
+Regardless of how expensive your habit, a change of habit is always an added and difficult cost.
+That is, unless and until the change becomes a habit.
+
+Suppose in the last 3 days I ate at 9 am.
+If tomorrow is a day like the last three, habit predicts I will eat before 9 am.
+It also predicts that this is the lowest cost action.
+
 
 ## Unknowns  
 
-Unknowns and doubts are the gap between your real and perceived costs and habits.
-If you have not arrived at the goal, there are unknowns.
-Unknowns are all that are fully out of your control (analogous to statistical 'error').
-For example, a train might stop you from arriving on time.
-Unknowns are reduced by estimating causes of failure.
-For example:  
+Unknowns are all that are fully out of your control (i.e., statistical error).
+For example, planning a drive that doesn't account for a train crossing delay. 
 
-- I will die, but not know how or when. The cause is unknown.  
-- I will die due to a natural disaster or cancer. The cause is named, and the unknown is pushed to those things' underlying causes.  
+Unknowns are the difference between your real and estimated costs and habits.
+Bet to learn them.
 
-## Doubt  
 
-Doubts are misperceptions caused or perpetuated by your habit.
-Like costs, doubts are the patterns of unknown.
-Doubt is any systematic error that is possible to be addressed by another human of equal ability and resources.
-For example, "self-fulfilled prophesies", irrational fear or anxiety.
-Good doubts temper an optimistic plan.
-Otherwise (bad) doubts: fuel bad habits and fantasies. like fear, anxiety, and jealousy, reflect overestimations. like narrow-mindedness, reflect underestimations. like distraction and boredom can be: anxiety about your future. discomfort toward present reality or distrust in your past.
-Most of these issues, if deep enough, require therapy.
-Or the [intellectual bootcamp].
+## Doubts  
+Imagine achieving all your priorities, right now.
+When considering the costs, note to the fears that surface.
+Never mind the world, how are you in your own way?
+These are doubts.
+
+Doubts are reliable patterns of failure.
+See your doubts with curiosity. 
+
+For example:
+- self-fulfilled prophesies
+- over- or under-estimating habits
+- anxiety or insecurity 
+- distrust in your past
+
+A strong bet is partly made in terms of what you think holds you back most.

@@ -14,23 +14,19 @@ Words said do not usually reflect what ppl want or need.
 By engaging the gap between words and reality, you increase
 Better words mean more practical understanding and expectations,
 The capacity to make a concrete plan for achieving your goals.
-This will include healthier comm and rltps.
+This will include healthier communication and relationships.
 A community with better words has clearer idea sharing,
 
 ## Problem {#bet-problem}  
 
 Speaking your mind is difficult to do accurately.
-A memory system dealing with language is tasked to translate thoughts into the right words from tens of thousands. it is prone to inaccuracies.
-Similarly, a listener focused on comprehending, is not likely to monitor all the incidental priming effects of words on a memory system.
 Words said and heard impact both parties' beliefs and behaviors.
-Saying words or hearing and understanding a word is a very small physical action, to describe real actions and consequences.
-The issue is that words can be more and less right, more and less helpful, and without intervention, it is very difficult to know how much this is true in any example of word use.
-Bad words keep chud expensive and waste time.
-The cost of an individual word is tiny, but we say tens of thousands per day (levelt).
+The benefit is when saying words or hearing and understanding a word prevents or improves actions you would've taken otherwise.
+However, you likely spend an unnecessary part of your life on words that either don't help or leave you worse off.
 
 ## Bet  {#word-bet}
 
-A good general bet about words is to begin assuming every word is a bet on hypotheticals, which can be true (reality) or false (fantasy).
+A word is a bet on the world. 
 A plan is a bet on a winning arrangement of words that result in the goal.
 Reading, thinking, saying, and writing a word perpetuates that word's idea over others, either moving you toward a goal, or your habit.  
 
@@ -44,13 +40,13 @@ Sim is the act of iterating between write and read, to evoke and name the optima
 
 ## It  
 
-It caused you to name in the first place. this cause is "it". good-ref is giving the best name for our desired comm.
+It caused you to name in the first place. this cause is "it". good-ref is giving the best name for our desired communication.
 For example, consider that during my 9:00am appointment with you, I yawn while you are talking.  
 You say, "I must be boring you."
 "it" is the following circumstance I want to convey: 
 I woke at 8:30 A.M., 
 I wanted to sleep until 9:30 A.M., and
-I want to hear what you were going to say. <!-- (comm-pri) -->
+I want to hear what you were going to say. <!-- (communication-pri) -->
 Each of these (below) are slightly different refs, ways to say "it", ranked from most to least awe:  
 
     1. You're not, please continue.  
@@ -66,15 +62,15 @@ All of the refs above combined suggest the "it" you want to convey.
 A good-ref is the one that uses truth to focus and advance communication.
 Below are the ref attributes that make each choice unique (and less good).
 Give a simple reason to return to communicating (example 1 above).
-Does not add to comm-pri nor return to it. 3-'early' may not be true.
+Does not add to communication-pri nor return to it. 3-'early' may not be true.
 Focus on others' mistake and issue a command.
 Begs the question.
 Focus on the distraction.
 Focus on the distraction and makes the same kind of ref which the other did and which caused the confusion.
 This can be anywhere in the list including 1, depending on what you do or say next. 
 
--   1: you or the other return to comm-pri without ever returning to this interruption. 
--   4: it reduces the number of words said before returning to comm-pri. 
+-   1: you or the other return to communication-pri without ever returning to this interruption. 
+-   4: it reduces the number of words said before returning to communication-pri. 
 -   8: the distraction is remembered, and mentioned again, later.
 
 Let this characterize the problem and approach, and i will end with a few primary objectives, besides.
@@ -85,7 +81,7 @@ Best-ref is possible, but requires extra thinking to know the
 In use, this means quickly name the relevant links, and estimate
 In our example of the facts, above,
 1 is not obvious and adds little to 3.
-5 is the comm-pri, and 4 is the cause, but not it in what you
+5 is the communication-pri, and 4 is the cause, but not it in what you
 2 and 3 are it, and specifically, the link between them.
 Unless you are a recruit, to go any further will usually not be worth the cost. to go further is to specify what kind of link is between the two. want is hype, etc.
 Good-ref is "new" vs given.  
@@ -117,7 +113,7 @@ A description of the kinds of simulation a word can make, and the kinds to prior
 An example is an individual, particular event or object, of reality.
 An example with consequence is a use-case.
 An example in-principle is a hype (hypothetical/hype).
-In comm, examples are described per the criteria that might
+In communication, examples are described per the criteria that might
 Words are one of two types:
 Links: words that give relationship between examples, ideas,
 Ideas: words that refer to examples.
@@ -198,7 +194,7 @@ Save selectively and delete frequently.
 
 A word is a doc when it is saved with a name, at least once.
 Word is to a good doc (for example, a resume), as action is to
-Notes are words for comm.
+Notes are words for communication.
 To a bad doc, a word (for example a diary entry) is to an
 Lib is what words to save.
 Revision is words for pris.
@@ -231,7 +227,7 @@ A scientist works to win bets against the unknown. they are a professional write
 For their new content.
 The net benefit on goal outcomes.
 A scientist-researcher is a writer, a data-collector and hypothesis tester.
-A scientist-scholar is a reader, curating toward theory development and comm.
+A scientist-scholar is a reader, curating toward theory development and communication.
 More will be said about scientist more broadly. here we focus strictly on the aspect of a scientist which is to develop the description of the world, properly.  
 
 ## Framework  
