@@ -69,7 +69,7 @@ A bad doc is stream-of-consciousness.
 Prompts elicit conflicts (truth) between self and norm, to improve plans for your goals.
 Time and word limits work together to encourage a balance between reflecting on truth and describing it.  
 
-## Word Limit  
+## Limits
 
 Word limits combat needless words and distracting tangents. a word limit keeps your attention.
 A word limit is a proxy for a prompt's complexity.
@@ -78,11 +78,9 @@ Good word limits require cutting out unhelpful words, change figurative words to
 For every plan you make: assert a word limit before writing to be reminded of your initial intentions, and be challenged to express ideas clearly. become skilled at using only the fewest words necessary, to reveal and clarify cake.
 If you exceed the limit and there is no end in sight, stop and reassess.  
 
-## Time Limit  
-
 Combined with the word limit, the time limit dictates how precise your words should be.
 Use extra time to improve word choice.
-For example, given a 50-word limit, 1 minute (1m, 50w) encourages free writing with minimal restrictions on quality of thought, while 4 minutes encourages more careful selection of words.  
+For example, given a 50-word limit, 1 minute (1m, 50w) encourages free writing with minimal restrictions on quality of thought, while 4 minutes to produce 50 words encourages more careful selection of words.  
 
 ## Lessons  
 

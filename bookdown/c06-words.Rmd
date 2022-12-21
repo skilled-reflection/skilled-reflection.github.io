@@ -9,118 +9,122 @@ editor_options:
 ## Cognition
 
 Words describe the world and its conditions.
-This chapter is about problems and answers regarding the act of describing, itself:
-Words said do not usually reflect what ppl want or need.
-By engaging the gap between words and reality, you increase
-Better words mean more practical understanding and expectations,
-The capacity to make a concrete plan for achieving your goals.
-This will include healthier communication and relationships.
-A community with better words has clearer idea sharing,
-
-## Problem {#bet-problem}  
-
-Speaking your mind is difficult to do accurately.
-Words said and heard impact both parties' beliefs and behaviors.
-The benefit is when saying words or hearing and understanding a word prevents or improves actions you would've taken otherwise.
-However, you likely spend an unnecessary part of your life on words that either don't help or leave you worse off.
+Each word is a bet about how the world is or can be,
+and by extension, the use of words can be improved.
+Better words means:
+- more practical understanding and expectations.
+- better bets.
+- healthier communication and relationships.
 
 ## Bet  {#word-bet}
 
-A word is a bet on the world. 
-A plan is a bet on a winning arrangement of words that result in the goal.
+A word is a bet. 
+Good words advance good bets. 
+
+Words cost almost nothing but a fraction of a second to make or hear.
 Reading, thinking, saying, and writing a word perpetuates that word's idea over others, either moving you toward a goal, or your habit.  
+Words said and heard impact both parties' beliefs and behaviors.
+
+Speaking your mind is difficult to do accurately.
+
+Words are good when they prevent or improve actions you would've taken otherwise.
+Unfortunately, the norm for unproductive words is tens of thousands per day.
+For example, the words in every ad not aligned with your priorities, or thought about a celebrity you will never meet.
 
 ## Simulation  
+To make good words, understand their unique power.
+A word's power is in narrowing attention in infinite ways.
+To reliably narrow, a word requires a definition.
+A definition is a generalization which depends on examples.
+Careful, good words efficiently isolate and simplify alternative choices.
+Bad words bring attention to irrelevant generalizations.
 
-Words efficiently simulate possible worlds. you can think through far more situations with words, than you can (or should) act out.
-Your goals can be described in words, and words can be easily crossed out and revised.
+A word is good when it leads to better actions.
+Therefore, use words to simulate and find such improvements. 
+You can think through far more than you can act out.
+
+Words can be easily crossed out and revised.
+
 Good words maximize productivity of thought, move you beyond pitfalls of chud, direct attention to pris, and predict reality; improve decisions and make you smarter.
-By thinking about all words you experience (lib), you can take control to limit your word use toward more productive ones, improving read and write decisions, increasing focus and time for goals.
-Sim is the act of iterating between write and read, to evoke and name the optimal, held bet. tour sim is not constrained by irl, but your picture of irl, and your sim goal is to capture the picture true to your chud estimate.  
+
+Simulation is the act of iterating between write and read. 
+Word meanings are not limited to reality, but your imagination.
 
 ## It  
 
-It caused you to name in the first place. this cause is "it". good-ref is giving the best name for our desired communication.
-For example, consider that during my 9:00am appointment with you, I yawn while you are talking.  
+It (i.e., "reference") is the idea words attempt to bring attention to. 
+For example, consider this scenario: 
+
+I wanted to sleep until 9:30 A.M.
+I also wanted to know how you are doing.
+At 9:00 am you call me and begin to tell me how you are doing.
+I yawn.
 You say, "I must be boring you."
-"it" is the following circumstance I want to convey: 
-I woke at 8:30 A.M., 
-I wanted to sleep until 9:30 A.M., and
-I want to hear what you were going to say. <!-- (communication-pri) -->
-Each of these (below) are slightly different refs, ways to say "it", ranked from most to least awe:  
+
+Each of these (below) are words to say "it", ranked from best to worst:  
 
     1. You're not, please continue.  
     2. No, I'm tired.  
-    3. No, I woke early.  
+    3. No, I woke too early.  
     4. Don't make assumptions.  
     5. I'm not.  
-    6. "I woke at 8:30am, but wanted to sleep until 9:30am, so I think  
-    7. "I yawned because I am tired. I can see why you thought I was   
-    8. (Nothing)  
-    
-All of the refs above combined suggest the "it" you want to convey.
-A good-ref is the one that uses truth to focus and advance communication.
-Below are the ref attributes that make each choice unique (and less good).
-Give a simple reason to return to communicating (example 1 above).
-Does not add to communication-pri nor return to it. 3-'early' may not be true.
-Focus on others' mistake and issue a command.
-Begs the question.
-Focus on the distraction.
-Focus on the distraction and makes the same kind of ref which the other did and which caused the confusion.
-This can be anywhere in the list including 1, depending on what you do or say next. 
+    6. I woke at 8:30am, but wanted to sleep until 9:30am, so I think I yawned because I am tired. I can see why you thought I was bored.   
 
--   1: you or the other return to communication-pri without ever returning to this interruption. 
--   4: it reduces the number of words said before returning to communication-pri. 
--   8: the distraction is remembered, and mentioned again, later.
+Good words are ones that uses truth to focus and advance communication.
+Below are properties that make each choice unique (and less good).
 
-Let this characterize the problem and approach, and i will end with a few primary objectives, besides.
-Good-ref is a plain idea or link.
-If "good-ref", the idea, crosses your mind while considering
-Decide and say ref within a few seconds, rather than thinking
-Best-ref is possible, but requires extra thinking to know the
-In use, this means quickly name the relevant links, and estimate
-In our example of the facts, above,
-1 is not obvious and adds little to 3.
-5 is the communication-pri, and 4 is the cause, but not it in what you
-2 and 3 are it, and specifically, the link between them.
-Unless you are a recruit, to go any further will usually not be worth the cost. to go further is to specify what kind of link is between the two. want is hype, etc.
-Good-ref is "new" vs given.  
+1. Gives a simple, informative reason to return to communicating.
+2. Does not add or return to communication priorities. 
+3. May not be relevant or true.
+4. Focuses on others' mistake and issues a command.
+5. Begs the question. I.e., "Then why did you yawn?"
+6. Focuses on the distraction and makes the same kind of ref which the other did and which caused the confusion.
 
 ## Write {#word-write}  
 
-Speak, write, initiate or respond only in limited duration and words dictated by intended outcome.
-Use words empirically, with a comparison group (vs) and quantity in mind.
-Ideas are more important than authorship.
-Do not use a word that is more of a lie.
+When you have good words to indicate It, do not hold out for better words.
+Quickly name the relevant links for It and estimate the loss.
+Repair your words only when they pose a problem to the communication priorities.
+
+It, and the actions behind it are more important than who said what (i.e., authorship).
 Say the truth or be quiet.
+Resist and ignore politeness and impoliteness.
 Use words for decisions, not emotions.
-Use words to facilitate pris. do not write plans you won't follow.
+Use words to facilitate priorities.
+Do not write plans you won't follow.
+Words without plans are fantasy and entertainment. 
+To choose words is to not choose to take action in your life.
 Stop talking when action (or listening) is needed.  
 
 ## Read {#word-read}  
 
-Read when you need to learn or connect.
-Limit duration/words needed to assess consent.
-Distrust ego, and take nothing personally
+Read when you doubt options available for actions you will take.
+Limit the duration or words needed to assess consent. (?)
+Distrust ego, and take nothing personally.
 Investigate the empirical cake of words.
-Revise to believe, and revise plans into ones you'd follow.
-Remove / ignore style.
-Assert boundaries against exaggerated words or unreliable ones.  
+Ignore style.
+Do not let others' words abuse your time or understanding.
+Assert boundaries against exaggerated or excessive words.  
 
 ## Example  {#word-example}
 
-A description of the kinds of simulation a word can make, and the kinds to prioritize.
-An example is an individual, particular event or object, of reality.
-An example with consequence is a use-case.
-An example in-principle is a hype (hypothetical/hype).
-In communication, examples are described per the criteria that might
-Words are one of two types:
-Links: words that give relationship between examples, ideas,
-Ideas: words that refer to examples.
-An idea is a set of criteria that link examples as similar (vs
-The most basic idea classifies examples as a or not-a. "blue" is
-Good ideas group examples in a way that directs attention toward
-The right link between ideas is the foundation of every thought,  
+All words take their meaning from an average of examples.
+It is an example.
+An example is one event or object.
+Examples can be real or imagined.
+A Use-Case is an example taken from a real experience.
+A Hypothetical (Hype) is an example in-principle.
+
+## Meaning  
+
+Words direct attention in one of two ways:
+Links are words that give relationship between two directions of attention.
+Ideas: words that refer to examples, 
+An idea is a set of criteria that link examples as similar (vs different).
+The most basic idea classifies examples as "It" or "not It". 
+For example, "blue" is simultaneously a specific color and not other colors.
+
+Just as costs are only bad when misaligned with priorities, words are only bad when misaligned with It.
 
 ## Hype  
 
