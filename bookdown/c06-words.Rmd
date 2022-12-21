@@ -108,6 +108,14 @@ Assert boundaries against exaggerated or excessive words.
 
 ## Example  {#word-example}
 
+The real world is particular; each experience is an example.
+A word describes a set of similar experiences.
+    1.  WORDS are never definite and certain in what they describe of the real world.
+    2.  A WORD's definition is a generalization.
+As such, words are
+    1.  less precise than reality.
+    2.  better designed to hypothesize and predict.
+
 All words take their meaning from an average of examples.
 It is an example.
 An example is one event or object.
@@ -197,11 +205,8 @@ Save selectively and delete frequently.
 ## Document  
 
 A word is a doc when it is saved with a name, at least once.
-Word is to a good doc (for example, a resume), as action is to
 Notes are words for communication.
-To a bad doc, a word (for example a diary entry) is to an
-Lib is what words to save.
-Revision is words for pris.
+
 Introduce ideas in unambiguous terms.
 Introducing a new topic, provide a succinct, distinctive
 Then describe the link with a taxonomic reference, as follows,
