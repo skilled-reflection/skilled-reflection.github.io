@@ -1,0 +1,172 @@
+---
+title: "3-write_files"
+output: html_document
+date: '2022-11-04'
+---
+
+NLP work is scattered, advanced through the 3 courses i taught, and RAs in between, from 2020--2022. The most recent implementations were consolidated for SR in 'v2...Rmd'.
+That file, ballooning, is now split into 3, as v3:
+v3 1-read_files.Rmd
+v3 2-nlp.Rmd
+v3 3-write_files.Rmd
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+library(tidyverse)
+library(tidytext)
+library(topicmodels)
+library(tidyr)
+library(reshape2)
+library(stringi)
+
+source("v3 1-read_files.Rmd")
+source("v3 2-nlp.Rmd")
+
+```
+
+## Book 1 prep
+
+```{r}
+files  <- dir() 
+```
+
+select_files
+```{r}
+files <- files %>% 
+  as.data.frame()  
+colnames(b) <- "files"
+files <- files %>% 
+  mutate(files=as.character(files)) %>% 
+  filter(grepl("txt",files)|
+           grepl("md",files)) 
+```
+
+make df and header
+- this feels cloojy but i've done it and it works.
+```{r}
+
+read_dir_txt <- function(files) {
+  df <-readChar(files[1], 
+                file.info(files[1])$size) %>% 
+  data_frame(txt=.,title=files[1])
+  
+  for (name in files){
+    a <- readChar(name, file.info(name)$size) %>% 
+    data_frame(txt=.,title=name)
+    df <- rbind(df,a)
+  }
+  return(df)
+}
+```
+
+```{r}
+book <- read_dir_txt("book v2.01.txt") %>% 
+  .[1,]
+```
+```{r}
+book_1 <- book %>% 
+  unnest_tokens(word,txt)
+book2 <- book_1 %>% 
+  anti_join(get_stopwords()) %>% 
+  count(word,sort = TRUE) %>% 
+  mutate(doc = "book")
+
+wons <- df_wordns %>% count(word,sort = TRUE) %>% 
+  mutate(doc="corpus")
+df_set <- rbind(book2,wons)
+df_tidf <- df_set %>% 
+  filter(n>1) %>% 
+  bind_tf_idf(word,doc,n) %>% 
+  filter(n>3)
+compare <- df_tidf %>% 
+  select(-n,-tf,-idf) %>% 
+  group_by(word) %>% 
+  mutate(cnt = length(doc)) %>% 
+  filter(cnt>1) %>% 
+  spread(key= "doc",value = "tf_idf")
+
+compare <- compare %>% 
+  mutate()
+  
+```
+
+## Book 2 prep
+
+currently a line breaks the csv 
+```{r}
+d2f %>% 
+  mutate(text_slc = str_sub(txt,start=1L,end = 250)) %>% 
+  select(-txt) %>% 
+  write.csv(file="csv_from_the_df.csv")
+```
+
+```{r}
+# make csv from the df
+
+dft <- df %>% 
+  mutate(txt = text) %>% 
+  rm_md_head
+
+df %>% 
+  mutate(txt = text) %>% 
+  mutate(text_slc = str_sub(txt,start=1L,end = 250)) %>% 
+  select(-txt,-text) %>% 
+  write.csv(file="csv_from_the_df.csv")
+
+```
+
+### in excel
+A. created 2 vars:
+
+```{r}
+df %>% 
+mutate(content_ratio = (wordcount_nonstop / wordcount)*100,
+       linewt = lines*content_ratio # less useful
+       linesize = wc / lines # new
+)
+
+```
+
+manually coded files into three types
+book 1 = 1
+book 2 = 2
+book 3 = 3
+
+### read in
+```{r}
+files_2 <- read_csv("_prod-folder design_book_subset.csv")
+```
+
+match my subset,
+filtering for book 2 (type==2).
+(currently uses older database, unupdated)
+
+```{r}
+df2 <- files_2 %>% 
+  select(title,
+         type) %>% 
+  left_join(df,.,by=c("title")) %>% 
+  filter(type==2) # book 2
+```
+
+### pretty for md output.
+```{r}
+rm_filetype <- . %>% 
+  filter(!grepl("md",title)) %>% 
+  mutate(title_md = str_replace_all(title, ".txt|.Rmd",""),
+         text = str_replace_all(text, "# ","### "))
+
+df2 <- df2 %>% 
+rm_filetype
+
+```
+
+
+### save
+for tmp_vars_to_md
+```{r}
+save(df2,file = "book2df.rda")
+```
+

@@ -1,0 +1,286 @@
+---
+title: "2-nlp"
+author: "mark koranda"
+date: "12/21/2021"
+output: html_document
+---
+
+NLP work is scattered, advanced through the 3 courses i taught, and RAs in between, from 2020--2022. The most recent implementations were consolidated for SR in 'v2...Rmd'.
+That file, ballooning, is now split into 3, as v3:
+v3 1-read_files.Rmd
+v3 2-nlp.Rmd
+v3 3-write_files.Rmd
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# libraries
+
+must manually run if this is not source.
+```{r eval = FALSE}
+library(tidyverse)
+library(tidytext)
+library(topicmodels)
+library(tidyr)
+library(reshape2)
+library(stringi)
+
+```
+
+# manually select: 
+recompile:
+```{r eval = FALSE}
+source("v3 1-read_file.Rmd")
+```
+
+or cached:
+```{r eval = FALSE}
+load("compiled_texts.rda")
+
+```
+
+
+# 2. (loaded data) inspect 
+
+```{r}
+df_wordns %>% 
+  count(word,sort=TRUE) %>% 
+  View
+```
+
+
+```{r}
+
+df_wordns %>% 
+  count(title,word, sort = TRUE) %>% 
+  # ungroup %>% View
+  group_by(title) %>% 
+  mutate(wc=sum(n)) %>% 
+  mutate(p = n/wc) %>%  
+  group_by(title) %>% 
+  slice_max(p,n=25) %>% 
+  spread(key = word, value = p) %>% 
+  View
+```
+
+# 3.tf_idf dist
+
+```{r}
+tidf <- df_wordns %>% 
+  count(title,word, sort = TRUE) %>% 
+  bind_tf_idf(word,title,n) %>%
+  select(-n,-tf,-idf) %>% 
+  spread(key= word, value = tf_idf)
+
+
+distp <- tidf %>% 
+  dist(upper = TRUE) %>% 
+  as.matrix()
+
+View(distp)
+
+```
+
+didn't get the numnums for the rarecounts, so here gos
+```{r}
+tiddy_f  <- df_wordns %>% 
+  count(title,word, sort = TRUE) %>% 
+  bind_tf_idf(word,title,n) 
+```
+
+```{r}
+
+j_walk <- tiddy_f %>% 
+  group_by(title) %>% 
+  summarise(tf_idf = sum(tf_idf, na.rm=TRUE),
+            mifdf = mean(tf_idf, na.rm=TRUE))
+
+d2f <- j_walk %>% 
+    left_join(df,.,by="title")
+```
+
+# 4. lda
+
+```{r}
+
+dtm <- df_wordns %>% 
+  select(document = title,
+                term=word) 
+
+dtm1 <- cast_dtm(dtm,document,
+                term,
+         value = n)
+```
+
+```{r}
+df_lda10 <- LDA(dtm1,
+                k = 10,
+              control = list(seed = 1234))
+```
+
+## projection scripts
+
+```{r}
+
+lda_wordtop <- . %>% 
+  tidy(matrix = "beta")
+
+lda_doctop <-  . %>% 
+  tidy(matrix = "gamma")
+
+lda_main <-  . %>% 
+  tidy()
+
+top_10words <- . %>%
+  group_by(topic) %>%
+  slice_max(beta, n = 10) %>% 
+  ungroup() %>%
+  arrange(topic, -beta)
+
+top_10docs <- . %>%
+  group_by(topic) %>%
+  slice_max(gamma, n = 10) %>% 
+  ungroup() %>%
+  arrange(topic, -gamma)
+
+doc_wide <- . %>%
+  mutate(topic = paste0("topic", topic)) %>%
+  pivot_wider(names_from = topic, values_from = gamma) %>% 
+  filter(topic1 > .001 | topic2 > .001) %>%
+  mutate(log_rat21 = log2(topic2 / topic1),
+         log_rat31 = log2(topic3 / topic1))
+
+
+```
+
+## LDA 2tox
+
+```{r}
+df_lda2 <- LDA(dtm1, k = 2,
+              control = list(seed = 1234))
+
+```
+
+```{r}
+
+# lda2_word <- df_lda3 %>% lda_wordtop
+# lda2_words_top <- lda3_word %>% top_10words
+
+lda2_doc <- df_lda2 %>% lda_doctop
+lda2_doc_wide <- lda2_doc %>% 
+  mutate(topic = paste0("topic", topic)) %>%
+  pivot_wider(names_from = topic, values_from = gamma) %>% 
+  filter(topic1 > .001 | topic2 > .001)
+
+# lda3_main <- df_lda3 %>% lda_main
+```
+
+```{r}
+lda2_doc_wide %>% 
+  ggplot(aes(x=topic1,y=topic2)) +
+  geom_point(stat = "identity")
+```
+
+## LDA 3topics
+
+```{r}
+# set a seed so that the output of the model is predictable
+# takes DocumentTermMatrix
+df_lda3 <- LDA(dtm1, 
+              k = 3, 
+              control = list(seed = 1234))
+
+```
+
+docu topix
+
+
+### df projections
+
+```{r}
+
+lda3_word <- df_lda3 %>% lda_wordtop
+lda3_words_top <- lda3_word %>% top_10words
+
+lda3_doc <- df_lda3 %>% lda_doctop
+lda3_doc_wide <- lda3_doc %>% doc_wide
+
+lda3_main <- df_lda3 %>% lda_main
+```
+
+
+### gg
+```{r}
+lda3_doc_wide %>% 
+  ggplot(aes(x=log_rat21, y=topic3,size=topic3,fill=topic3))+
+  geom_point(aes(colour=topic2))
+```
+
+
+## LDA10 topcis
+```{r}
+df_lda10 <- LDA(dtm1,
+                k = 10,
+              control = list(seed = 1234))
+```
+
+### df projections
+
+```{r}
+
+lda10_word <- df_lda10 %>% lda_wordtop
+lda10_words_top <- lda10_word %>% top_10words
+
+lda10_doc <- df_lda10 %>% lda_doctop
+lda10_doc_wide <- lda10_doc %>% doc_wide
+lda10_docs_top <- lda10_doc %>% top_10docs
+
+
+lda10_main <- df_lda10 %>% lda_main
+
+
+View(lda10_docs_top)
+View(lda10_words_top)
+lda10_docs_top %>% count(document) %>% arrange(-n)
+```
+
+
+### push-clean nchar
+words top has annoying 1char words.
+```{r}
+tmp <- lda10_word %>% 
+  filter(nchar(term)>2)
+
+tmp <- tmp %>% top_10words
+```
+
+
+# CTM (wip)
+
+```{r}
+df_ctm4 <- CTM(dtm1, 4)
+eg_ctm10 <- build_graph(df_ctm10,0.991)
+```
+
+
+
+# Save
+
+
+```{r}
+save(df_lda3,
+     df_lda10,
+     dtm,
+     dtm1,
+     df_wordns,
+     df_ctm10,df_ctm4,
+     #fns
+     lda_wordtop,
+     lda_doctop, lda_main, top_10words, top_10docs, doc_wide,
+     
+     file = "lda.rda")
+
+
+```
+

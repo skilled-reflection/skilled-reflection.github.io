@@ -1,4 +1,5 @@
 _book\
+/bookdown/_book/
 .Rproj.user
 .Rhistory
 .RData
@@ -6,8 +7,6 @@ _book\
 .pdf
 .docx
 _sitemain
-/bookdown/_book/
 .Rproj
-bookdown/_book/ppl.html
-bookdown/_book/ppl.html
 .html
+.xlsx

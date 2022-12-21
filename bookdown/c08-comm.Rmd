@@ -4,190 +4,144 @@ editor_options:
     wrap: 72
 ---
 
-# Communication
+# Communication  
 
-1.  Consider you meet someone in the woods, and have only 1m (approx.
-    250w) to say the most essential thing.
+## Pitch  {#comm-pitch}
 
-2.  When you communicate (COMM), skip SELF and talk PRI. Convey the
-    greatest amount of relevant information with greatest likelihood of
-    understanding or convincing.
-
-3.  PRI-COMM is the difference between your and NORM-PRI, especially
-    that what your FOOD and CAKE are and why.
-
-4.  Say:
-
+Consider you meet someone in the woods, and have only 1m (approx.
+Pri-comm is the difference between your and norm-pri, especially that what your food and cake are and why.
+W) to say the most essential thing.
+Say:  
     1.  properties of the answer, not knowing it,
     2.  an answer for purposes of improving on it.
-
-5.  These properties are the properties of [SR][Skilled Reflection]:
-
+These properties are the properties of [sr][skilled reflection]:  
     1.  comparable constraints to establish a reliable subjective
         experience.
     2.  until we have a measurable SELF and variation, share the SELF
         that is CAKE, in 250w.
 
-## Problem
 
-6.  Communication happens from one being to another.
+## Problem  {#comm-problem}
 
-7.  The function is to direct attention to a circumstance of high
-    importance: sharing information.
+Communication happens from one being to another.
+The function is to direct attention to a circumstance of high importance: sharing information.
+For example, the vervet screech that specifically means, "snake".
+While the vervet makes or hears calls about threats of immediate, nearby importance, the breadth of human communication can direct attention to circumstances of distant places and times.
+This is an echo of the breadth of attention and information humans engage. for some reason entangled between information, sharing it, there is subjectivity of importance.
+The consequence is ambiguity in the value of a communicative act.  
 
-8.  For example, the vervet screech that specifically means, "snake".
+## Style  
 
-9.  While the vervet makes or hears calls about threats of immediate,
-    nearby importance, the breadth of human communication can direct
-    attention to circumstances of distant places and times.
+Recognition, reading familiar words is easier than retrieval from memory, of words to write. is- savings on revision.
+Only save docs that you bet will be useful enough later to save time, overall.
+Once saved, we assume a doc will be read later, and provide cake. this is the primary type of comm we engage in.
+Comm is the exchange of words from oneself to another. other examples include a traffic sign, something you wrote and are rereading, a carefully crafted party invite, or a lease agreement.
+The goal of comm is to maximize that likelihood, by engaging in the inherent and practical problems that arise. 
 
-10. This is an echo of the breadth of attention and information humans
-    engage. for some reason entangled between information, sharing it,
-    there is subjectivity of importance.
+## Comm  {#comm-comm}
 
-11. The consequence is ambiguity in the value of a communicative act.
-
-## STYLE
-
-12. RECOGNITION, reading familiar WORDS is easier than RETRIEVAL from
-    memory, of WORDS to write. Is- savings on revision.
-13. Only save docs that you BET will be useful enough later to save
-    TIME, overall.
-14. Once saved, we assume a DOC will be READ later, and provide CAKE.
-    This is the primary type of COMM we engage in.
-15. COMM is the exchange of WORDS from oneself to another. Other
-    examples include a traffic sign, something you wrote and are
-    rereading, a carefully crafted party invite, or a Lease Agreement.
-16. The GOAL of COMM is to maximize that likelihood, by engaging in the
-    inherent and practical problems that arise.
-
-## COMM
-
-17. Writing a WORD creates a static record of a WORD.
-18. No person is identical with a future or past SELF, with any other
-    person, and all of these relationships are in part UNKNOWN.
-    ([c4.1][PPL])
-19. The problem of COMM is the difference in meaning between READER and
-    WRITER of the same WORD.
-20. Even if you wrote the WORD, your later SELF may read a different
-    meaning for that WORD.
-21. GOOD COMM attempts to systematically reconcile these issues.
-22. BAD COMM takes advantage of them at the COST of clarity and honesty.
-23. PPL vary in how they apprehend the world, and therefore they can
-    vary in
-    1.  precise understanding of meanings.
-    2.  TRUST (usually WRITER more than READER).
-24. The real world is particular; each experience is an EXAMPLE.
-25. A WORD describes a set of similar experiences.
-    1.  WORDS are never definite and certain in what they describe of
-        the real world.
+Writing a word creates a static record of a word.
+No person is identical with a future or past self, with any other person, and all of these relationships are in part unknown. ([c4.1][ppl])
+The problem of comm is the difference in meaning between reader and writer of the same word.
+Even if you wrote the word, your later self may read a different meaning for that word.
+Good comm attempts to systematically reconcile these issues.
+Bad comm takes advantage of them at the cost of clarity and honesty.
+Ppl vary in how they apprehend the world, and therefore they can vary in
+    1.  Precise understanding of meanings.
+    2.  Trust (usually writer more than reader).
+The real world is particular; each experience is an example.
+A word describes a set of similar experiences.
+    1.  WORDS are never definite and certain in what they describe of the real world.
     2.  A WORD's definition is a generalization.
-26. As such, WORDS are
+As such, words are
     1.  less precise than reality.
     2.  better designed to hypothesize and predict.
-27. To improve COMM, study the difference between CONTENT and STYLE.
+To improve comm, study the difference between content and style.
 
-## Difference
+<!-- pulled from essay-content-vs-style 2022-11-07-0912
 
-28. PRIS between PPL (WRITER and READER) differ.
-29. Difference in PRIS alter CONTENT of ideas.
-30. Good STYLE is change in WORDS to minimize change in ideas between
-    READER and WRITER.
-31. Versions describe identical CONTENT with difference in STYLE between
-    them.
-32. A PLAN for a DOC is an earlier VERSION of the (same) final DOC.
-33. For example, you today vs you in five years.
+(Anything said to oneself or another is the result of an implied imperative to yourself, "THINK", (at least) for your own PRI.)
+COMM, the exchange of WORDS between PPL of different PRIs, is by default GOOD and CLOSER. To SAY a WORD is to BET on a PRI of potential GOOD for the other person. Each time one responds (i-the WORD-NEXT), they imply consent (LET) that COMM is worthwhile for one's personal PRI and to a shared PRI for both (COMM-PRI). Supposing such a shared PRI exists, then the POINT is its MOMENT. the POINT is rarely less important than manners of conveying it, and thus rarely worth discussing in the moment. The simple, fair appeal, is to request a separate conversation where such topics are the point of the conversation. If your conversant agrees, then you're set. For a later time. For now, read on about what we're talking about.-->
 
-## NORMs
 
-34. COMM NORMs assume READING and WRITING have no intrinsic GOALS.
-35. A DOC's arguments for why to READ it are a STYLE called PITCH.
-36. Pitch can be accomplished, for example, by
+## Difference  
+
+Pris between ppl (writer and reader) differ.
+Difference in pris alter content of ideas.
+Good style is change in words to minimize change in ideas between reader and writer.
+Versions describe identical content with difference in style between them.
+A plan for a doc is an earlier version of the (same) final doc.
+For example, you today vs you in five years.  
+
+## Norms  {#comm-norm}
+
+Comm norms assume reading and writing have no intrinsic goals.
+A doc's arguments for why to read it are a style called pitch.
+Pitch can be accomplished, for example, by
+
     1.  stroking the ego and intelligence of the reader.
     2.  framing attacks as agreeable observations.
-37. The maximum common SELF-PRIS across PPL are the optimal arguments
-    for PITCH. E-FOOD vs. CAKE.
-38. BRAND is PITCH that distorts truth, a form of bad STYLE.
-39. For example, consider the GOAL of describing the properties of
-    **apples** with the purpose of selling them:
+
+The maximum common self-pris across ppl are the optimal arguments for pitch. e-food vs. cake.
+Brand is pitch that distorts truth, a form of bad style.
+For example, consider the goal of describing the properties of **apples** with the purpose of selling them:  
+
     1.  CONTENT: **Apples are healthy but sugary.**\
     2.  STYLE: **Apples are tasty and nutritious.**\
     3.  BRAND: **Apples are healthy.**\
-40. PPL who do not distinguish FOOD from CAKE will be persuaded by BRAND
-    more than PITCH.
+
+People who do not distinguish food from cake will be persuaded by brand more than pitch.  
 
 ## Library
 
-39. LIB is the explicit effort to maximize the use of what you WRITE,
-    SAVE, and READ, by organizing it for best application, and providing
-    feedback to help your future decisions to WRITE, SAVE, and READ.
-40. The scope of LIB is the collection of your WORDS over a lifetime.
-41. is post-WRITING cache to facilitate future production.
-42. LIB is to docs as HOME is to possessions.
-43. LIB aims to maximize the CAKE of WORDS you save, and ideally, reduce
-    future efforts to PLAN and accomplish PRIS, through making the best
-    of your thoughts easy to find.
-44. A bad LIB is the sum of your WORDS, void of curation, none of which
-    helped PLANS.
-45. A good LIB is the closest approximation of SELF.
-46. Library = sum (GOALS + PLANS) / 1
-47. For learning what you don't know you don't know.
-48. Potential risks include 40.1. writing, saving, and finding bad docs.
-    40.2. failure to save or find good docs.
-49. Studying links will improve ideas.
-50. PLANS, and anything else you write down, should be part of a PRI.
-51. Facilitate RETRIEVAL:
+Lib is the explicit effort to maximize the use of what you write, save, and read, by organizing it for best application, and providing feedback to help your future decisions to write, save, and read.
+The scope of lib is the collection of your words over a lifetime.
+By thinking about all words you experience, you can take control to limit your word use toward more productive ones, improving read and write decisions, increasing focus and time for goals.
+Is post-writing cache to facilitate future production.
+Lib is to docs as home is to possessions.
+Lib aims to maximize the cake of words you save, and ideally, reduce future efforts to plan and accomplish pris, through making the best of your thoughts easy to find.
+A bad lib is the sum of your words, void of curation, none of which helped plans.  
+
+  1. writing, saving, and finding bad docs.
+  2. failure to save or find good docs.
+
+A good lib is the closest approximation of self.
+Library = sum (goals + plans) / 1
+For learning what you don't know you don't know.
+Potential risks include 40.1. writing, saving, and finding bad docs.
+Plans, and anything else you write down, should be part of a pri.
+Facilitate retrieval:
+
     1.  Index (list) docs worth rereading.
     2.  Assign a number that indicates its relative importance (abs or
         relative weight).
     3.  Add tags and metadata for easier sorting.
-    4.  Make and revise only for high-PRI GOAL(s). Record and study LIB
-        RETRIEVAL patterns.
-52. Note the TIME and date now, as you did in the introduction. Graduate
-53. This is the end of the book.
-54. Put it in your library.
-55. Now return to your garden and WORK on your PRIS.
+    4.  Make and revise only for high-PRI GOAL(s). Record and study retrieval patterns.
+
+Note the time and date now, as you did in the introduction. graduate
+This is the end of the book.
+Put it in your library.
+Now return to your garden and work on your pris.
 
 ## Reference system
-
-56. 
-
+Links between words (i.e., citations) are denoted with respect to physical dimensions. 
+ 
     1.  Space: this book's chapter and line numbering.
     2.  Time: v2.14 the current book version.
 
-57. For example, a document that elaborates about Trump would begin
-    titled "c4.23 v2.14".
+For example, a document that elaborates about trump would begin titled "c4.23 v2.14".
+In version 2.14 of sr, 4 is the chapter ppl, and number 23 is the definition of rltp. Trump, the article topic, is an example.
+This is the header format for any subsequent document of an idea i write.  
 
-58. In version 2.14 of SR, 4 is the chapter PPL, and number 23 is the
-    definition of RLTP. Trump, the article topic, is an example.
 
-59. This is the header format for any subsequent document of an idea I
-    write.
+## Answerword  
 
-## Answerword
+The complete set of ppl's libs is sufficiently exhaustive to describe all that matters in each and all lives.
+The efficiently compressed content of this lib produces a distribution of variation along a median library.
+This is the real point of a library.  
 
-60. The complete set of PPL's LIBs is sufficiently exhaustive to
-    describe all that matters in each and all lives.
 
-61. The efficiently compressed content of this LIB produces a
-    distribution of variation along a median LIB.
+## Zero  
 
-62. This is the content of the next book, "Answerword."
+Suppose you don't share the same language. what conventions of gesture, an international gesture meaning, might we have?  
 
-63. In that book, STYLE is any further optimization to maximize
-    learning.
-
-64. Book 3, "Afterword", is the DARPA for thought when the Answerword is
-    muscle-memory.
-
-## Zero
-
-65. Suppose you don't share the same language. What conventions of
-    gesture, an international gesture meaning, might we have?
-    1.  An object pointed to means: There it is; It is/will be mine; I
-        want it; You want it;
-
-## Your Calling, Part II
-
-66. Tell me the missing chapter that gives peace instead of regimen, so
-    that I may find mine.

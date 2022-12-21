@@ -2,7 +2,11 @@ delete_merged_file: true
 language:
   ui:
     chapter_name: "Chapter "
+
 bookdown::gitbook:
   config:
     toc:
-      collapse: true
+      collapse: subsection
+      scroll_highlight: true
+      before: null
+      after: null

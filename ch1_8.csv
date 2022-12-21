@@ -1,0 +1,758 @@
+ch_name,ch_i,h_i,l_i,i,l_id,word,fn,x,id,group
+self,1,1,1,1.1.1,1,Imagine your life takes place in a garden.,example,imagine,1,garden
+self,1,1,2,1.1.2,2,Visualizing your life as a garden allows you to ground actions and plans.,def,NA,1,garden
+self,1,1,3,1.1.3,3,The mind analyzes well with visual space.,def,NA,1,garden
+self,1,1,4,1.1.4,4,"In this garden we'll consider all your biological needs -- eating, sleeping especially -- as literal.",def,NA,1,garden
+self,1,1,5,1.1.5,5,"Your plants are goals, and gardening is your plan.",def,NA,1,garden
+self,1,1,6,1.1.6,6,Food and cake exists in the form of fruit from plants.,def,NA,1,garden
+self,1,1,7,1.1.7,7,Whatever it takes to obtain your cake you can consider as an act of gardening.,def,NA,1,garden
+self,1,1,8,1.1.8,8,"Every one of your life ambitions, goals, is buried in the ground as seeds.",def,is,1,garden
+self,1,1,9,1.1.9,9,"Finding a life partner, acquiring a car or promotion, or resolving a conflict with your childhood friend are all matters spread across the dirt in need of water, sunlight, and--most important--your time.",def,NA,1,garden
+self,1,1,10,1.1.10,10,"Other goals, like your favorite hobbies, or tv shows, take little work and grow almost anywhere.",def,NA,1,garden
+self,1,1,11,1.1.11,11,"Whether they are dear to you or weeds, if they take your time, they are plants in your garden.",def,NA,1,garden
+self,1,1,12,1.1.12,12,Except that they start as seeds.,def,NA,1,garden
+self,1,1,13,1.1.13,13,"And what do you do with seeds to make plants? You garden, dear human, you garden.",def,NA,1,garden
+self,1,1,14,1.1.14,14,All actions toward a plant are according to plan.,def,NA,1,garden
+self,1,1,15,1.1.15,15,All actions toward your self are to be considered literal in the garden metaphor.,def,NA,1,garden
+self,1,1,16,1.1.16,16,"For example, if you need to eat, or go to the bathroom, you physically go to the place and literally do the deed.",example,NA,1,garden
+self,1,1,17,1.1.17,17,"(There will be no pooping on plants, or a pooping plant in this garden.)",def,NA,1,garden
+self,1,1,18,1.1.18,18,"Thus, in the garden you are still a normal human bound to a normal space and time, capable of: acting according to bodily need, moving about space, and gardening.",def,NA,1,garden
+self,1,2,19,1.2.19,19,"Today, you are looking out across the entire garden.",def,NA,2,today
+self,1,2,20,1.2.20,20,What has already been planted? What will you add and how much time will you devote to those goals?,plan,q,2,today
+self,1,2,21,1.2.21,21,"Every seed you plant -- even an abstract one like passing a course or making a friend-- implies things in and out of your control like work and weather, or beyond your awareness, like what your boss loses sleep over.",def,NA,2,today
+self,1,2,22,1.2.22,22,Meditate on the final products of your garden.,plan,NA,2,today
+self,1,2,23,1.2.23,23,Is there a more important plant that deserves your time today?,plan,NA,2,today
+self,1,2,24,1.2.24,24,Meditate on the priorities of your work. do two plants grow better when together?,plan,NA,2,today
+self,1,2,25,1.2.25,25,"Make a quick and accurate assessment, but don't sit here all morning thinking about it.",plan,NA,2,today
+self,1,2,26,1.2.26,26,"A garden is for working in, to get the food and cake you need.",def,is,2,today
+self,1,2,27,1.2.27,27,"What do you need to cultivate, today?",plan,NA,2,today
+self,1,2,28,1.2.28,28,What do you want to cultivate in this life?,plan,NA,2,today
+self,1,2,29,1.2.29,29,"First, you want what your body and mind best respond to. many of these seeds will be obvious.",plan,NA,2,today
+self,1,2,30,1.2.30,30,It is up to you how curious you are for what better life is possible.,def,NA,2,today
+self,1,2,31,1.2.31,31,"The day is too short to try everything, and many things are not worth trying.",def,NA,2,today
+self,1,2,32,1.2.32,32,"There is not always harm to planting something that does not grow, but sometimes there is.",def,is,2,today
+self,1,2,33,1.2.33,33,"You could run out of space, time, or energy that could have been devoted to better crops;",example,could,2,today
+self,1,2,34,1.2.34,34,"You might get a weak yield for trying to grow something not suitable in your climate, or",example,might,2,today
+self,1,2,35,1.2.35,35,Find you have no taste or stomach for the fruit.,example,NA,2,today
+self,1,2,36,1.2.36,36,"In the garden, the costs of goals are grounded in their most basic sense: time and attention.",def,NA,2,today
+self,1,3,37,1.3.37,37,The following are core concepts for application beyond the garden.,def,NA,3,goal
+self,1,3,38,1.3.38,38,"A goal names an ideal future reality, comprises a plan to increase its likelihood, associated with chud.",def,name,3,goal
+self,1,3,39,1.3.39,39,These three things encompass all cognitive activity related to reality.,def,NA,3,goal
+self,1,3,40,1.3.40,40,"Call anything that could be true, but isn't right now, a goal, and any effort in support of making it true a plan.",def,can could,3,goal
+self,1,3,41,1.3.41,41,It is *your* goal if you aim to increase its probability of being true.,def,is,3,goal
+self,1,3,42,1.3.42,42,"A goal can be finite or persistent, singular or recurring, or realistic or not.",def,can could,3,goal
+self,1,4,43,1.4.43,43,"If you will need to do something before it is in your hand, it requires a plan.",def,is,4,plan
+self,1,4,44,1.4.44,44,A plan is any combination of words where the writing or reading of them aims to improve the chance or decrease the cost of achieving your goal.,def,NA,4,plan
+self,1,4,45,1.4.45,45,"Most plans are instructions (instr) for learning, making, changing, reminding. product instr are a plan to maximize satisfaction and minimize liability. for example, lamp instr will likely suggest not to put it in water.",def,NA,4,plan
+self,1,4,46,1.4.46,46,"A doc is a plan for goals to complete a linguistic product .	example docs include a resume or epitaph on a tombstone.",def,NA,4,plan
+self,1,4,47,1.4.47,47,"Lessons are a plan template for thinking. .	read and complete lesson steps in order.",def,NA,4,plan
+self,1,4,48,1.4.48,48,Tools are physical or mental objects that help you accomplish your goal.,def,NA,4,plan
+self,1,4,49,1.4.49,49,"What is materially required--muscle energy, cash, brain power--is cost.",def,is,4,plan
+self,1,4,50,1.4.50,50,All costs can be reduced to time.,def,can could,4,plan
+self,1,4,51,1.4.51,51,Cost is any action that has a direct exchange.,def,NA,4,plan
+self,1,4,52,1.4.52,52,Costs often are secondary objectives within a plan.,def,NA,4,plan
+self,1,4,53,1.4.53,53,"For example, you might buy a tool (cost).",example,NA,4,plan
+self,1,5,54,1.5.54,54,"Every day, as a human, you spend time and attention just meeting basic needs: eating, drinking, pooping, and sleeping.",def,NA,5,self
+self,1,5,55,1.5.55,55,"These actions are subgoals of maintaining self, the category of basic human goals.",def,NA,5,self
+self,1,5,56,1.5.56,56,Food is the necessary and sufficient material to satisfy these needs.,def,is,5,self
+self,1,5,57,1.5.57,57,"Cake is anything (else) fulfilling, that you are inclined to pursue, including the reason for living.",def,NA,5,self
+self,1,5,58,1.5.58,58,"The goals of self are what's necessary and sufficient to obtain and manage food and maximize bet outcomes ([c5.28][bet]). mind, healthy relationships.",def,NA,5,self
+self,1,5,58.1,1.5.58.1,59,Separate food from cake.,def,NA,5,self
+self,1,5,58.2,1.5.58.2,60,Be careful not to mislabel cake as food. cake may appear sufficient but ask yourself if it is necessary.,def,is,5,self
+self,1,5,58.3,1.5.58.3,61,"Build routines for health and fitness, physical safety (shelter), a sound",plan,NA,5,self
+self,1,5,58.4,1.5.58.4,62,Master the self (survive well).,plan,NA,5,self
+self,1,6,59,1.6.59,63,Home is the collection of materials and tools needed for self.,def,is,6,home
+self,1,6,60,1.6.60,64,Within a home related actions are grouped into rooms.,def,NA,6,home
+self,1,6,61,1.6.61,65,"For example, a kitchen, is for eating, storing, preparing and disposing of food.",example,NA,6,home
+self,1,6,62,1.6.62,66,"Home also includes all physical material and resources you own, including money, and environment and basis for habits.",def,NA,6,home
+self,1,6,63,1.6.63,67,A good home is clean and aligned for food.,def,is,6,home
+self,1,6,64,1.6.64,68,A bad home facilitates bad habits and takes more time to maintain.,def,NA,6,home
+self,1,6,65,1.6.65,69,All your life can be very well characterized by a series of purely numerical data:,def,can could,6,home
+self,1,6,66,1.6.66,70,Event timestamps associated with a location.,def,NA,6,home
+self,1,6,67,1.6.67,71,"The average movement over time, consider as habits.",def,NA,6,home
+self,1,6,68,1.6.68,72,The average location is home.,def,is,6,home
+priorities,2,1,1,2.1.1,73,Your calling--your highest priority--is yours to name.,def,NA,7,calling
+priorities,2,1,2,2.1.2,74,"If you overcome your doubts and see reality plainly, you will want peace.",plan,NA,7,calling
+priorities,2,1,3,2.1.3,75,"But we all have doubts, so you want some form of dignity and affirmation.",def,NA,7,calling
+priorities,2,1,4,2.1.4,76,"Tell me your calling, student, and subtracting from peace, i'll tell you your doubts.",plan,NA,7,calling
+priorities,2,1,5,2.1.5,77,On mastering my book your life will be regimented to afford your calling.,plan,NA,7,calling
+priorities,2,2,6,2.2.6,78,"In your garden you have the seeds and sprouts of the best you could want, and the most important of what you need.",example,could,8,cakes
+priorities,2,2,7,2.2.7,79,"There are two important things to keep in mind, however clear things may seem right now.",def,NA,8,cakes
+priorities,2,2,8,2.2.8,80,"The first is to always leave room for your goals to change, if and when you achieve them.  think of what you can grow from the seeds of the best apple in your crop.",def,is,8,cakes
+priorities,2,2,9,2.2.9,81,"The second is that much of what you could achieve, you won't, before the day is over, nor before you die.",def,is,8,cakes
+priorities,2,2,10,2.2.10,82,"Before there was a garden, you lived as if you wouldn't die. at least some of your goals assume *tomorrow* is a good time to start.",def,NA,8,cakes
+priorities,2,2,11,2.2.11,83,"I did, at least. the list of my goals grew like a wild vine and i found myself overwhelmed by what else i wanted, and yet an inability to equalize various",plan,history,8,cakes
+priorities,2,2,12,2.2.12,84,"The very difficult task of your priorities, at their core, is to establish the optimal intersection of finite time and infinite, ever-changing desire.",def,is,8,cakes
+priorities,2,2,13,2.2.13,85,"For example, sleep. about 4 hours daily is a vital priority for everyone (food), but sleeping in on the weekends is usually not (cake).",example,NA,8,cakes
+priorities,2,2,14,2.2.14,86,"In your garden, you are limited in what you can do in one day, and in one lifetime.",def,NA,8,cakes
+priorities,2,2,15,2.2.15,87,"Even if you build machines to work fields that stretch out to the horizons,",plan,NA,8,cakes
+priorities,2,2,16,2.2.16,88,You can only eat so much in a day and a lifetime.,plan,NA,8,cakes
+priorities,2,2,17,2.2.17,89,How do you most want to spend your time?,plan,NA,8,cakes
+priorities,2,2,18,2.2.18,90,"If your goal is to obtain something you do not yet have and have never tasted, be careful. it may not satisfy you how you imagine.",def,is,8,cakes
+priorities,2,2,19,2.2.19,91,Suppose your goal takes 300 hours of labor.,example,NA,8,cakes
+priorities,2,2,20,2.2.20,92,"You might spend 10 years accruing the time on task, or immerse yourself and achieve your goal in under 1 year.",example,might,8,cakes
+priorities,2,2,21,2.2.21,93,Any true goal has a specific optimal deadline.,def,NA,8,cakes
+priorities,2,2,22,2.2.22,94,"Today, you grow the best apple you can,",plan,NA,8,cakes
+priorities,2,2,23,2.2.23,95,"Yet having tasted it, you might discover a more refined goal is closer to your heart.",plan,is,8,cakes
+priorities,2,2,24,2.2.24,96,"Whether this apple is food or cake, the more you align with yourself, the more you will see your goals differently than you first conceived of them.",plan,NA,8,cakes
+priorities,2,2,25,2.2.25,97,Leave time in your life to achieve the next goal.,plan,NA,8,cakes
+priorities,2,3,26,2.3.26,98,"Many ppl believe in seeds with special powers, like true love, or winning the lottery.",plan,NA,9,death
+priorities,2,3,27,2.3.27,99,"One seed grows the duration of your life, which you rarely notice but are often aware of.",def,NA,9,death
+priorities,2,3,28,2.3.28,100,"When you eat it, the sun sets for the last time and you bite the dust. it happens to all of us.",def,NA,9,death
+priorities,2,3,29,2.3.29,101,"Think about this, but don't dwell on it.",plan,NA,9,death
+priorities,2,4,30,2.4.30,102,"Maybe you are sick, down or depressed.",def,NA,10,sick
+priorities,2,4,31,2.4.31,103,"Then today, do not look out onto your field as a day to work.",plan,NA,10,sick
+priorities,2,4,32,2.4.32,104,"Today your field gives to you, and you should take what you need. this is what it is for.",plan,is,10,sick
+priorities,2,4,33,2.4.33,105,Do not beat yourself up for what you cannot give today. this assumes your field is only meaningful for its future.,plan,NA,10,sick
+priorities,2,4,34,2.4.34,106,"And before you're well again, remember this moment well, so you may",plan,NA,10,sick
+priorities,2,4,35,2.4.35,107,Prevent the urge to be disappointed the next time you are less than productive.,def,NA,10,sick
+priorities,2,4,36,2.4.36,108,"If you must work to feel worthwhile, work to budget for a fact of being human:",plan,NA,10,sick
+priorities,2,4,37,2.4.37,109,"You are always sometimes less than productive, and occasionally your setbacks come in unfortunate forms, at inconvenient times.",def,NA,10,sick
+priorities,2,5,31,2.5.31,110,"Think of what's happening in your garden this very moment: nothing, while you're sitting here thinking.",plan,NA,11,attention
+priorities,2,5,32,2.5.32,111,Reflect only enough to improve your actions.,plan,NA,11,attention
+priorities,2,5,33,2.5.33,112,Pri is the optimizing and managing of all your goals.,def,is,11,attention
+priorities,2,5,34,2.5.34,113,"All goals rely on a single, limited source of attention, and existence: you.",def,NA,11,attention
+priorities,2,5,35,2.5.35,114,"Attention. order, reduce in the order (pictured below). ""a place for everything, everything in its place""",def,NA,11,attention
+priorities,2,5,35.1,2.5.35.1,115,"At its best, this limiting fact drastically improves the reality of plans and goals.",def,NA,11,attention
+priorities,2,5,35.2,2.5.35.2,116,"At its worst, it is the most common oversight responsible for bloated [chud][c.h.u.d.].",def,is,11,attention
+priorities,2,5,35.3,2.5.35.3,117,Goal importance partly depends on context (c3.6).,def,NA,11,attention
+priorities,2,5,35.4,2.5.35.4,118,"Group your goals by shared actions, places, or times. make/group/keep,",plan,NA,11,attention
+priorities,2,5,35.5,2.5.35.5,119,Align self and cake.,plan,NA,11,attention
+priorities,2,5,36,2.5.36,120,"Ask what it would take to change (if possible), and whether change is worth it.",plan,is,11,attention
+priorities,2,5,37,2.5.37,121,Savings occur anytime you complete an action that serves various goals.,def,NA,11,attention
+priorities,2,5,37.1,2.5.37.1,122,An example is grouping (c3.35.4).,example,NA,11,attention
+priorities,2,5,37.2,2.5.37.2,123,"Apply to ideas, plans, goals, or home things.",plan,NA,11,attention
+priorities,2,5,38,2.5.38,124,"Time is the constant (or denominator) for forces, forgetting, pri, and lib.",def,is,11,attention
+priorities,2,5,38.1,2.5.38.1,125,Do not ignore time.,plan,NA,11,attention
+priorities,2,5,38.2,2.5.38.2,126,Estimate durations accurately for goal accomplishment.,plan,NA,11,attention
+priorities,2,5,38.3,2.5.38.3,127,"Study time to learn reality, self, and their link.",plan,NA,11,attention
+priorities,2,5,38.4,2.5.38.4,128,Continually assess whether goal benefits outweighs costs of time.,plan,NA,11,attention
+priorities,2,5,39,2.5.39,129,Maybe it seems unnecessary to represent work satisfaction and relationship quality in terms of carrots and tomatoes.,plan,example,11,attention
+priorities,2,5,40,2.5.40,130,"When you get bored, ask yourself why attempting to understand and define yourself bores you.",plan,example,11,attention
+priorities,2,5,41,2.5.41,131,"What is happening in your life, and what is in your control if these are unclear?",def,NA,11,attention
+priorities,2,5,42,2.5.42,132,"If you are not reflecting on your life, your garden is a foggy labyrinth, and you are a drunk gardener wearing oven-mitts.",def,NA,11,attention
+priorities,2,5,43,2.5.43,133,"You are pushed like a sail by any wind, the forces of reality.",def,NA,11,attention
+priorities,2,5,44,2.5.44,134,A force is any cause of change.,def,NA,11,attention
+priorities,2,5,44.1,2.5.44.1,135,"A force underlies every action involved in a goal, yours or otherwise.",def,NA,11,attention
+priorities,2,5,44.2,2.5.44.2,136,"There are forces within your control, and forces outside.",def,NA,11,attention
+priorities,2,5,45,2.5.45,137,Maintenance is the cost of force to neither move toward nor away from a goal.,def,is,11,attention
+priorities,2,5,46,2.5.46,138,Alignment is when norm or natural force causes your goal to be more likely. moment,def,is,11,attention
+priorities,2,5,46.1,2.5.46.1,139,"To align is to adjust your goal to be more like another force, usually one acting against your goal.",def,is,11,attention
+priorities,2,5,46.2,2.5.46.2,140,Study how forces work against you.,plan,NA,11,attention
+priorities,2,6,47,2.6.47,141,"Now is the only use-case of shared space, in time.",def,is,12,now
+priorities,2,6,48,2.6.48,142,"A moment is any now that is not the latest, either future or past.",def,NA,12,now
+priorities,2,6,49,2.6.49,143,A record of now becomes past 'nows' of variable use-case.,def,NA,12,now
+priorities,2,6,49.1,2.6.49.1,144,"That is, we might reflect on the previous nows that we shared.",example,might,12,now
+priorities,2,6,49.2,2.6.49.2,145,"Note that past nows do not maintain the same level of rigor. they are degraded to hype when mis-replayed, misunderstood, or accessed under changed priorities.",def,NA,12,now
+priorities,2,6,49.3,2.6.49.3,146,"In seeing passage, we might speculate on future nows to be shared.",example,might,12,now
+priorities,2,6,49.4,2.6.49.4,147,"The discourse of past or future is always at least partially hype, but real (use) when bet on.",def,NA,12,now
+ppl,3,0,1,3.0.1,148,"Just like you, others are trying to figure out what goes on in their own garden.\*	ppl are different versions of each others' pri ([see also c9.70][norms style]).",def,NA,NA,NA
+ppl,3,0,2,3.0.2,149,"Amid the goals and forces of this chapter, none of what is described includes using words. reader, you will begin to understand their nature in the next chapter, bet, but as it pertains words that ppl use with each other, not until the last chapter, comm.",def,is,NA,NA
+ppl,3,1,3,3.1.3,150,Consider ppl in terms of the four places of your life:,plan,NA,13,places
+ppl,3,1,3.1,3.1.3.1,151,On your garden dealing with your self.,plan,alt,13,places
+ppl,3,1,3.2,3.1.3.2,152,On someone else's garden.,plan,alt,13,places
+ppl,3,1,3.3,3.1.3.3,153,At work making something for others for money.,plan,alt,13,places
+ppl,3,1,3.4,3.1.3.4,154,Getting something someone else made (market).,plan,alt,13,places
+ppl,3,1,4,3.1.4,155,Sometimes you are at your garden's edge looking elsewhere.,def,NA,13,places
+ppl,3,1,4,3.1.4,156,"For example, when you read an email or social media feed, as if looking across your neighbor's plot,",example,NA,13,places
+ppl,3,1,4,3.1.4,157,"Studying how to bring your lettuce back to life, or celebrating your friend's successful pumpkin patch.",def,NA,13,places
+ppl,3,2,5,3.2.5,158,"Despite garden-based pris, most of your time is spent outside your garden, and mostly for work (about 80,000 hours in your life).",def,NA,14,gate
+ppl,3,2,6,3.2.6,159,"Acknowledge the ppl in your pris, yet don't let them distract.",plan,NA,14,gate
+ppl,3,2,7,3.2.7,160,Notice how long you leave your garden and to where.,plan,NA,14,gate
+ppl,3,2,8,3.2.8,161,Spend only as much time needed away for your pris.,plan,NA,14,gate
+ppl,3,2,9,3.2.9,162,"For example, most time on others' gardens, and any more than the minimum at work or market is cake. when in doubt, go home and stare at your plants. at least that cake is free.",example,NA,14,gate
+ppl,3,3,10,3.3.10,163,Where do you get seeds for food from and how did you know to plant them?,plan,NA,15,work
+ppl,3,3,11,3.3.11,164,"From other ppl, right? No silly, you don't know how to garden a sandwich!",plan,example,15,work
+ppl,3,3,12,3.3.12,165,"Lucky for you, many of the most important crops you want are already grown, prepared and handed to you--in exchange for money.",def,NA,15,work
+ppl,3,3,13,3.3.13,166,"Money is traded for maintenance of, or insurance for self and cake, like apples, miracle medical procedures, and a toilet to take your poop somewhere else.",def,is,15,work
+ppl,3,3,14,3.3.14,167,"Work is performing a specific task on a collective garden, like an institution's in exchange for money. it is a pre-arranged visit to another garden for a specified time.",def,NA,15,work
+ppl,3,3,15,3.3.15,168,"Whether or not you like it, or it directly fulfills garden needs, work is made to serve norms, not you.",def,is,15,work
+ppl,3,3,16,3.3.16,169,"Norms are all actions assumed of (or about) the ""average"" person. they are the web of forces of all actions of all ppl, including work, religion, popular attitudes, and doubts.",def,NA,15,work
+ppl,3,4,17,3.4.17,170,"If you have a job that pays you to think, your mind is hired to make norms products real.",def,is,16,analysis
+ppl,3,4,18,3.4.18,171,"Instead of your reality, your work is to translate norms's reality, chud-adjusted.",def,is,16,analysis
+ppl,3,4,19,3.4.19,172,Norms assume you will work for money for goods.,def,NA,16,analysis
+ppl,3,4,20,3.4.20,173,"Language, agreed usage of words, is made from norms.",def,is,16,analysis
+ppl,3,4,21,3.4.21,174,Norms push against individuality (except where it provides a lucrative job opportunity).,def,NA,16,analysis
+ppl,3,4,22,3.4.22,175,Relationships (rltp) are goals about ppl (ppl).,def,NA,16,analysis
+ppl,3,4,23,3.4.23,176,Good ones are aligned with your goals.,def,NA,16,analysis
+ppl,3,4,24,3.4.24,177,Bad ones cost more.,def,NA,16,analysis
+ppl,3,4,25,3.4.25,178,"A rltp is a reciprocal pair of bets, yours of them, and vice versa. one is the better and the other is the bet and bet on.",def,NA,16,analysis
+ppl,3,4,26,3.4.26,179,"Rltps, especially family members, coordinate many goals for savings.",def,NA,16,analysis
+ppl,3,5,27,3.5.27,180,"Maybe they are your friend, and need help with some unruly vines, or maybe you just like their apples.",def,NA,17,others
+ppl,3,5,28,3.5.28,181,"Sometimes, ppl will contribute to your goals, as if bringing water to crops you didn't recognize need them. 4. sometimes ppl will try to water your crops when they don't need watering.",plan,example,17,others
+ppl,3,5,29,3.5.29,182,Sometimes you'll return with higher morale or a bag of apples.,plan,example,17,others
+ppl,3,5,30,3.5.30,183,"Sometimes you'll need to water some crops that need to be watered, because the sight of their neglect cannot be ignored.",plan,example,17,others
+ppl,3,5,31,3.5.31,184,"The challenges that overwhelm you are the same for others, just not always the same amount nor at the same time.",def,NA,17,others
+ppl,3,5,32,3.5.32,185,"The place, duration and impact on your pris are the basic measurements of a rltp.",def,NA,17,others
+ppl,3,5,33,3.5.33,186,"Pick work and rltps, including friends, that maximize your other pris including possibly one that maximizes time and money to apply to other pris.",plan,NA,17,others
+ppl,3,5,34,3.5.34,187,Maximally align with norms with least compromise to pris. get along with ppl.,plan,NA,17,others
+ppl,3,5,35,3.5.35,188,"Ppl are the part of pris that require the most care, and fewest words.",def,NA,17,others
+ppl,3,5,36,3.5.36,189,A good rltp is a contract of the reciprocated actions (use) between two ppl.,def,NA,17,others
+ppl,3,5,37,3.5.37,190,"A bad rltp is hyped mutual bets (unaligned with actions), that waste time.",def,is,17,others
+bet,4,0,1,4.0.1,191,You can't help but think how to make your life better.,plan,NA,NA,NA
+bet,4,0,2,4.0.2,192,"You can take control of your life, or you can let the world bet for you. you can commit yourself to finding out which thoughts are right or you can commit yourself to finding out which thoughts are right or leave it to chance to have better life.",plan,NA,NA,NA
+bet,4,0,2,4.0.2,193,"Leave it to chance to have better life. betting is a protocol to guide you to reality, and, if you're lucky, your",plan,NA,NA,NA
+bet,4,0,3,4.0.3,194,"A commitment is the first step, but far from the last.",def,is,NA,NA
+bet,4,0,4,4.0.4,195,"#	Bet",NA,NA,NA,NA
+bet,4,0,4,4.0.4,196,"If you want your dreams to become real, listen to your doubts.",plan,NA,NA,NA
+bet,4,0,5,4.0.5,197,Then test them.,plan,NA,NA,NA
+bet,4,0,6,4.0.6,198,Winning means your reality is one step toward your goal.,def,is,NA,NA
+bet,4,0,7,4.0.7,199,Losing is the wake-up call to be more realistic.,def,is,NA,NA
+bet,4,0,8,4.0.8,200,"Betting is a protocol to guide you to reality, and, if you're lucky, your dreams might fit in.",def,NA,NA,NA
+bet,4,0,9,4.0.9,201,How real will your dreams get before you die?,plan,NA,NA,NA
+bet,4,1,10,4.1.10,202,"A stranger comes to your garden at the end of a long day, which you realize only when you hear him chopping his jaw at you. you look up.",example,imagine,18,stranger
+bet,4,1,11,4.1.11,203,"""No really, consider it, right now. imagine the most realistic, attainable, best life you could have.",example,imagine,18,stranger
+bet,4,1,12,4.1.12,204,Imagine taking the first step and then stay with the thought. listen to the fear that surfaces.,example,imagine,18,stranger
+bet,4,1,13,4.1.13,205,"For the moment, never mind how the world has gotten in your way.",plan,NA,18,stranger
+bet,4,1,14,4.1.14,206,"How are you in your own way?""",def,NA,18,stranger
+bet,4,1,15,4.1.15,207,He seems to be in your way. he's staring past your wet forehead.,example,imagine,18,stranger
+bet,4,1,16,4.1.16,208,"""See your doubts with curiosity. now bet on what you tell yourself you believe. bet on overcoming them.""",plan,NA,18,stranger
+bet,4,1,17,4.1.17,209,"But you mostly only think of frustration and say, ""i appreciate the suggestion.""",example,imagine,18,stranger
+bet,4,1,18,4.1.18,210,"""Let's both bet. name what you believe you can accomplish tomorrow, in terms of what you think holds you back most.",example,imagine,18,stranger
+bet,4,1,19,4.1.19,211,"If you make it happen before sun-up, you'll be over the most daunting hurdle between you and your outcome.",example,imagine,18,stranger
+bet,4,1,20,4.1.20,212,"And i'll give you the equivalent of your harvest, today. if you fail, you leave me today's harvest.""",example,imagine,18,stranger
+bet,4,1,21,4.1.21,213,"""Okay,"" you say. you'll show him.",example,imagine,18,stranger
+bet,4,1,22,4.1.22,214,"""The rocks on the far field. they're on a slippery slope. to build the home i want, i need those rocks, but i'm afraid of falling. i've collected every rock on my land and i need those rocks. tomorrow i'll finish my foundation with rocks from the slippery slope.""",example,imagine,18,stranger
+bet,4,1,23,4.1.23,215,"The stranger and you have set up a bet, a type of belief.",example,imagine,18,stranger
+bet,4,2,24,4.2.24,216,"A bet is a plan template for reconciling reality with chud, to accomplish goals.",def,NA,19,bet
+bet,4,2,25,4.2.25,217,"Betting is confronting costs, habits, unknowns and doubts that stand in the way of your wants and dreams.",def,is,19,bet
+bet,4,2,26,4.2.26,218,"The time that passes and the status of your goal when it runs out are an intersection of reality: the world and you. to name them, is to shed chud.",def,NA,19,bet
+bet,4,2,27,4.2.27,219,"Every idea you hold is a bet with a rolling deadline, idiosyncratic successes, and revisions.",def,NA,19,bet
+bet,4,2,28,4.2.28,220,"Bet wins shorten your plan, and the distance to your goal. losses should guide revisions to your chud.",def,NA,19,bet
+bet,4,2,29,4.2.29,221,"To bet, name:",plan,NA,19,bet
+bet,4,2,29.1,4.2.29.1,222,"A step in your plan,",plan,NA,19,bet
+bet,4,2,29.2,4.2.29.2,223,"A deadline to achieve it, and",plan,NA,19,bet
+bet,4,2,29.3,4.2.29.3,224,The c.h.u.d. for that duration.,plan,NA,19,bet
+bet,4,2,30,4.2.30,225,"Blitz to revise and win, and log your actions.",plan,NA,19,bet
+bet,4,2,31,4.2.31,226,"When the deadline arrives, take stock.",plan,NA,19,bet
+bet,4,2,31.1,4.2.31.1,227,Compare your action log to your plan.,plan,NA,19,bet
+bet,4,2,31.2,4.2.31.2,228,Identify chud factors that best explain discrepancies.,plan,NA,19,bet
+bet,4,2,31.3,4.2.31.3,229,"Revise plan, updated with chud factor predictions.",plan,NA,19,bet
+bet,4,2,31.4,4.2.31.4,230,"(Record time to do the next bet or goal, revise, etc.)",plan,NA,19,bet
+bet,4,2,31.5,4.2.31.5,231,Start the next bet or goal.,plan,NA,19,bet
+bet,4,3,32,4.3.32,232,"The next morning you woke to a field in disarray and a letter. you had worked harder than you planned, and still fell short of your goal.",example,imagine,20,after
+bet,4,3,33,4.3.33,233,"""If you did more than you would have without the bet, you won something, including evidence that there is some commitment in you to make your dreams come true.""",def,NA,20,after
+bet,4,3,34,4.3.34,234,"The biggest reward is not positive: accept you failed,",def,is,20,after
+bet,4,3,35,4.3.35,235,And partly due to a miscalculation.,def,NA,20,after
+bet,4,3,36,4.3.36,236,"Therefore, likely other parts of your plan are misguided, and your goal is further than you estimate.",def,NA,20,after
+bet,4,3,37,4.3.37,237,"If you disagree, let's bet again. first, take a minute to learn from your planning mistake.",plan,NA,20,after
+bet,4,4,38,4.4.38,238,"Even if you make a plan and bet on it, you can fail.",def,NA,21,c.h.u.d.
+bet,4,4,39,4.4.39,239,Why don't we achieve our goals?,plan,q,21,c.h.u.d.
+bet,4,4,40,4.4.40,240,"Here are the four critical aspects of success,",def,NA,21,c.h.u.d.
+bet,4,4,41,4.4.41,241,"And, by extension, clues for why we fail.",def,NA,21,c.h.u.d.
+bet,4,4,42,4.4.42,242,"Chud encompasses the changes in you, the world, and your goal for you to achieve it.",def,NA,21,c.h.u.d.
+bet,4,5,43,4.5.43,243,Costs ([c2.51][self]) and habits are knowable facts.,def,NA,22,cost
+bet,4,5,44,4.5.44,244,Observers could independently note and agree on your costs and habits.,example,could,22,cost
+bet,4,5,45,4.5.45,245,Costs are the unadjusted record of transactions in your life.,def,NA,22,cost
+bet,4,5,46,4.5.46,246,Referring to cost is referring to typical transactions for a goal.,def,is,22,cost
+bet,4,5,47,4.5.47,247,"For example, a relationship with an alcoholic poses a risk of violence.",example,NA,22,cost
+bet,4,6,48,4.6.48,248,"The unadjusted, plain record of everything you have physically done, is your habit.",def,is,23,habit
+bet,4,6,49,4.6.49,249,Referring to habit is referring to patterns of behavior.,def,is,23,habit
+bet,4,6,50,4.6.50,250,"For example, i eat every morning before 9 am.",example,NA,23,habit
+bet,4,6,50.1,4.6.50.1,251,Habits are your most likely and reliable food or cake actions.,def,NA,23,habit
+bet,4,6,50.2,4.6.50.2,252,Bad habits are forces working against your goals.,def,NA,23,habit
+bet,4,6,50.3,4.6.50.3,253,Good habits are aligned with goals.,def,NA,23,habit
+bet,4,7,51,4.7.51,254,Unknowns and doubts are the gap between your real and perceived costs and habits.,def,NA,24,unknown
+bet,4,7,52,4.7.52,255,"If you have not arrived at the goal, there are unknowns.",def,NA,24,unknown
+bet,4,7,53,4.7.53,256,Unknowns are all that are fully out of your control (analogous to statistical 'error').,def,NA,24,unknown
+bet,4,7,54,4.7.54,257,"For example, a train might stop you from arriving on time.",example,NA,24,unknown
+bet,4,7,55,4.7.55,258,Unknowns are reduced by estimating causes of failure.,def,NA,24,unknown
+bet,4,7,56,4.7.56,259,For example:,example,NA,24,unknown
+bet,4,7,56.1,4.7.56.1,260,"I will die, but not know how or when. the cause is unknown.",def,is,24,unknown
+bet,4,7,56.2,4.7.56.2,261,"I will die due to a natural disaster or cancer. the cause is named, and the unknown is pushed to those things' underlying causes.",def,is,24,unknown
+bet,4,8,57,4.8.57,262,Doubts are misperceptions caused or perpetuated by your habit.,def,NA,25,doubt
+bet,4,8,58,4.8.58,263,"Like costs, doubts are the patterns of unknown.",def,NA,25,doubt
+bet,4,8,59,4.8.59,264,Doubt is any systematic error that is possible to be addressed by another human of equal ability and resources.,def,NA,25,doubt
+bet,4,8,60,4.8.60,265,"For example, ""self-fulfilled prophesies"", irrational fear or anxiety.",example,NA,25,doubt
+bet,4,8,61,4.8.61,266,Good doubts temper an optimistic plan.,def,NA,25,doubt
+bet,4,8,62,4.8.62,267,"Otherwise (bad) doubts: fuel bad habits and fantasies. like fear, anxiety, and jealousy, reflect overestimations. like narrow-mindedness, reflect underestimations. like distraction and boredom can be: anxiety about your future. discomfort toward present reality or distrust in your past.",def,NA,25,doubt
+bet,4,8,63,4.8.63,268,"Most of these issues, if deep enough, require therapy.",def,NA,25,doubt
+bet,4,8,64,4.8.64,269,Or the [intellectual bootcamp].,def,NA,25,doubt
+ed,5,1,1,5.1.1,270,"A classroom is a special case of market and work; the direct and shared exchange of mental work, for the purpose of improving individual pris.",def,NA,26,the classroom
+ed,5,1,2,5.1.2,271,No one chose to be born. everyone begins life with their own unnamed and unanswered problems.,def,NA,26,the classroom
+ed,5,1,3,5.1.3,272,Books are an author's answers; they can only tell a student what the answer is not (quite).,def,NA,26,the classroom
+ed,5,1,4,5.1.4,273,"Instead of teaching how to read between the lines, let the student define the problem through their reality and life goals.",plan,NA,26,the classroom
+ed,5,1,5,5.1.5,274,Let them write the plan and teach them only what is needed to succeed.,def,is,26,the classroom
+ed,5,1,6,5.1.6,275,"Imagine a perfect course exists, designed to teach you to fulfill your specific ambitions.",example,imagine,26,the classroom
+ed,5,1,7,5.1.7,276,"Every aspect of what you need to know, that is known and communicable, is the only thing written.",def,is,26,the classroom
+ed,5,1,8,5.1.8,277,"Everything that cannot be known but must be discovered or practiced, is laid out as a set of instructions, described in the words that maximize the learning opportunity, and your progress.",def,NA,26,the classroom
+ed,5,1,9,5.1.9,278,"Rather than a course in a classroom, the perfect class is a manual to reference as you live your life, or at least until you've internalized its contents:",plan,NA,26,the classroom
+ed,5,1,10,5.1.10,279,"When to take a break to strategize your decisions, lessons on what opportunities to watch for and resist, and so on.",def,NA,26,the classroom
+ed,5,1,11,5.1.11,280,"Any social role you wish to take on, artist, engineer, therapist, insurance salesperson, reliable partner, is customized intimately, curated perfectly for what you need.",def,NA,26,the classroom
+ed,5,1,12,5.1.12,281,Any rltp or interpersonal skill that is realistically possible for you is preceded with the guidance and education that prepares you emotionally to choose the right experiences that set you up to be most likely to find and make the most of opportunities to share yourself with another.,def,is,26,the classroom
+ed,5,2,13,5.2.13,282,Is there a better version of you?,plan,NA,27,prompt
+ed,5,2,14,5.2.14,283,Are you capable of moving toward it?,plan,NA,27,prompt
+ed,5,2,15,5.2.15,284,Are you ready?,plan,NA,27,prompt
+ed,5,2,16,5.2.16,285,"If your answers are yes, then you are a student. to live a better life, you will commit to change your actions.",def,NA,27,prompt
+ed,5,2,17,5.2.17,286,"First, you will learn what changes are needed.",def,NA,27,prompt
+ed,5,3,18,5.3.18,287,This is a boot camp whose purpose is,def,NA,28,admissions
+ed,5,3,18.1,5.3.18.1,288,"To train adults to think harder, clearer and more effectively.",plan,game,28,admissions
+ed,5,3,18.2,5.3.18.2,289,To produce intelligent solutions for personal and social puzzles.,plan,game,28,admissions
+ed,5,3,18.3,5.3.18.3,290,To have a higher cognitive discipline.,plan,NA,28,admissions
+ed,5,3,18.4,5.3.18.4,291,"To instill shared cake about reason, thinking and discourse.",plan,NA,28,admissions
+ed,5,3,18.5,5.3.18.5,292,To empower.,plan,NA,28,admissions
+ed,5,3,19,5.3.19,293,"It is a training program designed to break down bad habits of thought, and build good ones while immersed here, a culture of rational thinking isolated from the outside world.",def,NA,28,admissions
+ed,5,4,20,5.4.20,294,"Here you will relentlessly confront your ideas about the world, with instructors drilling intellectual skills (writing essays, arguing for ideas, and developing proposals for action).",plan,NA,29,challenge
+ed,5,4,21,5.4.21,295,"You will be trained to move toward your goals with focus, even in the face of perceptual, physical, or emotional distractions.",plan,NA,29,challenge
+ed,5,4,22,5.4.22,296,"Over time, students could expect to cultivate a sharper focus on cognitive objectives, resilience to distractions and challenges.",example,could,29,challenge
+ed,5,4,23,5.4.23,297,"If you graduate, it will be with the ability to identify, develop, and communicate ideal critical, rational arguments, positions or plans (orally or written) given the available knowledge, finite time, and resources at hand (reference material, teamwork).",plan,NA,29,challenge
+ed,5,4,24,5.4.24,298,"You will also learn a code of behavior for being a community leader,",plan,NA,29,challenge
+ed,5,4,25,5.4.25,299,Collaborating or competing with an irrational world.,plan,NA,29,challenge
+ed,5,4,26,5.4.26,300,The central requirement for applicants will be a commitment to better understand the self and world.,plan,NA,29,challenge
+ed,5,5,27,5.5.27,301,Students are ppl with ideas from experience toward selfish goals.,def,NA,30,student
+ed,5,5,28,5.5.28,302,Lessons depend on students' prior knowledge.,plan,NA,30,student
+ed,5,5,29,5.5.29,303,A student,def,role,30,student
+ed,5,5,29.1,5.5.29.1,304,Has a goal that can be better named and planned.,def,can could,30,student
+ed,5,5,29.2,5.5.29.2,305,Requires time away from betting.,def,role,30,student
+ed,5,5,29.3,5.5.29.3,306,Admits not knowing but capable.,def,role,30,student
+ed,5,5,30,5.5.30,307,"Students learn to represent their knowledge in words; to prefer better, alternative words. a student sees the impersonal as more reliable both for selfish goals and social ones.",def,role,30,student
+ed,5,5,31,5.5.31,308,"A bad student studies to avoid action, or for its own sake.",def,role,30,student
+ed,5,5,32,5.5.32,309,A student writes ideas and goals to their instructor.,def,role,30,student
+ed,5,5,33,5.5.33,310,Your goal is clear. you want:,def,is,30,student
+ed,5,5,33.1,5.5.33.1,311,The strength needed to take the right steps and make a habit of,def,role,30,student
+ed,5,5,33.2,5.5.33.2,312,"Keen eyes to estimate the destination and correct course, and",def,role,30,student
+ed,5,5,33.3,5.5.33.3,313,A focused mind to steady the foot.,def,role,30,student
+ed,5,6,34,5.6.34,314,This is an in-person immersive experience.,def,NA,31,consent
+ed,5,6,35,5.6.35,315,"You only really learn what you need to know to be who you really want. you won't learn unless you cannot escape needing it; in a dedicated environment that fosters acquisition, minimizes interference.",plan,NA,31,consent
+ed,5,6,36,5.6.36,316,"Whether you're here for the 7- or 30-day experience, you will work hard every minute.",plan,NA,31,consent
+ed,5,6,37,5.6.37,317,"For every minute of lesson on my time, students are to provide two minutes of writing, either toward others' learning or in direct application toward their goal.",def,NA,31,consent
+ed,5,7,38,5.7.38,318,Dedicate to identity growth. be:,plan,NA,32,course
+ed,5,7,38.1,5.7.38.1,319,"Quiet, except when tasks require verbal response.",plan,NA,32,course
+ed,5,7,38.2,5.7.38.2,320,Receptive to work and feedback provided by the instructor.,plan,NA,32,course
+ed,5,7,38.3,5.7.38.3,321,"Committed to producing genuinely inspired ideas, working",plan,NA,32,course
+ed,5,7,38.4,5.7.38.4,322,"Respectful that all are equal in voice, and aim to describe",def,NA,32,course
+ed,5,7,38.5,5.7.38.5,323,Receptive and responsive to prompts and observations (from peers,plan,NA,32,course
+ed,5,7,38.6,5.7.38.6,324,"Motivated to describe solutions that benefit others, when",plan,NA,32,course
+ed,5,7,39,5.7.39,325,Learn:,plan,NA,32,course
+ed,5,7,39.1,5.7.39.1,326,Precisely and only what is needed to trust a clear picture of,def,is,32,course
+ed,5,7,39.2,5.7.39.2,327,"First, how to make a plan, a map of who you are, and who you",def,NA,32,course
+ed,5,7,39.3,5.7.39.3,328,"Repeat part one of this book, until your plan is good enough to",def,is,32,course
+ed,5,7,40,5.7.40,329,"This will be the beginning of change, and the first test of your commitment.",plan,NA,32,course
+ed,5,7,41,5.7.41,330,Your performance is evaluated simply: whether or not you,def,is,32,course
+ed,5,7,42,5.7.42,331,"End up eating, sleeping, thinking, talking, and acting differently.",plan,NA,32,course
+ed,5,8,43,5.8.43,332,"Think, student.",plan,NA,33,think
+ed,5,8,44,5.8.44,333,"Do not take notes, simply pay attention.",plan,NA,33,think
+ed,5,8,45,5.8.45,334,Everything i say is meant plainly.,def,is,33,think
+ed,5,8,46,5.8.46,335,"If you get confused, forget it, and pay attention to right now.",plan,NA,33,think
+ed,5,8,47,5.8.47,336,Our goal here is thinking. thinking happens in your heads.,def,is,33,think
+ed,5,8,48,5.8.48,337,Right now your job is to think about the truth you see in what i say.,def,is,33,think
+ed,5,8,49,5.8.49,338,A student has two roles to think in: reader and writer.,plan,NA,33,think
+ed,5,9,50,5.9.50,339,"Read, student.",plan,NA,34,read
+ed,5,9,51,5.9.51,340,A reader is a listener and observer.,def,NA,34,read
+ed,5,9,52,5.9.52,341,"Reading is the same as listening to an instructor,",def,is,34,read
+ed,5,9,53,5.9.53,342,"Except that the speaking pace doesn't determine how fast you have to think, or remind you to",def,NA,34,read
+ed,5,9,54,5.9.54,343,Pay attention!,plan,NA,34,read
+ed,5,9,54.1,5.9.54.1,344,"Your attention cannot be trusted on its own,",plan,NA,34,read
+ed,5,9,54.2,5.9.54.2,345,So lose distractions,plan,NA,34,read
+ed,5,9,54.3,5.9.54.3,346,Like your smart phone.,plan,NA,34,read
+ed,5,9,54.4,5.9.54.4,347,"You will befriend the simplest scientific instrument, a clock.",plan,NA,34,read
+ed,5,9,54.5,5.9.54.5,348,The clock is a cue to think.,def,NA,34,read
+ed,5,9,54.6,5.9.54.6,349,"When it goes off, get back on task.",plan,NA,34,read
+ed,5,9,54.7,5.9.54.7,350,The clock will babysit your unreliable attention.,plan,NA,34,read
+ed,5,10,55,5.10.55,351,Your goal in reading is to isolate the truth from the lie.,def,is,35,truth
+ed,5,10,55.1,5.10.55.1,352,Try reading this sentence:,plan,NA,35,truth
+ed,5,10,55.2,5.10.55.2,353,"""Everyone is best off running weekly until they die.""",def,is,35,truth
+ed,5,10,55.3,5.10.55.3,354,"You're thinking, ""this can't be true for everyone, so it's a",example,NA,35,truth
+ed,5,10,55.4,5.10.55.4,355,Not so fast.,example,NA,35,truth
+ed,5,10,55.5,5.10.55.5,356,"There are many components to this idea, and likely many that you",def,NA,35,truth
+ed,5,10,55.6,5.10.55.6,357,Often a lie becomes true just by changing the pronouns in the,plan,NA,35,truth
+ed,5,10,55.7,5.10.55.7,358,"Consider this revision: ""i am best off running weekly until i",example,NA,35,truth
+ed,5,10,55.8,5.10.55.8,359,Perhaps now the words are more truthful to you.,def,NA,35,truth
+ed,5,10,56,5.10.56,360,Doing this makes a clear relationship between your belief and the author's.,plan,NA,35,truth
+ed,5,10,57,5.10.57,361,Becoming smart is the discipline of understanding how you relate to others.,def,is,35,truth
+ed,5,10,58,5.10.58,362,"When reading, dismiss only what you fully believe is an intentional lie.",plan,NA,35,truth
+ed,5,10,59,5.10.59,363,"More generally, read to assess your bet on the words reflecting truth.",plan,NA,35,truth
+ed,5,10,60,5.10.60,364,"Whether to a single word, a line, chapter, or book.",plan,NA,35,truth
+ed,5,10,61,5.10.61,365,"Assign weights (0 to 9) to what you read, to complete this prompt:",plan,NA,35,truth
+ed,5,10,62,5.10.62,366,I bet this is true for:,plan,is,35,truth
+ed,5,10,62.1,5.10.62.1,367,0 = not even the author.,plan,NA,35,truth
+ed,5,10,62.2,5.10.62.2,368,1 = only the author.,plan,NA,35,truth
+ed,5,10,62.3,5.10.62.3,369,"2 = the author, me, and a few others.",plan,NA,35,truth
+ed,5,10,62.4,5.10.62.4,370,3 = us and 30% of everyone else.,plan,NA,35,truth
+ed,5,10,62.5,5.10.62.5,371,9 = us and about 90% of everyone else.,plan,NA,35,truth
+ed,5,10,63,5.10.63,372,"For every assertion and assumption you read, begin assuming it is a ""9"", working backwards according to evidence you hold.",plan,NA,35,truth
+ed,5,11,64,5.11.64,373,"The following mini lesson illustrates the risk at hand--involuntary comprehension, and the benefit at stake from deliberate reading.",def,NA,36,lesson
+ed,5,11,65,5.11.65,374,"Consider the following quote, ""change your thoughts to change your life.""",plan,example,36,lesson
+ed,5,11,66,5.11.66,375,Comprehension is involuntary.,def,is,36,lesson
+ed,5,11,66.1,5.11.66.1,376,You cannot help but recognize meaning when you read.,plan,NA,36,lesson
+ed,5,11,66.2,5.11.66.2,377,This means that you likely thought the quote was largely,plan,NA,36,lesson
+ed,5,11,67,5.11.67,378,"Reading as proposed here, is strongly voluntary.",def,is,36,lesson
+ed,5,11,68,5.11.68,379,"For example, reread the quote, this time assuming it is reasonable, serious, and valuable.",example,plan,36,lesson
+ed,5,11,69,5.11.69,380,"The statement is the core assumption to this book, and any psychological theory.",def,is,36,lesson
+ed,5,11,70,5.11.70,381,"For example, freud's talk therapy was, in his time, the radical idea that words could fix ppl.",example,NA,36,lesson
+ed,5,11,71,5.11.71,382,"Therefore, do not waste the opportunity to consider a truth that could change your life by failing to entertain a simple assumption.",plan,NA,36,lesson
+ed,5,12,72,5.12.72,383,How will your life look if you put it on paper? Like a bunch of words.,plan,NA,37,say
+ed,5,12,73,5.12.73,384,"How do you change it? By deleting the words with lies, and replacing them with better words.",plan,NA,37,say
+ed,5,12,74,5.12.74,385,"The right words will change your actions and your life. to live a better life, starts with your words.",plan,NA,37,say
+ed,5,12,75,5.12.75,386,"In order to do something about thoughts, we need to think on paper. [you'll write a lot. you'll delete a lot. you'll get good at writing.]",plan,NA,37,say
+ed,5,13,76,5.13.76,387,Bet on words. a writer invests time and energy to map feelings onto words.,plan,NA,38,write
+ed,5,13,77,5.13.77,388,"Good writing is discovering, curating, and applying insight. bad writing has an author; ad hominem.",def,is,38,write
+ed,5,13,78,5.13.78,389,"Revisions also make you a writer. when you revise words (yours or others') to maximize your bet, you are a writer.",def,NA,38,write
+ed,5,13,79,5.13.79,390,"Separate thought and self (author), by betting explicitly.",plan,NA,38,write
+ed,5,13,80,5.13.80,391,"State your assumptions, do not justify them. -is-style-bad",plan,NA,38,write
+ed,5,13,81,5.13.81,392,"Replace ""i am."" with tag words.",plan,NA,38,write
+ed,5,13,82,5.13.82,393,"Strive for comm-content and brevity; write only valuable bets, or words that manifest valuable bets. prioritize understanding over original writing.",plan,NA,38,write
+ed,5,13,83,5.13.83,394,"Writing for lib-ppl, relatable, depersonalized, objective words, minimizes rot, maximizes plan utility.",plan,NA,38,write
+ed,5,14,84,5.14.84,395,"I am an instructor, a guardian of true ideas and writer of a general plan (this book).",example,NA,39,instructor
+ed,5,14,85,5.14.85,396,"An instructor reads, and enforces bets on links toward a plan.",def,role,39,instructor
+ed,5,14,86,5.14.86,397,My goals are to,def,role,39,instructor
+ed,5,14,86.1,5.14.86.1,398,Minimize student effort and time to write.,def,role,39,instructor
+ed,5,14,86.2,5.14.86.2,399,"Read for cognitive biases, illogical appeals, and imprecise",def,role,39,instructor
+ed,5,14,86.3,5.14.86.3,400,"Reward arguments based on (truth:) reality, self, and cake.",def,role,39,instructor
+ed,5,14,86.4,5.14.86.4,401,Reward ideas shared (vs kept).,def,role,39,instructor
+ed,5,15,87,5.15.87,402,"Which lines from this book would you [bet on][how to read], written as-is, or revised for you?",plan,NA,40,answers
+ed,5,15,88,5.15.88,403,"Assign 100 dollars (total) to those lines according to their relative impact, and you are an ibc student; an author of shared truth.",plan,NA,40,answers
+ed,5,15,89,5.15.89,404,Suppose a representative set of ppl did the same thing. here's a game to help imagine.,example,imagine,40,answers
+ed,5,15,89.1,5.15.89.1,405,Each student's bets go to a general pool.,plan,NA,40,answers
+ed,5,15,89.2,5.15.89.2,406,"When bets on a line reach a critical mass, the pool of sub-par bets is split among winners.",plan,game,40,answers
+ed,5,15,89.3,5.15.89.3,407,Cash is divided.,plan,game,40,answers
+ed,5,15,89.4,5.15.89.4,408,"Also, points are recorded, to incentivize a deeper purpose:",plan,game,40,answers
+ed,5,15,89.5,5.15.89.5,409,"A game, where the prize is",plan,game,40,answers
+ed,5,15,89.6,5.15.89.6,410,The collective revision and authorship of this book.,plan,game,40,answers
+ed,5,15,89.7,5.15.89.7,411,"After x wins, your name appears on the title.",plan,game,40,answers
+ed,5,15,89.8,5.15.89.8,412,High scores are on the acknowledgements page.,plan,game,40,answers
+ed,5,15,89.9,5.15.89.9,413,"This is the process and meaning of reader and writer; bound directly to material and action, irl.",def,is,40,answers
+ed,5,15,90,5.15.90,414,"Whereas the exchange of money incentivizes the revision of truth, the content itself would be the premise to the next book, [the answerword][the answerword].",def,is,40,answers
+word,6,0,6,6.0.0,415,# Words,NA,NA,NA,NA
+word,6,1,1,6.1.1,416,Words describe the world and its conditions.,def,is,41,cognition
+word,6,1,2,6.1.2,417,"This chapter is about problems and answers regarding the act of describing, itself:",def,NA,41,cognition
+word,6,1,2.1,6.1.2.1,418,Words said do not usually reflect what ppl want or need.,def,NA,41,cognition
+word,6,1,2.2,6.1.2.2,419,"By engaging the gap between words and reality, you increase",def,NA,41,cognition
+word,6,1,2.3,6.1.2.3,420,"Better words mean more practical understanding and expectations,",def,NA,41,cognition
+word,6,1,2.4,6.1.2.4,421,The capacity to make a concrete plan for achieving your goals.,def,NA,41,cognition
+word,6,1,2.5,6.1.2.5,422,This will include healthier comm and rltps.,def,NA,41,cognition
+word,6,1,2.6,6.1.2.6,423,"A community with better words has clearer idea sharing,",def,NA,41,cognition
+word,6,2,3,6.2.3,424,Speaking your mind is difficult to do accurately.,def,is,42,problem
+word,6,2,4,6.2.4,425,A memory system dealing with language is tasked to translate thoughts into the right words from tens of thousands. it is prone to inaccuracies.,def,is,42,problem
+word,6,2,5,6.2.5,426,"Similarly, a listener focused on comprehending, is not likely to monitor all the incidental priming effects of words on a memory system.",def,is,42,problem
+word,6,2,6,6.2.6,427,Words said and heard impact both parties' beliefs and behaviors.,def,NA,42,problem
+word,6,2,7,6.2.7,428,"Saying words or hearing and understanding a word is a very small physical action, to describe real actions and consequences.",def,NA,42,problem
+word,6,2,8,6.2.8,429,"The issue is that words can be more and less right, more and less helpful, and without intervention, it is very difficult to know how much this is true in any example of word use.",def,is,42,problem
+word,6,2,9,6.2.9,430,Bad words keep chud expensive and waste time.,def,NA,42,problem
+word,6,2,10,6.2.10,431,"The cost of an individual word is tiny, but we say tens of thousands per day (levelt).",def,is,42,problem
+word,6,3,11,6.3.11,432,"A good general bet about words is to begin assuming every word is a bet on hypotheticals, which can be true (reality) or false (fantasy).",def,NA,43,bet
+word,6,3,12,6.3.12,433,A plan is a bet on a winning arrangement of words that result in the goal.,def,NA,43,bet
+word,6,3,13,6.3.13,434,"Reading, thinking, saying, and writing a word perpetuates that word's idea over others, either moving you toward a goal, or your habit.",def,NA,43,bet
+word,6,4,14,6.4.14,435,"Words efficiently simulate possible worlds. you can think through far more situations with words, than you can (or should) act out.",def,NA,44,simulation
+word,6,4,15,6.4.15,436,"Your goals can be described in words, and words can be easily crossed out and revised.",def,can could,44,simulation
+word,6,4,16,6.4.16,437,"Good words maximize productivity of thought, move you beyond pitfalls of chud, direct attention to pris, and predict reality; improve decisions and make you smarter.",def,NA,44,simulation
+word,6,4,17,6.4.17,438,"By thinking about all words you experience (lib), you can take control to limit your word use toward more productive ones, improving read and write decisions, increasing focus and time for goals.",def,NA,44,simulation
+word,6,4,18,6.4.18,439,"Sim (f-act) is the act of iterating between write and read, to evoke and name the optimal, held bet. tour sim is not constrained by irl, but your picture of irl, and your sim goal is to capture the picture true to your chud estimate.",def,is,44,simulation
+word,6,5,19,6.5.19,440,"It caused you to name in the first place. this cause is ""it"". good-ref is giving the best name for our desired comm.",def,is,45,"""it"""
+word,6,5,20,6.5.20,441,"For example, take these background facts, which contains the basis of our desired ref.",example,NA,45,"""it"""
+word,6,5,20.1,6.5.20.1,442,I woke at 8:30am,example,NA,45,"""it"""
+word,6,5,20.2,6.5.20.2,443,I wanted to sleep until 9:30am.,example,NA,45,"""it"""
+word,6,5,20.3,6.5.20.3,444,"In my 9:00am appointment with you, as you are talking, i yawn.",example,NA,45,"""it"""
+word,6,5,20.4,6.5.20.4,445,"You say, ""i must be boring you.""",example,NA,45,"""it"""
+word,6,5,20.5,6.5.20.5,446,I want to hear what you were going to say (comm-pri).,example,NA,45,"""it"""
+word,6,5,21,6.5.21,447,"Each of these (below) are slightly different refs based on the facts (above), ranked by good-ref:",example,NA,45,"""it"""
+word,6,5,21.1,6.5.21.1,448,"You're not, please continue.",example,NA,45,"""it"""
+word,6,5,21.2,6.5.21.2,449,"No, i'm tired.",example,NA,45,"""it"""
+word,6,5,21.3,6.5.21.3,450,"No, i woke early.",example,NA,45,"""it"""
+word,6,5,21.4,6.5.21.4,451,Don't make assumptions.,example,NA,45,"""it"""
+word,6,5,21.5,6.5.21.5,452,I'm not.,example,NA,45,"""it"""
+word,6,5,21.6,6.5.21.6,453,"""I woke at 8:30am, but wanted to sleep until 9:30am, so i think",example,NA,45,"""it"""
+word,6,5,21.7,6.5.21.7,454,"""I yawned because i am tired. i can see why you thought i was",example,NA,45,"""it"""
+word,6,5,21.8,6.5.21.8,455,[Nothing],example,NA,45,"""it"""
+word,6,5,22,6.5.22,456,"All of the refs above combined suggest the ""it"" you want to convey.",example,def,45,"""it"""
+word,6,5,23,6.5.23,457,A good-ref is the one that uses truth to focus and advance the comm-pri.,example,def,45,"""it"""
+word,6,5,24,6.5.24,458,Below are the ref attributes that make each choice unique (and less good).,example,def,45,"""it"""
+word,6,5,25,6.5.25,459,Give a simple reason to return to the comm-pri (example 1 above).,example,def,45,"""it"""
+word,6,5,26,6.5.26,460,Does not add to comm-pri nor return to it. 3-'early' may not be true.,example,def,45,"""it"""
+word,6,5,27,6.5.27,461,Focus on others' mistake and issue a command.,example,def,45,"""it"""
+word,6,5,28,6.5.28,462,Begs the question.,example,def,45,"""it"""
+word,6,5,29,6.5.29,463,Focus on the distraction.,example,def,45,"""it"""
+word,6,5,30,6.5.30,464,Focus on the distraction and makes the same kind of ref which the other did and which caused the confusion.,example,def,45,"""it"""
+word,6,5,31,6.5.31,465,"This can be anywhere in the list including 1, depending on what you do or say next. -   1: you or the other return to comm-pri without ever returning to this interruption. -   4: it reduces the number of words said before returning to comm-pri. -   8: the distraction is remembered, and mentioned again, later.",example,def,45,"""it"""
+word,6,5,32,6.5.32,466,"Let this characterize the problem and approach, and i will end with a few primary objectives, besides.",example,def,45,"""it"""
+word,6,5,32.1,6.5.32.1,467,Good-ref is a plain idea or link.,def,NA,45,"""it"""
+word,6,5,32.2,6.5.32.2,468,"If ""good-ref"", the idea, crosses your mind while considering",def,NA,45,"""it"""
+word,6,5,32.3,6.5.32.3,469,"Decide and say ref within a few seconds, rather than thinking",def,NA,45,"""it"""
+word,6,5,32.4,6.5.32.4,470,"Best-ref is possible, but requires extra thinking to know the",def,is,45,"""it"""
+word,6,5,32.5,6.5.32.5,471,"In use, this means quickly name the relevant links, and estimate",def,NA,45,"""it"""
+word,6,5,33,6.5.33,472,"In our example of the facts, above,",example,def,45,"""it"""
+word,6,5,33.1,6.5.33.1,473,1 is not obvious and adds little to 3.,example,def,45,"""it"""
+word,6,5,33.2,6.5.33.2,474,"5 is the comm-pri, and 4 is the cause, but not it in what you",example,def,45,"""it"""
+word,6,5,33.3,6.5.33.3,475,"2 and 3 are it, and specifically, the link between them.",example,def,45,"""it"""
+word,6,5,34,6.5.34,476,"Unless you are a recruit, to go any further will usually not be worth the cost. to go further is to specify what kind of link is between the two. want is hype, etc.",example,def,45,"""it"""
+word,6,5,35,6.5.35,477,"Good-ref is ""new"" vs given.",example,def,45,"""it"""
+word,6,6,36,6.6.36,478,"Speak, write, initiate or respond only in limited duration and words dictated by intended outcome.",plan,NA,46,write-plan
+word,6,6,37,6.6.37,479,"Use words empirically, with a comparison group (vs) and quantity in mind.",plan,NA,46,write-plan
+word,6,6,38,6.6.38,480,Ideas are more important than authorship.,def,NA,46,write-plan
+word,6,6,39,6.6.39,481,Do not use a word that is more of a lie.,plan,is,46,write-plan
+word,6,6,40,6.6.40,482,Say the truth or be quiet.,plan,NA,46,write-plan
+word,6,6,41,6.6.41,483,"Use words for decisions, not emotions.",plan,NA,46,write-plan
+word,6,6,42,6.6.42,484,Use words to facilitate pris. do not write plans you won't follow.,plan,NA,46,write-plan
+word,6,6,43,6.6.43,485,Stop talking when action (or listening) is needed.,def,is,46,write-plan
+word,6,7,46,6.7.46,486,Listen / read when you need to learn / connect.,plan,NA,47,read-plan
+word,6,7,47,6.7.47,487,Limit duration/words needed to assess consent.,plan,NA,47,read-plan
+word,6,7,48,6.7.48,488,"Distrust ego, and take nothing personally",plan,NA,47,read-plan
+word,6,7,49,6.7.49,489,Investigate the empirical cake of words.,plan,NA,47,read-plan
+word,6,7,50,6.7.50,490,"Revise to believe, and revise plans into ones you'd follow.",plan,NA,47,read-plan
+word,6,7,51,6.7.51,491,Remove / ignore style.,plan,NA,47,read-plan
+word,6,7,52,6.7.52,492,Assert boundaries against exaggerated words or unreliable ones.,plan,NA,47,read-plan
+word,6,8,47,6.8.47,493,"A description of the kinds of simulation a word can make, and the kinds to prioritize.",def,NA,48,types
+word,6,9,45,6.9.45,494,"An example is an individual, particular event or object, of reality.",def,NA,49,example
+word,6,9,45.1,6.9.45.1,495,An example with consequence is a use-case.,def,NA,49,example
+word,6,9,45.2,6.9.45.2,496,An example in-principle is a hype (hypothetical/hype).,def,NA,49,example
+word,6,9,45.3,6.9.45.3,497,"In comm, examples are described per the criteria that might",def,NA,49,example
+word,6,9,46,6.9.46,498,Words are one of two types:,def,NA,49,example
+word,6,9,46.1,6.9.46.1,499,"Links: words that give relationship between examples, ideas,",def,NA,49,example
+word,6,9,46.2,6.9.46.2,500,Ideas: words that refer to examples.,def,NA,49,example
+word,6,9,46.3,6.9.46.3,501,An idea is a set of criteria that link examples as similar (vs,def,NA,49,example
+word,6,9,46.4,6.9.46.4,502,"The most basic idea classifies examples as a or not-a. ""blue"" is",def,NA,49,example
+word,6,9,46.5,6.9.46.5,503,Good ideas group examples in a way that directs attention toward,def,NA,49,example
+word,6,9,46.6,6.9.46.6,504,"The right link between ideas is the foundation of every thought,",def,is,49,example
+word,6,10,47,6.10.47,505,"Hype vs use-case guides what and if to write. a goal is a named hype. good hype are worthwhile goals, sub-goals, or alt plan actions to consider. don't write hype without a bet.",def,NA,50,hype
+word,6,10,48,6.10.48,506,"As all words should be toward pris, there are three general modes of pri words:",def,NA,50,hype
+word,6,10,48.1,6.10.48.1,507,H0 = history. habit is to history as action is to doc. good,def,is,50,hype
+word,6,10,48.2,6.10.48.2,508,"H1 = plan (pri.txt, proj_doc.txt)",def,NA,50,hype
+word,6,10,48.3,6.10.48.3,509,H2 = doubt especially for bet.,def,NA,50,hype
+word,6,11,49,6.11.49,510,"Alts are any idea which measurably deviates a plan, and are defined directly with respect to the target idea.",def,NA,51,alternatives
+word,6,11,50,6.11.50,511,"For example, bad is an alt to good, as in ""good-vs-bad"".",example,NA,51,alternatives
+word,6,11,51,6.11.51,512,"Any other valid modes, if at all, are in support of maximal revision in these primary ones.",def,NA,51,alternatives
+word,6,11,52,6.11.52,513,A plan comprises: 1.the decided action 2.the best bet on it,def,NA,51,alternatives
+word,6,11,52.3,6.11.52.3,514,Alternative actions 4.the goal 5.the relevant chud,def,NA,51,alternatives
+word,6,11,53,6.11.53,515,"Good goals and their plans are supported by uses from your own history (self-h), and next best is norm or others' use or data that generalizes.",def,NA,51,alternatives
+word,6,11,54,6.11.54,516,"For example, a plan for a similar goal has previously succeeded.",example,NA,51,alternatives
+word,6,12,1,6.12.1,517,Mnemonics are memory aids.,def,NA,52,letters
+word,6,12,2,6.12.2,518,"Reducing a word to a letter increases cognitive efficiency, as long as that letter stands for an idea you will frequently encounter.",def,NA,52,letters
+word,6,12,3,6.12.3,519,These letters illustrate kinds of word usage (not exhaustive):,def,NA,52,letters
+word,6,12,3.1,6.12.3.1,520,`f` define; function\,def,`,52,letters
+word,6,12,3.2,6.12.3.2,521,"`i` synonym, sense, ""i.e."", ""as in"",\",def,`,52,letters
+word,6,12,3.3,6.12.3.3,522,"`e` example, data-point, untested data\",example,NA,52,letters
+word,6,12,3.4,6.12.3.4,523,`h` history (implied h0),def,`,52,letters
+word,6,12,3.5,6.12.3.5,524,"`h1` claim, thesis. vs h0 or h2.",def,`,52,letters
+word,6,12,3.6,6.12.3.6,525,"`x` cross-references, xref\",def,`,52,letters
+word,6,12,3.7,6.12.3.7,526,"`d` data or evidence, summary",def,`,52,letters
+word,6,12,3.8,6.12.3.8,527,`v` version / revise\,def,`,52,letters
+word,6,12,3.9,6.12.3.9,528,"`vs` an alternative, sibling of a shared parent category.",def,`,52,letters
+word,6,13,4,6.13.4,529,Good notes clarify pri (content) within bets from secondary ones.,def,NA,53,notes
+word,6,13,5,6.13.5,530,"In a doc, par is a grouped set of words roughly equivalent to a complex sentence.",def,NA,53,notes
+word,6,13,6,6.13.6,531,"It has a primary subject and predicate, and includes any immediately relevant branches from either.",def,NA,53,notes
+word,6,13,7,6.13.7,532,In practice it is between 1 and 4 clauses.,def,is,53,notes
+word,6,13,8,6.13.8,533,"Good par successfully denotes a link between two ideas, with the following form:",def,NA,53,notes
+word,6,13,8.1,6.13.8.1,534,"A syntactic tree, where\",def,NA,53,notes
+word,6,13,8.2,6.13.8.2,535,"[Newline] is the right path in a fork,\",def,is,53,notes
+word,6,13,8.3,6.13.8.3,536,"First indent ("" -"") is the left path in a fork,\",def,is,53,notes
+word,6,13,8.4,6.13.8.4,537,"Subsequent newline indents or in-line ""--"" are siblings\",def,NA,53,notes
+word,6,13,8.5,6.13.8.5,538,Left to right are siblings\,def,NA,53,notes
+word,6,13,8.6,6.13.8.6,539,Double linebreak ends the local tree.,def,NA,53,notes
+word,6,13,9,6.13.9,540,"When word order is a left-to-right walk of a right-branching syntactic tree, sentence can be written in lines of random lengths, and read equally as unambiguously.",def,NA,53,notes
+word,6,13,10,6.13.10,541,Restrict reference and vocabulary to simple- or plain- english to reduce amibiguity.,plan,NA,53,notes
+word,6,14,1,6.14.1,542,Make folder and file names i-goals as transparent as possible imply or reveal its (hidden) members.,plan,NA,54,transparent
+word,6,14,2,6.14.2,543,Promote or consolidate high frequency items or only-childs.,plan,NA,54,transparent
+word,6,14,3,6.14.3,544,For example: `ppl-work -\> work - self-home -\> home`,example,NA,54,transparent
+word,6,14,4,6.14.4,545,"When creating or reusing a word for new applications, this principle should be a factor.",example,NA,54,transparent
+word,6,15,35,6.15.35,546,A recipe is one of the best ways to arrange plans.,def,is,55,recipe
+word,6,15,36,6.15.36,547,Lessons and instructions use a recipe format.,def,NA,55,recipe
+word,6,15,37,6.15.37,548,The recipe format highlights the ideas and links of your point and minimizes excessive style.,def,NA,55,recipe
+word,6,15,37.1,6.15.37.1,549,List key ideas.,def,NA,55,recipe
+word,6,15,37.2,6.15.37.2,550,Describe actions and transformations (links).,plan,NA,55,recipe
+word,6,15,38,6.15.38,551,"Given an idea, estimate relevance to pris, problems, undeveloped plans, and self-maintenance.",plan,NA,55,recipe
+word,6,15,39,6.15.39,552,Keep docs short enough that the title and content address only one thing.,plan,NA,55,recipe
+word,6,15,40,6.15.40,553,Save selectively and,plan,NA,55,recipe
+word,6,15,41,6.15.41,554,Delete frequently.,plan,NA,55,recipe
+word,6,16,1,6.16.1,555,"A word is a doc when it is saved with a name, at least once.",def,NA,56,document
+word,6,16,1.1,6.16.1.1,556,"Word is to a good doc (for example, a resume), as action is to",example,NA,56,document
+word,6,16,1.1,6.16.1.1,557,Notes are words for comm.,def,NA,56,document
+word,6,16,1.2,6.16.1.2,558,"To a bad doc, a word (for example a diary entry) is to an",example,NA,56,document
+word,6,16,1.2,6.16.1.2,559,Lib is what words to save.,def,is,56,document
+word,6,16,1.3,6.16.1.3,560,Revision is words for pris.,def,is,56,document
+word,6,16,2,6.16.2,561,Introduce ideas in unambiguous terms.,plan,NA,56,document
+word,6,16,2.1,6.16.2.1,562,"Introducing a new topic, provide a succinct, distinctive",def,NA,56,document
+word,6,16,2.2,6.16.2.2,563,"Then describe the link with a taxonomic reference, as follows,",plan,NA,56,document
+word,6,16,3,6.16.3,564,Illustrate the link.,plan,NA,56,document
+word,6,16,3.1,6.16.3.1,565,"At a micro-scale, every dash itself is a link.",def,NA,56,document
+word,6,16,3.1,6.16.3.1,566,The pri for the reader. answer: what are the fewest words to,def,NA,56,document
+word,6,16,3.2,6.16.3.2,567,"For example, in the taxonomy, ""psych-teach-2021-unit4"" the three",example,NA,56,document
+word,6,16,3.2,6.16.3.2,568,"The most similar and relevant concepts to most distinct,",def,NA,56,document
+word,6,16,3.3,6.16.3.3,569,The left-most word will be either implied or actual chapter,def,NA,56,document
+word,6,16,3.4,6.16.3.4,570,"All science that is not directly relevant elsewhere, will fall",def,is,56,document
+word,6,16,3.5,6.16.3.5,571,The remaining chapters deal with modes on these basic sources:,def,NA,56,document
+word,6,16,3.6,6.16.3.6,572,"In the example above, psych might fall under self-body,",example,NA,56,document
+word,6,16,3.7,6.16.3.7,573,The link is the decision of the sentence that requires the most,def,is,56,document
+word,6,16,3.8,6.16.3.8,574,Named links are actions.,def,NA,56,document
+word,6,16,3.9,6.16.3.9,575,"Over-spelling the ideas leaves an empty link, e-""do...(the",def,NA,56,document
+word,6,16,4,6.16.4,576,"In instr, the link comes last, and it describes a step in",def,NA,56,document
+word,6,16,4,6.16.4,577,Contextualize with an alternative,plan,NA,56,document
+word,6,16,4.1,6.16.4.1,578,A plan should inherit or give definitions of new terms.,plan,NA,56,document
+word,6,16,4.2,6.16.4.2,579,New definitions should especially be accompanied by a true,plan,NA,56,document
+word,6,16,4.3,6.16.4.3,580,"A pri is the motive for life, and itself is only a named",def,is,56,document
+word,6,16,4.4,6.16.4.4,581,A developed pri is an instruction.,def,NA,56,document
+word,6,16,4.5,6.16.4.5,582,One generalized is a lesson.,def,NA,56,document
+word,6,17,47,6.17.47,583,"A scientist works to win bets against the unknown. they are a professional writer, evaluated on two metrics:",def,NA,57,scientist
+word,6,17,47.1,6.17.47.1,584,For their new content.,def,NA,57,scientist
+word,6,17,47.2,6.17.47.2,585,The net benefit on goal outcomes.,def,NA,57,scientist
+word,6,17,48,6.17.48,586,"A scientist-researcher is a writer, a data-collector and hypothesis tester.",def,NA,57,scientist
+word,6,17,49,6.17.49,587,"A scientist-scholar is a reader, curating toward theory development and comm.",def,NA,57,scientist
+word,6,17,50,6.17.50,588,"More will be said about scientist more broadly. here we focus strictly on the aspect of a scientist which is to develop the description of the world, properly.",def,NA,57,scientist
+word,6,18,51,6.18.51,589,Framework (frame) is a cluster of definitions.,def,NA,58,framework
+word,6,18,52,6.18.52,590,What metric can be used to compare and test bets on words?,def,can could,58,framework
+word,6,18,53,6.18.53,591,Such a metric requires a general framework for cognition.,def,NA,58,framework
+word,6,18,54,6.18.54,592,This is that general framework.,def,is,58,framework
+word,6,18,55,6.18.55,593,"Just as a child learns skills from ""put it in the box"" to ""put it together,"" and ""solve the problem you creatively set up to solve the impossible,"" so too the highest cognitive function --these days a cooperative one beyond the speed or control of any individual-- deserves treatment of its abilities and applications in order of processing difficulty and utility; utility in contributing to itself however it sees fit, but especially in its allocation of finite resources.",example,in,58,framework
+word,6,19,56,6.19.56,594,"$$ h1 where p = cognition, good.p = p(wit.goal.sort|pri) $$",def,NA,59,theory
+word,6,19,57,6.19.57,595,"Cognitive acts should be engaged in as a pyramid of levels (like food pyramid), number of tasks (width of level).",def,NA,59,theory
+word,6,19,58,6.19.58,596,"For example, a base height of 4 (levels) = 4 topics on bottom level,",example,NA,59,theory
+word,6,19,58.3,6.19.58.3,597,"On 2nd, 2 on 3rd and 1 on 4th. where the bottom level is the",def,is,59,theory
+word,6,19,59,6.19.59,598,"For example, assuming a goal, make an action plan (blitz) constrained by number of tasks by type as follows:",example,NA,59,theory
+word,6,19,59.1,6.19.59.1,599,Sort (base task),plan,NA,59,theory
+word,6,19,59.2,6.19.59.2,600,"Name, def, or measure,",plan,NA,59,theory
+word,6,19,59.3,6.19.59.3,601,Make (minimum viable),plan,NA,59,theory
+word,6,19,59.4,6.19.59.4,602,"Test (edit, sim, revise)",plan,NA,59,theory
+word,6,19,59.5,6.19.59.5,603,"Use (reliable, helpful)",plan,NA,59,theory
+word,6,19,60,6.19.60,604,"Additional tasks must ""wait"" to be addressed until a task of the same level becomes complete and removed from the pyramid, leaving a slot to be replaced.",plan,NA,59,theory
+word,6,19,61,6.19.61,605,This is a frame that gives a starting point for assessing how and what optimal capacity and boundaries exist for a human as a cognitive being.,def,NA,59,theory
+word,6,19,62,6.19.62,606,"Above is a proposed initial bet, arrived at by sim. here's an example good sim:",def,NA,59,theory
+word,6,19,62.1,6.19.62.1,607,Name a pri-scope of irl-events.,plan,NA,59,theory
+word,6,19,62.2,6.19.62.2,608,"For example, tasks may differ in how hard and many times actions",example,NA,59,theory
+word,6,19,62.3,6.19.62.3,609,The following properties can be varied by sim. 1-task type,def,can could,59,theory
+word,6,19,62.4,6.19.62.4,610,Task-level and task-count,def,NA,59,theory
+word,6,19,62.5,6.19.62.5,611,"For example, 3 levels starting at 10-count, reducing by 2",example,NA,59,theory
+word,6,19,62.6,6.19.62.6,612,"The goal of sim is to maximize a bet you take (e.g., vs defining",def,is,59,theory
+rev,7,1,1,7.1.1,613,"Neutrally, a word may be replaced by another. as a process which takes effort, do so to improve, and we will call it revision. revision is the change of words to improve actions of yourself or others.",def,is,60,revision
+rev,7,1,2,7.1.2,614,"Revision is how we know reflection is happening, described here in versions (v#) of a response.",def,is,60,revision
+rev,7,1,3,7.1.3,615,"For example, consider the following revisions (v1-3) describing this brief argument:",example,NA,60,revision
+rev,7,1,3.1,7.1.3.1,616,"1: ""nobody follows doctors' orders.""\ ""my parents do, religiously.""\ ""they're the exception.""\ ""you're not exposed to minorities.""",example,NA,60,revision
+rev,7,1,3.2,7.1.3.2,617,"V1
+A)  1 makes a false generalization.
+B)  2 illustrates a counterpoint, and 1 gets mad.
+C)  1 dismisses it, and 2 gets mad. a)  1 makes a false generalization. b)  2 illustrates a counterpoint, and 1 gets mad. c)  1 dismisses it, and 2 gets mad.",example,def,60,revision
+rev,7,1,3.3,7.1.3.3,618,"V2 a)  1 generalizes from work experience. b)  2 argues with parents' experience, and 1 gets mad. c)  1 dismisses and 2 get mad.",example,def,60,revision
+rev,7,1,3.4,7.1.3.4,619,"V3 a)  1 argues outside 2's experience. b)  2 uses personal experience, thinking it's impenetrable. c)  failing and hurt, 2 insults.",example,def,60,revision
+rev,7,1,4,7.1.4,620,"The example aims to illustrate revisions which increase the amount of responsibility, control, and preventable future behavior on part of the writer, without much change in word count.",example,NA,60,revision
+rev,7,2,5,7.2.5,621,"Good revisions better describe what we know to have happened, and predict what will happen (again).",def,NA,61,plan
+rev,7,2,6,7.2.6,622,Reality is what determines whether each version is better.,def,is,61,plan
+rev,7,2,7,7.2.7,623,Revise prior prompt responses only to help your current prompt response.,plan,NA,61,plan
+rev,7,2,8,7.2.8,624,"If your goal deals with different assumptions about the truth, change the prompt to whatever gets you to write the most helpful words for your goal.",plan,NA,61,plan
+rev,7,2,8.1,7.2.8.1,625,"For example, a prompt referring to university student experiences should be adapted for your non-university experiences.",example,NA,61,plan
+rev,7,2,8.2,7.2.8.2,626,A common (problematic) assumption is that you are emotionally ready to be self-critical.,def,NA,61,plan
+rev,7,2,8.3,7.2.8.3,627,Do not change the prompt so you can be lazy.,def,can could,61,plan
+rev,7,3,9,7.3.9,628,"Elsewhere, we will establish variations on ultimate questions.",def,NA,62,think!
+rev,7,3,10,7.3.10,629,"One variant is the superlative presupposition, which becomes an imperative (plan).",def,is,62,think!
+rev,7,3,11,7.3.11,630,"For illustration, all questions presuppose and command, ""think!""",def,NA,62,think!
+rev,7,3,12,7.3.12,631,"As compliment, all words can be seen as an answer to this question (good or bad).",def,can could,62,think!
+rev,7,3,13,7.3.13,632,"Supposing just as questions can be revised to their superlatives, we don't bother to ask them, and focus on the superlative of answers.",def,can could,62,think!
+rev,7,3,14,7.3.14,633,"Thus is an example basis of good revision: to bring the particular apprehension to a universally relevant call to action, responding to the implied imperative of all questions, ""think.""",example,NA,62,think!
+rev,7,4,15,7.4.15,634,The goal of words is to express ideas of maximum cake tomorrow.,def,is,63,plan
+rev,7,4,16,7.4.16,635,"Since few words meet these criteria, start by revising toward fewer words.",plan,NA,63,plan
+rev,7,4,17,7.4.17,636,Make ideas clear and concrete.,plan,NA,63,plan
+rev,7,4,18,7.4.18,637,Provide just enough context to remember the basis of the key ideas.,plan,NA,63,plan
+rev,7,4,19,7.4.19,638,Precision depends on purpose.,plan,NA,63,plan
+rev,7,4,19.1,7.4.19.1,639,List. name relevant ideas for goal.,plan,NA,63,plan
+rev,7,4,19.2,7.4.19.2,640,"Write a plan, (ordered links).",plan,NA,63,plan
+rev,7,4,19.3,7.4.19.3,641,Doubt. assert the strongest rebuttal to the plan.,plan,NA,63,plan
+rev,7,4,19.4,7.4.19.4,642,Bet. improve ideas and links by addressing weakness and clarity.,plan,NA,63,plan
+rev,7,4,19.5,7.4.19.5,643,"Read. wager its cake (e.g., relative to another plan).",plan,NA,63,plan
+rev,7,4,20,7.4.20,644,"When reflecting, reflect only on ""how can i help my future self?"" And impose time and word limits.",plan,NA,63,plan
+rev,7,4,21,7.4.21,645,A bad doc is stream-of-consciousness.,def,is,63,plan
+rev,7,5,22,7.5.22,646,"Prompts elicit conflicts (truth) between self and norm, to improve plans for your goals.",def,NA,64,prompts
+rev,7,5,23,7.5.23,647,Time and word limits work together to encourage a balance between reflecting on truth and describing it.,def,NA,64,prompts
+rev,7,6,24,7.6.24,648,Word limits combat needless words and distracting tangents. a word limit keeps your attention.,def,NA,65,word limit
+rev,7,6,25,7.6.25,649,A word limit is a proxy for a prompt's complexity.,def,NA,65,word limit
+rev,7,6,26,7.6.26,650,Try to write the exact number of words.,plan,NA,65,word limit
+rev,7,6,27,7.6.27,651,"Good word limits require cutting out unhelpful words, change figurative words to concrete, ideally assertive and falsifiable.",def,NA,65,word limit
+rev,7,6,28,7.6.28,652,"For every plan you make: assert a word limit before writing to be reminded of your initial intentions, and be challenged to express ideas clearly. become skilled at using only the fewest words necessary, to reveal and clarify cake.",plan,NA,65,word limit
+rev,7,6,29,7.6.29,653,"If you exceed the limit and there is no end in sight, stop and reassess.",def,is,65,word limit
+rev,7,7,30,7.7.30,654,The time limit dictates how precise your words should be.,def,NA,66,time limit
+rev,7,7,31,7.7.31,655,Use extra time to improve word choice.,plan,NA,66,time limit
+rev,7,7,32,7.7.32,656,"For example, given a 50-word limit, 1 minute (1m, 50w) encourages free writing with minimal restrictions on quality of thought, while 4 minutes encourages more careful selection of words.",example,NA,66,time limit
+rev,7,8,33,7.8.33,657,"Lessons are an ordered set of prompts, usually three to four, up to 60 minutes and 250 words. a prompt's word count is the number of words to be added to your document.",def,NA,67,lessons
+rev,7,8,34,7.8.34,658,Lessons target inconsistencies between reality and pris.,def,NA,67,lessons
+rev,7,8,35,7.8.35,659,They are designed to be revisited and revised repeatedly.,def,NA,67,lessons
+rev,7,8,36,7.8.36,660,"A 0w prompt means revise, but do not increase the word total.",def,NA,67,lessons
+rev,7,8,37,7.8.37,661,The first prompts in lessons are warm-ups to direct your attention. they ask for names of ideas.,def,NA,67,lessons
+rev,7,8,38,7.8.38,662,"The remaining prompts are for thinking, requiring you to make links between your warm-up ideas. done right, you will face some new truths.",def,NA,67,lessons
+rev,7,9,39,7.9.39,663,Peer revision is a powerful learning tool. get answers from others.,def,NA,68,peer-revision
+rev,7,9,40,7.9.40,664,Forget who provides revision and how much.,plan,NA,68,peer-revision
+rev,7,9,41,7.9.41,665,"The peer writer has uncompromised objectivity, and liberty to employ truth, however ""harsh"".",def,role,68,peer-revision
+comm,8,0,1,8.0.1,666,"Consider you meet someone in the woods, and have only 1m (approx.",example,imagine,NA,NA
+comm,8,0,3,8.0.3,667,"Pri-comm is the difference between your and norm-pri, especially that what your food and cake are and why.",def,is,NA,NA
+comm,8,0,3.5,8.0.3.5,668,W) to say the most essential thing.,def,NA,NA,NA
+comm,8,0,4,8.0.4,669,Say:,plan,NA,NA,NA
+comm,8,0,4.1,8.0.4.1,670,"Properties of the answer, not knowing it,",plan,NA,NA,NA
+comm,8,0,4.2,8.0.4.2,671,An answer for purposes of improving on it.,plan,NA,NA,NA
+comm,8,0,5,8.0.5,672,These properties are the properties of [sr][skilled reflection]:,def,NA,NA,NA
+comm,8,0,5.1,8.0.5.1,673,Comparable constraints to establish a reliable subjective,def,NA,NA,NA
+comm,8,0,5.2,8.0.5.2,674,"Until we have a measurable self and variation, share the self",def,NA,NA,NA
+comm,8,1,6,8.1.6,675,Communication happens from one being to another.,def,NA,69,problem
+comm,8,1,7,8.1.7,676,The function is to direct attention to a circumstance of high importance: sharing information.,def,is,69,problem
+comm,8,1,8,8.1.8,677,"For example, the vervet screech that specifically means, ""snake"".",example,alt,69,problem
+comm,8,1,9,8.1.9,678,"While the vervet makes or hears calls about threats of immediate, nearby importance, the breadth of human communication can direct attention to circumstances of distant places and times.",example,alt,69,problem
+comm,8,1,10,8.1.10,679,"This is an echo of the breadth of attention and information humans engage. for some reason entangled between information, sharing it, there is subjectivity of importance.",def,NA,69,problem
+comm,8,1,11,8.1.11,680,The consequence is ambiguity in the value of a communicative act.,def,NA,69,problem
+comm,8,2,12,8.2.12,681,"Recognition, reading familiar words is easier than retrieval from memory, of words to write. is- savings on revision.",def,is,70,style
+comm,8,2,13,8.2.13,682,"Only save docs that you bet will be useful enough later to save time, overall.",plan,NA,70,style
+comm,8,2,14,8.2.14,683,"Once saved, we assume a doc will be read later, and provide cake. this is the primary type of comm we engage in.",plan,NA,70,style
+comm,8,2,15,8.2.15,684,"Comm is the exchange of words from oneself to another. other examples include a traffic sign, something you wrote and are rereading, a carefully crafted party invite, or a lease agreement.",def,is,70,style
+comm,8,2,16,8.2.16,685,"The goal of comm is to maximize that likelihood, by engaging in the inherent and practical problems that arise.",def,is,70,style
+comm,8,3,17,8.3.17,686,Writing a word creates a static record of a word.,def,NA,71,comm
+comm,8,3,18,8.3.18,687,"No person is identical with a future or past self, with any other person, and all of these relationships are in part unknown. ([c4.1][ppl])",def,is,71,comm
+comm,8,3,19,8.3.19,688,The problem of comm is the difference in meaning between reader and writer of the same word.,def,is,71,comm
+comm,8,3,20,8.3.20,689,"Even if you wrote the word, your later self may read a different meaning for that word.",def,NA,71,comm
+comm,8,3,21,8.3.21,690,Good comm attempts to systematically reconcile these issues.,def,NA,71,comm
+comm,8,3,22,8.3.22,691,Bad comm takes advantage of them at the cost of clarity and honesty.,def,NA,71,comm
+comm,8,3,23,8.3.23,692,"Ppl vary in how they apprehend the world, and therefore they can vary in",def,NA,71,comm
+comm,8,3,23.1,8.3.23.1,693,Precise understanding of meanings.,def,NA,71,comm
+comm,8,3,23.2,8.3.23.2,694,Trust (usually writer more than reader).,def,NA,71,comm
+comm,8,3,24,8.3.24,695,The real world is particular; each experience is an example.,def,NA,71,comm
+comm,8,3,25,8.3.25,696,A word describes a set of similar experiences.,def,NA,71,comm
+comm,8,3,25.1,8.3.25.1,697,Words are never definite and certain in what they describe of,def,NA,71,comm
+comm,8,3,25.2,8.3.25.2,698,A word's definition is a generalization.,def,NA,71,comm
+comm,8,3,26,8.3.26,699,"As such, words are",def,NA,71,comm
+comm,8,3,26.1,8.3.26.1,700,Less precise than reality.,def,NA,71,comm
+comm,8,3,26.2,8.3.26.2,701,Better designed to hypothesize and predict.,def,NA,71,comm
+comm,8,3,27,8.3.27,702,"To improve comm, study the difference between content and style.",plan,NA,71,comm
+comm,8,4,28,8.4.28,703,Pris between ppl (writer and reader) differ.,def,NA,72,difference
+comm,8,4,29,8.4.29,704,Difference in pris alter content of ideas.,def,NA,72,difference
+comm,8,4,30,8.4.30,705,Good style is change in words to minimize change in ideas between reader and writer.,def,is,72,difference
+comm,8,4,31,8.4.31,706,Versions describe identical content with difference in style between them.,def,NA,72,difference
+comm,8,4,32,8.4.32,707,A plan for a doc is an earlier version of the (same) final doc.,def,NA,72,difference
+comm,8,4,33,8.4.33,708,"For example, you today vs you in five years.",example,NA,72,difference
+comm,8,5,34,8.5.34,709,Comm norms assume reading and writing have no intrinsic goals.,def,NA,73,norms
+comm,8,5,35,8.5.35,710,A doc's arguments for why to read it are a style called pitch.,def,NA,73,norms
+comm,8,5,36,8.5.36,711,"Pitch can be accomplished, for example, by",example,NA,73,norms
+comm,8,5,36.1,8.5.36.1,712,Stroking the ego and intelligence of the reader.,plan,NA,73,norms
+comm,8,5,36.2,8.5.36.2,713,Framing attacks as agreeable observations.,plan,NA,73,norms
+comm,8,5,37,8.5.37,714,The maximum common self-pris across ppl are the optimal arguments for pitch. e-food vs. cake.,def,NA,73,norms
+comm,8,5,38,8.5.38,715,"Brand is pitch that distorts truth, a form of bad style.",def,is,73,norms
+comm,8,5,39,8.5.39,716,"For example, consider the goal of describing the properties of **apples** with the purpose of selling them:",example,NA,73,norms
+comm,8,5,39.1,8.5.39.1,717,Content: **apples are healthy but sugary.**\,def,NA,73,norms
+comm,8,5,39.2,8.5.39.2,718,Style: **apples are tasty and nutritious.**\,def,NA,73,norms
+comm,8,5,39.3,8.5.39.3,719,Brand: **apples are healthy.**\,def,NA,73,norms
+comm,8,5,40,8.5.40,720,Ppl who do not distinguish food from cake will be persuaded by brand more than pitch.,plan,NA,73,norms
+comm,8,6,39,8.6.39,721,"Lib is the explicit effort to maximize the use of what you write, save, and read, by organizing it for best application, and providing feedback to help your future decisions to write, save, and read.",def,is,74,library
+comm,8,6,40,8.6.40,722,The scope of lib is the collection of your words over a lifetime.,def,is,74,library
+comm,8,6,41,8.6.41,723,Is post-writing cache to facilitate future production.,def,NA,74,library
+comm,8,6,42,8.6.42,724,Lib is to docs as home is to possessions.,def,is,74,library
+comm,8,6,43,8.6.43,725,"Lib aims to maximize the cake of words you save, and ideally, reduce future efforts to plan and accomplish pris, through making the best of your thoughts easy to find.",def,NA,74,library
+comm,8,6,44,8.6.44,726,"A bad lib is the sum of your words, void of curation, none of which helped plans.",def,is,74,library
+comm,8,6,45,8.6.45,727,A good lib is the closest approximation of self.,def,is,74,library
+comm,8,6,46,8.6.46,728,Library = sum (goals + plans) / 1,def,NA,74,library
+comm,8,6,47,8.6.47,729,For learning what you don't know you don't know.,def,NA,74,library
+comm,8,6,48,8.6.48,730,"Potential risks include 40.1. writing, saving, and finding bad docs.",plan,NA,74,library
+comm,8,6,50,8.6.50,731,"Plans, and anything else you write down, should be part of a pri.",plan,NA,74,library
+comm,8,6,51,8.6.51,732,Facilitate retrieval:,plan,NA,74,library
+comm,8,6,51.1,8.6.51.1,733,Index (list) docs worth rereading.,plan,NA,74,library
+comm,8,6,51.2,8.6.51.2,734,Assign a number that indicates its relative importance (abs or,plan,NA,74,library
+comm,8,6,51.3,8.6.51.3,735,Add tags and metadata for easier sorting.,plan,NA,74,library
+comm,8,6,51.4,8.6.51.4,736,Make and revise only for high-pri goal(s). record and study lib,plan,NA,74,library
+comm,8,6,52,8.6.52,737,. Failure to save or find good docs.,plan,NA,74,library
+comm,8,6,52,8.6.52,738,"Note the time and date now, as you did in the introduction. graduate",plan,NA,74,library
+comm,8,6,53,8.6.53,739,This is the end of the book.,def,is,74,library
+comm,8,6,54,8.6.54,740,Put it in your library.,plan,NA,74,library
+comm,8,6,55,8.6.55,741,Now return to your garden and work on your pris.,plan,NA,74,library
+comm,8,7,56.1,8.7.56.1,742,Space: this book's chapter and line numbering.,def,NA,75,reference system
+comm,8,7,56.2,8.7.56.2,743,Time: v2.14 the current book version.,def,NA,75,reference system
+comm,8,7,57,8.7.57,744,"For example, a document that elaborates about trump would begin titled ""c4.23 v2.14"".",example,NA,75,reference system
+comm,8,7,58,8.7.58,745,"In version 2.14 of sr, 4 is the chapter ppl, and number 23 is the definition of rltp. trump, the article topic, is an example.",def,is,75,reference system
+comm,8,7,59,8.7.59,746,This is the header format for any subsequent document of an idea i write.,def,is,75,reference system
+comm,8,8,60,8.8.60,747,The complete set of ppl's libs is sufficiently exhaustive to describe all that matters in each and all lives.,def,is,76,answerword
+comm,8,8,61,8.8.61,748,The efficiently compressed content of this lib produces a distribution of variation along a median lib.,def,NA,76,answerword
+comm,8,8,62,8.8.62,749,"This is the content of the next book, ""answerword.""",def,is,76,answerword
+comm,8,8,63,8.8.63,750,"In that book, style is any further optimization to maximize learning.",def,NA,76,answerword
+comm,8,8,64,8.8.64,751,"Book 3, ""afterword"", is the darpa for thought when the answerword is muscle-memory.",def,is,76,answerword
+comm,8,9,65,8.9.65,752,"Suppose you don't share the same language. what conventions of gesture, an international gesture meaning, might we have?",example,imagine,77,zero
+comm,8,9,65.1,8.9.65.1,753,An object pointed to means: there it is; it is/will be mine; i,def,NA,77,zero
+comm,8,10,66,8.10.66,754,"Tell me the missing chapter that gives peace instead of regimen, so that i may find mine.",plan,NA,78,"your calling, part ii"

@@ -1,0 +1,31 @@
+1-sr.html from sr.csv
+- plan to compile
+2-spine-f-pit-awe each 1par
+- i- core idea's latest definition
+- e- 6ed->6role, special ed
+- define -> redefine -> refine yourself;
+- find yourself; you're fine.
+
+sep_levels{
+	sep = "."
+lv1, lv2,txt,li,li2
+}
+
+level = one_of("h1", "h2","text","item")
+
+is_level(value,level){
+  if val==0: 
+    val = "level"
+}
+
+apply(is_level, val, level)
+
+h1_format{
+
+}
+
+h2_name_by_context{
+if h1(last_row) == h1(this_row)
+return this_row.name 
+else return this_row.parent_name + this_row.name
+}
