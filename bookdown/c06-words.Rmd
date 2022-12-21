@@ -208,27 +208,32 @@ A word is a doc when it is saved with a name, at least once.
 Notes are words for communication.
 
 Introduce ideas in unambiguous terms.
-Introducing a new topic, provide a succinct, distinctive
-Then describe the link with a taxonomic reference, as follows,
-Illustrate the link.
-At a micro-scale, every dash itself is a link.
-The pri for the reader. answer: what are the fewest words to
-For example, in the taxonomy, "psych-teach-2021-unit4" the three
-The most similar and relevant concepts to most distinct,
-The left-most word will be either implied or actual chapter
-All science that is not directly relevant elsewhere, will fall
-The remaining chapters deal with modes on these basic sources:
-In the example above, psych might fall under self-body,
-The link is the decision of the sentence that requires the most
-Named links are actions.
-Over-spelling the ideas leaves an empty link, e-"do...(the
-In instr, the link comes last, and it describes a step in
-Contextualize with an alternative
-A plan should inherit or give definitions of new terms.
-New definitions should especially be accompanied by a true
-A pri is the motive for life, and itself is only a named
-A developed pri is an instruction.
-One generalized is a lesson.  
+Introducing a new topic, provide a succinct, distinctive illustration of the point or merit, *in the verbiage you will most likely understand*.
+then describe the link with a taxonomic reference, as follows, where each idea read left to right is a type of or label for the preceding category, implying alternatives at each level.
+e-psych-teach-2021-unit4-hw-methods_report-intro "for this assignment, consider your grandparents."
+
+latter ideas qualify the topic, psych. the order of terms from left to right should closely correspond to the order of relevant conditional differences that determine: the reader's priorities. 
+In the fewest words, help a reader know a topic is irrelevant or truly beneficial?
+
+the most similar and relevant concepts to most distinct, rare, and particular to what is being described.
+the left-most word will be either implied or actual chapter headings.
+
+the link is the decision of the sentence that requires the most care. 
+it is simply a bridge, and as such has a basic and plain function.
+named links are actions.
+over-spelling the ideas leaves an empty link, e-"do...(the
+trash)" consider what is the manner of spending time, if an
+action, to ascribing your link. consider the specific change
+being undertaken. some actions: take, give, make, buy, sell,
+use/eat, work, write, read. 
+- notice these are all verbs of transfer.
+in instr, the link comes last, and it describes a step in revision.
+contextualize with an alternative
+a plan should inherit or give definitions of new terms.
+new definitions should especially be accompanied by a true use-case, to protect against a false problem.
+a pri is the motive for life, and itself is only a named spending of time.
+a developed pri is an instruction.
+one generalized is a lesson.
 
 ## Scientist  
 
