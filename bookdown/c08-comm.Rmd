@@ -8,140 +8,129 @@ editor_options:
 
 ## Pitch  {#comm-pitch}
 
-Consider you meet someone in the woods, and have only 1m (approx.
-Pri-comm is the difference between your and norm-pri, especially that what your food and cake are and why.
-W) to say the most essential thing.
+Communication happens from one being to another.
+The function is to direct attention, coordinate, or share information.
+Participation is not always simultaneous.
+For example, a traffic sign, rereading your own diary entry, a carefully crafted party invite, or a lease agreement.
+
+Consider you meet someone in the woods, and have only one minute to communicate.
+Communicative priorities are the difference between your and others' priorities, especially regarding food and cake.
+
 Say:  
     1.  properties of the answer, not knowing it,
-    2.  an answer for purposes of improving on it.
-These properties are the properties of [sr][skilled reflection]:  
-    1.  comparable constraints to establish a reliable subjective
+    2.  an answer with the assumption of improving it.
+    3.  common constraints to establish a reliable subjective
         experience.
-    2.  until we have a measurable SELF and variation, share the SELF
-        that is CAKE, in 250w.
-
-
-## Problem  {#comm-problem}
-
-Communication happens from one being to another.
-The function is to direct attention to a circumstance of high importance: sharing information.
-For example, the vervet screech that specifically means, "snake".
-While the vervet makes or hears calls about threats of immediate, nearby importance, human communication can direct attention to circumstances of distant places and times.
-This is an echo of the breadth of attention and information humans engage. for some reason entangled between information, sharing it, there is subjectivity of importance.
-The consequence is ambiguity in the value of a communicative act.  
+    2.  what cake defines you (in 250 words), until the self can be measured in its variation from norms. 
 
 ## Style  
 
-Recognition of familiar words is easier than retrieval of words from memory. Reading is easier than writing.
-Only save docs that you bet will be useful enough later to save time, overall.
-Once saved, we assume a doc will be read later, and provide cake. this is the primary type of comm we engage in.
-Comm is the exchange of words from oneself to another. other examples include a traffic sign, something you wrote and are rereading, a carefully crafted party invite, or a lease agreement.
-The goal of comm is to maximize that likelihood by engaging in the inherent and practical problems that arise. 
 
-## Comm  {#comm-comm}
+
+## Communication  {#comm-comm}
 
 Writing a word creates a static record of a word.
-No person is identical with a future or past self, with any other person, and all of these relationships are in part unknown. ([c4.1][ppl])
-The problem of comm is the difference in meaning between reader and writer of the same word.
+No person is identical with a future or past self, with any other person.
+All of these relationships are in part unknown. 
+The problem of communication is the difference in meaning between reader and writer of the same word.
 Even if you wrote the word, your later self may read a different meaning for that word.
-Good comm attempts to systematically reconcile these issues.
-Bad comm takes advantage of them at the cost of clarity and honesty.
-Ppl vary in how they apprehend the world, and therefore they can vary in
+Good communication attempts to systematically reconcile these issues.
+Bad communication takes advantage of them at the cost of clarity and honesty.
+People vary in how they apprehend the world, and therefore they can vary in
     1.  Precise understanding of meanings.
     2.  Trust (usually writer more than reader).
-The real world is particular; each experience is an example.
-A word describes a set of similar experiences.
-    1.  WORDS are never definite and certain in what they describe of the real world.
-    2.  A WORD's definition is a generalization.
-As such, words are
-    1.  less precise than reality.
-    2.  better designed to hypothesize and predict.
-To improve comm, study the difference between content and style.
 
-<!-- pulled from essay-content-vs-style 2022-11-07-0912
+To improve communication, study the difference between content and style.
 
-(Anything said to oneself or another is the result of an implied imperative to yourself, "THINK", (at least) for your own PRI.)
-COMM, the exchange of WORDS between PPL of different PRIs, is by default GOOD and CLOSER. To SAY a WORD is to BET on a PRI of potential GOOD for the other person. Each time one responds (i-the WORD-NEXT), they imply consent (LET) that COMM is worthwhile for one's personal PRI and to a shared PRI for both (COMM-PRI). Supposing such a shared PRI exists, then the POINT is its MOMENT. the POINT is rarely less important than manners of conveying it, and thus rarely worth discussing in the moment. The simple, fair appeal, is to request a separate conversation where such topics are the point of the conversation. If your conversant agrees, then you're set. For a later time. For now, read on about what we're talking about.-->
+## Point  
+
+Communication is by default a toward-move between people. 
+To say a word is to bet on a priority of potential good for the other person. 
+Each response implies consent that communication is worthwhile for both. 
+Supposing such a shared priority exists, then the point is rarely less important than manners of conveying it. 
+Instead, request a separate conversation where such topics are the point of the conversation. 
 
 
 ## Difference  
 
-Pris between ppl (writer and reader) differ.
-Difference in pris alter content of ideas.
+Priorities between people (writer and reader) differ.
+Difference in priorities alter the content of ideas.
 Good style is change in words to minimize change in ideas between reader and writer.
 Versions describe identical content with difference in style between them.
-A plan for a doc is an earlier version of the (same) final doc.
+A plan for a document is an earlier version of the (same) final document.
 For example, you today vs you in five years.  
 
 ## Norms  {#comm-norm}
 
-Comm norms assume reading and writing have no intrinsic goals.
-A doc's arguments for why to read it are a style called pitch.
+communication norms assume reading and writing have no intrinsic goals.
+A document's arguments for why to read it are a style called pitch.
 Pitch can be accomplished, for example, by
 
     1.  stroking the ego and intelligence of the reader.
     2.  framing attacks as agreeable observations.
 
-The maximum common self-pris across ppl are the optimal arguments for pitch. e-food vs. cake.
+The maximum common self-priorities across people are the optimal arguments for pitch. e-food vs. cake.
 Brand is pitch that distorts truth, a form of bad style.
-For example, consider the goal of describing the properties of **apples** with the purpose of selling them:  
+For example, consider the goal of describing the properties of **apeoplees** with the purpose of selling them:  
 
-    1.  CONTENT: **Apples are healthy but sugary.**\
-    2.  STYLE: **Apples are tasty and nutritious.**\
-    3.  BRAND: **Apples are healthy.**\
+    1.  CONTENT: **Apeoplees are healthy but sugary.**\
+    2.  STYLE: **Apeoplees are tasty and nutritious.**\
+    3.  BRAND: **Apeoplees are healthy.**\
 
 People who do not distinguish food from cake will be persuaded by brand more than pitch.  
 
-## Library
+## Save
 
-Lib is the explicit effort to maximize the use of what you write, save, and read, by organizing it for best application, and providing feedback to help your future decisions to write, save, and read.
-The scope of lib is the collection of your words over a lifetime.
-By thinking about all words you experience, you can take control to limit your word use toward more productive ones, improving read and write decisions, increasing focus and time for goals.
-Is post-writing cache to facilitate future production.
-Lib is to docs as home is to possessions.
-Lib aims to maximize the cake of words you save, and ideally, reduce future efforts to plan and accomplish pris, through making the best of your thoughts easy to find.
-A bad lib is the sum of your words, void of curation, none of which helped plans.  
+Recognition of familiar words is easier than their retrieval from memory. 
+That is, reading is easier than writing.
+Save writing that has potential re-use value.
+Only save documents that you bet will be useful enough later to save time, overall.
 
-  1. writing, saving, and finding bad docs.
-  2. failure to save or find good docs.
 
-A good lib is the closest approximation of self.
-Library = sum (goals + plans) / 1
-For learning what you don't know you don't know.
-Potential risks include 40.1. writing, saving, and finding bad docs.
-Plans, and anything else you write down, should be part of a pri.
-Facilitate retrieval:
+To facilitate retrieval:
 
-    1.  Index (list) docs worth rereading.
+    1.  Index (list) documents worth rereading.
     2.  Assign a number that indicates its relative importance (abs or
         relative weight).
     3.  Add tags and metadata for easier sorting.
-    4.  Make and revise only for high-PRI GOAL(s). Record and study retrieval patterns.
+    4.  Make and revise only for high-priority GOAL(s). Record and study retrieval patterns.
 
-Note the time and date now, as you did in the introduction. graduate
-This is the end of the book.
-Put it in your library.
-Now return to your garden and work on your pris.
+## Library  
 
-## Reference system
-Links between words (i.e., citations) are denoted with respect to physical dimensions. 
- 
-    1.  Space: this book's chapter and line numbering.
-    2.  Time: v2.14 the current book version.
+A library is the bet that by saving words to be read again later, future priorities are expedited.
+A library is the complete set of documents over your lifetime.
+Say fewer words and save reliable priorities. 
 
-For example, a document that elaborates about trump would begin titled "c4.23 v2.14".
-In version 2.14 of sr, 4 is the chapter ppl, and number 23 is the definition of rltp. Trump, the article topic, is an example.
-This is the header format for any subsequent document of an idea i write.  
+A good library is a close approximation of self and informative simulation of alternatives.
+
+The risk of a bad library is: 
+
+  1. writing, saving, and finding documents which mislead instead of help future priorities.
+  2. rewriting an idea that could have been saved and retrieved.
+
+Curating and studying your library affords learning what you don't know you don't know.
+
+
+## Reference  
+
+(Reserved for future development.)
 
 
 ## Answerword  
 
-The complete set of ppl's libs is sufficiently exhaustive to describe all that matters in each and all lives.
-The efficiently compressed content of this lib produces a distribution of variation along a median library.
+The complete set of everyone's library describes all that matters in each and all lives.
+The efficiently compressed content of this library produces a distribution of variation along a median library.
 This is the real point of a library.  
 
+This is the end of the book.
+Put it in your library.
+Now return to your garden and work on your priorities.
 
 ## Zero  
 
-Suppose you don't share the same language. what conventions of gesture, an international gesture meaning, might we have?  
+Also known as Reductio Ad Absurdum.
 
+1. Establish all libraries.
+2. Study and adopt their implications.
+3. Transmit culturally.
+4. The known and lived implication of all words makes words obsolete, one by one, until zero words need said.
