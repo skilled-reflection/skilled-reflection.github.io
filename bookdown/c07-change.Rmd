@@ -8,6 +8,15 @@ Good change is revision.
 The need for change is dictated by, and specific to priorities.
 
 
+## Reason
+
+The habit of change is good to maintain.
+Sometimes the change needed next is unclear.
+Both of these are reasons for this section.
+This section develops kinds of change that are often if not always relevant, regardless of priority.
+
+Lines of reasoning 
+
 ## Revise {#word-change}  
 
 Neutrally, a WORD may be replaced by another. As a process which takes effort, do so to improve, and we will call it REVISION. REVISION is the change of WORDS to improve actions of yourself or others.
