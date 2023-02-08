@@ -56,8 +56,14 @@ a <- left_join(x,y)
 
 ```{r}
 # files  <- dir( "/" ) 
-setwd("C:/Users/Owner/Dropbox/2-theory/1_skilled_reflection/website/bookdown/")
-files <- dir(full.names=TRUE,pattern = ".Rmd")
+path <- "C:/Users/Owner/Dropbox/2-theory/1_skilled_reflection/website/bookdown/"
+path <- "C:/Dropbox/2-theory/"
+
+setwd(path)
+
+files <- dir(path = path, full.names=TRUE, recursive = FALSE
+             , pattern = c(".txt","md")
+             )
 # 2022-06-12-2129
 
 ```
@@ -65,14 +71,16 @@ files <- dir(full.names=TRUE,pattern = ".Rmd")
 select_files
 ```{r}
 files <- files %>% 
-  as.data.frame()  
+  as_tibble()  
 colnames(files) <- "files"
 files <- files %>% 
-  mutate(files=as.character(files)) %>% 
-  filter(!grepl("txt",files),
-           grepl("md",files),
-         !grepl("compile",files),
-         !grepl("ls",files),) 
+  mutate(files=as.character(files)) 
+  # filter(grepl("txt",files),grepl("md",files))
+  
+# filter(!grepl("txt",files),
+#            grepl("md",files),
+#          !grepl("compile",files),
+#          !grepl("ls",files),) 
 ```
 
 make df and header
@@ -80,13 +88,14 @@ make df and header
 ```{r}
 
 read_dir_txt <- function(files) {
-  df <-readChar(files[1], 
-                file.info(files[1])$size) %>% 
-  data_frame(txt=.,title=files[1])
+filn <- files[1,]$files
+    df <-readChar(filn,file.info(filn)$size) %>% 
+  tibble(txt=.,title=files[1])
   
-  for (name in files){
-    a <- readChar(name, file.info(name)$size) %>% 
-    data_frame(txt=.,title=name)
+  for (name in files[2:4,]){
+    filn <- files[name,]$files
+    a <- readChar(filn, file.info(filn)$size) %>% 
+    tibble(txt=.,title=name)
     df <- rbind(df,a)
   }
   return(df)
