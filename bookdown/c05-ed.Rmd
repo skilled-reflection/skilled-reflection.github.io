@@ -13,8 +13,9 @@ editor_options:
 
 ## Classroom  
 
-A classroom is a special case of market and work; the direct and shared exchange of mental work, for the purpose of improving individual pris.
-No one chose to be born. everyone begins life with their own unnamed and unanswered problems.
+**Definition:** A classroom is a special case of market and [work][work]; the direct and shared exchange of [mental work][analysis], for the purpose of improving individual [priorities][priorities]. 
+
+No one chose to be born. Everyone begins life with their own unnamed and unanswered problems.
 Books are an author's answers; they can only tell a student what the answer is not (quite).
 Instead of teaching how to read between the lines, let the student define the problem through their reality and life goals.
 Let them write the plan and teach them only what is needed to succeed.
@@ -23,8 +24,8 @@ Every aspect of what you need to know, that is known and communicable, is the on
 Everything that cannot be known but must be discovered or practiced, is laid out as a set of instructions, described in the words that maximize the learning opportunity, and your progress.
 Rather than a course in a classroom, the perfect class is a manual to reference as you live your life, or at least until you've internalized its contents:
 When to take a break to strategize your decisions, lessons on what opportunities to watch for and resist, and so on.
-Any social role you wish to take on, artist, engineer, therapist, insurance salesperson, reliable partner, is customized intimately, curated perfectly for what you need.
-Any rltp or interpersonal skill that is realistically possible for you is preceded with the guidance and education that prepares you emotionally to choose the right experiences that set you up to be most likely to find and make the most of opportunities to share yourself with another.  
+In this book, any social role you wish to take on, artist, engineer, therapist, insurance salesperson, reliable partner, would be customized intimately, curated perfectly for what you need.
+Any relationship or interpersonal skill that is realistically possible for you is preceded with the guidance and education that prepares you emotionally to choose the right experiences that set you up to be most likely to find and make the most of opportunities to share yourself with another.  
 
 ## Prompt  
 
@@ -36,12 +37,14 @@ First, you will learn what changes are needed.
 
 ## Admission  
 
-This is a boot camp whose purpose is
-To train adults to think harder, clearer and more effectively.
-To produce intelligent solutions for personal and social puzzles.
-To have a higher cognitive discipline.
-To instill shared cake about reason, thinking and discourse.
-To empower.
+This is a boot camp whose purpose is  
+
+* To train adults to think harder, clearer and more effectively.  
+* To produce intelligent solutions for personal and social puzzles.  
+* To have a higher cognitive discipline.  
+* To instill shared cake about reason, thinking and discourse.  
+* To empower.
+
 It is a training program designed to break down bad habits of thought, and build good ones while immersed here, a culture of rational thinking isolated from the outside world.  
 
 ## Challenge  
@@ -56,7 +59,7 @@ The central requirement for applicants will be a commitment to better understand
 
 ## Student  
 
-Students are ppl with ideas from experience toward selfish goals.
+Students are people with ideas from experience toward selfish goals.
 Lessons depend on students' prior knowledge.
 A student
 Has a goal that can be better named and planned.
@@ -81,12 +84,13 @@ For every minute of lesson on my time, students are to provide two minutes of wr
 
 Dedicate to identity growth. Be:  
 
-    1. Quiet, except when tasks require verbal response.
+    1. Quiet except when tasks require verbal response.
     2. Receptive to work and feedback provided by the instructor.
-    3. Committed to producing genuinely inspired ideas, working
-    4. Respectful that all are equal in voice, and aim to describe
-    5. Receptive and responsive to prompts and observations (from peers
-    6. Motivated to describe solutions that benefit others, when
+    3. Committed to producing genuinely inspired ideas, working.
+    4. Respectful that all are equal in voice and ear.
+    5. Receptive and responsive to prompts and observations.  
+    6. Motivated to describe solutions that benefit others.  
+    
     Learn:  
         1. Precisely and only what is needed to trust a clear picture of  
         2. First, how to make a plan, a map of who you are, and who you  
@@ -138,7 +142,7 @@ Becoming smart is the discipline of understanding how you relate to others.
 When reading, dismiss only what you fully believe is an intentional lie.
 More generally, read to assess your bet on the words reflecting truth.
 Whether to a single word, a line, chapter, or book.
-Assign weights (0 to 9) to what you read, to complete this prompt:
+Assign weights (0 to 9) to what you read, to complete the following prompt.
 I bet this is true for:  
 0 = not even the author.  
 1 = only the author.  
@@ -174,9 +178,9 @@ Good writing is discovering, curating, and applying insight. bad writing has an 
 Revisions also make you a writer. when you revise words (yours or others') to maximize your bet, you are a writer.
 Separate thought and self (author), by betting explicitly.
 State your assumptions, do not justify them. -is-style-bad
-Replace "i am." with tag words.
+Replace "I am" (i.e. authorship) with tag words to denote your audience (e.g., veteran). 
 Strive for comm-content and brevity; write only valuable bets, or words that manifest valuable bets. prioritize understanding over original writing.
-Writing for lib-ppl, relatable, depersonalized, objective words, minimizes rot, maximizes plan utility.  
+Writing for [people][library], relatable, depersonalized, objective words, minimizes rot, maximizes plan utility.  
 
 ## Instructor  
 

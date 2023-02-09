@@ -1,0 +1,102 @@
+
+# Other Pedagogies  
+
+## Introduction  
+
+What follows is a bibliography to the educational themes in the main text, most of which are described in [Education][education]. 
+
+The Skilled Reflection Plan / Intellectual Boot Camp (IBC) intentionally makes very few references to other work. Loosely, here are the stylistic claims, however a more general argument can be taken from [Words][words] and [Communicaiton][Communication].
+
+1. Authorship is an ego-based IDEA that, at best, distracts from the intrinsic right of a reader to adopt and interact with information.  
+2. Most definitions and descriptions of something novel (e.g., IBC), if compared to the familiar, are confined to be framed in terms of the familiar. References to the familiar might suggest the IBC *builds on* or *contrasts from* and thus is subject to the same assumptions or purposes of other work / projects. 
+Specifically, while IBC is here compared to schools and pedagogies, its core framework is consistent with SR, which aims to empirically (i.e., cognitive science), meaningfully engage all human relationships that rest on information and social capital: therapeutic models, epistemology, phenomenology, ethics and law.
+
+To highlight similarities and differences with past work is not a guaranteed remedy, would be labor intensive, and emphasizes the past.
+
+Nonetheless, there are also benefits. 
+References provide an approximation of IBC's similarity with reality, which argues for proof-of-concept.
+This list excludes mainstream / traditional education models, focusing instead on merits and limitations of alternative approaches to building rational knowledge-bases.
+
+The only requisite assumption of the IBC is that the *student* assumes responsibility (and feasibility) of guiding their learning. All other assumptions are secondary, and subject to empirical testing. This point is re-emphasized at the end of section A. Schools and Pedagogies.
+
+
+## Schools and Pedagogies
+
+Some educational programs prioritize intrinsic motivation and reasoning skills. They are listed here in terms of similarity/value with IBC, followed by differences. These lists are at best illustrative rather than descriptively complete.
+
+
+### Fixed content
+
+1. [St. Johns](https://www.sjc.edu/academic-programs) (liberal arts college).   
+
+   1. Similarity to IBC: The program fosters independent critical thinking and close reading. 
+   2. Difference: A curriculum emphasizing primary texts of great minds. Students read the Great Books".
+   
+2. [Deep Springs](https://en.wikipedia.org/wiki/Deep_Springs_College) (liberal arts college/community)  
+
+- fewer than 30 students
+
+* Similarity: academic fundamentals, self-reliance: students work 20hrs a week, and participate in self-governance. 
+
+
+### Quasi "Open" content  
+3. [Montessori](https://en.wikipedia.org/wiki/Montessori_education)  
+
+Similarity: pedagogy built from intrinsic motivation (curiosity).
+
+4. [International Baccalaureate](https://en.wikipedia.org/wiki/International_Baccalaureate) (IB)  
+
+"IB learners strive to be: Thinkers, Communicators, Principled, Reflective, Open minded, Balanced, Risk-takers, Inquirers, Caring, and Knowledgeable."
+
+For comparison using similar themes, an IBC statement in as few words:
+
+Students arrive curious, ambitious. Personal goals sharpen their wits.  
+They skillfully invest in ideas, communication, reflection, and risks.
+
+#### about "Open" content programs.  
+
+1. Emphasize critical thinking. (All) 
+2. Sometimes require intrinsic motivation (1,2) and some foster it (3,4).
+3. Some heavily emphasize reading, requiring a strong capacity for abstraction (1,2).
+4. To some degree, all emphasize a curriculum not defined by the student. For example, "core skills", literature, etc.
+
+Critical thinking and intrinsic motivation are good focal points of an institution. Like (3 and 4), all students have this capacity. What these programs fall short of, to varying degrees, is a strong recognition that the only thing that can be taught is that which the student wants to learn. Any aspect of curricula that is defined by the institution, such as a book to be read, or a concept to be learned, is at risk of failing to harness individual intrinsic motivation. A program that succeeds at teaching a student, is one that begins with the student, before building a curriculum. This is what I call an "Open" content curriculum.
+
+### Value-based programs  
+
+Some programs are built to guide and frame experience. They may also do some labelling of experience (content), but the pedagogical emphasis is on instilling a value system. These programs tend to offer flexibility for variation in the students' prior experiences and thus motivation, and enable an opportunity for them to adapt their own content. All of these programs offer a value system for deriving content. The basis of these value systems however will vary in terms of it's intrinsic motivation to each individual, and arguably, its empirical basis of deriving values. Strictly speaking, we can say these programs push content much like the first groups. I separate them here, because they are conceptually framed in a way that is very flexible to the changing dynamics of the real world, and the concepts they push are at least somewhat ego-centric.
+
+[Landmark Forum](https://www.landmarkworldwide.com/)  
+
+* Emphasizes cognitive bias training, motivational training. 
+
+[Strozzi Institute](https://strozziinstitute.com/)  
+* Emphasizes self-actualization and self-efficacy
+
+### Other programs  
+*Monastic traditions* (religious community)
+*Jesuit and/or Buddhist*
+
+* self-sufficiency
+
+
+[Self-authoring](https://www.selfauthoring.com/) by Jordan Peterson 
+(an online only self-paced writing program)  
+
+* Critical self-reflection 
+* Self-paced, somewhat one-size-fits all.
+
+*Coding Bootcamps*/*Referral Programs*  
+These represent the ideal strictly in terms of measurable output, i.e., resume or job-capital. Their downside is cost and inflated self-esteem. Whereas students are taught to trust their ability, they are rarely informed that very little ability is necessary to land a job, which risks mistakened confidence or inflated imposter syndrome once they begin work.  
+
+## General observations  
+
+Here I'll focus on content and value systems. IBC asserts that a value system emerges automatically when a student commits themselves to achieving what they are motivated to achieve. 
+
+A "blank slate" learning environment is ideal but not realistic. Instead, students begin in a constructed environment that is familiar to their current reality. The instructor facilitates the student's destruction of the environment--either deconstruction of their reality down to a tabula rasa to be re-built again (bootcamp), or to be revised and optimized toward their own desires (skilled reflection). 
+
+## Ideal Curriculum  
+
+What is a tabula rasa that works for all students? That which is the basis of all problems for all people: the existential facts of self and self-awareness.
+ 
+All humans must eat, sleep, shit, and die. Students begin with a curriculum that forces them to experiment on these facts of life with the goal of gaining more out of life.  If you've read the book, this should sound familiar. The answer to an ideal curriculum begins with Chapter one: [The Self][self], and proceeds accordingly. 
