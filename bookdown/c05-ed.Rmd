@@ -15,8 +15,10 @@ editor_options:
 
 **Definition:** A classroom is a special case of market and [work][work]; the direct and shared exchange of [mental work][analysis], for the purpose of improving individual [priorities][priorities]. 
 
-No one chose to be born. Everyone begins life with their own unnamed and unanswered problems.
-Books are an author's answers; they can only tell a student what the answer is not (quite).
+No one chose to be born. 
+Everyone begins life with their own unnamed and unanswered problems.
+Books are an author's answers. 
+They can only tell a student what the answer is not (quite).
 Instead of teaching how to read between the lines, let the student define the problem through their reality and life goals.
 Let them write the plan and teach them only what is needed to succeed.
 Imagine a perfect course exists, designed to teach you to fulfill your specific ambitions.
