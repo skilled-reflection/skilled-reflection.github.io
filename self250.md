@@ -1,4 +1,9 @@
-# document 1: you
+---
+layout: home
+title: Try me
+---
+
+## An Introduction to You  
 
 There are two parts to the document of yourself. The first is who you think you are and who you have been. The second is who you think you'll be and what is likely to make or break that outcome. Spoiler, this page is going to ask you to write. Twice. If you want to read, feel free to check out an essay on the second task, [here](https://thoughtrepair.wordpress.com/2020/10/25/bet-your-life/).
 

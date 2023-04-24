@@ -1,4 +1,7 @@
-
+---
+layout: home
+title: Meetings
+---
 
 Skilled Reflection is now holding meetings on Zoom. 
 To join the zoom sessions or request prior session writing prompts, 

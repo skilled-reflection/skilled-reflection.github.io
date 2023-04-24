@@ -2,9 +2,8 @@
 output:
   word_document: default
   html_document: default
+title: Game
 ---
-
-# Game 
 
 ## Note  
 The following is a description for a Skilled Reflection game, currently in prototype phase.
