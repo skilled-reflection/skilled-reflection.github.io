@@ -4,7 +4,7 @@ layout: home
 
 
 
-
+[(Click here for game.)](game.html)  
 (Click human for book.)
 
 <a href="_book/index.html">

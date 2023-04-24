@@ -4,7 +4,7 @@ output:
   html_document: default
 ---
 
-# Skilled Reflection: The Game 
+# Game 
 
 ## Note  
 The following is a description for a Skilled Reflection game, currently in prototype phase.
