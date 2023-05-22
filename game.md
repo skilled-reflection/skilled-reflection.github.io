@@ -1,6 +1,7 @@
 ---
 output:
-  word_document: default
+  word_document: 
+    reference_docx: "template.docx"
   html_document: default
 title: Game
 editor_options: 
@@ -26,22 +27,19 @@ Here are two example translations of an idea into the cards' concepts.
 
 1.  *I won't tolerate my boyfriend's jokes anymore, and I'm going to focus on my emotional health.*
 
-```{=html}
 <!-- -->
-```
+
 a.  I won't tolerate: bet (#0) away (#9)
 b.  my boyfriend's jokes anymore: partner (#3) play (#7) now (#5)
 c.  I'm going to focus: point (#12)
 d.  on my emotional health: life (#1)
 
-```{=html}
 <!-- -->
-```
+
 2.  "What is the biggest political danger we can fix, today?"
 
-```{=html}
 <!-- -->
-```
+
 a.  What is the biggest: question (#8) point (#12)
 b.  political danger: people (#3) danger (#away)
 c.  we can fix, today: family (#3) answer (#8) today (#5)
