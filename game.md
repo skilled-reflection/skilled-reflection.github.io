@@ -11,9 +11,7 @@ editor_options:
 
 ## Introduction
 
-The following is a description for a Skilled Reflection game a hands-on way to learn the Skilled Reflection philosophy.
-The game can be played in different modes.
-Players are encouraged to read through the card descriptions below to play.
+The following is a description for the Skilled Reflection game, a hands-on way to learn and apply Skilled Reflection concepts. 
 
 ## Mode 1
 
@@ -74,7 +72,7 @@ If you are thinking of going to the park on your day off, this is "Cake" (#2), n
 
 # Cards and concepts
 
-## Card 0: level (IP)
+## Level (IP)
 
 ![](figs/cards/00level.png)
 
