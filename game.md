@@ -74,10 +74,9 @@ If you are thinking of going to the park on your day off, this is "Cake" (#2), n
 
 # Cards and concepts
 
-![](figs/cards/00level.png)
-
-
 ## Card 0: level (IP)
+
+![](figs/cards/00level.png)
 
 These are degrees of commitment to your thought.
 The biggest commitment is to "bet" on your idea, by setting a deadline and a consequence to the outcome, and attempting to live your idea against these conditions.
@@ -85,11 +84,14 @@ The smallest but sometimes just as profound, is to simply "let" something be as 
 The lighter version of bet is to commit to only thinking what you are willing to "say" or stand by.
 The stronger version of "let" is to intentionally listen to what you "feel" in regard to your idea.
 
+
+## Cards 1 - 3
+
 ![](figs/cards/01agency.png)
 ![](figs/cards/02you.png)
 ![](figs/cards/03others.png)
 
-## Card 1: agency (IP)
+### Agency (IP)
 
 You are constantly interdependent with others.
 You, act for either your own survival and well-being is "life", whether it is your cake or food (#2), or that of an "other", whether your 2-year-old or boss.
@@ -97,7 +99,7 @@ The micro actions speak to the give-and-take of needs: "make" is to give, whethe
 What are your defaults?
 Is one mode more challenging than another?
 
-## Card 2: you (LP)
+### You (LP)
 
 Everything that you intentionally pursue or conceptually desire is "cake".
 "Food" is everything that keeps you alive or fuels you to pursue cake.
@@ -106,17 +108,19 @@ Changing your habit is hard, but the simplest way to get the cake you want.
 "Home" is the material equivalent of habit: your daily environment, technology and possessions.
 Modify "home" to help change habits that facilitate your food and cake.
 
-## Card 3: others (4D)
+### Others (4D)
 
 If it deals with no one else, and no one else would benefit by knowing, then it is your "self" alone.
 If not, is it one other person ("partner"), a few significant people ("family"), or every imaginable person ("people").
 What happens to the idea if you change the number of others?
 
+## Cards 4 - 6  
+
 ![](figs/cards/04control.png)
 ![](figs/cards/05time.png)
 ![](figs/cards/06version.png)
 
-## Card 4: control (LP)
+### Control (LP)
 
 What are the "costs" and "gains" that are the outcome of your thought?
 Notice whether you are dwelling on one side more than the other.
@@ -125,14 +129,14 @@ It is very common to forget this, in which case the effect is "doubt"-- a positi
 You can engage the same facts of the unknowns with curiosity, openness, "awe".
 Awe is almost always the point (#12).
 
-## Card 5: time (LP)
+### Time (LP)
 
 The only real time is "now", but it is often practical to think about "today".
 Beyond these immediate scopes, everything you can think of is either in the past or the future.
 Compare any thoughts about the past against your life story until now, since the "start".
 Everything until the "end" in the future is a bet.
 
-## Card 6: versions (IP)
+### Versions (IP)
 
 The most relevant version of the idea is the "next" one.
 What improvements can you make right now?
@@ -142,11 +146,13 @@ If you wanted to turn left, what does it mean to turn right?
 What is the difference from the last time you were engaged with a similar thought?
 Perhaps appreciate the improvement, or embrace the tried-and-true.
 
+## Cards 7 - 9  
+
 ![](figs/cards/07sim.png)
 ![](figs/cards/08problem.png)
 ![](figs/cards/09position.png)
 
-## Card 7: simulation (IP)
+### Simulation (IP)
 
 All thinking is "play", a mental simulation of reality.
 You can think of reality, in which case your mind is aligned with the world.
@@ -155,14 +161,14 @@ Differentiate between what is clearly "real" and then deliberately "play" with t
 The second axis of this card is the subtler and often more helpful realization of the same point.
 All thoughts can be classified as either an "example" of what really happened or is happening, or as a hypothetical ("hype") of what might be.
 
-## Card 8: problem (LD)
+### Problem (LD)
 
 At the heart of an idea is a problem.
 A "question" is all the parts that are required, given or assumed.
 The "answer" is what the idea means, and ideally, a directive to take action in reality.
 Don't overthink the "words" of your point, and don't spend too much "time" making your point.
 
-## Card 9: position (LD)
+### Position (LD)
 
 Any idea is one you can "agree" or "differ" on.
 "Differ" is to generate an alternative (#8).
@@ -170,11 +176,13 @@ When you say or act to connect or support their best interests or your connectio
 Conversely, notice if, underneath your words, your point is to move "away" from them, or express your individuality.
 Habits of agreement and away can lead to confusion.
 
+## Cards 10 - 12
+
 ![](figs/cards/10weight.png)
 ![](figs/cards/11size.png)
 ![](figs/cards/12accuracy.png)
 
-## Card 10: weight (4D)
+### Weight (4D)
 
 The amount of mental content required to process or overcome your thought.
 A "letter" is a reminder or mantra.
@@ -182,7 +190,7 @@ A "recipe" requires multiple conditions or materials, and multiple actions.
 An idea that requires a "book" requires proper context in order to execute the recipe.
 A "library" incorportates things beyond the immediate context; interrelated recipes, peoples, goals, etc.
 
-## Card 11: size (4D)
+### Size (4D)
 
 This card is a complement to Card 10 (you may not need both).
 All four concepts are variations of a "goal".
@@ -190,7 +198,7 @@ The point of a "goal" is to go for it, so it's always preferable to do less thin
 "Lesson" implies the answer requires about an hour of reflection: challenging, refining and planning initial steps.
 A "course" requires a significant time commitment, because a modest amount of training or practice is required in order to be capable of accomplishing what you would like, whereas "school" suggests that mastery or fluency is required.
 
-## Card 12: accuracy (IP)
+### Accuracy (IP)
 
 The "point" is to fixate on the key cause, property, or priority, especially if the size of the idea is a burden.
 "Total" is to take the alternative by assuming every aspect is a critical priority.
