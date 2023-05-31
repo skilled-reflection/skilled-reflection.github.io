@@ -6,14 +6,19 @@ editor_options:
 ---
 
 
-<a href="_book/index.html"> ![](figs/icon-book.png) </a>
 <a href="game.html"> ![](figs/icon-game.png) </a>
 <a href="every_session.html"> ![](figs/icon-session.png) </a>
+<a href="_book/index.html"> ![](figs/icon-book.png) </a>
 
 ### Level-Up  
+<a href="camp.html"> ![](figs/icon-camp.png) </a>
+ ![](figs/icon-sr.png)
+<a href="self250.html"> ![](figs/icon-tryme.png) </a>
 
-![](figs/icon-camp.png) 
+### More  
+
 <a href="https://www.instagram.com/skilledreflection/"> ![](figs/icon-ig.png) </a>
+<a href="about.html"> ![](figs/icon-about.png) </a>
  ![](figs/icon-sr.png)
 
 ## [Book](_book/index.html)
