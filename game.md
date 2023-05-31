@@ -1,8 +1,8 @@
 ---
 output:
+  html_document: default
   word_document: 
     reference_docx: "template.docx"
-  html_document: default
 title: Game
 editor_options: 
   markdown: 
@@ -11,12 +11,9 @@ editor_options:
 
 ## Introduction
 
-The following is a description for a Skilled Reflection game.
-This is a functional approach to describing the Skilled Reflection philosophy.
-Stay tuned for a more detailed guide.
-
-Skilled Reflection is a framework for ideas, and this represents a minimum functional product of the methods and concepts.
+The following is a description for a Skilled Reflection game a hands-on way to learn the Skilled Reflection philosophy.
 The game can be played in different modes.
+Players are encouraged to read through the card descriptions below to play.
 
 ## Mode 1
 
@@ -77,13 +74,20 @@ If you are thinking of going to the park on your day off, this is "Cake" (#2), n
 
 # Cards and concepts
 
-## Card 0: bet (IP)
+![](figs/cards/00level.png)
+
+
+## Card 0: level (IP)
 
 These are degrees of commitment to your thought.
 The biggest commitment is to "bet" on your idea, by setting a deadline and a consequence to the outcome, and attempting to live your idea against these conditions.
 The smallest but sometimes just as profound, is to simply "let" something be as it is (buddhist).
 The lighter version of bet is to commit to only thinking what you are willing to "say" or stand by.
 The stronger version of "let" is to intentionally listen to what you "feel" in regard to your idea.
+
+![](figs/cards/01agency.png)
+![](figs/cards/02you.png)
+![](figs/cards/03others.png)
 
 ## Card 1: agency (IP)
 
@@ -107,6 +111,10 @@ Modify "home" to help change habits that facilitate your food and cake.
 If it deals with no one else, and no one else would benefit by knowing, then it is your "self" alone.
 If not, is it one other person ("partner"), a few significant people ("family"), or every imaginable person ("people").
 What happens to the idea if you change the number of others?
+
+![](figs/cards/04control.png)
+![](figs/cards/05time.png)
+![](figs/cards/06version.png)
 
 ## Card 4: control (LP)
 
@@ -134,6 +142,10 @@ If you wanted to turn left, what does it mean to turn right?
 What is the difference from the last time you were engaged with a similar thought?
 Perhaps appreciate the improvement, or embrace the tried-and-true.
 
+![](figs/cards/07sim.png)
+![](figs/cards/08problem.png)
+![](figs/cards/09position.png)
+
 ## Card 7: simulation (IP)
 
 All thinking is "play", a mental simulation of reality.
@@ -143,9 +155,9 @@ Differentiate between what is clearly "real" and then deliberately "play" with t
 The second axis of this card is the subtler and often more helpful realization of the same point.
 All thoughts can be classified as either an "example" of what really happened or is happening, or as a hypothetical ("hype") of what might be.
 
-## Card 8: dialectic (LD)
+## Card 8: problem (LD)
 
-At the heart of an idea is a dialectic.
+At the heart of an idea is a problem.
 A "question" is all the parts that are required, given or assumed.
 The "answer" is what the idea means, and ideally, a directive to take action in reality.
 Don't overthink the "words" of your point, and don't spend too much "time" making your point.
@@ -158,6 +170,10 @@ When you say or act to connect or support their best interests or your connectio
 Conversely, notice if, underneath your words, your point is to move "away" from them, or express your individuality.
 Habits of agreement and away can lead to confusion.
 
+![](figs/cards/10weight.png)
+![](figs/cards/11size.png)
+![](figs/cards/12accuracy.png)
+
 ## Card 10: weight (4D)
 
 The amount of mental content required to process or overcome your thought.
@@ -166,7 +182,7 @@ A "recipe" requires multiple conditions or materials, and multiple actions.
 An idea that requires a "book" requires proper context in order to execute the recipe.
 A "library" incorportates things beyond the immediate context; interrelated recipes, peoples, goals, etc.
 
-## Card 11: difficulty (4D)
+## Card 11: size (4D)
 
 This card is a complement to Card 10 (you may not need both).
 All four concepts are variations of a "goal".
@@ -174,7 +190,7 @@ The point of a "goal" is to go for it, so it's always preferable to do less thin
 "Lesson" implies the answer requires about an hour of reflection: challenging, refining and planning initial steps.
 A "course" requires a significant time commitment, because a modest amount of training or practice is required in order to be capable of accomplishing what you would like, whereas "school" suggests that mastery or fluency is required.
 
-## Card 12: measure (IP)
+## Card 12: accuracy (IP)
 
 The "point" is to fixate on the key cause, property, or priority, especially if the size of the idea is a burden.
 "Total" is to take the alternative by assuming every aspect is a critical priority.
