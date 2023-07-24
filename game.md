@@ -22,6 +22,7 @@ Here are two example translations of an idea into the cards' concepts.
 
 > *I won't tolerate my friend's jokes anymore, and I'm going to focus on my emotional health.*
 
+
 |------------------------|--------------------------------------|
 | I won't tolerate       | Card 0 - "bet" ; Card 9 - "away"     |
 | my friend's jokes      | Card 3 - "partner" ; Card 7 - "play" |
@@ -35,6 +36,7 @@ Here are two example translations of an idea into the cards' concepts.
     > *I won't let myself feel hurt anymore, by anyone's jokes.*
 
     The purpose of comparison statements is not necessarily to change your plan, but to better understand it. It will often lead to insights and sometimes to a better description. By noticing which cards are "flexible" and which are not, you begin to gain insight on the dimensions of your feelings, what is possible and what isn't. Explore until you have identified the most relevant components.
+
 
     Hint: The lower the Card number, the more significant it is to consider alternatives.
 
@@ -50,7 +52,9 @@ Here are two example translations of an idea into the cards' concepts.
 
 <!-- c.  we can fix, today: family (#3) answer (#8) today (#5) -->
 
+
 ## Mode 2
+
 
 This is an exercise in developing and communicating the specific, unique aspects of your life. In a world of billions, much of who we are is a variation of others.
 
