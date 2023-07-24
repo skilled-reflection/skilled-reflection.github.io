@@ -11,39 +11,48 @@ editor_options:
 
 ## Introduction
 
-The following is a description for the Skilled Reflection game, a hands-on way to learn and apply Skilled Reflection concepts. 
+The following is a description for the Skilled Reflection game, a hands-on way to learn and apply Skilled Reflection concepts.
 
 ## Mode 1
 
-Identify in the cards what it is that is on your mind.
+1.  Identify in the cards what it is that is on your mind.
 
 Each card deals with a dimension that is relevant to most ideas.
 Here are two example translations of an idea into the cards' concepts.
 
-1.  *I won't tolerate my boyfriend's jokes anymore, and I'm going to focus on my emotional health.*
+> *I won't tolerate my friend's jokes anymore, and I'm going to focus on my emotional health.*
 
-<!-- -->
+|                        |                                      |
+|------------------------|--------------------------------------|
+| I won't tolerate       | Card 0 - "bet" ; Card 9 - "away"     |
+| my friend's jokes      | Card 3 - "partner" ; Card 7 - "play" |
+| I'm going to focus     | Card 12 - "point" ; Card 6 - "next"  |
+| on my emotional health | Card 1 - "life"                      |
 
-a.  I won't tolerate: bet (#0) away (#9)
-b.  my boyfriend's jokes anymore: partner (#3) play (#7) now (#5)
-c.  I'm going to focus: point (#12)
-d.  on my emotional health: life (#1)
+2.  **Explore comparison statements.** Once you have identified the basic description of your experience, you are ready to consider the bigger picture. Each concept associated with your idea, is related to other concepts on the card. Experiment with how the description would change if you swapped out concepts.
 
-<!-- -->
+    In the example above, changing Card 0 to "feel", and Card 3 to "people" our comparison description looks something like:
 
-2.  "What is the biggest political danger we can fix, today?"
+    > *I won't let myself feel hurt anymore, by anyone's jokes.*
 
-<!-- -->
+    The purpose of comparison statements is not necessarily to change your plan, but to better understand it. It will often lead to insights and sometimes to a better description. By noticing which cards are "flexible" and which are not, you begin to gain insight on the dimensions of your feelings, what is possible and what isn't. Explore until you have identified the most relevant components.
+
+    Hint: The lower the Card number, the more significant it is to consider alternatives.
+
+3.  Once you have arrived at the full range of your experience, the only thing left is to get out of your head, and live it.
+
+\<!-
+-*What is the biggest political danger we can fix, today?*
+
+See if you can match the words to the following cards:
 
 a.  What is the biggest: question (#8) point (#12)
 b.  political danger: people (#3) danger (#away)
 c.  we can fix, today: family (#3) answer (#8) today (#5)
 
+\--\>
+
 ## Mode 2
-
-Once you've established an initial description of your idea, look at the concepts on the same cards, especially the ones across from the concepts you've identified.
-
-## Mode 3
 
 Find the "you" in yourself.
 
@@ -56,9 +65,10 @@ In a world of billions, much of who we are is a variation of others.
 
 ## Card Basics
 
-All ideas require at least one of the green cards (Numbered 1 - 6).
-The green cards a map of your physical, lived reality.
-Contrast that with the black cards (7-12, 0), which deal with ways you might change or approach your reality.
+The green cards (Numbered 1 - 6) are a map of your physical, lived reality.
+All ideas require at least one of the green cards.
+Contrast that with the black cards (7-12), which deal with ways you might change how you view your reality.
+Card 0 reflects how you personally relate to the experience.
 
 On each card are four concepts: either two pairs of independent but similar opposites (IP), two linked pairs of opposites (LP), or four degrees of a single concept (4D).
 Each of the four concepts are in quotes under a single card description.
@@ -78,16 +88,13 @@ If you are thinking of going to the park on your day off, this is "Cake" (#2), n
 
 These are degrees of commitment to your thought.
 The biggest commitment is to "bet" on your idea, by setting a deadline and a consequence to the outcome, and attempting to live your idea against these conditions.
-The smallest but sometimes just as profound, is to simply "let" something be as it is (buddhist).
+The smallest but sometimes just as profound, is to simply "let" something be as it is (Buddhist).
 The lighter version of bet is to commit to only thinking what you are willing to "say" or stand by.
 The stronger version of "let" is to intentionally listen to what you "feel" in regard to your idea.
 
-
 ## Cards 1 - 3
 
-![](figs/cards/01agency.png)
-![](figs/cards/02you.png)
-![](figs/cards/03others.png)
+![](figs/cards/01agency.png) ![](figs/cards/02you.png) ![](figs/cards/03others.png)
 
 ### Agency (IP)
 
@@ -112,11 +119,9 @@ If it deals with no one else, and no one else would benefit by knowing, then it 
 If not, is it one other person ("partner"), a few significant people ("family"), or every imaginable person ("people").
 What happens to the idea if you change the number of others?
 
-## Cards 4 - 6  
+## Cards 4 - 6
 
-![](figs/cards/04control.png)
-![](figs/cards/05time.png)
-![](figs/cards/06version.png)
+![](figs/cards/04control.png) ![](figs/cards/05time.png) ![](figs/cards/06version.png)
 
 ### Control (LP)
 
@@ -144,11 +149,9 @@ If you wanted to turn left, what does it mean to turn right?
 What is the difference from the last time you were engaged with a similar thought?
 Perhaps appreciate the improvement, or embrace the tried-and-true.
 
-## Cards 7 - 9  
+## Cards 7 - 9
 
-![](figs/cards/07sim.png)
-![](figs/cards/08problem.png)
-![](figs/cards/09position.png)
+![](figs/cards/07sim.png) ![](figs/cards/08problem.png) ![](figs/cards/09position.png)
 
 ### Simulation (IP)
 
@@ -176,9 +179,7 @@ Habits of agreement and away can lead to confusion.
 
 ## Cards 10 - 12
 
-![](figs/cards/10weight.png)
-![](figs/cards/11size.png)
-![](figs/cards/12accuracy.png)
+![](figs/cards/10weight.png) ![](figs/cards/11size.png) ![](figs/cards/12accuracy.png)
 
 ### Weight (4D)
 
