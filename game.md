@@ -52,14 +52,12 @@ Here are two example translations of an idea into the cards' concepts.
 
 ## Mode 2
 
-Find the "you" in yourself.
-
-In a world of billions, much of who we are is a variation of others.
+This is an exercise in developing and communicating the specific, unique aspects of your life. In a world of billions, much of who we are is a variation of others.
 
 0.  Start with a defining characteristic of your personality.
 1.  **Read Card #3.** How many other people would say the same of themselves?
-2.  **Read Card #6** What ways does this differ?
-3.  Now, use cards #7-#12 to move your self description away (#9) from all other people until you are describing what can only be true of you yourself, and only you can know and understand.
+2.  **Read Card #6.** What ways does this differ?
+3.  **Using cards #7-#12,** move your self description away (#9) from all other people until you are describing what can only be uniquely to you, and only you can know and understand.
 
 ## Card Basics
 
