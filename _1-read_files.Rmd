@@ -110,6 +110,26 @@ df <- read_dir_txt(files$files) %>% unique
 ```
 
 
+### chatgpt version
+```{r}
+# Load the tidyverse library
+# library(tidyverse)
+
+# Specify the directory containing the .txt files
+directory_path <- "path/to/your/directory"
+
+# List all .txt files in the directory
+txt_files <- list.files(directory_path, pattern = "\\.txt$", full.names = TRUE)
+
+# Read the .txt files into a dataframe
+df_text <- tibble(filename = txt_files) %>%
+  mutate(text = map_chr(filename, read_file))
+
+# Print the resulting dataframe
+df_text
+```
+
+
 ## parse
 for each token size, a df is made, "df_TOKEN"
 the token count per title is computed and returned to the original df with the following code
@@ -149,6 +169,18 @@ df_stops <- df_word %>%
 df <- df_stops %>% 
   count_in_file %>% 
   rename(StopC = n)
+```
+
+### by bigram
+
+```{r}
+df_bigram <- df %>% 
+  unnest_tokens(word,txt, token = "ngrams", n = 2) %>% 
+  mutate(id.word=c(1:length(word)))
+
+df <- df_bigram %>% 
+  count_in_file %>% 
+  rename(ngramC = n) 
 ```
 
 
