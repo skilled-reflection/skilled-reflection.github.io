@@ -86,122 +86,112 @@ Note that there may be slight discrepancies with definitions in main text as sec
 
 ## Draft  
 
-This is an early copy of Skilled Reflection, and much of it is still in development. Thank you for your patience. I welcome any and all constructive feedback ([skilledreflection\@gmail.com](mailto:skilledreflection@gmail.com){.email}). Check back later for a revised and updated version.
+This is an early copy of Skilled Reflection, and much of it is still in development. 
+Thank you for your patience. 
+I welcome any and all constructive feedback ([skilledreflection\@gmail.com](mailto:skilledreflection@gmail.com){.email}). 
+Check back later for a revised and updated version.
 
 
 ## Version  
 
-When I first set out to write SR as a book I quickly realized a problem could hang me up forever, both simple and superficial.
-It is the problem of what order to present the information, so that its truth is easily learnable and most evident.
-In Version 1 of this book, I deliberately set aside this problem, in order to name and contain the system of thinking.
-Version 2 takes the first step in remediation by streamlining all essential terms and links of the system into a shared frame, called "the Garden" (introduced in version one). Even still, in this respect version 2 is only a working prototype at best.
-I pen this Forward at the advent of betting my life on Version 3 (2022-08-30). I cannot promise if / when it will surface, but if you are curious, do not wait. You can find Version 3 already here, between the lines and at their intersections.
+When I first embarked on writing Skilled Reflection (SR), I immediately faced a deceptively simple problem: the order in which to present the content for effective learning and clarity. 
+In the first version of this book, I chose to focus solely on defining the system of thought, temporarily ignoring the issue of structure. 
+Version 2 attempted to rectify this by introducing a unified framework called "the Garden," initially presented in Version 1. 
+Nevertheless, Version 2 remains a prototype in this regard. 
+As I begin work on Version 3, I can't guarantee its completion, but elements of it already exist within this text. Don't wait; discover them now.
 
 ## Dear 
 
-Dear, read this book because you're ready to.
-You are going to die someday. This book is for you if there is something in the meantime worth maximizing.
-Please engage your life. This book is meant to help you understand and take action, starting right now.
-
+If you're reading this, it's because you're prepared to engage with your life meaningfully. 
+You are going to die someday. 
+The finite nature of our existence gives us something valuable to optimize: our time. 
+This book aims to help you understand your life and take immediate action.
 
 ## Test  
 
-Please get a pencil and note the date and time, right now: ____________.
-The words in this book are meaningful only when you apply them to your life.
-If you wrote the date and time as requested, you have proven enough to yourself that you are open to trying new ideas. you are prepared to grow and continue reading.
-If you left the line blank, you might tell yourself you are open to new ideas. You will be right when you complete the task.
-Either write the time above or stop reading, and take a better action to improve your life, right now.  
+Grab a pencil and jot down the current date and time. 
+The concepts in this book come alive only when applied to your life. 
+If you followed this instruction, it shows you're open to new ideas and ready to grow. 
+If not, ask yourself if you're genuinely open to change and either complete the task or get on with your life.
 
 ## Game  
 
-From now on, every word you (or i) say is a plan for action.
-That plan is meaningless until you take that action, whether good or bad.
-Therefore, spend less time worrying about why this word or that plan.
-Spend more time deciding which will be the next moves in your game of life.  
-Sincerely, An0ther  
+Every word we utter is essentially a blueprint for action, which holds no value unless acted upon. 
+Instead of overanalyzing each word or plan, focus on determining your next life moves.  
 
 ## Camp  
 
-This book presents plain and obvious facts of life as the antidote to modern complexities of life.
-In most cases, the relevance can be seen more clearly if you [simulate][words] the experience being described, or explicitly consider it in your life (see [role of reading][read]). Let's practice. For example, consider going on a camping trip.  
+This book offers straightforward life truths as a solution to today's complexities. 
+The relevance of these truths will become evident as you actively engage with them. 
+Consider, for example, a camping trip.
 
-    1. Look at the clock and determine when you should expect to arrive.
-    2. Whatever that time, when you arrive, you will likely be over- prepared, under-prepared, or 1-3 hours late.
-    3. or you might be an experienced camper.
+  1. Note the expected arrival time on a clock.
+  2. You'll likely arrive over-prepared, under-prepared, or 1-3 hours late.
+  3. Or you could be an experienced camper.
+
   
-Either way, this is your only shot at a lifelong camping trip for yourself on earth.
-My guess is you are very likely late to your own life.
-The games we (people, scientists, etc.) play to explain away this fact, end with this book.  
+In any case, think of this as your one-time camping trip called "life." 
+Chances are, you're running late. 
+This book aims to end the distractions and excuses we create to avoid facing this fact. 
 
 ## Pitch  {#intro-pitch}
 
-To understand this book will require you to find and repair the disconnect between your mind's image of time, and the one you are physically bound to.
-If you fail, you will die in two worlds, the world you imagine you could have lived, and the one you did.
+Understanding this book demands reconciling the disconnect between your mental concept of time and actual time.
+If you fail, you will die in two worlds: the one you imagine and the one you live.
 You, however, would like to ace your own life.
-Part one of this book (the garden) gives you all the general answers, and the basic tools for finding the answers particular to you.
-Part two teaches you how to (re)build your tools.  
-
+Part one of this book, "the Garden," offers general answers and tools tailored to your needs. 
+Part two focuses on how to refine these tools.
 
 ## Eat  
 
-The one thing up to you that this book will not do is draw the line between need and want.
-In this book, food refers to needs and cake refers to wants.
-You must practice discerning which is which for you, until it is second-nature.
-Then, all decisions can be made as follows:  
+This book won't draw the line between need and want for you. 
+Here, **food** refers to needs and **cake** to wants. 
+Learn to differentiate the two until it's instinctive. 
+Then, decision-making becomes straightforward:
+
 
     1. If hungry, eat food.
     2. If full, prepare and pack food.
-    3. If time, eat or prepare cake.
+    3. If time permits, eat or prepare cake.
 
-Beware of thinking cake is food.  
-
-
-## Homeless  
-
-Do, don't think. likely at this point you have slipped into thinking this is a book discussing a philosophy, but it is not.
-The difference between food and cake is not understood and solved as a mental exercise in your living room, but by experiencing and paying attention.
-What's more, if you don't have a living room, cake can be painfully obvious. be homeless.  
-
+Don't confuse cake with food.  
 
 ## Food  
 
-The odds are you aren't homeless and will avoid becoming so.
-As with any hypothetical, practice finding the nearest analogous, personally meaningful experience:  
+Act, don't think. 
+You may think this is a philosophical discourse, but it's not. 
+Understanding the difference between food and cake comes from experience, not armchair reflection. 
+The best way to overcome this would be to experience homelessness.
+Chances are, you aren't homeless. 
 
-    1. You couldn't find your car in the middle of winter.
-    2. You went camping without waterproof gear and it rained.
-    3. For weeks your shower only produced ice cold water.
-    4. You were isolated in your house for most of two years during a global pandemic.  
+Still, you can apply the principles through analogous experiences:  
 
-Whatever the circumstance, your habit protests for a change in plans.
-However small or profound the suffering or its threat:  
+    1. Lost your car in winter.
+    2. Camped without waterproof gear in rain.
+    3. Endured weeks of icy showers.
+    4. Spent most of two years isolated due to a pandemic.
 
-    1. There is initially terror, frustration and suffering.
-    2. Enduring, what you consider suffering will change.
-    3. You will need far less food than you thought, giving more time and quality cake you really desire.   
+
+Your discomfort will demand change. 
+Suffering will be: 
+
+    1. Initially terrifying and frustrating.
+    2. Easier to bear over time.
+    3. Less demanding on your resources, enabling quality cake.  
   
 
-## Plan  {#intro-plan}
+## Overview  {#intro-plan}
 
-In the first half of this book is a conceptual metaphor described as a garden.
-It is a mental model of reality, designed to bring clarity.
-Your garden is your goals put on key ideas of this book.
-You need the garden to combat the idealistic side of your mind, inclined to ignore time and your self, which sets you up for failure and suffering.
-The second half of these chapters elaborates explicitly on the key ideas.  
+The first half introduces a mental model called "the Garden" to counter your mind's idealistic tendencies. 
+This prevents you from setting yourself up for failure. 
+The second half dives into the key ideas in detail. 
 
-## Lessons  {#intro-lessons}
+The book concludes with [lessons][zero or one] to identify what's important, problematic, and next. 
+They are useful any time and should be revisited. 
+Read the relevant sections first to understand the format of [skilled reflection][skilled reflection].
 
-At the end of the book are a series of [lessons][zero or one] for identifying what matters, what's wrong, and what's next in your life.
-They are designed to be useful at any time, and especially repeatedly.
-Don't wait to finish the book to try one out, because they are pivotal to skilled reflection.
-However, don't do too many of them before at least reading the relevant section that explains the format of [skilled reflection][skilled reflection].  
-
-## Definitions  
-
-Pay attention to how words are defined, as it often differs slightly from conventional use.
-For example, "work" is an idea referring to "careers", but not 'yard work'.
-These nuances are the result of careful decisions about the food and cake of the ideas.
-You can find a list of the key ideas in the [index of definitions][index of definitions].
-Each chapter deals with a distinct perspective or dimension of life and the goals related to it. what is said is what can be simplified for generalizable guidance.
-Like food vs cake, the habits relevant to your goals can be closer to food, or excessive like cake.
-In the context of definitions, they will be referred to instead, as "good" and "bad" (for example, [c9.60][pris differ]).
+Pay attention to term definitions as they often deviate from common usage. 
+For instance, work means "careers," not "yard work." 
+These nuances arise from dissecting the food and cake of each idea.
+Key terms are in the [index of definitions][index of definitions].
+Ideas will also be categorized as "good" or "bad," depending on their relevance to your goals.
