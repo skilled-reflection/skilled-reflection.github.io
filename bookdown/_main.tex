@@ -5,16 +5,19 @@
 \documentclass[
 ]{book}
 \usepackage{amsmath,amssymb}
-\usepackage{lmodern}
 \usepackage{iftex}
 \ifPDFTeX
   \usepackage[T1]{fontenc}
   \usepackage[utf8]{inputenc}
   \usepackage{textcomp} % provide euro and other symbols
 \else % if luatex or xetex
-  \usepackage{unicode-math}
+  \usepackage{unicode-math} % this also loads fontspec
   \defaultfontfeatures{Scale=MatchLowercase}
   \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+\usepackage{lmodern}
+\ifPDFTeX\else
+  % xetex/luatex font selection
 \fi
 % Use upquote if available, for straight quotes in verbatim environments
 \IfFileExists{upquote.sty}{\usepackage{upquote}}{}
@@ -66,9 +69,9 @@
 \fi
 \usepackage[]{natbib}
 \bibliographystyle{plainnat}
-\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
+\usepackage{bookmark}
 \IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
-\urlstyle{same} % disable monospaced font for URLs
+\urlstyle{same}
 \hypersetup{
   pdftitle={Skilled Reflection},
   hidelinks,
@@ -85,14 +88,12 @@
 \setcounter{tocdepth}{1}
 \tableofcontents
 }
-\begin{center}\includegraphics{figs/sr_gray_transp} \end{center}
+\begin{center}\includegraphics[width=4.17in]{figs/sr_gray_transp} \end{center}
 
-\hypertarget{introduction}{%
-\chapter*{Introduction}\label{introduction}}
+\chapter*{Introduction}\label{introduction}
 \addcontentsline{toc}{chapter}{Introduction}
 
-\hypertarget{you}{%
-\section{You}\label{you}}
+\section{You}\label{you}
 
 You and I:
 
@@ -110,8 +111,7 @@ You and I:
 
 Until then, you and I and they are all the same.
 
-\hypertarget{questions}{%
-\section{Questions}\label{questions}}
+\section{Questions}\label{questions}
 
 Any questions?
 
@@ -127,8 +127,7 @@ Any questions?
 8.  Communication. How do I relate to or help others?  
 \end{verbatim}
 
-\hypertarget{terms}{%
-\section{Terms}\label{terms}}
+\section{Terms}\label{terms}
 
 A book with defined terms is a book for humans.
 The following list describes the critical concepts that this book deals with and by impliciation, what it does not deal with.
@@ -144,13 +143,13 @@ Note that there may be slight discrepancies with definitions in main text as sec
 \item
   A COST is what's materially required for GOALs--an amount and kind of FORCE. ({[}\textbf{c2.49}{]}{[}Core Concepts{]})\\
 \item
-  FOOD is the necessary and sufficient material to satisfy these needs. (\protect\hyperlink{self-self}{\textbf{c2.56}})\\
+  FOOD is the necessary and sufficient material to satisfy these needs. (\hyperref[self]{\textbf{c2.56}})\\
 \item
-  CAKE is all non-FOOD GOALs. (\protect\hyperlink{self-self}{\textbf{c2.57}})\\
+  CAKE is all non-FOOD GOALs. (\hyperref[self]{\textbf{c2.57}})\\
 \item
-  SELF is the GOAL to MAINTAIN HABIT, ideally to maximize BET outcomes. (\protect\hyperlink{self-self}{\textbf{c2.58}})\\
+  SELF is the GOAL to MAINTAIN HABIT, ideally to maximize BET outcomes. (\hyperref[self]{\textbf{c2.58}})\\
 \item
-  HOME is the collection of tools, materials and money (which support HABITs). (\protect\hyperlink{home}{\textbf{c2.59}})\\
+  HOME is the collection of tools, materials and money (which support HABITs). (\hyperref[home]{\textbf{c2.59}})\\
 \item
   PRI is management of the GOALS in your life (and common themes therein). ({[}\textbf{c3.33}{]}{[}Attention and time{]})\\
 \item
@@ -160,21 +159,21 @@ Note that there may be slight discrepancies with definitions in main text as sec
 \item
   MONEY is traded for maintenance of, or insurance for SELF and CAKE. ({[}\textbf{c4.09}{]}{[}PPL{]})\\
 \item
-  WORK is performing a specific task on a collective garden for MONEY. (\protect\hyperlink{work}{\textbf{c4.10}})\\
+  WORK is performing a specific task on a collective garden for MONEY. (\hyperref[work]{\textbf{c4.10}})\\
 \item
-  NORMS are the ``average'' person's HABITs, including WORK and CHUD. (\protect\hyperlink{work}{\textbf{c4.13}})\\
+  NORMS are the ``average'' person's HABITs, including WORK and CHUD. (\hyperref[work]{\textbf{c4.13}})\\
 \item
-  A FORCE is any cause of change including actions. (\protect\hyperlink{work}{\textbf{c4.20}})\\
+  A FORCE is any cause of change including actions. (\hyperref[work]{\textbf{c4.20}})\\
 \item
-  MAINTENANCE is any recurring COST to neither move toward nor away from a GOAL. (\protect\hyperlink{work}{\textbf{c4.21}})\\
+  MAINTENANCE is any recurring COST to neither move toward nor away from a GOAL. (\hyperref[work]{\textbf{c4.21}})\\
 \item
-  An ALIGNMENT is a reduced COST due to a FORCE shared between at least two GOALs. (\protect\hyperlink{work}{\textbf{c4.22}})\\
+  An ALIGNMENT is a reduced COST due to a FORCE shared between at least two GOALs. (\hyperref[work]{\textbf{c4.22}})\\
 \item
-  A relationship (RLTP) is a GOAL about PPL. (\protect\hyperlink{work}{\textbf{c4.23}})\\
+  A relationship (RLTP) is a GOAL about PPL. (\hyperref[work]{\textbf{c4.23}})\\
 \item
-  A BET is a PLAN that leverages TIME against CHUD to facilitate GOALs or a REALITY check. (\protect\hyperlink{word-bet}{c5.28})\\
+  A BET is a PLAN that leverages TIME against CHUD to facilitate GOALs or a REALITY check. (\hyperref[bet]{c5.28})\\
 \item
-  CHUD is an acronym for assessing the reality of GOALs: COSTs, HABITs, UNKNOWNs and DOUBTs. (\protect\hyperlink{c.h.u.d.}{\textbf{c5.41}})\\
+  CHUD is an acronym for assessing the reality of GOALs: COSTs, HABITs, UNKNOWNs and DOUBTs. ({[}\textbf{c5.41}{]}{[}C.H.U.D.{]})\\
 \item
   A HABIT is the historical average of your actions and their by-products.({[}\textbf{c5.43}{]}{[}COSTs and HABITs{]})\\
 \item
@@ -182,13 +181,13 @@ Note that there may be slight discrepancies with definitions in main text as sec
 \item
   A DOUBT is a source of predictable or nameable UNKNOWN, for example, ``denial'' or ``anxiety''. ({[}\textbf{c5.48}{]}{[}UNKNOWNs and DOUBTs{]})\\
 \item
-  A STUDENT is a WRITER sacrificing TIME for concentrated REVISION of their PRIs. (\protect\hyperlink{student}{\textbf{c6.15}})\\
+  A STUDENT is a WRITER sacrificing TIME for concentrated REVISION of their PRIs. (\hyperref[student]{\textbf{c6.15}})\\
 \item
-  A READER is a WRITER studying their own reaction to and potential use of others' PLANs. (\protect\hyperlink{word-read}{\textbf{c6.39}})\\
+  A READER is a WRITER studying their own reaction to and potential use of others' PLANs. (\hyperref[read]{\textbf{c6.39}})\\
 \item
   A WRITER invests TIME and energy to map feelings onto WORDS. ({[}\textbf{c6.64}{]}{[}WRITE PLAN{]})\\
 \item
-  An INSTRUCTOR advises and enforces STUDENTs' BETs on PLANs (\protect\hyperlink{instructor}{\textbf{c6.73}})\\
+  An INSTRUCTOR advises and enforces STUDENTs' BETs on PLANs (\hyperref[instructor]{\textbf{c6.73}})\\
 \item
   A WORD is a BET for simulating (direct attention to) truth (reality) or falsehood (fantasy). ({[}\textbf{c7.20}{]}{[}WORD as BET{]})\\
 \item
@@ -210,13 +209,13 @@ Note that there may be slight discrepancies with definitions in main text as sec
 \item
   A SCHOLAR is a SCIENTIST READER, curating toward theory development and COMM. ({[}\textbf{c7.49}{]}{[}ROLE Scientist{]})\\
 \item
-  A LESSON is an ordered set of prompts, usually three to four, up to 60 minutes.(\protect\hyperlink{lessons}{\textbf{c8.19}})\\
+  A LESSON is an ordered set of prompts, usually three to four, up to 60 minutes.(\hyperref[intro-lessons]{\textbf{c8.19}})\\
 \item
   A NOTE is a general PLAN for REVISION. (Available on request.) ({[}\textbf{c8.33}{]}{[}NOTES and PEERs{]})\\
 \item
   A RECIPE is a DOC format that PRIs CONTENT (IDEAS and LINKS) over STYLE. ({[}\textbf{c8.37}{]}{[}DOC types{]})\\
 \item
-  COMM is the exchange of WORDS between PPL. (\protect\hyperlink{style}{\textbf{c9.45}})\\
+  COMM is the exchange of WORDS between PPL. (\hyperref[style]{\textbf{c9.45}})\\
 \item
   VERSIONs are variations of STYLE on a identical CONTENT, implicitly in temporal order. ({[}\textbf{c9.61}{]}{[}PRIs differ{]})\\
 \item
@@ -225,13 +224,11 @@ Note that there may be slight discrepancies with definitions in main text as sec
   PITCH is DOC STYLE for why to READ. ({[}\textbf{c9.65}{]}{[}NORMs STYLE{]})
 \end{itemize}
 
-\hypertarget{draft}{%
-\section{Draft}\label{draft}}
+\section{Draft}\label{draft}
 
 This is an early copy of Skilled Reflection, and much of it is still in development. Thank you for your patience. I welcome any and all constructive feedback (\href{mailto:skilledreflection@gmail.com}{\nolinkurl{skilledreflection@gmail.com}}). Check back later for a revised and updated version.
 
-\hypertarget{version}{%
-\section{Version}\label{version}}
+\section{Version}\label{version}
 
 When I first set out to write SR as a book I quickly realized a problem could hang me up forever, both simple and superficial.
 It is the problem of what order to present the information, so that its truth is easily learnable and most evident.
@@ -239,15 +236,13 @@ In Version 1 of this book, I deliberately set aside this problem, in order to na
 Version 2 takes the first step in remediation by streamlining all essential terms and links of the system into a shared frame, called ``the Garden'' (introduced in version one). Even still, in this respect version 2 is only a working prototype at best.
 I pen this Forward at the advent of betting my life on Version 3 (2022-08-30). I cannot promise if / when it will surface, but if you are curious, do not wait. You can find Version 3 already here, between the lines and at their intersections.
 
-\hypertarget{dear}{%
-\section{Dear}\label{dear}}
+\section{Dear}\label{dear}
 
 Dear, read this book because you're ready to.
 You are going to die someday. This book is for you if there is something in the meantime worth maximizing.
 Please engage your life. This book is meant to help you understand and take action, starting right now.
 
-\hypertarget{test}{%
-\section{Test}\label{test}}
+\section{Test}\label{test}
 
 Please get a pencil and note the date and time, right now: \_\_\_\_\_\_\_\_\_\_\_\_.
 The words in this book are meaningful only when you apply them to your life.
@@ -255,8 +250,7 @@ If you wrote the date and time as requested, you have proven enough to yourself 
 If you left the line blank, you might tell yourself you are open to new ideas. You will be right when you complete the task.
 Either write the time above or stop reading, and take a better action to improve your life, right now.
 
-\hypertarget{game}{%
-\section{Game}\label{game}}
+\section{Game}\label{game}
 
 From now on, every word you (or i) say is a plan for action.
 That plan is meaningless until you take that action, whether good or bad.
@@ -264,11 +258,10 @@ Therefore, spend less time worrying about why this word or that plan.
 Spend more time deciding which will be the next moves in your game of life.\\
 Sincerely, An0ther
 
-\hypertarget{camp}{%
-\section{Camp}\label{camp}}
+\section{Camp}\label{camp}
 
 This book presents plain and obvious facts of life as the antidote to modern complexities of life.
-In most cases, the relevance can be seen more clearly if you \protect\hyperlink{words}{simulate} the experience being described, or explicitly consider it in your life (see \protect\hyperlink{word-read}{role of reading}). Let's practice. For example, consider going on a camping trip.
+In most cases, the relevance can be seen more clearly if you \hyperref[words]{simulate} the experience being described, or explicitly consider it in your life (see \hyperref[read]{role of reading}). Let's practice. For example, consider going on a camping trip.
 
 \begin{verbatim}
 1. Look at the clock and determine when you should expect to arrive.
@@ -280,8 +273,7 @@ Either way, this is your only shot at a lifelong camping trip for yourself on ea
 My guess is you are very likely late to your own life.
 The games we (people, scientists, etc.) play to explain away this fact, end with this book.
 
-\hypertarget{intro-pitch}{%
-\section{Pitch}\label{intro-pitch}}
+\section{Pitch}\label{intro-pitch}
 
 To understand this book will require you to find and repair the disconnect between your mind's image of time, and the one you are physically bound to.
 If you fail, you will die in two worlds, the world you imagine you could have lived, and the one you did.
@@ -289,8 +281,7 @@ You, however, would like to ace your own life.
 Part one of this book (the garden) gives you all the general answers, and the basic tools for finding the answers particular to you.
 Part two teaches you how to (re)build your tools.
 
-\hypertarget{eat}{%
-\section{Eat}\label{eat}}
+\section{Eat}\label{eat}
 
 The one thing up to you that this book will not do is draw the line between need and want.
 In this book, food refers to needs and cake refers to wants.
@@ -305,15 +296,13 @@ Then, all decisions can be made as follows:
 
 Beware of thinking cake is food.
 
-\hypertarget{homeless}{%
-\section{Homeless}\label{homeless}}
+\section{Homeless}\label{homeless}
 
 Do, don't think. likely at this point you have slipped into thinking this is a book discussing a philosophy, but it is not.
 The difference between food and cake is not understood and solved as a mental exercise in your living room, but by experiencing and paying attention.
 What's more, if you don't have a living room, cake can be painfully obvious. be homeless.
 
-\hypertarget{food}{%
-\section{Food}\label{food}}
+\section{Food}\label{food}
 
 The odds are you aren't homeless and will avoid becoming so.
 As with any hypothetical, practice finding the nearest analogous, personally meaningful experience:
@@ -334,8 +323,7 @@ However small or profound the suffering or its threat:
 3. You will need far less food than you thought, giving more time and quality cake you really desire.   
 \end{verbatim}
 
-\hypertarget{intro-plan}{%
-\section{Plan}\label{intro-plan}}
+\section{Plan}\label{intro-plan}
 
 In the first half of this book is a conceptual metaphor described as a garden.
 It is a mental model of reality, designed to bring clarity.
@@ -343,16 +331,14 @@ Your garden is your goals put on key ideas of this book.
 You need the garden to combat the idealistic side of your mind, inclined to ignore time and your self, which sets you up for failure and suffering.
 The second half of these chapters elaborates explicitly on the key ideas.
 
-\hypertarget{intro-lessons}{%
-\section{Lessons}\label{intro-lessons}}
+\section{Lessons}\label{intro-lessons}
 
-At the end of the book are a series of \protect\hyperlink{zero-or-one}{lessons} for identifying what matters, what's wrong, and what's next in your life.
+At the end of the book are a series of \hyperref[zero-or-one]{lessons} for identifying what matters, what's wrong, and what's next in your life.
 They are designed to be useful at any time, and especially repeatedly.
 Don't wait to finish the book to try one out, because they are pivotal to skilled reflection.
 However, don't do too many of them before at least reading the relevant section that explains the format of {[}skilled reflection{]}{[}skilled reflection{]}.
 
-\hypertarget{definitions}{%
-\section{Definitions}\label{definitions}}
+\section{Definitions}\label{definitions}
 
 Pay attention to how words are defined, as it often differs slightly from conventional use.
 For example, ``work'' is an idea referring to ``careers'', but not `yard work'.
@@ -362,15 +348,12 @@ Each chapter deals with a distinct perspective or dimension of life and the goal
 Like food vs cake, the habits relevant to your goals can be closer to food, or excessive like cake.
 In the context of definitions, they will be referred to instead, as ``good'' and ``bad'' (for example, {[}c9.60{]}{[}pris differ{]}).
 
-\hypertarget{the-garden}{%
-\chapter*{The Garden}\label{the-garden}}
+\chapter*{The Garden}\label{the-garden}
 \addcontentsline{toc}{chapter}{The Garden}
 
-\hypertarget{self}{%
-\chapter{Self}\label{self}}
+\chapter{Self}\label{self}
 
-\hypertarget{garden}{%
-\section{Garden}\label{garden}}
+\section{Garden}\label{garden}
 
 Imagine your life takes place in a garden.
 Visualizing your life as a garden allows you to ground actions and plans.
@@ -391,8 +374,7 @@ For example, if you need to eat, or go to the bathroom, you physically go to the
 (There will be no pooping on plants, or a pooping plant in this garden.)
 Thus, in the garden you are still a normal human bound to a normal space and time, capable of: acting according to bodily need, moving about space, and gardening.
 
-\hypertarget{today}{%
-\section{Today}\label{today}}
+\section{Today}\label{today}
 
 Today, you are looking out across the entire garden.
 What has already been planted? What will you add and how much time will you devote to those goals?
@@ -413,8 +395,7 @@ You might get a weak yield for trying to grow something not suitable in your cli
 Find you have no taste or stomach for the fruit.
 In the garden, the costs of goals are grounded in their most basic sense: time and attention.
 
-\hypertarget{goal}{%
-\section{Goal}\label{goal}}
+\section{Goal}\label{goal}
 
 The following are core concepts for application beyond the garden.
 A goal names an ideal future reality, comprises a plan to increase its likelihood, associated with chud.
@@ -423,8 +404,7 @@ Call anything that could be true, but isn't right now, a goal, and any effort in
 It is \emph{your} goal if you aim to increase its probability of being true.
 A goal can be finite or persistent, singular or recurring, or realistic or not.
 
-\hypertarget{plan}{%
-\section{Plan}\label{plan}}
+\section{Plan}\label{plan}
 
 If you will need to do something before it is in your hand, it requires a plan.
 A plan is any combination of words where the writing or reading of them aims to improve the chance or decrease the cost of achieving your goal.
@@ -438,21 +418,19 @@ Cost is any action that has a direct exchange.
 Costs often are secondary objectives within a plan.
 For example, you might buy a tool (cost).
 
-\hypertarget{self-self}{%
-\section{Self}\label{self-self}}
+\section{Self}\label{self-self}
 
 Every day, as a human, you spend time and attention just meeting basic needs: eating, drinking, pooping, and sleeping.
 These actions are subgoals of maintaining self, the category of basic human goals.
 Food is the necessary and sufficient material to satisfy these needs.
 Cake is anything (else) fulfilling, that you are inclined to pursue, including the reason for living.
-The goals of self are what's necessary and sufficient to obtain and manage food and maximize bet outcomes (\protect\hyperlink{word-bet}{c5.28}). mind, healthy relationships.
+The goals of self are what's necessary and sufficient to obtain and manage food and maximize bet outcomes (\hyperref[bet]{c5.28}). mind, healthy relationships.
 Separate food from cake.
 Be careful not to mislabel cake as food. cake may appear sufficient but ask yourself if it is necessary.
 Build routines for health and fitness, physical safety (shelter), a sound
 Master the self (survive well).
 
-\hypertarget{home}{%
-\section{Home}\label{home}}
+\section{Home}\label{home}
 
 Home is the collection of materials and tools needed for self.
 Within a home related actions are grouped into rooms.
@@ -465,11 +443,9 @@ Event timestamps associated with a location.
 The average movement over time, consider as habits.
 The average location is home.
 
-\hypertarget{priorities}{%
-\chapter{Priorities}\label{priorities}}
+\chapter{Priorities}\label{priorities}
 
-\hypertarget{calling}{%
-\section{Calling}\label{calling}}
+\section{Calling}\label{calling}
 
 Your calling--your highest priority--is yours to name.
 If you overcome your doubts and see reality plainly, you will want peace.
@@ -479,8 +455,7 @@ On mastering my book your life will be regimented to afford your calling.
 
 Tell me the missing chapter that gives peace instead of regimen, so that i may find mine.
 
-\hypertarget{cakes}{%
-\section{Cakes}\label{cakes}}
+\section{Cakes}\label{cakes}
 
 In your garden you have the seeds and sprouts of the best you could want, and the most important of what you need.
 There are two important things to keep in mind, however clear things may seem right now.
@@ -503,16 +478,14 @@ Yet having tasted it, you might discover a more refined goal is closer to your h
 Whether this apple is food or cake, the more you align with yourself, the more you will see your goals differently than you first conceived of them.
 Leave time in your life to achieve the next goal.
 
-\hypertarget{death}{%
-\section{Death}\label{death}}
+\section{Death}\label{death}
 
 Many ppl believe in seeds with special powers, like true love, or winning the lottery.
 One seed grows the duration of your life, which you rarely notice but are often aware of.
 When you eat it, the sun sets for the last time and you bite the dust. it happens to all of us.
 Think about this, but don't dwell on it.
 
-\hypertarget{sick}{%
-\section{Sick}\label{sick}}
+\section{Sick}\label{sick}
 
 Maybe you are sick, down or depressed.
 Then today, do not look out onto your field as a day to work.
@@ -523,16 +496,18 @@ Prevent the urge to be disappointed the next time you are less than productive.
 If you must work to feel worthwhile, work to budget for a fact of being human:
 You are always sometimes less than productive, and occasionally your setbacks come in unfortunate forms, at inconvenient times.
 
-\hypertarget{attention}{%
-\section{Attention}\label{attention}}
+\section{Attention}\label{attention}
 
 Think of what's happening in your garden this very moment: nothing, while you're sitting here thinking.
 Reflect only enough to improve your actions.
 Pri is the optimizing and managing of all your goals.
 All goals rely on a single, limited source of attention, and existence: you.
-Attention. order, reduce in the order (pictured below). ``a place for everything, everything in its place''
+
 At its best, this limiting fact drastically improves the reality of plans and goals.
-At its worst, it is the most common oversight responsible for bloated \protect\hyperlink{c.h.u.d.}{chud}.
+At its worst, it is the most common oversight responsible for bloated {[}chud{]}{[}c.h.u.d.{]}.
+
+The goal of attention is to think; to link your reality here and now with the word that best moves you toward your priority.
+
 Goal importance partly depends on context (c3.6).
 Group your goals by shared actions, places, or times. make/group/keep,
 Align self and cake.
@@ -558,8 +533,7 @@ Alignment is when norm or natural force causes your goal to be more likely. mome
 To align is to adjust your goal to be more like another force, usually one acting against your goal.
 Study how forces work against you.
 
-\hypertarget{now}{%
-\section{Now}\label{now}}
+\section{Now}\label{now}
 
 Now is the only use-case of shared space, in time.
 A moment is any now that is not the latest, either future or past.
@@ -569,15 +543,13 @@ Note that past nows do not maintain the same level of rigor. they are degraded t
 In seeing passage, we might speculate on future nows to be shared.
 The discourse of past or future is always at least partially hype, but real (use) when bet on.
 
-\hypertarget{ppl}{%
-\chapter{People}\label{ppl}}
+\chapter{People}\label{people}
 
-\hypertarget{places}{%
-\section{Places}\label{places}}
+\section{Places}\label{places}
 
-``Just like you, others are trying to figure out what goes on in their own garden.* ppl are different versions of each others' pri ({[}see also c9.70{]}{[}norms style{]}).''
-Amid the goals and forces of this chapter, none of what is described includes using words. reader, you will begin to understand their nature in the next chapter, bet, but as it pertains words that ppl use with each other, not until the last chapter, comm.
-Consider ppl in terms of the four places of your life:
+``Just like you, others are trying to figure out what goes on in their own garden.* people are different versions of each others' priorities ({[}see also c9.70{]}{[}norms style{]}).''
+Amid the goals and forces of this chapter, none of what is described includes using words. reader, you will begin to understand their nature in the next chapter, bet, but as it pertains words that people use with each other, not until the last chapter, comm.
+Consider people in terms of the four places of your life:
 
 \begin{verbatim}
 1. On your garden dealing with your self.
@@ -590,192 +562,173 @@ Sometimes you are at your garden's edge looking elsewhere.
 For example, when you read an email or social media feed, as if looking across your neighbor's plot,
 Studying how to bring your lettuce back to life, or celebrating your friend's successful pumpkin patch.
 
-\hypertarget{gate}{%
-\section{Gate}\label{gate}}
+\section{Gate}\label{gate}
 
-Despite garden-based pris, most of your time is spent outside your garden, and mostly for work (about 80,000 hours in your life).
-Acknowledge the ppl in your pris, yet don't let them distract.
+Despite garden-based priorities, most of your time is spent outside your garden, and mostly for work (about 80,000 hours in your life).
+Acknowledge the people in your priorities, yet don't let them distract.
 Notice how long you leave your garden and to where.
-Spend only as much time needed away for your pris.
+Spend only as much time needed away for your priorities.
 For example, most time on others' gardens, and any more than the minimum at work or market is cake. when in doubt, go home and stare at your plants. at least that cake is free.
 
-\hypertarget{work}{%
-\section{Work}\label{work}}
+\section{Work}\label{work}
 
 Where do you get seeds for food from and how did you know to plant them?
-From other ppl, right? No silly, you don't know how to garden a sandwich!
+From other people, right? No silly, you don't know how to garden a sandwich!
 Lucky for you, many of the most important crops you want are already grown, prepared and handed to you--in exchange for money.
 Money is traded for maintenance of, or insurance for self and cake, like apples, miracle medical procedures, and a toilet to take your poop somewhere else.
 Work is performing a specific task on a collective garden, like an institution's in exchange for money. it is a pre-arranged visit to another garden for a specified time.
 Whether or not you like it, or it directly fulfills garden needs, work is made to serve norms, not you.
-Norms are all actions assumed of (or about) the ``average'' person. they are the web of forces of all actions of all ppl, including work, religion, popular attitudes, and doubts.
+Norms are all actions assumed of (or about) the ``average'' person. they are the web of forces of all actions of all people, including work, religion, popular attitudes, and doubts.
 
-\hypertarget{analysis}{%
-\section{Analysis}\label{analysis}}
+\section{Analysis}\label{analysis}
 
 If you have a job that pays you to think, your mind is hired to make norms products real.
 Instead of your reality, your work is to translate norms's reality, chud-adjusted.
 Norms assume you will work for money for goods.
 Language, agreed usage of words, is made from norms.
 Norms push against individuality (except where it provides a lucrative job opportunity).
-Relationships (rltp) are goals about ppl (ppl).
+Relationships are goals about people.
 Good ones are aligned with your goals.
 Bad ones cost more.
-A rltp is a reciprocal pair of bets, yours of them, and vice versa. one is the better and the other is the bet and bet on.
-Rltps, especially family members, coordinate many goals for savings.
+A relationship is a reciprocal pair of bets, yours of them, and vice versa. one is the better and the other is the bet and bet on.
+Relationships, especially family members, coordinate many goals for savings.
 
-\hypertarget{others}{%
-\section{Others}\label{others}}
+\section{Others}\label{others}
 
 Maybe they are your friend, and need help with some unruly vines, or maybe you just like their apples.
-Sometimes, ppl will contribute to your goals, as if bringing water to crops you didn't recognize need them. 4. sometimes ppl will try to water your crops when they don't need watering.
+Sometimes, people will contribute to your goals, as if bringing water to crops you didn't recognize need them. 4. sometimes people will try to water your crops when they don't need watering.
 Sometimes you'll return with higher morale or a bag of apples.
 Sometimes you'll need to water some crops that need to be watered, because the sight of their neglect cannot be ignored.
 The challenges that overwhelm you are the same for others, just not always the same amount nor at the same time.
-The place, duration and impact on your pris are the basic measurements of a rltp.
-Pick work and rltps, including friends, that maximize your other pris including possibly one that maximizes time and money to apply to other pris.
-Maximally align with norms with least compromise to pris. get along with ppl.
-Ppl are the part of pris that require the most care, and fewest words.
-A good rltp is a contract of the reciprocated actions (use) between two ppl.
-A bad rltp is hyped mutual bets (unaligned with actions), that waste time.
+The place, duration and impact on your priorities are the basic measurements of a relationship.
+Pick work and relationships, including friends, that maximize your other priorities including possibly one that maximizes time and money to apply to other priorities.
+Maximally align with norms with least compromise to priorities. get along with people.
+people are the part of priorities that require the most care, and fewest words.
+A good relationship is a contract of the reciprocated actions (use) between two people.
+A bad relationship is hyped mutual bets (unaligned with actions), that waste time.
 
-\hypertarget{bet}{%
-\chapter{Bet}\label{bet}}
+\chapter{Bet}\label{bet}
 
-\hypertarget{real}{%
-\section{Real}\label{real}}
+\section{Reality}\label{reality}
 
-You can't help but think how to make your life better.
-You can take control of your life, or you can let the world bet for you. you can commit yourself to finding out which thoughts are right or you can commit yourself to finding out which thoughts are right or leave it to chance to have better life.
-Leave it to chance to have better life. betting is a protocol to guide you to reality, and, if you're lucky, your
-A commitment is the first step, but far from the last.
+Life is choices over time.
+Each commitment is a bet.
+Are you moving toward your priorities?
+Will you arrive before you die?
 
-If you want your dreams to become real, listen to your doubts.
-Then test them.
-Winning means your reality is one step toward your goal.
-Losing is the wake-up call to be more realistic.
-Betting is a protocol to guide you to reality, and, if you're lucky, your dreams might fit in.
-How real will your dreams get before you die?
+\section{Bet}\label{bet-bet}
 
-\hypertarget{stranger}{%
-\section{Stranger}\label{stranger}}
+A good bet aligns reality and priorities.
 
-A stranger comes to your garden at the end of a long day, which you realize only when you hear him chopping his jaw at you. you look up.
-``No really, consider it, right now. imagine the most realistic, attainable, best life you could have.
-Imagine taking the first step and then stay with the thought. listen to the fear that surfaces.
-For the moment, never mind how the world has gotten in your way.
-How are you in your own way?''
-He seems to be in your way. he's staring past your wet forehead.
-``See your doubts with curiosity. now bet on what you tell yourself you believe. bet on overcoming them.''
-But you mostly only think of frustration and say, ``i appreciate the suggestion.''
-``Let's both bet. name what you believe you can accomplish tomorrow, in terms of what you think holds you back most.
-If you make it happen before sun-up, you'll be over the most daunting hurdle between you and your outcome.
-And i'll give you the equivalent of your harvest, today. if you fail, you leave me today's harvest.''
-``Okay,'' you say. you'll show him.
-``The rocks on the far field. they're on a slippery slope. to build the home i want, i need those rocks, but i'm afraid of falling. i've collected every rock on my land and i need those rocks. tomorrow i'll finish my foundation with rocks from the slippery slope.''
-The stranger and you have set up a bet, a type of belief.
-
-\hypertarget{bet-1}{%
-\section{Bet}\label{bet-1}}
-
-A bet is a plan template for reconciling reality with chud, to accomplish goals.
-Betting is confronting costs, habits, unknowns and doubts that stand in the way of your wants and dreams.
-The time that passes and the status of your goal when it runs out are an intersection of reality: the world and you. to name them, is to shed chud.
-Every idea you hold is a bet with a rolling deadline, idiosyncratic successes, and revisions.
-Bet wins shorten your plan, and the distance to your goal. losses should guide revisions to your chud.
 To bet, name:
-A step in your plan,
-A deadline to achieve it, and
-The c.h.u.d. for that duration.
-Blitz to revise and win, and log your actions.
-When the deadline arrives, take stock.
-Compare your action log to your plan.
-Identify chud factors that best explain discrepancies.
-Revise plan, updated with chud factor predictions.
-(Record time to do the next bet or goal, revise, etc.)
-Start the next bet or goal.
 
-\hypertarget{after}{%
-\section{After}\label{after}}
-
-The next morning you woke to a field in disarray and a letter. you had worked harder than you planned, and still fell short of your goal.
-``If you did more than you would have without the bet, you won something, including evidence that there is some commitment in you to make your dreams come true.''
-The biggest reward is not positive: accept you failed,
-And partly due to a miscalculation.
-Therefore, likely other parts of your plan are misguided, and your goal is further than you estimate.
-If you disagree, let's bet again. first, take a minute to learn from your planning mistake.
-
-\hypertarget{c.h.u.d.}{%
-\section{C.H.U.D.}\label{c.h.u.d.}}
-
-Even if you make a plan and bet on it, you can fail.
-Why don't we achieve our goals?
-Here are the four critical aspects of success,
-And, by extension, clues for why we fail.
-Chud encompasses the changes in you, the world, and your goal for you to achieve it.
-
-\hypertarget{cost}{%
-\section{Cost}\label{cost}}
-
-Costs (\protect\hyperlink{self-self}{c2.51}) and habits are knowable facts.
-Observers could independently note and agree on your costs and habits.
-Costs are the unadjusted record of transactions in your life.
-Referring to cost is referring to typical transactions for a goal.
-For example, a relationship with an alcoholic poses a risk of violence.
-The unadjusted, plain record of everything you have physically done, is your habit.
-Referring to habit is referring to patterns of behavior.
-For example, i eat every morning before 9 am.
-
-\hypertarget{habits}{%
-\section{Habits}\label{habits}}
-
-Habits are your most likely and reliable food or cake actions.
-Bad habits are forces working against your goals.
-Good habits are aligned with goals.
-
-\hypertarget{unknowns}{%
-\section{Unknowns}\label{unknowns}}
-
-Unknowns and doubts are the gap between your real and perceived costs and habits.
-If you have not arrived at the goal, there are unknowns.
-Unknowns are all that are fully out of your control (analogous to statistical `error').
-For example, a train might stop you from arriving on time.
-Unknowns are reduced by estimating causes of failure.
-For example:
-
-\begin{itemize}
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
 \tightlist
 \item
-  I will die, but not know how or when. The cause is unknown.\\
+  A step toward your priorities.
 \item
-  I will die due to a natural disaster or cancer. The cause is named, and the unknown is pushed to those things' underlying causes.
-\end{itemize}
+  Estimate the CHUD (see below)
+\item
+  Set a deadline.
+\item
+  Take the step.
+\end{enumerate}
 
-\hypertarget{doubt}{%
-\section{Doubt}\label{doubt}}
+\section{Win-Lose}\label{win-lose}
 
-Doubts are misperceptions caused or perpetuated by your habit.
-Like costs, doubts are the patterns of unknown.
-Doubt is any systematic error that is possible to be addressed by another human of equal ability and resources.
-For example, ``self-fulfilled prophesies'', irrational fear or anxiety.
-Good doubts temper an optimistic plan.
-Otherwise (bad) doubts: fuel bad habits and fantasies. like fear, anxiety, and jealousy, reflect overestimations. like narrow-mindedness, reflect underestimations. like distraction and boredom can be: anxiety about your future. discomfort toward present reality or distrust in your past.
-Most of these issues, if deep enough, require therapy.
-Or the {[}intellectual bootcamp{]}.
+You win if:
 
-\hypertarget{the-i.b.c.}{%
-\chapter*{The I.B.C.}\label{the-i.b.c.}}
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  You achieve your step before your deadline.
+\item
+  You are closer to or have more of your priorities.
+\end{enumerate}
+
+Otherwise, you lost time.
+
+In both cases, study to improve your next bet.
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Compare your action to your priorities.
+\item
+  Compare your estimated and actual CHUD.
+\item
+  Revise your priorities.
+\item
+  Start the next bet.
+\end{enumerate}
+
+\section{Cost}\label{cost}
+
+Everything in life costs time or effort.
+You must be in a certain place, take action, and often give up something.
+For example, physical effort or money.
+
+Self is the basic cost of living your life.
+Costs against your priorities are the only bad ones.
+
+Costs only pertain to what actually happens.
+To bet requires estimating costs.
+
+\section{Habits}\label{habits}
+
+Habit is the basic pattern of actions you have taken,
+whether toward your priorities or toward suffering.
+Habit is the rational, descriptive summary of your history.
+Habit serves as the rational prediction of your bet outcomes.
+Regardless of how expensive your habit, a change of habit is always an added and difficult cost.
+That is, unless and until the change becomes a habit.
+
+Suppose in the last 3 days I ate at 9 am.
+If tomorrow is a day like the last three, habit predicts I will eat before 9 am.
+It also predicts that this is the lowest cost action.
+
+\section{Unknowns}\label{unknowns}
+
+Unknowns are all that are fully out of your control (i.e., statistical error).
+For example, planning a drive that doesn't account for a train crossing delay.
+
+Unknowns are the difference between your real and estimated costs and habits.
+Bet to learn them.
+
+\section{Doubts}\label{doubts}
+
+Imagine achieving all your priorities, right now.
+When considering the costs, note to the fears that surface.
+Never mind the world, how are you in your own way?
+These are doubts.
+
+Doubts are reliable patterns of failure.
+See your doubts with curiosity.
+
+For example:
+- self-fulfilled prophesies
+- over- or under-estimating habits
+- anxiety or insecurity
+- distrust in your past
+
+A strong bet is partly made in terms of what you think holds you back most.
+
+\chapter*{The I.B.C.}\label{the-i.b.c.}
 \addcontentsline{toc}{chapter}{The I.B.C.}
 
-\hypertarget{education}{%
-\chapter{Education}\label{education}}
+\chapter{Education}\label{education}
 
-\hypertarget{classroom}{%
-\section{Classroom}\label{classroom}}
+\section{Classroom}\label{classroom}
 
-A classroom is a special case of market and work; the direct and shared exchange of mental work, for the purpose of improving individual pris.
-No one chose to be born. everyone begins life with their own unnamed and unanswered problems.
-Books are an author's answers; they can only tell a student what the answer is not (quite).
+\textbf{Definition:} A classroom is a special case of market and \hyperref[work]{work}; the direct and shared exchange of \hyperref[analysis]{mental work}, for the purpose of improving individual \hyperref[priorities]{priorities}.
+
+No one chose to be born.
+Everyone begins life with their own unnamed and unanswered problems.
+Books are an author's answers.
+They can only tell a student what the answer is not (quite).
 Instead of teaching how to read between the lines, let the student define the problem through their reality and life goals.
 Let them write the plan and teach them only what is needed to succeed.
 Imagine a perfect course exists, designed to teach you to fulfill your specific ambitions.
@@ -783,11 +736,10 @@ Every aspect of what you need to know, that is known and communicable, is the on
 Everything that cannot be known but must be discovered or practiced, is laid out as a set of instructions, described in the words that maximize the learning opportunity, and your progress.
 Rather than a course in a classroom, the perfect class is a manual to reference as you live your life, or at least until you've internalized its contents:
 When to take a break to strategize your decisions, lessons on what opportunities to watch for and resist, and so on.
-Any social role you wish to take on, artist, engineer, therapist, insurance salesperson, reliable partner, is customized intimately, curated perfectly for what you need.
-Any rltp or interpersonal skill that is realistically possible for you is preceded with the guidance and education that prepares you emotionally to choose the right experiences that set you up to be most likely to find and make the most of opportunities to share yourself with another.
+In this book, any social role you wish to take on, artist, engineer, therapist, insurance salesperson, reliable partner, would be customized intimately, curated perfectly for what you need.
+Any relationship or interpersonal skill that is realistically possible for you is preceded with the guidance and education that prepares you emotionally to choose the right experiences that set you up to be most likely to find and make the most of opportunities to share yourself with another.
 
-\hypertarget{prompt}{%
-\section{Prompt}\label{prompt}}
+\section{Prompt}\label{prompt}
 
 Is there a better version of you?
 Are you capable of moving toward it?
@@ -795,19 +747,27 @@ Are you ready?
 If your answers are yes, then you are a student. to live a better life, you will commit to change your actions.
 First, you will learn what changes are needed.
 
-\hypertarget{admission}{%
-\section{Admission}\label{admission}}
+\section{Admission}\label{admission}
 
 This is a boot camp whose purpose is
-To train adults to think harder, clearer and more effectively.
-To produce intelligent solutions for personal and social puzzles.
-To have a higher cognitive discipline.
-To instill shared cake about reason, thinking and discourse.
-To empower.
+
+\begin{itemize}
+\tightlist
+\item
+  To train adults to think harder, clearer and more effectively.\\
+\item
+  To produce intelligent solutions for personal and social puzzles.\\
+\item
+  To have a higher cognitive discipline.\\
+\item
+  To instill shared cake about reason, thinking and discourse.\\
+\item
+  To empower.
+\end{itemize}
+
 It is a training program designed to break down bad habits of thought, and build good ones while immersed here, a culture of rational thinking isolated from the outside world.
 
-\hypertarget{challenge}{%
-\section{Challenge}\label{challenge}}
+\section{Challenge}\label{challenge}
 
 Here you will relentlessly confront your ideas about the world, with instructors drilling intellectual skills (writing essays, arguing for ideas, and developing proposals for action).
 You will be trained to move toward your goals with focus, even in the face of perceptual, physical, or emotional distractions.
@@ -817,10 +777,9 @@ You will also learn a code of behavior for being a community leader,
 Collaborating or competing with an irrational world.
 The central requirement for applicants will be a commitment to better understand the self and world.
 
-\hypertarget{student}{%
-\section{Student}\label{student}}
+\section{Student}\label{student}
 
-Students are ppl with ideas from experience toward selfish goals.
+Students are people with ideas from experience toward selfish goals.
 Lessons depend on students' prior knowledge.
 A student
 Has a goal that can be better named and planned.
@@ -834,26 +793,25 @@ The strength needed to take the right steps and make a habit of
 Keen eyes to estimate the destination and correct course, and
 A focused mind to steady the foot.
 
-\hypertarget{consent}{%
-\section{Consent}\label{consent}}
+\section{Consent}\label{consent}
 
 This is an in-person immersive experience.
 You only really learn what you need to know to be who you really want. you won't learn unless you cannot escape needing it; in a dedicated environment that fosters acquisition, minimizes interference.
 Whether you're here for the 7- or 30-day experience, you will work hard every minute.
 For every minute of lesson on my time, students are to provide two minutes of writing, either toward others' learning or in direct application toward their goal.
 
-\hypertarget{course}{%
-\section{Course}\label{course}}
+\section{Course}\label{course}
 
 Dedicate to identity growth. Be:
 
 \begin{verbatim}
-1. Quiet, except when tasks require verbal response.
+1. Quiet except when tasks require verbal response.
 2. Receptive to work and feedback provided by the instructor.
-3. Committed to producing genuinely inspired ideas, working
-4. Respectful that all are equal in voice, and aim to describe
-5. Receptive and responsive to prompts and observations (from peers
-6. Motivated to describe solutions that benefit others, when
+3. Committed to producing genuinely inspired ideas, working.
+4. Respectful that all are equal in voice and ear.
+5. Receptive and responsive to prompts and observations.  
+6. Motivated to describe solutions that benefit others.  
+
 Learn:  
     1. Precisely and only what is needed to trust a clear picture of  
     2. First, how to make a plan, a map of who you are, and who you  
@@ -864,8 +822,7 @@ This will be the beginning of change, and the first test of your commitment.
 Your performance is evaluated simply: whether or not you
 end up eating, sleeping, thinking, talking, and acting differently.
 
-\hypertarget{think}{%
-\section{Think}\label{think}}
+\section{Think}\label{think}
 
 Think, student.
 Do not take notes, simply pay attention.
@@ -875,8 +832,7 @@ Our goal here is thinking. thinking happens in your heads.
 Right now your job is to think about the truth you see in what i say.
 A student has two actions to think: read and write.
 
-\hypertarget{read}{%
-\section{Read}\label{read}}
+\section{Read}\label{read}
 
 Read, student.
 A reader is a listener and observer.
@@ -891,8 +847,7 @@ The clock is a cue to think.
 When it goes off, get back on task.
 The clock will babysit your unreliable attention.
 
-\hypertarget{truth}{%
-\section{Truth}\label{truth}}
+\section{Truth}\label{truth}
 
 Your goal in reading is to isolate the truth from the lie.
 Try reading this sentence:
@@ -908,7 +863,7 @@ Becoming smart is the discipline of understanding how you relate to others.
 When reading, dismiss only what you fully believe is an intentional lie.
 More generally, read to assess your bet on the words reflecting truth.
 Whether to a single word, a line, chapter, or book.
-Assign weights (0 to 9) to what you read, to complete this prompt:
+Assign weights (0 to 9) to what you read, to complete the following prompt.
 I bet this is true for:\\
 0 = not even the author.\\
 1 = only the author.\\
@@ -917,8 +872,7 @@ I bet this is true for:\\
 9 = us and about 90\% of everyone else.\\
 For every assertion and assumption you read, begin assuming it is a ``9'', working backwards according to evidence you hold.
 
-\hypertarget{lesson}{%
-\section{Lesson}\label{lesson}}
+\section{Lesson}\label{lesson}
 
 The following mini lesson illustrates the risk at hand--involuntary comprehension, and the benefit at stake from deliberate reading.
 Consider the following quote, ``change your thoughts to change your life.''
@@ -931,28 +885,25 @@ The statement is the core assumption to this book, and any psychological theory.
 For example, freud's talk therapy was, in his time, the radical idea that words could fix ppl.
 Therefore, do not waste the opportunity to consider a truth that could change your life by failing to entertain a simple assumption.
 
-\hypertarget{say}{%
-\section{Say}\label{say}}
+\section{Say}\label{say}
 
 How will your life look if you put it on paper? Like a bunch of words.
 How do you change it? By deleting the words with lies, and replacing them with better words.
 The right words will change your actions and your life. to live a better life, starts with your words.
 In order to do something about thoughts, we need to think on paper. {[}you'll write a lot. you'll delete a lot. you'll get good at writing.{]}
 
-\hypertarget{write}{%
-\section{Write}\label{write}}
+\section{Write}\label{write}
 
 Bet on words. a writer invests time and energy to map feelings onto words.
 Good writing is discovering, curating, and applying insight. bad writing has an author; ad hominem.
 Revisions also make you a writer. when you revise words (yours or others') to maximize your bet, you are a writer.
 Separate thought and self (author), by betting explicitly.
 State your assumptions, do not justify them. -is-style-bad
-Replace ``i am.'' with tag words.
+Replace ``I am'' (i.e.~authorship) with tag words to denote your audience (e.g., veteran).
 Strive for comm-content and brevity; write only valuable bets, or words that manifest valuable bets. prioritize understanding over original writing.
-Writing for lib-ppl, relatable, depersonalized, objective words, minimizes rot, maximizes plan utility.
+Writing for \hyperref[library]{people}, relatable, depersonalized, objective words, minimizes rot, maximizes plan utility.
 
-\hypertarget{instructor}{%
-\section{Instructor}\label{instructor}}
+\section{Instructor}\label{instructor}
 
 I am an instructor, a guardian of true ideas and writer of a general plan (this book).
 An instructor reads, and enforces bets on links toward a plan.
@@ -962,8 +913,7 @@ Read for cognitive biases, illogical appeals, and imprecise
 Reward arguments based on (truth:) reality, self, and cake.
 Reward ideas shared (vs kept).
 
-\hypertarget{answer}{%
-\section{Answer}\label{answer}}
+\section{Answer}\label{answer}
 
 Which lines from this book would you {[}bet on{]}{[}how to read{]}, written as-is, or revised for you?
 Assign 100 dollars (total) to those lines according to their relative impact, and you are an ibc student; an author of shared truth.
@@ -979,147 +929,150 @@ High scores are on the acknowledgements page.
 This is the process and meaning of reader and writer; bound directly to material and action, irl.
 Whereas the exchange of money incentivizes the revision of truth, the content itself would be the premise to the next book, {[}the answerword{]}{[}the answerword{]}.
 
-\hypertarget{words}{%
-\chapter{Words}\label{words}}
+\chapter{Words}\label{words}
 
-\hypertarget{cognition}{%
-\section{Cognition}\label{cognition}}
+\section{Cognition}\label{cognition}
 
 Words describe the world and its conditions.
-This chapter is about problems and answers regarding the act of describing, itself:
-Words said do not usually reflect what ppl want or need.
-By engaging the gap between words and reality, you increase
-Better words mean more practical understanding and expectations,
-The capacity to make a concrete plan for achieving your goals.
-This will include healthier comm and rltps.
-A community with better words has clearer idea sharing,
+Each word is a bet about how the world is or can be,
+and by extension, the use of words can be improved.
+Better words means:
+- more practical understanding and expectations.
+- better bets.
+- healthier communication and relationships.
 
-\hypertarget{bet-problem}{%
-\section{Problem}\label{bet-problem}}
+\section{Bet}\label{word-bet}
+
+A word is a bet.
+Good words advance good bets.
+
+Words cost almost nothing but a fraction of a second to make or hear.
+Reading, thinking, saying, and writing a word perpetuates that word's idea over others, either moving you toward a goal, or your habit.\\
+Words said and heard impact both parties' beliefs and behaviors.
 
 Speaking your mind is difficult to do accurately.
-A memory system dealing with language is tasked to translate thoughts into the right words from tens of thousands. it is prone to inaccuracies.
-Similarly, a listener focused on comprehending, is not likely to monitor all the incidental priming effects of words on a memory system.
-Words said and heard impact both parties' beliefs and behaviors.
-Saying words or hearing and understanding a word is a very small physical action, to describe real actions and consequences.
-The issue is that words can be more and less right, more and less helpful, and without intervention, it is very difficult to know how much this is true in any example of word use.
-Bad words keep chud expensive and waste time.
-The cost of an individual word is tiny, but we say tens of thousands per day (levelt).
 
-\hypertarget{word-bet}{%
-\section{Bet}\label{word-bet}}
+Words are good when they prevent or improve actions you would've taken otherwise.
+Unfortunately, the norm for unproductive words is tens of thousands per day.
+For example, the words in every ad not aligned with your priorities, or thought about a celebrity you will never meet.
 
-A good general bet about words is to begin assuming every word is a bet on hypotheticals, which can be true (reality) or false (fantasy).
-A plan is a bet on a winning arrangement of words that result in the goal.
-Reading, thinking, saying, and writing a word perpetuates that word's idea over others, either moving you toward a goal, or your habit.
+\section{Simulation}\label{simulation}
 
-\hypertarget{simulation}{%
-\section{Simulation}\label{simulation}}
+To make good words, understand their unique power.
+A word's power is in narrowing attention in infinite ways.
+To reliably narrow, a word requires a definition.
+A definition is a generalization which depends on examples.
+Careful, good words efficiently isolate and simplify alternative choices.
+Bad words bring attention to irrelevant generalizations.
 
-Words efficiently simulate possible worlds. you can think through far more situations with words, than you can (or should) act out.
-Your goals can be described in words, and words can be easily crossed out and revised.
+A word is good when it leads to better actions.
+Therefore, use words to simulate and find such improvements.
+You can think through far more than you can act out.
+
+Words can be easily crossed out and revised.
+
 Good words maximize productivity of thought, move you beyond pitfalls of chud, direct attention to pris, and predict reality; improve decisions and make you smarter.
-By thinking about all words you experience (lib), you can take control to limit your word use toward more productive ones, improving read and write decisions, increasing focus and time for goals.
-Sim is the act of iterating between write and read, to evoke and name the optimal, held bet. tour sim is not constrained by irl, but your picture of irl, and your sim goal is to capture the picture true to your chud estimate.
 
-\hypertarget{it}{%
-\section{It}\label{it}}
+Simulation is the act of iterating between write and read.
+Word meanings are not limited to reality, but your imagination.
 
-It caused you to name in the first place. this cause is ``it''. good-ref is giving the best name for our desired comm.
-For example, consider that during my 9:00am appointment with you, I yawn while you are talking.\\
+\section{It}\label{it}
+
+It (i.e., ``reference'') is the idea words attempt to bring attention to.
+For example, consider this scenario:
+
+I wanted to sleep until 9:30 A.M.
+I also wanted to know how you are doing.
+At 9:00 am you call me and begin to tell me how you are doing.
+I yawn.
 You say, ``I must be boring you.''
-``it'' is the following circumstance I want to convey:
-I woke at 8:30 A.M.,
-I wanted to sleep until 9:30 A.M., and
-I want to hear what you were going to say.
-Each of these (below) are slightly different refs, ways to say ``it'', ranked from most to least awe:
+
+Each of these (below) are words to say ``it'', ranked from best to worst:
 
 \begin{verbatim}
 1. You're not, please continue.  
 2. No, I'm tired.  
-3. No, I woke early.  
+3. No, I woke too early.  
 4. Don't make assumptions.  
 5. I'm not.  
-6. "I woke at 8:30am, but wanted to sleep until 9:30am, so I think  
-7. "I yawned because I am tired. I can see why you thought I was   
-8. (Nothing)  
+6. I woke at 8:30am, but wanted to sleep until 9:30am, so I think I yawned because I am tired. I can see why you thought I was bored.   
 \end{verbatim}
 
-All of the refs above combined suggest the ``it'' you want to convey.
-A good-ref is the one that uses truth to focus and advance communication.
-Below are the ref attributes that make each choice unique (and less good).
-Give a simple reason to return to communicating (example 1 above).
-Does not add to comm-pri nor return to it. 3-`early' may not be true.
-Focus on others' mistake and issue a command.
-Begs the question.
-Focus on the distraction.
-Focus on the distraction and makes the same kind of ref which the other did and which caused the confusion.
-This can be anywhere in the list including 1, depending on what you do or say next.
+Good words are ones that uses truth to focus and advance communication.
+Below are properties that make each choice unique (and less good).
 
-\begin{itemize}
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
 \tightlist
 \item
-  1: you or the other return to comm-pri without ever returning to this interruption.
+  Gives a simple, informative reason to return to communicating.
 \item
-  4: it reduces the number of words said before returning to comm-pri.
+  Does not add or return to communication priorities.
 \item
-  8: the distraction is remembered, and mentioned again, later.
-\end{itemize}
+  May not be relevant or true.
+\item
+  Focuses on others' mistake and issues a command.
+\item
+  Begs the question. I.e., ``Then why did you yawn?''
+\item
+  Focuses on the distraction and makes the same kind of ref which the other did and which caused the confusion.
+\end{enumerate}
 
-Let this characterize the problem and approach, and i will end with a few primary objectives, besides.
-Good-ref is a plain idea or link.
-If ``good-ref'', the idea, crosses your mind while considering
-Decide and say ref within a few seconds, rather than thinking
-Best-ref is possible, but requires extra thinking to know the
-In use, this means quickly name the relevant links, and estimate
-In our example of the facts, above,
-1 is not obvious and adds little to 3.
-5 is the comm-pri, and 4 is the cause, but not it in what you
-2 and 3 are it, and specifically, the link between them.
-Unless you are a recruit, to go any further will usually not be worth the cost. to go further is to specify what kind of link is between the two. want is hype, etc.
-Good-ref is ``new'' vs given.
+\section{Write}\label{word-write}
 
-\hypertarget{word-write}{%
-\section{Write}\label{word-write}}
+When you have good words to indicate It, do not hold out for better words.
+Quickly name the relevant links for It and estimate the loss.
+Repair your words only when they pose a problem to the communication priorities.
 
-Speak, write, initiate or respond only in limited duration and words dictated by intended outcome.
-Use words empirically, with a comparison group (vs) and quantity in mind.
-Ideas are more important than authorship.
-Do not use a word that is more of a lie.
+It, and the actions behind it are more important than who said what (i.e., authorship).
 Say the truth or be quiet.
+Resist and ignore politeness and impoliteness.
 Use words for decisions, not emotions.
-Use words to facilitate pris. do not write plans you won't follow.
+Use words to facilitate priorities.
+Do not write plans you won't follow.
+Words without plans are fantasy and entertainment.
+To choose words is to not choose to take action in your life.
 Stop talking when action (or listening) is needed.
 
-\hypertarget{word-read}{%
-\section{Read}\label{word-read}}
+\section{Read}\label{word-read}
 
-Read when you need to learn or connect.
-Limit duration/words needed to assess consent.
-Distrust ego, and take nothing personally
+Read when you doubt options available for actions you will take.
+Limit the duration or words needed to assess consent. (?)
+Distrust ego, and take nothing personally.
 Investigate the empirical cake of words.
-Revise to believe, and revise plans into ones you'd follow.
-Remove / ignore style.
-Assert boundaries against exaggerated words or unreliable ones.
+Ignore style.
+Do not let others' words abuse your time or understanding.
+Assert boundaries against exaggerated or excessive words.
 
-\hypertarget{word-example}{%
-\section{Example}\label{word-example}}
+\section{Example}\label{word-example}
 
-A description of the kinds of simulation a word can make, and the kinds to prioritize.
-An example is an individual, particular event or object, of reality.
-An example with consequence is a use-case.
-An example in-principle is a hype (hypothetical/hype).
-In comm, examples are described per the criteria that might
-Words are one of two types:
-Links: words that give relationship between examples, ideas,
-Ideas: words that refer to examples.
-An idea is a set of criteria that link examples as similar (vs
-The most basic idea classifies examples as a or not-a. ``blue'' is
-Good ideas group examples in a way that directs attention toward
-The right link between ideas is the foundation of every thought,
+The real world is particular; each experience is an example.
+A word describes a set of similar experiences.
+1. WORDS are never definite and certain in what they describe of the real world.
+2. A WORD's definition is a generalization.
+As such, words are
+1. less precise than reality.
+2. better designed to hypothesize and predict.
 
-\hypertarget{hype}{%
-\section{Hype}\label{hype}}
+All words take their meaning from an average of examples.
+It is an example.
+An example is one event or object.
+Examples can be real or imagined.
+A Use-Case is an example taken from a real experience.
+A Hypothetical (Hype) is an example in-principle.
+
+\section{Meaning}\label{meaning}
+
+Words direct attention in one of two ways:
+Links are words that give relationship between two directions of attention.
+Ideas: words that refer to examples,
+An idea is a set of criteria that link examples as similar (vs different).
+The most basic idea classifies examples as ``It'' or ``not It''.
+For example, ``blue'' is simultaneously a specific color and not other colors.
+
+Just as costs are only bad when misaligned with priorities, words are only bad when misaligned with It.
+
+\section{Hype}\label{hype}
 
 Hype vs use-case guides what and if to write. a goal is a named hype. good hype are worthwhile goals, sub-goals, or alt plan actions to consider. don't write hype without a bet.
 As all words should be toward pris, there are three general modes of pri words:
@@ -1127,8 +1080,7 @@ H0 = history. habit is to history as action is to doc. good
 H1 = plan (pri.txt, proj\_doc.txt)
 H2 = doubt especially for bet.
 
-\hypertarget{word-alternatives}{%
-\section{Alternatives}\label{word-alternatives}}
+\section{Alternatives}\label{word-alternatives}
 
 Alts are any idea which measurably deviates a plan, and are defined directly with respect to the target idea.
 For example, bad is an alt to good, as in ``good-vs-bad''.
@@ -1138,8 +1090,7 @@ Alternative actions 4.the goal 5.the relevant chud
 Good goals and their plans are supported by uses from your own history (self-h), and next best is norm or others' use or data that generalizes.
 For example, a plan for a similar goal has previously succeeded.
 
-\hypertarget{letters}{%
-\section{Letters}\label{letters}}
+\section{Letters}\label{letters}
 
 Mnemonics are letter memory aids.
 Reducing a word to a letter increases cognitive efficiency, as long as that letter stands for an idea you will frequently encounter.
@@ -1155,8 +1106,7 @@ These letters illustrate kinds of word usage (not exhaustive):
 \texttt{v} version / revise\\
 \texttt{vs} an alternative, sibling of a shared parent category.
 
-\hypertarget{notes}{%
-\section{Notes}\label{notes}}
+\section{Notes}\label{notes}
 
 Good notes clarify pri (content) within bets from secondary ones.
 In a doc, par is a grouped set of words roughly equivalent to a complex sentence.
@@ -1172,16 +1122,14 @@ Double linebreak ends the local tree.
 When word order is a left-to-right walk of a right-branching syntactic tree, sentence can be written in lines of random lengths, and read equally as unambiguously.
 Restrict reference and vocabulary to simple- or plain- english to reduce amibiguity.
 
-\hypertarget{transparency}{%
-\section{Transparency}\label{transparency}}
+\section{Transparency}\label{transparency}
 
 Make folder and file names i-goals as transparent as possible imply or reveal its (hidden) members.
 Promote or consolidate high frequency items or only-childs.
 For example: \texttt{ppl-work\ -\textbackslash{}\textgreater{}\ work\ -\ self-home\ -\textbackslash{}\textgreater{}\ home}
 When creating or reusing a word for new applications, this principle should be a factor.
 
-\hypertarget{recipe}{%
-\section{Recipe}\label{recipe}}
+\section{Recipe}\label{recipe}
 
 A recipe is one of the best ways to arrange plans.
 Lessons and instructions use a recipe format.
@@ -1192,50 +1140,49 @@ Given an idea, estimate relevance to pris, problems, undeveloped plans, and self
 Keep docs short enough that the title and content address only one thing.
 Save selectively and delete frequently.
 
-\hypertarget{document}{%
-\section{Document}\label{document}}
+\section{Document}\label{document}
 
 A word is a doc when it is saved with a name, at least once.
-Word is to a good doc (for example, a resume), as action is to
-Notes are words for comm.
-To a bad doc, a word (for example a diary entry) is to an
-Lib is what words to save.
-Revision is words for pris.
-Introduce ideas in unambiguous terms.
-Introducing a new topic, provide a succinct, distinctive
-Then describe the link with a taxonomic reference, as follows,
-Illustrate the link.
-At a micro-scale, every dash itself is a link.
-The pri for the reader. answer: what are the fewest words to
-For example, in the taxonomy, ``psych-teach-2021-unit4'' the three
-The most similar and relevant concepts to most distinct,
-The left-most word will be either implied or actual chapter
-All science that is not directly relevant elsewhere, will fall
-The remaining chapters deal with modes on these basic sources:
-In the example above, psych might fall under self-body,
-The link is the decision of the sentence that requires the most
-Named links are actions.
-Over-spelling the ideas leaves an empty link, e-``do\ldots(the
-In instr, the link comes last, and it describes a step in
-Contextualize with an alternative
-A plan should inherit or give definitions of new terms.
-New definitions should especially be accompanied by a true
-A pri is the motive for life, and itself is only a named
-A developed pri is an instruction.
-One generalized is a lesson.
+Notes are words for communication.
 
-\hypertarget{scientist}{%
-\section{Scientist}\label{scientist}}
+Introduce ideas in unambiguous terms.
+Introducing a new topic, provide a succinct, distinctive illustration of the point or merit, \emph{in the verbiage you will most likely understand}.
+then describe the link with a taxonomic reference, as follows, where each idea read left to right is a type of or label for the preceding category, implying alternatives at each level.
+e-psych-teach-2021-unit4-hw-methods\_report-intro ``for this assignment, consider your grandparents.''
+
+latter ideas qualify the topic, psych. the order of terms from left to right should closely correspond to the order of relevant conditional differences that determine: the reader's priorities.
+In the fewest words, help a reader know a topic is irrelevant or truly beneficial?
+
+the most similar and relevant concepts to most distinct, rare, and particular to what is being described.
+the left-most word will be either implied or actual chapter headings.
+
+the link is the decision of the sentence that requires the most care.
+it is simply a bridge, and as such has a basic and plain function.
+named links are actions.
+over-spelling the ideas leaves an empty link, e-``do\ldots(the
+trash)'' consider what is the manner of spending time, if an
+action, to ascribing your link. consider the specific change
+being undertaken. some actions: take, give, make, buy, sell,
+use/eat, work, write, read.
+- notice these are all verbs of transfer.
+in instr, the link comes last, and it describes a step in revision.
+contextualize with an alternative
+a plan should inherit or give definitions of new terms.
+new definitions should especially be accompanied by a true use-case, to protect against a false problem.
+a pri is the motive for life, and itself is only a named spending of time.
+a developed pri is an instruction.
+one generalized is a lesson.
+
+\section{Scientist}\label{scientist}
 
 A scientist works to win bets against the unknown. they are a professional writer, evaluated on two metrics:
 For their new content.
 The net benefit on goal outcomes.
 A scientist-researcher is a writer, a data-collector and hypothesis tester.
-A scientist-scholar is a reader, curating toward theory development and comm.
+A scientist-scholar is a reader, curating toward theory development and communication.
 More will be said about scientist more broadly. here we focus strictly on the aspect of a scientist which is to develop the description of the world, properly.
 
-\hypertarget{framework}{%
-\section{Framework}\label{framework}}
+\section{Framework}\label{framework}
 
 Framework (frame) is a cluster of definitions.
 What metric can be used to compare and test bets on words?
@@ -1243,8 +1190,7 @@ Such a metric requires a general framework for cognition.
 This is that general framework.
 Just as a child learns skills from ``put it in the box'' to ``put it together,'' and ``solve the problem you creatively set up to solve the impossible,'' so too the highest cognitive function --these days a cooperative one beyond the speed or control of any individual-- deserves treatment of its abilities and applications in order of processing difficulty and utility; utility in contributing to itself however it sees fit, but especially in its allocation of finite resources.
 
-\hypertarget{word-theory}{%
-\section{Theory}\label{word-theory}}
+\section{Theory}\label{word-theory}
 
 \[ h1 where p = cognition, good.p = p(wit.goal.sort|pri) \]
 Cognitive acts should be engaged in as a pyramid of levels (like food pyramid), number of tasks (width of level).
@@ -1266,11 +1212,25 @@ Task-level and task-count
 For example, 3 levels starting at 10-count, reducing by 2
 The goal of sim is to maximize a bet you take (e.g., vs defining
 
-\hypertarget{change}{%
-\chapter{Change}\label{change}}
+\chapter{Change}\label{change}
 
-\hypertarget{revision}{%
-\section{Revision}\label{revision}}
+\section{Change}\label{change-1}
+
+Change can be good or bad.
+Change is always different.
+Good change is revision.
+The need for change is dictated by, and specific to priorities.
+
+\section{Reason}\label{reason}
+
+The habit of change is good to maintain.
+Sometimes the change needed next is unclear.
+Both of these are reasons for this section.
+This section develops kinds of change that are often if not always relevant, regardless of priority.
+
+Lines of reasoning
+
+\section{Revise}\label{word-change}
 
 Neutrally, a WORD may be replaced by another. As a process which takes effort, do so to improve, and we will call it REVISION. REVISION is the change of WORDS to improve actions of yourself or others.
 REVISION is how we know reflection is happening, described here in VERSIONS (v\#) of a response.
@@ -1297,8 +1257,7 @@ For example, consider the following revisions (v1-3) describing this brief argum
 
 The example aims to illustrate revisions which increase the amount of responsibility, control, and preventable future behavior on part of the writer, without much change in WORD count.
 
-\hypertarget{change-plan}{%
-\section{Plan}\label{change-plan}}
+\section{Plan}\label{change-plan}
 
 Good revisions better describe what we know to have happened, and predict what will happen (again).
 Reality is what determines whether each version is better.
@@ -1311,8 +1270,7 @@ If your goal deals with different assumptions about the truth, change the prompt
 3.  Do not change the prompt so you can be lazy.
 \end{verbatim}
 
-\hypertarget{think-1}{%
-\section{Think}\label{think-1}}
+\section{Think}\label{think-1}
 
 Elsewhere, we will establish variations on ultimate questions.
 One variant is the superlative presupposition, which becomes an imperative (plan).
@@ -1321,8 +1279,7 @@ As compliment, all words can be seen as an answer to this question (good or bad)
 Supposing just as questions can be revised to their superlatives, we don't bother to ask them, and focus on the superlative of answers.
 Thus is an example basis of good revision: to bring the particular apprehension to a universally relevant call to action, responding to the implied imperative of all questions, ``think.''
 
-\hypertarget{change-plan2}{%
-\section{Plan}\label{change-plan2}}
+\section{Plan}\label{change-plan2}
 
 The goal of words is to express ideas of maximum cake tomorrow.
 Since few words meet these criteria, start by revising toward fewer words.
@@ -1341,14 +1298,12 @@ Precision depends on purpose.
 When reflecting, reflect only on ``how can i help my future self?'' And impose time and word limits.
 A bad doc is stream-of-consciousness.
 
-\hypertarget{prompts}{%
-\section{Prompts}\label{prompts}}
+\section{Prompts}\label{prompts}
 
 Prompts elicit conflicts (truth) between self and norm, to improve plans for your goals.
 Time and word limits work together to encourage a balance between reflecting on truth and describing it.
 
-\hypertarget{word-limit}{%
-\section{Word Limit}\label{word-limit}}
+\section{Limits}\label{limits}
 
 Word limits combat needless words and distracting tangents. a word limit keeps your attention.
 A word limit is a proxy for a prompt's complexity.
@@ -1357,15 +1312,11 @@ Good word limits require cutting out unhelpful words, change figurative words to
 For every plan you make: assert a word limit before writing to be reminded of your initial intentions, and be challenged to express ideas clearly. become skilled at using only the fewest words necessary, to reveal and clarify cake.
 If you exceed the limit and there is no end in sight, stop and reassess.
 
-\hypertarget{time-limit}{%
-\section{Time Limit}\label{time-limit}}
-
 Combined with the word limit, the time limit dictates how precise your words should be.
 Use extra time to improve word choice.
-For example, given a 50-word limit, 1 minute (1m, 50w) encourages free writing with minimal restrictions on quality of thought, while 4 minutes encourages more careful selection of words.
+For example, given a 50-word limit, 1 minute (1m, 50w) encourages free writing with minimal restrictions on quality of thought, while 4 minutes to produce 50 words encourages more careful selection of words.
 
-\hypertarget{lessons}{%
-\section{Lessons}\label{lessons}}
+\section{Lessons}\label{lessons}
 
 Lessons are an ordered set of prompts, usually three to four, up to 60 minutes and 250 words. a prompt's word count is the number of words to be added to your document.
 Lessons target inconsistencies between reality and pris.
@@ -1374,86 +1325,69 @@ A 0w prompt means revise, but do not increase the word total.
 The first prompts in lessons are warm-ups to direct your attention. they ask for names of ideas.
 The remaining prompts are for thinking, requiring you to make links between your warm-up ideas. done right, you will face some new truths.
 
-\hypertarget{peer}{%
-\section{Peer}\label{peer}}
+\section{Peer}\label{peer}
 
 Peer revision is a powerful learning tool. get answers from others.
 Forget who provides revision and how much.
 The peer writer has uncompromised objectivity, and liberty to employ truth, however ``harsh''.
 
-\hypertarget{communication}{%
-\chapter{Communication}\label{communication}}
+\chapter{Communication}\label{communication}
 
-\hypertarget{comm-pitch}{%
-\section{Pitch}\label{comm-pitch}}
-
-Consider you meet someone in the woods, and have only 1m (approx.
-Pri-comm is the difference between your and norm-pri, especially that what your food and cake are and why.
-W) to say the most essential thing.
-Say:\\
-1. properties of the answer, not knowing it,
-2. an answer for purposes of improving on it.
-These properties are the properties of {[}sr{]}{[}skilled reflection{]}:\\
-1. comparable constraints to establish a reliable subjective
-experience.
-2. until we have a measurable SELF and variation, share the SELF
-that is CAKE, in 250w.
-
-\hypertarget{comm-problem}{%
-\section{Problem}\label{comm-problem}}
+\section{Pitch}\label{comm-pitch}
 
 Communication happens from one being to another.
-The function is to direct attention to a circumstance of high importance: sharing information.
-For example, the vervet screech that specifically means, ``snake''.
-While the vervet makes or hears calls about threats of immediate, nearby importance, the breadth of human communication can direct attention to circumstances of distant places and times.
-This is an echo of the breadth of attention and information humans engage. for some reason entangled between information, sharing it, there is subjectivity of importance.
-The consequence is ambiguity in the value of a communicative act.
+The function is to direct attention, coordinate, or share information.
+Participation is not always simultaneous.
+For example, a traffic sign, rereading your own diary entry, a carefully crafted party invite, or a lease agreement.
 
-\hypertarget{style}{%
-\section{Style}\label{style}}
+Consider you meet someone in the woods, and have only one minute to communicate.
+Communicative priorities are the difference between your and others' priorities, especially regarding food and cake.
 
-Recognition, reading familiar words is easier than retrieval from memory, of words to write. is- savings on revision.
-Only save docs that you bet will be useful enough later to save time, overall.
-Once saved, we assume a doc will be read later, and provide cake. this is the primary type of comm we engage in.
-Comm is the exchange of words from oneself to another. other examples include a traffic sign, something you wrote and are rereading, a carefully crafted party invite, or a lease agreement.
-The goal of comm is to maximize that likelihood, by engaging in the inherent and practical problems that arise.
+Say:\\
+1. properties of the answer, not knowing it,
+2. an answer with the assumption of improving it.
+3. common constraints to establish a reliable subjective
+experience.
+2. what cake defines you (in 250 words), until the self can be measured in its variation from norms.
 
-\hypertarget{comm-comm}{%
-\section{Comm}\label{comm-comm}}
+\section{Style}\label{style}
+
+\section{Communication}\label{comm-comm}
 
 Writing a word creates a static record of a word.
-No person is identical with a future or past self, with any other person, and all of these relationships are in part unknown. ({[}c4.1{]}{[}ppl{]})
-The problem of comm is the difference in meaning between reader and writer of the same word.
+No person is identical with a future or past self, with any other person.
+All of these relationships are in part unknown.
+The problem of communication is the difference in meaning between reader and writer of the same word.
 Even if you wrote the word, your later self may read a different meaning for that word.
-Good comm attempts to systematically reconcile these issues.
-Bad comm takes advantage of them at the cost of clarity and honesty.
-Ppl vary in how they apprehend the world, and therefore they can vary in
+Good communication attempts to systematically reconcile these issues.
+Bad communication takes advantage of them at the cost of clarity and honesty.
+People vary in how they apprehend the world, and therefore they can vary in
 1. Precise understanding of meanings.
 2. Trust (usually writer more than reader).
-The real world is particular; each experience is an example.
-A word describes a set of similar experiences.
-1. WORDS are never definite and certain in what they describe of the real world.
-2. A WORD's definition is a generalization.
-As such, words are
-1. less precise than reality.
-2. better designed to hypothesize and predict.
-To improve comm, study the difference between content and style.
 
-\hypertarget{difference}{%
-\section{Difference}\label{difference}}
+To improve communication, study the difference between content and style.
 
-Pris between ppl (writer and reader) differ.
-Difference in pris alter content of ideas.
+\section{Point}\label{point}
+
+Communication is by default a toward-move between people.
+To say a word is to bet on a priority of potential good for the other person.
+Each response implies consent that communication is worthwhile for both.
+Supposing such a shared priority exists, then the point is rarely less important than manners of conveying it.
+Instead, request a separate conversation where such topics are the point of the conversation.
+
+\section{Difference}\label{difference}
+
+Priorities between people (writer and reader) differ.
+Difference in priorities alter the content of ideas.
 Good style is change in words to minimize change in ideas between reader and writer.
 Versions describe identical content with difference in style between them.
-A plan for a doc is an earlier version of the (same) final doc.
+A plan for a document is an earlier version of the (same) final document.
 For example, you today vs you in five years.
 
-\hypertarget{comm-norm}{%
-\section{Norms}\label{comm-norm}}
+\section{Norms}\label{comm-norm}
 
-Comm norms assume reading and writing have no intrinsic goals.
-A doc's arguments for why to read it are a style called pitch.
+communication norms assume reading and writing have no intrinsic goals.
+A document's arguments for why to read it are a style called pitch.
 Pitch can be accomplished, for example, by
 
 \begin{verbatim}
@@ -1461,89 +1395,157 @@ Pitch can be accomplished, for example, by
 2.  framing attacks as agreeable observations.
 \end{verbatim}
 
-The maximum common self-pris across ppl are the optimal arguments for pitch. e-food vs.~cake.
+The maximum common self-priorities across people are the optimal arguments for pitch. e-food vs.~cake.
 Brand is pitch that distorts truth, a form of bad style.
-For example, consider the goal of describing the properties of \textbf{apples} with the purpose of selling them:
+For example, consider the goal of describing the properties of \textbf{apeoplees} with the purpose of selling them:
 
 \begin{verbatim}
-1.  CONTENT: **Apples are healthy but sugary.**\
-2.  STYLE: **Apples are tasty and nutritious.**\
-3.  BRAND: **Apples are healthy.**\
+1.  CONTENT: **Apeoplees are healthy but sugary.**\
+2.  STYLE: **Apeoplees are tasty and nutritious.**\
+3.  BRAND: **Apeoplees are healthy.**\
 \end{verbatim}
 
 People who do not distinguish food from cake will be persuaded by brand more than pitch.
 
-\hypertarget{library}{%
-\section{Library}\label{library}}
+\section{Save}\label{save}
 
-Lib is the explicit effort to maximize the use of what you write, save, and read, by organizing it for best application, and providing feedback to help your future decisions to write, save, and read.
-The scope of lib is the collection of your words over a lifetime.
-Is post-writing cache to facilitate future production.
-Lib is to docs as home is to possessions.
-Lib aims to maximize the cake of words you save, and ideally, reduce future efforts to plan and accomplish pris, through making the best of your thoughts easy to find.
-A bad lib is the sum of your words, void of curation, none of which helped plans.
+Recognition of familiar words is easier than their retrieval from memory.
+That is, reading is easier than writing.
+Save writing that has potential re-use value.
+Only save documents that you bet will be useful enough later to save time, overall.
+
+To facilitate retrieval:
+
+\begin{verbatim}
+1.  Index (list) documents worth rereading.
+2.  Assign a number that indicates its relative importance (abs or
+    relative weight).
+3.  Add tags and metadata for easier sorting.
+4.  Make and revise only for high-priority GOAL(s). Record and study retrieval patterns.
+\end{verbatim}
+
+\section{Library}\label{library}
+
+A library is the bet that by saving words to be read again later, future priorities are expedited.
+A library is the complete set of documents over your lifetime.
+Say fewer words and save reliable priorities.
+
+A good library is a close approximation of self and informative simulation of alternatives.
+
+The risk of a bad library is:
 
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
 \tightlist
 \item
-  writing, saving, and finding bad docs.
+  writing, saving, and finding documents which mislead instead of help future priorities.
 \item
-  failure to save or find good docs.
+  rewriting an idea that could have been saved and retrieved.
 \end{enumerate}
 
-A good lib is the closest approximation of self.
-Library = sum (goals + plans) / 1
-For learning what you don't know you don't know.
-Potential risks include 40.1. writing, saving, and finding bad docs.
-Plans, and anything else you write down, should be part of a pri.
-Facilitate retrieval:
+Curating and studying your library affords learning what you don't know you don't know.
 
-\begin{verbatim}
-1.  Index (list) docs worth rereading.
-2.  Assign a number that indicates its relative importance (abs or
-    relative weight).
-3.  Add tags and metadata for easier sorting.
-4.  Make and revise only for high-PRI GOAL(s). Record and study retrieval patterns.
-\end{verbatim}
+\section{Reference}\label{reference}
 
-Note the time and date now, as you did in the introduction. graduate
-This is the end of the book.
-Put it in your library.
-Now return to your garden and work on your pris.
+(Reserved for future development.)
 
-\hypertarget{reference-system}{%
-\section{Reference system}\label{reference-system}}
+\section{Answerword}\label{answerword}
 
-Links between words (i.e., citations) are denoted with respect to physical dimensions.
-
-\begin{verbatim}
-1.  Space: this book's chapter and line numbering.
-2.  Time: v2.14 the current book version.
-\end{verbatim}
-
-For example, a document that elaborates about trump would begin titled ``c4.23 v2.14''.
-In version 2.14 of sr, 4 is the chapter ppl, and number 23 is the definition of rltp. Trump, the article topic, is an example.
-This is the header format for any subsequent document of an idea i write.
-
-\hypertarget{answerword}{%
-\section{Answerword}\label{answerword}}
-
-The complete set of ppl's libs is sufficiently exhaustive to describe all that matters in each and all lives.
-The efficiently compressed content of this lib produces a distribution of variation along a median library.
+The complete set of everyone's library describes all that matters in each and all lives.
+The efficiently compressed content of this library produces a distribution of variation along a median library.
 This is the real point of a library.
 
-\hypertarget{zero}{%
-\section{Zero}\label{zero}}
+This is the end of the book.
+Put it in your library.
+Now return to your garden and work on your priorities.
 
-Suppose you don't share the same language. what conventions of gesture, an international gesture meaning, might we have?
+\section{Zero}\label{zero}
 
-\hypertarget{appendix-lessons}{%
-\appendix}
+Also known as Reductio Ad Absurdum.
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Establish all libraries.
+\item
+  Study and adopt their implications.
+\item
+  Transmit culturally.
+\item
+  The known and lived implication of all words makes words obsolete, one by one, until zero words need said.
+\end{enumerate}
+
+\chapter{Self-Guided Lesson}\label{self-guided-lesson}
+
+\section{Expectations}\label{expectations}
+
+This is a subset of the lessons, re-ordered to make for an intense, abridged introduction to the philosophy.
+
+I estimate 2 hours of reading and 5 hours to complete the exercises. As long as you are fully ``present'' for the reading and writing portions, you can expect to do well on it.
+
+In addition to the instructions below, the readings themselves provide guidance on the activities.
+
+\section{Instructions}\label{instructions}
+
+You'll notice that the ``Chapters'' are very short-\/---roughly equal to 1 -- 3 pages of textbook reading, for each, AND in plain language. Do not be deceived; the word choices are very deliberate and should be understood carefully. There is very little style and fluff. Even every example and analogy has an important, central purpose. These concepts are not to be read, but to be mastered.
+
+This activity will require two skills that are ``between the lines''.
+
+First, I'm only assigning parts of the (very short) book, so you will occasionally want to read an unassigned preceding section and/or glossary definitions (in the preface). The second is that, given the ``dense'' style, be careful with reading too quickly just because it is plain English. You might just have to pause to `translate' ideas, and think about why or how something makes sense or is relevant for you. Doing so will make the Lessons much more approachable and beneficial.
+
+However, if you're still confused, email me telling me what you've read and considered along with what you're stuck about and I'll be happy to point you in the right direction!
+
+The lessons are designed to be repeated, so when I'm evaluating it, it matters whether it is your first or second (or 9th) time doing them. Just let me know which version it is, and if you feel necessary, go ahead and share the earlier version(s)---for context. I'll only grade the version you ask me to.
+The lessons are to be completed in order, and normally without seeing questions in advance. Take this as a recommendation---I won't penalize you for reading ahead. However, if you do read ahead do not let yourself be discouraged or try to compensate for the intended structure. Two, you absolutely must stick to the time and word limits, and for each lesson, do it all in one sitting. These restrictions are in place to stop you from over-investing in the activities, or getting overwhelmed by them.
+
+For all of the lessons below, I want you to apply them to your actual here-and-now self, not a hypothetical one. You absolutely may choose what aspect of your real life to engage and disclose, but I would rather hear about your struggles with cooking, than a made up/hypothetical struggle with a roommate. This will require some reframing of the literal tasks to fit your circumstance (this is also described in the reading). As one example, ``Student in School'' will talk about midterms and spring break, which you should reframe as this ``make up week'' and ``summer break''. I've put a few more notes like this alongside the outline, below.
+
+One final caveat: Reading ahead might actually be beneficial before doing any of the exercises. I say this because Part 3's readings (its topic is ``how to read'') could make Part 1 and 2's activities and reading more meaningful/clear.
+
+\section{Part one}\label{part-one}
+
+read chapters:
+0. Preface (Glossary, here, and big picture of what you're learning and doing with this activity.
+1. Introduction
+8. Revisions (The section ``Skilled Reflection'' is instructions on how to read/do the Lessons, below).
+Turn in lessons by Tuesday, Midnight. The first you may do on your own, and the second one you should record and send a link to the recordings for me to review, along with the saved text file(s).
+- Lesson B. ``Define yourself.'' You can skip ``Self-future'', since it might be difficult to follow without more context. The last exercise, ``Self-now'' is one you might want to do twice, or at least note that the time-frame allotted will ask you to move very quickly, and its understandable if the first time through it is a bit rough.
+- Lesson E. ``Self-Testing''. This is a general-purpose study technique, based on research from exam 1, so hopefully you'll find it directly helpful. I want you to record your work on this one. The timing is important, and as mentioned above, totally expected (and intended) that it does not result in a polished product. The doing under specific rules is precisely the merit of the activity.
+
+\section{Part two.}\label{part-two.}
+
+Read chapters:
+2. SELF
+3. Pri.
+5. BET.
+
+These first three chapters are meant to give you the conceptual framework that the next two are based on. The conceptual framework is what you will use to ``translate'' your current life experiences, that are relevant. Pay particular attention to this last chapter, BET, and the section at the end called CHUD and DOUBT. What's between the lines here, is that ``Doubt'', beyond its literal meaning, is the term for any / all psychologically atypical or maladaptive experiences. This will be helpful to keep in mind when doing the relevant exercises.
+Part Two: Turn in Lessons by Wednesday, midnight:
+C. Student in School
+D. DOUBT. For this lesson you may want to take its literal framing, or adapt it to be more relevant to yourself as described above and in the ``Revisions'' chapter.
+You may choose one of these to be the recorded one, and it's up to you.
+
+\section{Part 3}\label{part-3}
+
+Read these parts of Chapter 6:
+6.3 Roles --pay special attention to ``How to Read'' and ``Read PITCH''
+6.4 Line number 1 and 2, which describe an activity regarding ``100 dollars''.
+Turn in this final activity, by Thursday, midnight:
+Read Chapter 7 WORDS and Chapter 9 Communication, and play the ``100 dollars'' game on Chapter 7 and 9. Imagine assigning 100 dollars to the most important numbered lines in Chapter 7 and/or Chapter 9.
+That is, find the lines that you think are most valuable for yourself (according to rules and definitions in Roles), and then decide how much it is ``worth'' out of 100 total points. You can make fractions. Pick at least 10 unique lines from at least 4 different sections, but no more than 50 total lines. No time limit for this. For each line that you pick, write a short sentence (up to 10 words) helping me understand your decision, however you think is necessary.
+
+For example, if I was a risky better and trusted my judgment well, I might say
+- \$30 for Chapter 7-line 4. So many bad arguments assume people say what they mean.
+- \$20 for Chapter 7-line 7. I never regret thinking twice about defining my GOALs.
+- And then split 50 among at least 8 other items in different sections.
+
+None of part 3 needs to be recorded, just share the text file.
+
+\appendix
 
 
-\hypertarget{zero-or-one}{%
-\chapter{Zero or One}\label{zero-or-one}}
+\chapter{Zero or One}\label{zero-or-one}
 
 As a human you are endowed with words.
 Too much so. The pervasive impulsivity of putting-to-words means you are often deprived
@@ -1625,11 +1627,9 @@ How do you feel about
 
 If you wrote 1 for 24, congratulations.
 
-\hypertarget{define-yourself}{%
-\chapter{Define Yourself}\label{define-yourself}}
+\chapter{Define Yourself}\label{define-yourself}
 
-\hypertarget{routine-and-ideal}{%
-\section{Routine and Ideal}\label{routine-and-ideal}}
+\section{Routine and Ideal}\label{routine-and-ideal}
 
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
@@ -1660,8 +1660,7 @@ If you wrote 1 for 24, congratulations.
   in your first response reflect bets you are making against your habits.
 \end{enumerate}
 
-\hypertarget{self-750}{%
-\subsection{SELF-750}\label{self-750}}
+\subsection{SELF-750}\label{self-750}
 
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
@@ -1674,8 +1673,7 @@ If you wrote 1 for 24, congratulations.
   WORDS.
 \end{enumerate}
 
-\hypertarget{self-past}{%
-\subsubsection{SELF-past}\label{self-past}}
+\subsubsection{SELF-past}\label{self-past}
 
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
@@ -1686,8 +1684,7 @@ If you wrote 1 for 24, congratulations.
   they come from?
 \end{enumerate}
 
-\hypertarget{self-future}{%
-\subsubsection{SELF-future}\label{self-future}}
+\subsubsection{SELF-future}\label{self-future}
 
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
@@ -1713,8 +1710,7 @@ If you wrote 1 for 24, congratulations.
   50:50 ends well or in divorce, and 10\% major accident leading to depression.
 \end{itemize}
 
-\hypertarget{self-now}{%
-\subsubsection{SELF-now}\label{self-now}}
+\subsubsection{SELF-now}\label{self-now}
 
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
@@ -1759,11 +1755,9 @@ If you wrote 1 for 24, congratulations.
   commitment to this PLAN.
 \end{enumerate}
 
-\hypertarget{student-in-school}{%
-\chapter{Student in School}\label{student-in-school}}
+\chapter{Student in School}\label{student-in-school}
 
-\hypertarget{part-1-10-year-plan}{%
-\section{Part 1: 10 year plan}\label{part-1-10-year-plan}}
+\section{Part 1: 10 year plan}\label{part-1-10-year-plan}
 
 This is a lesson in curriculum writing.
 Imagine a perfect course exists,
@@ -1775,14 +1769,12 @@ the next 10 years?
 you could work on any part of yourself,
 move toward any goal you want.
 
-\hypertarget{task-1.-3m-40w.}{%
-\subsection{\texorpdfstring{\textbf{Task 1. 3m, 40w.}}{Task 1. 3m, 40w.}}\label{task-1.-3m-40w.}}
+\subsection{\texorpdfstring{\textbf{Task 1. 3m, 40w.}}{Task 1. 3m, 40w.}}\label{task-1.-3m-40w.}
 
 list four goals,
 Each no longer than 10 words
 
-\hypertarget{task-2.-3m-40w.}{%
-\subsection{\texorpdfstring{\textbf{Task 2. 3m, 40w.}}{Task 2. 3m, 40w.}}\label{task-2.-3m-40w.}}
+\subsection{\texorpdfstring{\textbf{Task 2. 3m, 40w.}}{Task 2. 3m, 40w.}}\label{task-2.-3m-40w.}
 
 Your current program requires things your 10 year plan does not.
 Courses impose a number of
@@ -1804,8 +1796,7 @@ most on your mind right now.
 Whether most frustrating, or most critical
 to you, even `impress my professor'.
 
-\hypertarget{task-3.-5m-50w.}{%
-\subsection{\texorpdfstring{\textbf{Task 3. 5m, 50w.}}{Task 3. 5m, 50w.}}\label{task-3.-5m-50w.}}
+\subsection{\texorpdfstring{\textbf{Task 3. 5m, 50w.}}{Task 3. 5m, 50w.}}\label{task-3.-5m-50w.}
 
 Spell out the intersection between the two lists.
 Think of how each goal in the second list
@@ -1818,8 +1809,7 @@ For example,
 1. If I don't get a B, I won't keep my scholarship, and will have to
 get a job which will likely lower all my grades.
 
-\hypertarget{task-4.-15m-100w.}{%
-\subsection{\texorpdfstring{\textbf{Task 4. 15m, 100w.}}{Task 4. 15m, 100w.}}\label{task-4.-15m-100w.}}
+\subsection{\texorpdfstring{\textbf{Task 4. 15m, 100w.}}{Task 4. 15m, 100w.}}\label{task-4.-15m-100w.}
 
 What is the least you can do toward the course requirements and still achieve your long term goals?
 Consider cutting the work from list two,
@@ -1840,8 +1830,7 @@ Examples:
 
 Add 100 more words to your description.
 
-\hypertarget{task-5.-15m-50w.}{%
-\subsection{\texorpdfstring{\textbf{Task 5. 15m, 50w.}}{Task 5. 15m, 50w.}}\label{task-5.-15m-50w.}}
+\subsection{\texorpdfstring{\textbf{Task 5. 15m, 50w.}}{Task 5. 15m, 50w.}}\label{task-5.-15m-50w.}
 
 Negotiate ways to make direct progress on your first list while fulfilling the second list.
 
@@ -1851,8 +1840,7 @@ on ``personality traits of Entrepreneurs.''
 
 Add up to 50 words, and revise.
 
-\hypertarget{part-2-two-week-plan}{%
-\section{Part 2: Two week plan}\label{part-2-two-week-plan}}
+\section{Part 2: Two week plan}\label{part-2-two-week-plan}
 
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
@@ -1915,8 +1903,7 @@ Add up to 50 words, and revise.
   incorporated.
 \end{enumerate}
 
-\hypertarget{lesson-doubt}{%
-\chapter{Lesson: DOUBT}\label{lesson-doubt}}
+\chapter{Lesson: DOUBT}\label{lesson-doubt}
 
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
@@ -1927,8 +1914,7 @@ Add up to 50 words, and revise.
   only you could dream of.
 \end{enumerate}
 
-\hypertarget{task-1.-4m-40w.}{%
-\section{Task 1. 4m, 40w.}\label{task-1.-4m-40w.}}
+\section{Task 1. 4m, 40w.}\label{task-1.-4m-40w.}
 
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
@@ -1943,8 +1929,7 @@ Task 2. 4m, author name, revise.\\
 3. Consider who could write this: a boss, a best friend, a stranger. Add
 an author and revise as needed.
 
-\hypertarget{task-3.-15m-200w.}{%
-\section{Task 3. 15m, 200w.}\label{task-3.-15m-200w.}}
+\section{Task 3. 15m, 200w.}\label{task-3.-15m-200w.}
 
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
@@ -1956,8 +1941,7 @@ an author and revise as needed.
   hear.
 \end{enumerate}
 
-\hypertarget{task-4.-2m-your-name.}{%
-\section{Task 4. 2m, ``your name''.}\label{task-4.-2m-your-name.}}
+\section{Task 4. 2m, ``your name''.}\label{task-4.-2m-your-name.}
 
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
@@ -1980,8 +1964,7 @@ an author and revise as needed.
   Read what you need to hear, in the true leader's voice: yours.
 \end{enumerate}
 
-\hypertarget{task-5.-15m-0w.}{%
-\section{Task 5. 15m, 0w.}\label{task-5.-15m-0w.}}
+\section{Task 5. 15m, 0w.}\label{task-5.-15m-0w.}
 
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
@@ -2002,8 +1985,7 @@ an author and revise as needed.
   give permission to take action.
 \end{enumerate}
 
-\hypertarget{self-testing}{%
-\chapter{``Self-testing''}\label{self-testing}}
+\chapter{``Self-testing''}\label{self-testing}
 
 All of this book is a lesson in simulation,
 because this is a book with words in it,
@@ -2052,6 +2034,158 @@ Add word and time limits for each question.
 \textbf{Task 5. 20-25m.}
 
 Take your quiz.
+
+\chapter{Other Pedagogies}\label{other-pedagogies}
+
+\section{Introduction}\label{introduction-1}
+
+What follows is a bibliography to the educational themes in the main text, most of which are described in \hyperref[education]{Education}.
+
+The Skilled Reflection Plan / Intellectual Boot Camp (IBC) intentionally makes very few references to other work. Loosely, here are the stylistic claims, however a more general argument can be taken from \hyperref[words]{Words} and \hyperref[communication]{Communicaiton}.
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Authorship is an ego-based IDEA that, at best, distracts from the intrinsic right of a reader to adopt and interact with information.\\
+\item
+  Most definitions and descriptions of something novel (e.g., IBC), if compared to the familiar, are confined to be framed in terms of the familiar. References to the familiar might suggest the IBC \emph{builds on} or \emph{contrasts from} and thus is subject to the same assumptions or purposes of other work / projects.
+  Specifically, while IBC is here compared to schools and pedagogies, its core framework is consistent with SR, which aims to empirically (i.e., cognitive science), meaningfully engage all human relationships that rest on information and social capital: therapeutic models, epistemology, phenomenology, ethics and law.
+\end{enumerate}
+
+To highlight similarities and differences with past work is not a guaranteed remedy, would be labor intensive, and emphasizes the past.
+
+Nonetheless, there are also benefits.
+References provide an approximation of IBC's similarity with reality, which argues for proof-of-concept.
+This list excludes mainstream / traditional education models, focusing instead on merits and limitations of alternative approaches to building rational knowledge-bases.
+
+The only requisite assumption of the IBC is that the \emph{student} assumes responsibility (and feasibility) of guiding their learning. All other assumptions are secondary, and subject to empirical testing. This point is re-emphasized at the end of section A. Schools and Pedagogies.
+
+\section{Schools and Pedagogies}\label{schools-and-pedagogies}
+
+Some educational programs prioritize intrinsic motivation and reasoning skills. They are listed here in terms of similarity/value with IBC, followed by differences. These lists are at best illustrative rather than descriptively complete.
+
+\subsection{Fixed content}\label{fixed-content}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\item
+  \href{https://www.sjc.edu/academic-programs}{St.~Johns} (liberal arts college).
+
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii}.}
+  \tightlist
+  \item
+    Similarity to IBC: The program fosters independent critical thinking and close reading.
+  \item
+    Difference: A curriculum emphasizing primary texts of great minds. Students read the Great Books''.
+  \end{enumerate}
+\item
+  \href{https://en.wikipedia.org/wiki/Deep_Springs_College}{Deep Springs} (liberal arts college/community)
+\end{enumerate}
+
+\begin{itemize}
+\item
+  fewer than 30 students
+\item
+  Similarity: academic fundamentals, self-reliance: students work 20hrs a week, and participate in self-governance.
+\end{itemize}
+
+\subsection{Quasi ``Open'' content}\label{quasi-open-content}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{2}
+\tightlist
+\item
+  \href{https://en.wikipedia.org/wiki/Montessori_education}{Montessori}
+\end{enumerate}
+
+Similarity: pedagogy built from intrinsic motivation (curiosity).
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{3}
+\tightlist
+\item
+  \href{https://en.wikipedia.org/wiki/International_Baccalaureate}{International Baccalaureate} (IB)
+\end{enumerate}
+
+``IB learners strive to be: Thinkers, Communicators, Principled, Reflective, Open minded, Balanced, Risk-takers, Inquirers, Caring, and Knowledgeable.''
+
+For comparison using similar themes, an IBC statement in as few words:
+
+Students arrive curious, ambitious. Personal goals sharpen their wits.\\
+They skillfully invest in ideas, communication, reflection, and risks.
+
+\subsubsection{about ``Open'' content programs.}\label{about-open-content-programs.}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Emphasize critical thinking. (All)
+\item
+  Sometimes require intrinsic motivation (1,2) and some foster it (3,4).
+\item
+  Some heavily emphasize reading, requiring a strong capacity for abstraction (1,2).
+\item
+  To some degree, all emphasize a curriculum not defined by the student. For example, ``core skills'', literature, etc.
+\end{enumerate}
+
+Critical thinking and intrinsic motivation are good focal points of an institution. Like (3 and 4), all students have this capacity. What these programs fall short of, to varying degrees, is a strong recognition that the only thing that can be taught is that which the student wants to learn. Any aspect of curricula that is defined by the institution, such as a book to be read, or a concept to be learned, is at risk of failing to harness individual intrinsic motivation. A program that succeeds at teaching a student, is one that begins with the student, before building a curriculum. This is what I call an ``Open'' content curriculum.
+
+\subsection{Value-based programs}\label{value-based-programs}
+
+Some programs are built to guide and frame experience. They may also do some labelling of experience (content), but the pedagogical emphasis is on instilling a value system. These programs tend to offer flexibility for variation in the students' prior experiences and thus motivation, and enable an opportunity for them to adapt their own content. All of these programs offer a value system for deriving content. The basis of these value systems however will vary in terms of it's intrinsic motivation to each individual, and arguably, its empirical basis of deriving values. Strictly speaking, we can say these programs push content much like the first groups. I separate them here, because they are conceptually framed in a way that is very flexible to the changing dynamics of the real world, and the concepts they push are at least somewhat ego-centric.
+
+\href{https://www.landmarkworldwide.com/}{Landmark Forum}
+
+\begin{itemize}
+\tightlist
+\item
+  Emphasizes cognitive bias training, motivational training.
+\end{itemize}
+
+\href{https://strozziinstitute.com/}{Strozzi Institute}\\
+* Emphasizes self-actualization and self-efficacy
+
+\subsection{Other programs}\label{other-programs}
+
+\emph{Monastic traditions} (religious community)
+\emph{Jesuit and/or Buddhist}
+
+\begin{itemize}
+\tightlist
+\item
+  self-sufficiency
+\end{itemize}
+
+\href{https://www.selfauthoring.com/}{Self-authoring} by Jordan Peterson
+(an online only self-paced writing program)
+
+\begin{itemize}
+\tightlist
+\item
+  Critical self-reflection
+\item
+  Self-paced, somewhat one-size-fits all.
+\end{itemize}
+
+\emph{Coding Bootcamps}/\emph{Referral Programs}\\
+These represent the ideal strictly in terms of measurable output, i.e., resume or job-capital. Their downside is cost and inflated self-esteem. Whereas students are taught to trust their ability, they are rarely informed that very little ability is necessary to land a job, which risks mistakened confidence or inflated imposter syndrome once they begin work.
+
+\section{General observations}\label{general-observations}
+
+Here I'll focus on content and value systems. IBC asserts that a value system emerges automatically when a student commits themselves to achieving what they are motivated to achieve.
+
+A ``blank slate'' learning environment is ideal but not realistic. Instead, students begin in a constructed environment that is familiar to their current reality. The instructor facilitates the student's destruction of the environment--either deconstruction of their reality down to a tabula rasa to be re-built again (bootcamp), or to be revised and optimized toward their own desires (skilled reflection).
+
+\section{Ideal Curriculum}\label{ideal-curriculum}
+
+What is a tabula rasa that works for all students? That which is the basis of all problems for all people: the existential facts of self and self-awareness.
+
+All humans must eat, sleep, shit, and die. Students begin with a curriculum that forces them to experiment on these facts of life with the goal of gaining more out of life. If you've read the book, this should sound familiar. The answer to an ideal curriculum begins with Chapter one: \hyperref[self]{The Self}, and proceeds accordingly.
 
   \bibliography{book.bib,packages.bib}
 
